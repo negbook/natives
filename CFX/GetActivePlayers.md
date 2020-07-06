@@ -8,11 +8,11 @@ apiset: client
 object GET_ACTIVE_PLAYERS();
 ```
 
-Returns all player indices for 'active' physical players known to the client.
-The data returned adheres to the following layout:
+返回其客戶端知道的所有'在線'玩家的目錄。
+數據遵循下列格式:
 ```
 [127, 42, 13, 37]
 ```
 
-## Return value
-An object containing a list of player indices.
+## 返回值
+一個object，內包含著玩家目錄列表。
