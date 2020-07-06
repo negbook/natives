@@ -8,9 +8,9 @@ apiset: client
 void ADD_REPLACE_TEXTURE(char* origTxd, char* origTxn, char* newTxd, char* newTxn);
 ```
 
-Experimental natives, please do not use in a live environment.
+使origTxd字典內的origTxn貼圖，替換為newTxd字典的newTxn貼圖
 
-## Parameters
+## 參數
 * **origTxd**: 
 * **origTxn**: 
 * **newTxd**: 
