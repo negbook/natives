@@ -7,9 +7,9 @@ apiset: server
 ```c
 BOOL DOES_ENTITY_EXIST(Object entity);
 ```
+實體`entity`是否存在
 
-
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值
