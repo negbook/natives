@@ -15,4 +15,4 @@ object GET_ACTIVE_PLAYERS();
 ```
 
 ## 返回值
-一個object，內包含著玩家目錄列表。
+一個Object數據，包含所有玩家目錄列表。
