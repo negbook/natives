@@ -8,9 +8,9 @@ apiset: server
 Hash GET_HASH_KEY(char* model);
 ```
 
-This native converts the passed string to a hash.
+字符轉換為hash.
 
-## Parameters
+## 參數
 * **model**: 
 
-## Return value
+## 返回值
