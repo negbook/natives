@@ -8,10 +8,10 @@ apiset: client
 int ADD_MINIMAP_OVERLAY(char* name);
 ```
 
-Loads a minimap overlay from a GFx file in the current resource.
+從目前腳本中載入GFx文件到minimap圖層 
 
-## Parameters
-* **name**: The path to a `.gfx` file in the current resource. It has to be specified as a `file`.
+## 參數
+* **name**: `.gfx` 在目前腳本之相對路徑. 需要在 `file` 中指定.
 
-## Return value
-A minimap overlay ID.
+## 返回值
+minimap圖層 ID.
