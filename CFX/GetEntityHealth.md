@@ -8,9 +8,9 @@ apiset: server
 int GET_ENTITY_HEALTH(Entity entity);
 ```
 
-Currently it only works with peds.
+目前只能對ped起作用.
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值
