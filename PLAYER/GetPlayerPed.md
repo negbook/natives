@@ -8,18 +8,18 @@ ns: PLAYER
 Ped GET_PLAYER_PED(Player playerId);
 ```
 
-Gets the ped for a specified player index.
+從指定的玩家單位中獲得其ped實體.
 
-## Parameters
-* **playerId**: The player index, or -1 to get the local player ped.
+## 參數
+* **playerId**: 玩家單位, 若是 -1 則獲得本地玩家ped實體。
 
-## Return value
-The specified player's ped, or 0 if invalid.
+## 返回值
+被指定的玩家ped實體, 若是無效則為0。
 
-## Examples
+## 例子
 ```lua
 local playerIdx = GetPlayerFromServerId(source)
 local ped = GetPlayerPed(playerIdx)
 
--- act on the ped
+-- 對ped的操作
 ```
