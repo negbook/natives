@@ -9,8 +9,8 @@ Player PLAYER_ID();
 ```
 
 ```
-This returns YOUR 'identity' as a Player type.  
-Always returns 0 in story mode.  
+返回你的客戶端玩家ID.  
+故事模式總是返回 0 .  
 ```
 
-## Return value
+## 返回值
