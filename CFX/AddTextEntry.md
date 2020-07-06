@@ -7,9 +7,9 @@ apiset: client
 ```c
 void ADD_TEXT_ENTRY(char* entryKey, char* entryText);
 ```
+使`entryKey`轉化為其Hash對應的字符`entryText`
 
-
-## Parameters
+## 參數
 * **entryKey**: 
 * **entryText**: 
 
