@@ -14,4 +14,4 @@ int ADD_MINIMAP_OVERLAY(char* name);
 * **name**: `.gfx` 在目前腳本之相對路徑. 需要在 `file` 中指定.
 
 ## 返回值
-minimap圖層 ID.
+minimap圖層 ID. 
