@@ -9,7 +9,7 @@ Ped PLAYER_PED_ID();
 ```
 
 ```
-Returns current player ped  
+返回目前的玩家ped實體  
 ```
 
-## Return value
+## 返回值
