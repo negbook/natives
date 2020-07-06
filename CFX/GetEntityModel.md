@@ -7,9 +7,9 @@ apiset: server
 ```c
 Hash GET_ENTITY_MODEL(Entity entity);
 ```
+獲得實體`entity`的hash值
 
-
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值
