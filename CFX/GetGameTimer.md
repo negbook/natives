@@ -8,7 +8,6 @@ apiset: server
 long GET_GAME_TIMER();
 ```
 
-Gets the current game timer in milliseconds.
+獲得目前遊戲時間控制器的時間（毫秒）
 
-## Return value
-The game time.
+## 返回值
