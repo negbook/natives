@@ -7,9 +7,9 @@ apiset: server
 ```c
 Vector3 GET_ENTITY_ROTATION_VELOCITY(Entity entity);
 ```
+獲得實體`entity`在三維世界中的各朝向之速度
 
-
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值
