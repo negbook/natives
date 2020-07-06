@@ -5,11 +5,11 @@ apiset: server
 ## DROP_PLAYER
 
 ```c
-void DROP_PLAYER(char* playerSrc, char* reason);
+void DROP_PLAYER(char* playerSource, char* reason);
 ```
+以`reason`理由，踢出玩家`playerSource`
 
-
-## Parameters
-* **playerSrc**: 
+## 參數
+* **playerSource**: 
 * **reason**: 
 
