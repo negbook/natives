@@ -10,7 +10,7 @@ BOOL _DOES_AIR_DEFENSE_ZONE_EXIST(int zoneId);
 ```
 
 
-## Parameters
+## 參數
 * **zoneId**: 
 
-## Return value
+## 返回值

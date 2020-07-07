@@ -15,6 +15,6 @@ Most likely NETWORK_EARN_FROM_ROB***
 MONEY_EARN_JOBS  
 ```
 
-## Parameters
+## 參數
 * **amount**: 
 

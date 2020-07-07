@@ -9,7 +9,7 @@ BOOL NETWORK_PLAYER_HAS_HEADSET(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

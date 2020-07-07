@@ -9,4 +9,4 @@ BOOL ROPE_ARE_TEXTURES_LOADED();
 ```
 
 
-## Return value
+## 返回值

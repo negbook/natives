@@ -14,11 +14,11 @@ World to relative screen coords
 this world to screen will keep the text on screen. it will keep it in the screen pos
 ```
 
-## Parameters
+## 參數
 * **worldX**: 
 * **worldY**: 
 * **worldZ**: 
 * **screenX**: 
 * **screenY**: 
 
-## Return value
+## 返回值

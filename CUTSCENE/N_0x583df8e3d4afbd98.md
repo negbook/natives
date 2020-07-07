@@ -9,4 +9,4 @@ int _0x583DF8E3D4AFBD98();
 ```
 
 
-## Return value
+## 返回值

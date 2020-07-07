@@ -13,6 +13,6 @@ void THEFEED_REMOVE_ITEM(int notificationId);
 Removes a notification instantly instead of waiting for it to disappear  
 ```
 
-## Parameters
+## 參數
 * **notificationId**: 
 

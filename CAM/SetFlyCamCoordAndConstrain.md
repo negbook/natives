@@ -10,7 +10,7 @@ void SET_FLY_CAM_COORD_AND_CONSTRAIN(Cam cam, float x, float y, float z);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **x**: 
 * **y**: 

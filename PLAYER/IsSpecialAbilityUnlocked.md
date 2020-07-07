@@ -9,7 +9,7 @@ BOOL IS_SPECIAL_ABILITY_UNLOCKED(Hash playerModel);
 ```
 
 
-## Parameters
+## 參數
 * **playerModel**: 
 
-## Return value
+## 返回值

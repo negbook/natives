@@ -10,7 +10,7 @@ BOOL _GET_SCALEFORM_MOVIE_METHOD_RETURN_VALUE_BOOL(int returnValueData);
 ```
 
 
-## Parameters
+## 參數
 * **returnValueData**: 
 
-## Return value
+## 返回值

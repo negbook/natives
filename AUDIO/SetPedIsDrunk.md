@@ -23,7 +23,7 @@ And to stop the effect use
 RESET_PED_MOVEMENT_CLIPSET  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

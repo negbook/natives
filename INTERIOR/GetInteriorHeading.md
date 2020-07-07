@@ -14,5 +14,5 @@ GET_INTERIOR_*
 NativeDB Introduced: v1493
 ```
 
-## Parameters
+## 參數
 * **interior**:

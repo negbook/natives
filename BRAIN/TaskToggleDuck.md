@@ -13,7 +13,7 @@ used in sequence task
 both parameters seems to be always 0  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

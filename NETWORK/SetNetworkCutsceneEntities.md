@@ -10,6 +10,6 @@ void SET_NETWORK_CUTSCENE_ENTITIES(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

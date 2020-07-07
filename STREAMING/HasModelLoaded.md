@@ -12,7 +12,7 @@ BOOL HAS_MODEL_LOADED(Hash model);
 Checks if the specified model has loaded into memory.  
 ```
 
-## Parameters
+## 參數
 * **model**: 
 
-## Return value
+## 返回值

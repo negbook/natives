@@ -9,8 +9,8 @@ BOOL CAN_SHUFFLE_SEAT(Vehicle vehicle, Any p1);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 
-## Return value
+## 返回值

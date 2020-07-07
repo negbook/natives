@@ -9,7 +9,7 @@ aliases: ["0xEE066C7006C49C0A"]
 void PLAY_ANIMAL_VOCALIZATION(Ped pedHandle, int p1, char* p2);
 ```
 
-## Parameters
+## 參數
 * **pedHandle**: 
 * **p1**: 
 * **p2**: 

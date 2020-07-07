@@ -9,6 +9,6 @@ aliases: ["0xDDC635D5B3262C56"]
 void DEACTIVATE_AUDIO_SLOWMO_MODE(char* p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

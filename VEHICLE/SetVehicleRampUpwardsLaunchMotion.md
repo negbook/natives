@@ -9,7 +9,7 @@ aliases: ["0x756AE6E962168A04"]
 void _SET_VEHICLE_RAMP_UPWARDS_LAUNCH_MOTION(Vehicle vehicle, BOOL toggle);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

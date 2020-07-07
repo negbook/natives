@@ -14,7 +14,7 @@ If used with a Ped that has an AI blip as the first argument:
 - if p1 is true, a view cone is displayed with the AI blip  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

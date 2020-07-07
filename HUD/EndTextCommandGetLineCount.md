@@ -14,8 +14,8 @@ Determines how many lines the text string will use when drawn on screen.
 Must use _BEGIN_TEXT_COMMAND_LINE_COUNT for setting up  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 
-## Return value
+## 返回值

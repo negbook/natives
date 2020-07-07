@@ -9,10 +9,10 @@ BOOL IS_HELI_PART_BROKEN(Vehicle vehicle, BOOL p1, BOOL p2, BOOL p3);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 * **p2**: 
 * **p3**: 
 
-## Return value
+## 返回值

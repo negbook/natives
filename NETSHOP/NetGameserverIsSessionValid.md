@@ -10,7 +10,7 @@ BOOL _NET_GAMESERVER_IS_SESSION_VALID(int charSlot);
 ```
 
 
-## Parameters
+## 參數
 * **charSlot**: 
 
-## Return value
+## 返回值

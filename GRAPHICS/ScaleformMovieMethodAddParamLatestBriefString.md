@@ -9,6 +9,6 @@ aliases: ["0xEC52C631A1831C03","_SCALEFORM_MOVIE_METHOD_ADD_PARAM_INT_STRING"]
 void SCALEFORM_MOVIE_METHOD_ADD_PARAM_LATEST_BRIEF_STRING(int value);
 ```
 
-## Parameters
+## 參數
 * **value**: 
 

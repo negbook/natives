@@ -9,7 +9,7 @@ void TASK_SEEK_COVER_FROM_PED(Ped ped, Ped target, int duration, BOOL p3);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **target**: 
 * **duration**: 

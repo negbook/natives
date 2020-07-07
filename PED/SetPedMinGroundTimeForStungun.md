@@ -12,7 +12,7 @@ void SET_PED_MIN_GROUND_TIME_FOR_STUNGUN(Ped ped, int ms);
 Ped will stay on the ground after being stunned for at lest ms time. (in milliseconds)  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **ms**: 
 

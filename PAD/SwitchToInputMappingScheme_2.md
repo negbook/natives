@@ -15,7 +15,7 @@ Same as 0x3D42B92563939375
 S*
 ```
 
-## Parameters
+## 參數
 * **name**: 
 
-## Return value
+## 返回值

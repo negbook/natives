@@ -9,4 +9,4 @@ int GET_LOCAL_PLAYER_AIM_STATE();
 ```
 
 
-## Return value
+## 返回值

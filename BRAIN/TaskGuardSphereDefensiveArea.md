@@ -18,7 +18,7 @@ p7, p8, p9 - XYZ again?
 p10 - Maybe the size of sphere from second XYZ?  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

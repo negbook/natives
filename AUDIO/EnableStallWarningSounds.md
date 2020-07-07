@@ -10,7 +10,7 @@ void ENABLE_STALL_WARNING_SOUNDS(Vehicle vehicle, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

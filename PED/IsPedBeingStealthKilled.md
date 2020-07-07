@@ -9,7 +9,7 @@ BOOL IS_PED_BEING_STEALTH_KILLED(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ void UPDATE_TASK_HANDS_UP_DURATION(Ped ped, int duration);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **duration**: 
 

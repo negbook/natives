@@ -31,7 +31,7 @@ enum CombatAttributes
 Research thread: gtaforums.com/topic/833391-researchguide-combat-behaviour-flags/  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **attributeIndex**: 
 * **enabled**: 

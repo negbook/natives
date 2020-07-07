@@ -9,7 +9,7 @@ void SET_PED_CAN_BE_DRAGGED_OUT(Ped ped, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

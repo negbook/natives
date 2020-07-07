@@ -10,4 +10,4 @@ Any NETWORK_CLEAR_FOLLOW_INVITE();
 ```
 
 
-## Return value
+## 返回值

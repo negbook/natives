@@ -9,6 +9,6 @@ aliases: ["0x60734CC207C9833C"]
 void ALLOW_SONAR_BLIPS(BOOL p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

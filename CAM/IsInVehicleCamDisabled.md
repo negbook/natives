@@ -10,4 +10,4 @@ BOOL _IS_IN_VEHICLE_CAM_DISABLED();
 ```
 
 
-## Return value
+## 返回值

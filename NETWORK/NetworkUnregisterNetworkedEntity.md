@@ -10,6 +10,6 @@ void NETWORK_UNREGISTER_NETWORKED_ENTITY(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 

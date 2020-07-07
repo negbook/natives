@@ -9,4 +9,4 @@ aliases: ["0x172F75B6EE2233BA","_NETWORK_PLAYER_IS_UNK"]
 BOOL NETWORK_PLAYER_GET_CHEATER_REASON();
 ```
 
-## Return value
+## 返回值

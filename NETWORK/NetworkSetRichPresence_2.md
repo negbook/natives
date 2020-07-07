@@ -15,7 +15,7 @@ void _NETWORK_SET_RICH_PRESENCE_2(int p0, char* gxtLabel);
 NETWORK_SET_RICH_PRESENCE but for PlayStation? (On PC it's a nullsub)  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **gxtLabel**: 
 

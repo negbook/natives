@@ -10,6 +10,6 @@ void SET_SCRIPT_WITH_NAME_HASH_AS_NO_LONGER_NEEDED(Hash scriptHash);
 ```
 
 
-## Parameters
+## 參數
 * **scriptHash**: 
 

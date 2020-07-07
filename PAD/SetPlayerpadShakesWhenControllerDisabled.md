@@ -9,6 +9,6 @@ void SET_PLAYERPAD_SHAKES_WHEN_CONTROLLER_DISABLED(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

@@ -10,4 +10,4 @@ int _NETWORK_GET_TARGETING_MODE();
 ```
 
 
-## Return value
+## 返回值

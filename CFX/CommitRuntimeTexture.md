@@ -10,6 +10,6 @@ void COMMIT_RUNTIME_TEXTURE(long tex);
 
 Commits the backing pixels to the specified runtime texture.
 
-## Parameters
+## 參數
 * **tex**: The runtime texture handle.
 

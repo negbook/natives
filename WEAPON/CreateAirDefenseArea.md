@@ -13,7 +13,7 @@ int _CREATE_AIR_DEFENSE_AREA(float p0, float p1, float p2, float p3, float p4, f
 NativeDB Parameter 10: Hash weaponHash
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
@@ -26,4 +26,4 @@ NativeDB Parameter 10: Hash weaponHash
 * **p9**: 
 * **weaponHash**: 
 
-## Return value
+## 返回值

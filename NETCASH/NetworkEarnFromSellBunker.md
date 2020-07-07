@@ -13,7 +13,7 @@ void _NETWORK_EARN_FROM_SELL_BUNKER(int amount, Any bunkerHash);
 NativeDB Parameter 1: Hash bunkerHash
 ```
 
-## Parameters
+## 參數
 * **amount**: 
 * **bunkerHash**: 
 

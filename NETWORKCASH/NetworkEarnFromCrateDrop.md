@@ -10,6 +10,6 @@ void NETWORK_EARN_FROM_CRATE_DROP(int amount);
 ```
 
 
-## Parameters
+## 參數
 * **amount**: 
 

@@ -12,7 +12,7 @@ void SET_BLIP_PRIORITY(Blip blip, int priority);
 See this topic for more details : gtaforums.com/topic/717612-v-scriptnative-documentation-and-research/page-35?p=1069477935  
 ```
 
-## Parameters
+## 參數
 * **blip**: 
 * **priority**: 
 

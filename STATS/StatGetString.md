@@ -12,8 +12,8 @@ char* STAT_GET_STRING(Hash statHash, int p1);
 p1 is always -1 in the script files  
 ```
 
-## Parameters
+## 參數
 * **statHash**: 
 * **p1**: 
 
-## Return value
+## 返回值

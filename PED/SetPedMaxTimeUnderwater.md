@@ -9,7 +9,7 @@ void SET_PED_MAX_TIME_UNDERWATER(Ped ped, float value);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **value**: 
 

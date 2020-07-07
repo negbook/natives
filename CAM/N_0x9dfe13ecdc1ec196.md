@@ -13,7 +13,7 @@ void _0x9DFE13ECDC1EC196(BOOL p0, BOOL p1);
 SET_FOLLOW_*
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

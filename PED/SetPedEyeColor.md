@@ -13,7 +13,7 @@ Used for freemode (online) characters.
 For some reason, the scripts use a rounded float for the index.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **index**: 
 

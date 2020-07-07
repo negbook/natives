@@ -26,8 +26,8 @@ if (GET_WEAPON_HUD_STATS(weaponHash, (Any*)&data))
 }  
 ```
 
-## Parameters
+## 參數
 * **weaponHash**: 
 * **outData**: 
 
-## Return value
+## 返回值

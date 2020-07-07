@@ -14,7 +14,7 @@ Values used as attributes are those in sequence of powers of two, 1, 2, 4, 8, 16
 jedijosh920: Setting attribute "2" to true will make the ped steal a vehicle.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **attributeFlags**: 
 * **enable**: 

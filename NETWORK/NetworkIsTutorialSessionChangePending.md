@@ -9,4 +9,4 @@ aliases: ["0x35F0B98A8387274D"]
 BOOL NETWORK_IS_TUTORIAL_SESSION_CHANGE_PENDING();
 ```
 
-## Return value
+## 返回值

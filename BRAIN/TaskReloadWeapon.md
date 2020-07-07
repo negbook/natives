@@ -17,7 +17,7 @@ The only occurrence I found in a R* script ("assassin_construction.ysc.c4"):
             }  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **unused**: 
 

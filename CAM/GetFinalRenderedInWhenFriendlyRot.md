@@ -9,8 +9,8 @@ aliases: ["0x26903D9CD1175F2C"]
 Vector3 GET_FINAL_RENDERED_IN_WHEN_FRIENDLY_ROT(Player player, int rotationOrder);
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **rotationOrder**: 
 
-## Return value
+## 返回值

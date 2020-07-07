@@ -10,4 +10,4 @@ float _GET_PICKUP_GENERATION_RANGE_MULTIPLIER();
 ```
 
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ void REMOVE_DOOR_FROM_SYSTEM(Hash doorHash);
 ```
 
 
-## Parameters
+## 參數
 * **doorHash**: 
 

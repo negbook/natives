@@ -9,8 +9,8 @@ BOOL IS_PED_ON_SPECIFIC_VEHICLE(Ped ped, Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **vehicle**: 
 
-## Return value
+## 返回值

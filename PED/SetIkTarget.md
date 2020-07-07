@@ -18,7 +18,7 @@ IK Index ---------
 EntityLookAt can be null (0 handle)  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **ikIndex**: 
 * **entityLookAt**: 

@@ -9,7 +9,7 @@ BOOL HAS_PICKUP_BEEN_COLLECTED(Pickup pickup);
 ```
 
 
-## Parameters
+## 參數
 * **pickup**: 
 
-## Return value
+## 返回值

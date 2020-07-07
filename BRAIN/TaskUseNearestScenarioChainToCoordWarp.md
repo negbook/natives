@@ -9,7 +9,7 @@ void TASK_USE_NEAREST_SCENARIO_CHAIN_TO_COORD_WARP(Any p0, float p1, float p2, f
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

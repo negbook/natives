@@ -10,9 +10,9 @@ BOOL IS_SCRIPTED_SCENARIO_PED_USING_CONDITIONAL_ANIM(Ped ped, char* animDict, ch
 
 [Animations list](https://alexguirre.github.io/animations-list/)
 
-## Parameters
+## 參數
 * **ped**: 
 * **animDict**: 
 * **anim**: 
 
-## Return value
+## 返回值

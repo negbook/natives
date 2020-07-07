@@ -9,4 +9,4 @@ BOOL IS_MEMORY_CARD_IN_USE();
 ```
 
 
-## Return value
+## 返回值

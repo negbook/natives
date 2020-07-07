@@ -9,6 +9,6 @@ void NETWORK_SET_OVERRIDE_SPECTATOR_MODE(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

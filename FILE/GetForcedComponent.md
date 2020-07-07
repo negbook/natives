@@ -14,7 +14,7 @@ NativeDB Parameter 3: int* enumValue
 NativeDB Parameter 4: int* componentType
 ```
 
-## Parameters
+## 參數
 * **componentHash**: 
 * **componentId**: 
 * **nameHash**: 

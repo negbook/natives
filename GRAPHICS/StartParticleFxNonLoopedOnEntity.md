@@ -18,7 +18,7 @@ Internally this calls the same function as GRAPHICS::START_PARTICLE_FX_NON_LOOPE
 however it uses -1 for the specified bone index, so it should be possible to start a non looped fx on an entity bone using that native  
 ```
 
-## Parameters
+## 參數
 * **effectName**: 
 * **entity**: 
 * **offsetX**: 
@@ -32,4 +32,4 @@ however it uses -1 for the specified bone index, so it should be possible to sta
 * **axisY**: 
 * **axisZ**: 
 
-## Return value
+## 返回值

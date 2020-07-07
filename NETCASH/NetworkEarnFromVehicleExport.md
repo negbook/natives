@@ -10,7 +10,7 @@ void _NETWORK_EARN_FROM_VEHICLE_EXPORT(int amount, Any p1, Any p2);
 ```
 
 
-## Parameters
+## 參數
 * **amount**: 
 * **p1**: 
 * **p2**: 

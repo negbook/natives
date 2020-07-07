@@ -13,7 +13,7 @@ void REPLACE_HUD_COLOUR_WITH_RGBA(int hudColorIndex, int r, int g, int b, int a)
 HUD colors and their values: pastebin.com/d9aHPbXN  
 ```
 
-## Parameters
+## 參數
 * **hudColorIndex**: 
 * **r**: 
 * **g**: 

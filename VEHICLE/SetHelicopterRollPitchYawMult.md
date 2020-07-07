@@ -12,7 +12,7 @@ void _SET_HELICOPTER_ROLL_PITCH_YAW_MULT(Vehicle helicopter, float multiplier);
 value between 0.0 and 1.0  
 ```
 
-## Parameters
+## 參數
 * **helicopter**: 
 * **multiplier**: 
 

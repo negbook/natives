@@ -15,7 +15,7 @@ REQUEST_STREAMED_TEXTURE_DICT("MPOnMissMarkers", false);
 _0x8A35C742130C6080(9120, "MPOnMissMarkers", "Capture_The_Flag_Base_Icon");  
 ```
 
-## Parameters
+## 參數
 * **decalType**: 
 * **textureDict**: 
 * **textureName**: 

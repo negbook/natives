@@ -9,7 +9,7 @@ BOOL HAS_FORCE_CLEANUP_OCCURRED(int cleanupFlags);
 ```
 
 
-## Parameters
+## 參數
 * **cleanupFlags**: 
 
-## Return value
+## 返回值

@@ -12,7 +12,7 @@ void _DRAW_BINK_MOVIE(int binkMovie, float p1, float p2, float p3, float p4, flo
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **binkMovie**:
 * **p1**:
 * **p2**:

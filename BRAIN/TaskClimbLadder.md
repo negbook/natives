@@ -9,7 +9,7 @@ void TASK_CLIMB_LADDER(Ped ped, int p1);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 

@@ -9,4 +9,4 @@ aliases: ["0x876928DDDFCCC9CD"]
 Any HAS_PEDHEADSHOT_IMG_UPLOAD_FAILED();
 ```
 
-## Return value
+## 返回值

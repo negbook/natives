@@ -10,7 +10,7 @@ void PLAYSTATS_BACKGROUND_SCRIPT_ACTION(char* action, int value);
 ```
 
 
-## Parameters
+## 參數
 * **action**: 
 * **value**: 
 

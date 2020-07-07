@@ -9,7 +9,7 @@ BOOL ARE_PLAYER_FLASHING_STARS_ABOUT_TO_DROP(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

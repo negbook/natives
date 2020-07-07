@@ -10,7 +10,7 @@ void SET_CARGOBOB_PICKUP_MAGNET_STRENGTH(Vehicle cargobob, float strength);
 ```
 
 
-## Parameters
+## 參數
 * **cargobob**: 
 * **strength**: 
 

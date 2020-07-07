@@ -9,7 +9,7 @@ aliases: ["_TRANSITION_TO_BLURRED"]
 BOOL TRIGGER_SCREENBLUR_FADE_IN(float transitionTime);
 ```
 
-## Parameters
+## 參數
 * **transitionTime**: 
 
-## Return value
+## 返回值

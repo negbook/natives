@@ -17,7 +17,7 @@ char *plateText = "KING";
 VEHICLE::SET_VEHICLE_NUMBER_PLATE_TEXT(veh, plateText);  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **plateText**: 
 

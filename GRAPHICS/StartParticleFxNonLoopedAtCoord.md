@@ -24,7 +24,7 @@ example:
 Function.Call<int>(Hash.START_PARTICLE_FX_NON_LOOPED_AT_COORD, "scr_fbi4_trucks_crash", GTA.Game.Player.Character.Position.X, GTA.Game.Player.Character.Position.Y, GTA.Game.Player.Character.Position.Z + 4f, 0, 0, 0, 5.5f, 0, 0, 0);  
 ```
 
-## Parameters
+## 參數
 * **effectName**: 
 * **xPos**: 
 * **yPos**: 
@@ -37,4 +37,4 @@ Function.Call<int>(Hash.START_PARTICLE_FX_NON_LOOPED_AT_COORD, "scr_fbi4_trucks_
 * **yAxis**: 
 * **zAxis**: 
 
-## Return value
+## 返回值

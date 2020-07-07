@@ -13,7 +13,7 @@ Gets a value indicating whether this ped's health is below its fatally injured t
 If the handle is invalid, the function returns true.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

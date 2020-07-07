@@ -12,4 +12,4 @@ int _GET_NUM_HAIR_COLORS();
 Used for freemode (online) characters.  
 ```
 
-## Return value
+## 返回值

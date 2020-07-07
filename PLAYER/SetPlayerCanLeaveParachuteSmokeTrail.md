@@ -9,7 +9,7 @@ void SET_PLAYER_CAN_LEAVE_PARACHUTE_SMOKE_TRAIL(Player player, BOOL enabled);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **enabled**: 
 

@@ -12,7 +12,7 @@ void SET_PED_RAGDOLL_ON_COLLISION(Ped ped, BOOL toggle);
 Causes Ped to ragdoll on collision with any object (e.g Running into trashcan). If applied to player you will sometimes trip on the sidewalk.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

@@ -12,7 +12,7 @@ int GET_VEHICLE_LIVERY_COUNT(Vehicle vehicle);
 Returns -1 if the vehicle has no livery  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

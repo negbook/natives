@@ -13,7 +13,7 @@ void _SET_CREATE_WEAPON_OBJECT_LIGHT_SOURCE(Object object, BOOL toggle);
 Requires a component_at_*_flsh to be attached to the weapon object
 ```
 
-## Parameters
+## 參數
 * **object**: 
 * **toggle**: 
 

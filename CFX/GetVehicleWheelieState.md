@@ -37,8 +37,8 @@ Citizen.CreateThread(function()
 end)
 ```
 
-## Parameters
+## 參數
 * **vehicle**: Vehicle
 
-## Return value
+## 返回值
 Vehicle's current wheelie state.

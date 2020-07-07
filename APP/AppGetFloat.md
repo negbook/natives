@@ -9,7 +9,7 @@ float APP_GET_FLOAT(char* property);
 ```
 
 
-## Parameters
+## 參數
 * **property**: 
 
-## Return value
+## 返回值

@@ -16,7 +16,7 @@ The result is a value from 0-1, where 0 is fresh paint.
 The actual value isn't stored as a float but as an unsigned char (BYTE).  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

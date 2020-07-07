@@ -13,7 +13,7 @@ GTA V Scaleforms Decompiled
 pastebin.com/mmNdjX2k  
 ```
 
-## Parameters
+## 參數
 * **scaleformHandle**: 
 * **x**: 
 * **y**: 

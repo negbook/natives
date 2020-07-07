@@ -9,7 +9,7 @@ void NETWORK_EARN_FROM_PROPERTY(int amount, Hash propertyName);
 ```
 
 
-## Parameters
+## 參數
 * **amount**: 
 * **propertyName**: 
 

@@ -13,7 +13,7 @@ Adds an arbitrary string as a text component placeholder, replacing `~a~` in the
 
 See the documentation on text formatting for more information.
 
-## Parameters
+## 參數
 * **text**: A string to add of up to 99 characters. This can contain additional `~` formatting directives.
 
 ## Examples

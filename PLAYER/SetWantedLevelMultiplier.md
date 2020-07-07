@@ -9,6 +9,6 @@ void SET_WANTED_LEVEL_MULTIPLIER(float multiplier);
 ```
 
 
-## Parameters
+## 參數
 * **multiplier**: 
 

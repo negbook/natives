@@ -9,6 +9,6 @@ void REMOVE_PICKUP(Pickup pickup);
 ```
 
 
-## Parameters
+## 參數
 * **pickup**: 
 

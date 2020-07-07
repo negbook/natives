@@ -13,9 +13,9 @@ BOOL _NET_GAMESERVER_DELETE_CHARACTER_SLOT(int slot, BOOL transfer, Any reason);
 NativeDB Parameter 2: Hash reason
 ```
 
-## Parameters
+## 參數
 * **slot**: 
 * **transfer**: 
 * **reason**: 
 
-## Return value
+## 返回值

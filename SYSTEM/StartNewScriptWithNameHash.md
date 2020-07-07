@@ -10,8 +10,8 @@ int START_NEW_SCRIPT_WITH_NAME_HASH(Hash scriptHash, int stackSize);
 ```
 
 
-## Parameters
+## 參數
 * **scriptHash**: 
 * **stackSize**: 
 
-## Return value
+## 返回值

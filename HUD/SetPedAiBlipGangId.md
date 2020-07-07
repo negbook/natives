@@ -15,7 +15,7 @@ Set a ped's AI blip type:
 2  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **gangId**: 
 

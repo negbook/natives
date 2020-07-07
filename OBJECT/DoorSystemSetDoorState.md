@@ -16,7 +16,7 @@ A limit of 0 seems to lock doors.
 p2 is always 0, p3 is always 1.
 ```
 
-## Parameters
+## 參數
 * **doorHash**: 
 * **limit**: 
 * **p2**: 

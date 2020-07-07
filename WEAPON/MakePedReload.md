@@ -9,7 +9,7 @@ BOOL MAKE_PED_RELOAD(Ped ped);
 ```
 Forces a ped to reload **only** if they are able to; if they have a full magazine, they will not reload.
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

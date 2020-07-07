@@ -9,7 +9,7 @@ void WASH_DECALS_FROM_VEHICLE(Vehicle vehicle, float p1);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

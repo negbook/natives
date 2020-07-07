@@ -13,7 +13,7 @@ Returns a NetworkHandle* from the specified user ID and stores it in a given buf
 * Currently unknown struct  
 ```
 
-## Parameters
+## 參數
 * **userId**: 
 * **networkHandle**: 
 * **bufferSize**: 

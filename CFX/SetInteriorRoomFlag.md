@@ -22,7 +22,7 @@ if roomId ~= -1 then
 end
 ```
 
-## Parameters
+## 參數
 * **interiorId**: The target interior.
 * **roomIndex**: Interior room index.
 * **flag**: New flag value.

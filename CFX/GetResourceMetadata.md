@@ -11,9 +11,9 @@ char* GET_RESOURCE_METADATA(char* resourceName, char* metadataKey, int index);
 Gets the metadata value at a specified key/index from a resource's manifest.
 See also: [Resource manifest](https://docs.fivem.net/resources/manifest/)
 
-## Parameters
+## 參數
 * **resourceName**: The resource name.
 * **metadataKey**: The key in the resource manifest.
 * **index**: The value index, in a range from [0..GET_NUM_RESOURCE_METDATA-1].
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ void SET_PED_VISUAL_FIELD_PERIPHERAL_RANGE(Ped ped, float range);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **range**: 
 

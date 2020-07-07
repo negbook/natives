@@ -17,7 +17,7 @@ Activate the physics to: "xs_prop_arena_{flipper,wall,bollard,turntable,pit}"
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **entity**:
 * **p1**:
 * **p2**:

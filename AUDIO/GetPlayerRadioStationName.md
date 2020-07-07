@@ -12,4 +12,4 @@ char* GET_PLAYER_RADIO_STATION_NAME();
 Returns active radio station name  
 ```
 
-## Return value
+## 返回值

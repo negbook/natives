@@ -12,7 +12,7 @@ void _NETWORK_SPENT_JOB_SKIP(int amount, char* matchId, BOOL p2, BOOL p3);
 NativeDB Introduced: v323
 ```
 
-## Parameters
+## 參數
 * **amount**:
 * **matchId**:
 * **p2**:

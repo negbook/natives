@@ -10,6 +10,6 @@ void _NETWORK_MANUAL_DELETE_CHARACTER(int characterSlot);
 ```
 
 
-## Parameters
+## 參數
 * **characterSlot**: 
 

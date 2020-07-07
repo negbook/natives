@@ -13,6 +13,6 @@ NativeDB Parameter 0: char* property
 NativeDB Return Type: int
 ```
 
-## Parameters
+## 參數
 * **property**: 
 

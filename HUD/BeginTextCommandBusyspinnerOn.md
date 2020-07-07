@@ -45,6 +45,6 @@ These are some localized strings used in the loading spinner.
 "MP_SPINLOADING"                      = Loading  
 ```
 
-## Parameters
+## 參數
 * **string**: 
 

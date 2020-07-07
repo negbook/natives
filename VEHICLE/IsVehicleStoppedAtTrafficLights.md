@@ -12,7 +12,7 @@ BOOL IS_VEHICLE_STOPPED_AT_TRAFFIC_LIGHTS(Vehicle vehicle);
 is this for red lights only?  more testing required.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ aliases: ["0x01095C95CD46B624"]
 BOOL DATAFILE_SELECT_CREATOR_STATS(int p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

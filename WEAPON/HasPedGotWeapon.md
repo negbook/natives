@@ -13,9 +13,9 @@ p2 should be FALSE, otherwise it seems to always return FALSE
 Bool does not check if the weapon is current equipped, unfortunately.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 * **p2**: 
 
-## Return value
+## 返回值

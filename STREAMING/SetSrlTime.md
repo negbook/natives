@@ -9,6 +9,6 @@ void SET_SRL_TIME(float p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

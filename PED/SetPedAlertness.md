@@ -12,7 +12,7 @@ void SET_PED_ALERTNESS(Ped ped, int value);
 value ranges from 0 to 3.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **value**: 
 

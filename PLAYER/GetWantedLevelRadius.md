@@ -16,7 +16,7 @@ Remnant from GTA IV. Does nothing in GTA V.
 NativeDB Return Type: float
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

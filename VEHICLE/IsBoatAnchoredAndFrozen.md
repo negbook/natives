@@ -13,7 +13,7 @@ BOOL _IS_BOAT_ANCHORED_AND_FROZEN(Vehicle vehicle);
 IS_*
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

@@ -13,7 +13,7 @@ int WITHDRAW_VC(int amount);
 Does nothing and always returns 0.
 ```
 
-## Parameters
+## 參數
 * **amount**: 
 
-## Return value
+## 返回值

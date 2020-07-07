@@ -12,5 +12,5 @@ BOOL _IS_POP_MULTIPLIER_AREA_UNK(int id);
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **id**:

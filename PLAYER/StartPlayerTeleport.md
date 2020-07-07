@@ -9,7 +9,7 @@ void START_PLAYER_TELEPORT(Player player, float x, float y, float z, float headi
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **x**: 
 * **y**: 

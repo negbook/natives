@@ -9,7 +9,7 @@ BOOL HAS_PLAYER_BEEN_SPOTTED_IN_STOLEN_VEHICLE(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

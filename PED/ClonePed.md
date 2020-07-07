@@ -14,10 +14,10 @@ Example of Cloning Your Player:
 CLONE_PED(PLAYER_PED_ID(), GET_ENTITY_HEADING(PLAYER_PED_ID()), 0, 1);  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **heading**: 
 * **isNetwork**: 
 * **thisScriptCheck**: 
 
-## Return value
+## 返回值

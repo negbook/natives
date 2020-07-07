@@ -9,7 +9,7 @@ void _ARRAY_VALUE_ADD_VECTOR3(Any* arrayData, float valueX, float valueY, float 
 ```
 
 
-## Parameters
+## 參數
 * **arrayData**: 
 * **valueX**: 
 * **valueY**: 

@@ -12,6 +12,6 @@ void SET_ENTITY_LOCALLY_VISIBLE(Entity entity);
 I tried using this and I see nothing happening, what is this suppose to do?  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 

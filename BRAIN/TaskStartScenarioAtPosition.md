@@ -22,7 +22,7 @@ p7 used for sitting scenarios
 p8 teleports ped to position  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **scenarioName**: 
 * **x**: 

@@ -9,7 +9,7 @@ int GET_VEHICLE_WAYPOINT_TARGET_POINT(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

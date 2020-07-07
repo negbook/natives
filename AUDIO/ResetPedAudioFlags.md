@@ -9,6 +9,6 @@ void RESET_PED_AUDIO_FLAGS(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 

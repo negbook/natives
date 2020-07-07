@@ -12,7 +12,7 @@ void ADD_TEXT_COMPONENT_SUBSTRING_TIME(int timestamp, int flags);
 Adds a timer (e.g. "00:00:00:000"). The appearance of the timer depends on the flags, which needs more research.  
 ```
 
-## Parameters
+## 參數
 * **timestamp**: 
 * **flags**: 
 

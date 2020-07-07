@@ -22,7 +22,7 @@ p1 doesn't seem to make a difference, regardless of the state it's in.
 picture of where on the screen this is displayed?  
 ```
 
-## Parameters
+## 參數
 * **message**: 
 * **p1**: 
 

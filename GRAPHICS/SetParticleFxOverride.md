@@ -10,7 +10,7 @@ void SET_PARTICLE_FX_OVERRIDE(char* oldAsset, char* newAsset);
 ```
 
 
-## Parameters
+## 參數
 * **oldAsset**: 
 * **newAsset**: 
 

@@ -10,7 +10,7 @@ void _ACTIVATE_DAMAGE_TRACKER_ON_PLAYER(Player player, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 

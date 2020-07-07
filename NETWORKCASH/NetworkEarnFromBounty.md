@@ -9,7 +9,7 @@ void NETWORK_EARN_FROM_BOUNTY(int amount, int* networkHandle, Any* p2, Any p3);
 ```
 
 
-## Parameters
+## 參數
 * **amount**: 
 * **networkHandle**: 
 * **p2**: 

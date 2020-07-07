@@ -20,7 +20,7 @@ color: number of the color.
 p3 seems to always be 0.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **paintType**: 
 * **color**: 

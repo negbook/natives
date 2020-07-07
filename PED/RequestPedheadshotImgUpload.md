@@ -10,7 +10,7 @@ BOOL REQUEST_PEDHEADSHOT_IMG_UPLOAD(int id);
 ```
 
 
-## Parameters
+## 參數
 * **id**: 
 
-## Return value
+## 返回值

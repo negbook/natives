@@ -13,4 +13,4 @@ BOOL NETWORK_IS_IN_PLATFORM_PARTY();
 Hardcoded to return false.
 ```
 
-## Return value
+## 返回值

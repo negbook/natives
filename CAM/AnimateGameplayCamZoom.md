@@ -21,7 +21,7 @@ CAM::_CLAMP_GAMEPLAY_CAM_PITCH(-60f, 0f);
 CAM::_ANIMATE_GAMEPLAY_CAM_ZOOM(1f, 1f);  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **distance**: 
 

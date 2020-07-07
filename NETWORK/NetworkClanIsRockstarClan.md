@@ -13,8 +13,8 @@ BOOL NETWORK_CLAN_IS_ROCKSTAR_CLAN(int* clanDesc, int bufferSize);
 bufferSize is 35 in the scripts.  
 ```
 
-## Parameters
+## 參數
 * **clanDesc**: 
 * **bufferSize**: 
 
-## Return value
+## 返回值

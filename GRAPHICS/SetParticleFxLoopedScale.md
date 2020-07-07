@@ -9,7 +9,7 @@ void SET_PARTICLE_FX_LOOPED_SCALE(int ptfxHandle, float scale);
 ```
 
 
-## Parameters
+## 參數
 * **ptfxHandle**: 
 * **scale**: 
 

@@ -13,7 +13,7 @@ char* GET_VEHICLE_MOD_COLOR_2_NAME(Vehicle vehicle);
 returns a string which is the codename of the vehicle's currently selected secondary color  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

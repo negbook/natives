@@ -9,7 +9,7 @@ int GET_VEHICLE_MOD_KIT(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

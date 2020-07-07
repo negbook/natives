@@ -12,7 +12,7 @@ void ROPE_RESET_LENGTH(int ropeId, float length);
 Reset a rope to a certain length.  
 ```
 
-## Parameters
+## 參數
 * **ropeId**: 
 * **length**: 
 

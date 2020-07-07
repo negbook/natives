@@ -9,6 +9,6 @@ void FLAG_SERVER_AS_PRIVATE(BOOL private_);
 ```
 
 
-## Parameters
+## 參數
 * **private_**: 
 

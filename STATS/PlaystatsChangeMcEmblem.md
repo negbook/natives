@@ -10,7 +10,7 @@ void _PLAYSTATS_CHANGE_MC_EMBLEM(Any p0, Any p1, Any p2, Any p3, Any p4);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

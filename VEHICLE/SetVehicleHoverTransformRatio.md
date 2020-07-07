@@ -12,6 +12,6 @@ void _SET_VEHICLE_HOVER_TRANSFORM_RATIO(Vehicle vehicle, float ratio);
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **vehicle**:
 * **ratio**:

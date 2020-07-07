@@ -10,7 +10,7 @@ void _SET_VEHICLE_WEAPON_CAPACITY(Vehicle vehicle, int weaponIndex, int capacity
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **weaponIndex**: 
 * **capacity**: 

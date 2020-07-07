@@ -10,7 +10,7 @@ int _REGISTER_PEDHEADSHOT_3(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

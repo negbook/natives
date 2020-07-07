@@ -14,7 +14,7 @@ Returns max number of passengers (including the driver) for the specified vehicl
 For a full list, see here: pastebin.com/MdETCS1j  
 ```
 
-## Parameters
+## 參數
 * **modelHash**: 
 
-## Return value
+## 返回值

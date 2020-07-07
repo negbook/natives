@@ -10,6 +10,6 @@ void _PLAYSTATS_GUNRUN_MISSION_ENDED(Any* data);
 ```
 
 
-## Parameters
+## 參數
 * **data**: 
 

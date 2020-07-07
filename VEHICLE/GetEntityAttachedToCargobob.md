@@ -9,7 +9,7 @@ aliases: ["0x99093F60746708CA"]
 Entity _GET_ENTITY_ATTACHED_TO_CARGOBOB(Vehicle vehicle);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

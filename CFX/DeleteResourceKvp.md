@@ -9,6 +9,6 @@ void DELETE_RESOURCE_KVP(char* key);
 ```
 
 
-## Parameters
+## 參數
 * **key**: 
 

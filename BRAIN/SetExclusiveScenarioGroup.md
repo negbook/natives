@@ -17,6 +17,6 @@ Groups found in the scripts used with this native:
 "Triathlon_3"  
 ```
 
-## Parameters
+## 參數
 * **scenarioGroup**: 
 

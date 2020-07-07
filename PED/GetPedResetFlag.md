@@ -9,8 +9,8 @@ BOOL GET_PED_RESET_FLAG(Ped ped, int flagId);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **flagId**: 
 
-## Return value
+## 返回值

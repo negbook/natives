@@ -9,7 +9,7 @@ aliases: ["0xC17AD0E5752BECDA"]
 int GET_SHOP_PED_APPAREL_VARIANT_COMPONENT_COUNT(Hash componentHash);
 ```
 
-## Parameters
+## 參數
 * **componentHash**: 
 
-## Return value
+## 返回值

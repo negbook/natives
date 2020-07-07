@@ -13,7 +13,7 @@ Toggles the big minimap state like in GTA:Online.
 
 To get the current state of the minimap, use [`GetBigmapActive`](#_0xF6AE18A7).
 
-## Parameters
+## 參數
 * **toggleBigMap**: Enable or disable the expanded minimap.
 * **showFullMap**: Enable or disable the full map from being shown on the minimap, requires p0 to be true.
 

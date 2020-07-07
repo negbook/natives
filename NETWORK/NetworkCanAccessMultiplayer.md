@@ -15,7 +15,7 @@ BOOL NETWORK_CAN_ACCESS_MULTIPLAYER(int* loadingState);
 Returns 1 if the multiplayer is loaded, otherwhise 0.  
 ```
 
-## Parameters
+## 參數
 * **loadingState**: 
 
-## Return value
+## 返回值

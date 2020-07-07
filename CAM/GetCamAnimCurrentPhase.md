@@ -9,7 +9,7 @@ float GET_CAM_ANIM_CURRENT_PHASE(Cam cam);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 
-## Return value
+## 返回值

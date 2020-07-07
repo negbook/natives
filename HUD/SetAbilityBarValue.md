@@ -13,7 +13,7 @@ If 'value' is 50 and 'maxValue' is 100, the bar is halfway filled.
 Same with 5/10, 2/4, etc.  
 ```
 
-## Parameters
+## 參數
 * **value**: 
 * **maxValue**: 
 

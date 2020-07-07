@@ -10,7 +10,7 @@ void SET_MINIMAP_IN_SPECTATOR_MODE(BOOL toggle, Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 * **ped**: 
 

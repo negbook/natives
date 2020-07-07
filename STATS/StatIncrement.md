@@ -9,7 +9,7 @@ void STAT_INCREMENT(Hash statName, float value);
 ```
 
 
-## Parameters
+## 參數
 * **statName**: 
 * **value**: 
 

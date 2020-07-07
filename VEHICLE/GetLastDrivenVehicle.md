@@ -18,4 +18,4 @@ if (PED::IS_PED_IN_ANY_VEHICLE(PLAYER::PLAYER_PED_ID(), 0)) {
 }  
 ```
 
-## Return value
+## 返回值

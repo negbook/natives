@@ -16,6 +16,6 @@ Slow Motion 2: 0.4
 Slow Motion 3: 0.2  
 ```
 
-## Parameters
+## 參數
 * **timeScale**: 
 

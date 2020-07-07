@@ -18,7 +18,7 @@ p5 = usually set to true
 
 [Animations list](https://alexguirre.github.io/animations-list/)
 
-## Parameters
+## 參數
 * **ped**: 
 * **stance**: 
 * **animDictionary**: 

@@ -15,7 +15,7 @@ This native configures the location, size, rotation, normal height, and the diff
 
 All those natives combined they will output something like this: https://i.imgur.com/TC6cku6.png
 
-## Parameters
+## 參數
 * **x**: Grid center x coord.
 * **y**: Grid center y coord.
 * **z**: Grid center z coord.

@@ -17,7 +17,7 @@ Argument must be 0.0f or above 38.0f, or it will be ignored.
 NativeDB Added Parameter 3: int p2
 ```
 
-## Parameters
+## 參數
 * **altitude**: 
 * **p1**: 
 

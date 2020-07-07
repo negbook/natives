@@ -10,7 +10,7 @@ void REMOVE_VEHICLE_CREW_EMBLEM(Vehicle vehicle, int p1);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

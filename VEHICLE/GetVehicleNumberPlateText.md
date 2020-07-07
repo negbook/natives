@@ -12,7 +12,7 @@ char* GET_VEHICLE_NUMBER_PLATE_TEXT(Vehicle vehicle);
 Returns the license plate text from a vehicle.  8 chars maximum.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

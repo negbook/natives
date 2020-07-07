@@ -9,6 +9,6 @@ void RESET_PED_STRAFE_CLIPSET(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 

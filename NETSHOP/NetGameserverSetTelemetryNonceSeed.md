@@ -10,7 +10,7 @@ BOOL _NET_GAMESERVER_SET_TELEMETRY_NONCE_SEED(int p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

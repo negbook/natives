@@ -10,8 +10,8 @@ int _GET_VEHICLE_WEAPON_CAPACITY(Vehicle vehicle, int weaponIndex);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **weaponIndex**: 
 
-## Return value
+## 返回值

@@ -18,10 +18,10 @@ taskFlag:
 
 [Animations list](https://alexguirre.github.io/animations-list/)
 
-## Parameters
+## 參數
 * **entity**: 
 * **animDict**: 
 * **animName**: 
 * **taskFlag**: 
 
-## Return value
+## 返回值

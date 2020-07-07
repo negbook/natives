@@ -14,7 +14,7 @@ From re_drunkdriver:
 Looks like p1 may be a flag, still need to do some research, though.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 * **p2**: 

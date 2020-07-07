@@ -13,6 +13,6 @@ void _HUD_WEAPON_WHEEL_SET_SLOT_HASH(Hash weaponHash);
 Set the active slotIndex in the wheel weapon to the slot associated with the provided Weapon hash
 ```
 
-## Parameters
+## 參數
 * **weaponHash**: 
 

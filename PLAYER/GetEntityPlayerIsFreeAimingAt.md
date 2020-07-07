@@ -13,8 +13,8 @@ Returns TRUE if it found an entity in your crosshair within range of your weapon
 Returns false if no entity found.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **entity**: 
 
-## Return value
+## 返回值

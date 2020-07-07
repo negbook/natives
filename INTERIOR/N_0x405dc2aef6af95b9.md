@@ -12,6 +12,6 @@ void _0x405DC2AEF6AF95B9(Hash roomHashKey);
 Usage: INTERIOR::_0x405DC2AEF6AF95B9(INTERIOR::GET_KEY_FOR_ENTITY_IN_ROOM(PLAYER::PLAYER_PED_ID()));  
 ```
 
-## Parameters
+## 參數
 * **roomHashKey**: 
 

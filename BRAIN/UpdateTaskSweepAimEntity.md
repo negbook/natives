@@ -9,7 +9,7 @@ void UPDATE_TASK_SWEEP_AIM_ENTITY(Ped ped, Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **entity**: 
 

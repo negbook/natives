@@ -12,7 +12,7 @@ void _0xBF4DC1784BE94DFA(Ped ped, BOOL p1, Any hash);
 NativeDB Parameter 2: Hash hash
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 * **hash**: 

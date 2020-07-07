@@ -9,7 +9,7 @@ void SET_DECISION_MAKER(Ped ped, Hash name);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **name**: 
 

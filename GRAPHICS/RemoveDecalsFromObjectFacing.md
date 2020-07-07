@@ -9,7 +9,7 @@ void REMOVE_DECALS_FROM_OBJECT_FACING(Object obj, float x, float y, float z);
 ```
 
 
-## Parameters
+## 參數
 * **obj**: 
 * **x**: 
 * **y**: 

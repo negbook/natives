@@ -9,7 +9,7 @@ void CREATE_MODEL_HIDE_EXCLUDING_SCRIPT_OBJECTS(float x, float y, float z, float
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

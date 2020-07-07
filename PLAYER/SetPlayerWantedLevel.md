@@ -14,7 +14,7 @@ wantedLevel is an integer value representing 0 to 5 stars even though the game s
 disableNoMission-  Disables When Off Mission- appears to always be false  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **wantedLevel**: 
 * **disableNoMission**: 

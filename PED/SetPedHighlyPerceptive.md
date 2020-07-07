@@ -10,7 +10,7 @@ void SET_PED_HIGHLY_PERCEPTIVE(Ped ped, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

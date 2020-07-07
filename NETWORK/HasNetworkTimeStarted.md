@@ -10,4 +10,4 @@ BOOL HAS_NETWORK_TIME_STARTED();
 ```
 
 
-## Return value
+## 返回值

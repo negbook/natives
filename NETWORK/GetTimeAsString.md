@@ -13,7 +13,7 @@ char* GET_TIME_AS_STRING(int time);
 Previously named, '_FORMAT_TIME' for people who can't find it's uses in decompiled scripts.  
 ```
 
-## Parameters
+## 參數
 * **time**: 
 
-## Return value
+## 返回值

@@ -13,6 +13,6 @@ void _SET_PED_SCREAM(Ped ped);
 Assigns some ambient voice to the ped.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 

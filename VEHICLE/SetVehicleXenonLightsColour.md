@@ -15,7 +15,7 @@ Be aware that it only works on xenon lights.
 
 You can find the list of colors and ids here: [_GET_VEHICLE_HEADLIGHTS_COLOUR](#_0x3DFF319A831E0CDB)
 
-## Parameters
+## 參數
 * **vehicle**: The vehicle handle.
 * **color**: The paint index.
 

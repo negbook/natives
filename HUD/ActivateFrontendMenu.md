@@ -22,7 +22,7 @@ Example : Function.Call(Hash.ACTIVATE_FRONTEND_MENU,-1171018317, 0, 42);
 Result : Opens the "Online" tab without pausing the menu, with -1 it opens the map.  
 ```
 
-## Parameters
+## 參數
 * **menuhash**: 
 * **togglePause**: 
 * **component**: 

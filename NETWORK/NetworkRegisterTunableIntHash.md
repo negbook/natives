@@ -14,9 +14,9 @@ NativeDB Parameter 0: Hash contextHash
 NativeDB Parameter 1: Hash nameHash
 ```
 
-## Parameters
+## 參數
 * **contextHash**: 
 * **nameHash**: 
 * **value**: 
 
-## Return value
+## 返回值

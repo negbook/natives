@@ -14,6 +14,6 @@ APP::APP_SET_APP("car");
 APP::APP_SET_APP("dog");  
 ```
 
-## Parameters
+## 參數
 * **appName**: 
 

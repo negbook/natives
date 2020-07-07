@@ -9,4 +9,4 @@ BOOL _0x72EB7BA9B69BF6AB();
 ```
 
 
-## Return value
+## 返回值

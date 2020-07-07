@@ -58,7 +58,7 @@ Full list of speeches and voices names by some spanish shitbag: gist.github.com/
 NativeDB Added Parameter 4: Any p3
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **speechName**: 
 * **speechParam**: 

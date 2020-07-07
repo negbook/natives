@@ -9,7 +9,7 @@ aliases: ["0xACB5DCCA1EC76840","_GET_VEHICLE_HORN_HASH"]
 Hash GET_VEHICLE_DEFAULT_HORN_IGNORE_MODS(Vehicle vehicle);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

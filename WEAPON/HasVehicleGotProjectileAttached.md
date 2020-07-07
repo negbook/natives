@@ -14,10 +14,10 @@ Third Parameter = unsure, but pretty sure it is weapon hash
 Fourth Parameter = unsure, almost always -1  
 ```
 
-## Parameters
+## 參數
 * **driver**: 
 * **vehicle**: 
 * **weaponHash**: 
 * **p3**: 
 
-## Return value
+## 返回值

@@ -9,4 +9,4 @@ float GET_RAIN_LEVEL();
 ```
 
 
-## Return value
+## 返回值

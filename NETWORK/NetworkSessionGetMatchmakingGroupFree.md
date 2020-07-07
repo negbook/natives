@@ -9,7 +9,7 @@ aliases: ["0x56CE820830EF040B","_NETWORK_SESSION_GET_UNK"]
 int NETWORK_SESSION_GET_MATCHMAKING_GROUP_FREE(int p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

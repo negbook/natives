@@ -58,7 +58,7 @@ lockZ:
     Can be 1 but only for MP  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **animDictionary**: 
 * **animationName**: 

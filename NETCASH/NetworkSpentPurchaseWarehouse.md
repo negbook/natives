@@ -10,7 +10,7 @@ void _NETWORK_SPENT_PURCHASE_WAREHOUSE(int amount, Any data, BOOL p2, BOOL p3);
 ```
 
 
-## Parameters
+## 參數
 * **amount**: 
 * **data**: 
 * **p2**: 

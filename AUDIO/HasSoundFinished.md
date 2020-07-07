@@ -9,7 +9,7 @@ BOOL HAS_SOUND_FINISHED(int soundId);
 ```
 
 
-## Parameters
+## 參數
 * **soundId**: 
 
-## Return value
+## 返回值

@@ -10,7 +10,7 @@ BOOL _DOES_VEHICLE_HAVE_RETRACTABLE_WHEELS(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

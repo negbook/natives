@@ -9,7 +9,7 @@ aliases: ["0x32DD916F3F7C9672"]
 Any UGC_GET_CONTENT_LANGUAGE(Any p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

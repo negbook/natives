@@ -17,7 +17,7 @@ Steer bias:
 1.0 = full left  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **value**: 
 

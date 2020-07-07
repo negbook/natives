@@ -13,7 +13,7 @@ void _SET_CAMBERED_WHEELS_DISABLED(Vehicle vehicle, BOOL toggle);
 Disables wheel cambering & hydraulics
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

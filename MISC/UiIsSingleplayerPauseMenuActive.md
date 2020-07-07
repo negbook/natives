@@ -15,4 +15,4 @@ Returns true if the current frontend menu is FE_MENU_VERSION_SP_PAUSE
 U*
 ```
 
-## Return value
+## 返回值

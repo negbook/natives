@@ -9,7 +9,7 @@ void TASK_WANDER_IN_AREA(Ped ped, float x, float y, float z, float radius, float
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **x**: 
 * **y**: 

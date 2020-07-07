@@ -10,7 +10,7 @@ void _SEETHROUGH_SET_COLOR_NEAR(int red, int green, int blue);
 ```
 
 
-## Parameters
+## 參數
 * **red**: 
 * **green**: 
 * **blue**: 

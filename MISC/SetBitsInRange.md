@@ -9,7 +9,7 @@ void SET_BITS_IN_RANGE(int* var, int rangeStart, int rangeEnd, int p3);
 ```
 
 
-## Parameters
+## 參數
 * **var**: 
 * **rangeStart**: 
 * **rangeEnd**: 

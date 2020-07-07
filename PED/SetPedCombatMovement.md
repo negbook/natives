@@ -15,7 +15,7 @@ void SET_PED_COMBAT_MOVEMENT(Ped ped, int combatMovement);
 3 - Suicidal Offensive (Will try to flank enemy in a suicidal attack)  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **combatMovement**: 
 

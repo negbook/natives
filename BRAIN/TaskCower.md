@@ -9,7 +9,7 @@ void TASK_COWER(Ped ped, int duration);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **duration**: 
 

@@ -17,7 +17,7 @@ if ((l_161 == 0) || (l_161 == 2)) {
 }  
 ```
 
-## Parameters
+## 參數
 * **cutsceneEntName**: 
 * **p1**: 
 * **p2**: 

@@ -12,7 +12,7 @@ float ACOS(float p0);
 Returns arccos value of p0.  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

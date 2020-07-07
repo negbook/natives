@@ -19,7 +19,7 @@ p13: 0
 firing_pattern: ${firing_pattern_full_auto}, 0xC6EE6B4C  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **x**: 
 * **y**: 

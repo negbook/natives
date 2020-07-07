@@ -12,7 +12,7 @@ void SET_VEHICLE_BULLDOZER_ARM_POSITION(Vehicle vehicle, float position, BOOL p2
 Sets the arm position of a bulldozer. Position must be a value between 0.0 and 1.0. Ignored when `p2` is set to false, instead incrementing arm position by 0.1 (or 10%).
 
 
-## Parameters
+## 參數
 * **vehicle**:
 * **position**:
 * **p2**:

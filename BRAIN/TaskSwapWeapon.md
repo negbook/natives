@@ -9,7 +9,7 @@ void TASK_SWAP_WEAPON(Ped ped, BOOL p1);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 

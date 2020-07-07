@@ -17,6 +17,6 @@ void SET_VEHICLE_DENSITY_MULTIPLIER_THIS_FRAME(float multiplier);
 
 `1.0` Seems to be the maximum.
 
-## Parameters
+## 參數
 * **multiplier**: 
 

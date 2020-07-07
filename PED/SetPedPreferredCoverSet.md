@@ -10,7 +10,7 @@ void SET_PED_PREFERRED_COVER_SET(Ped ped, Any itemSet);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **itemSet**: 
 

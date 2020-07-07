@@ -9,7 +9,7 @@ float TO_FLOAT(int value);
 ```
 
 
-## Parameters
+## 參數
 * **value**: 
 
-## Return value
+## 返回值

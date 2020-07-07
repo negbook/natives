@@ -10,6 +10,6 @@ void DISABLE_HEAD_BLEND_PALETTE_COLOR(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 

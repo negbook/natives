@@ -13,7 +13,7 @@ From re_prisonvanbreak:
 AI::TASK_GUARD_CURRENT_POSITION(l_DD, 35.0, 35.0, 1);  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

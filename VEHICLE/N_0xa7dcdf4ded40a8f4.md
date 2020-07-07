@@ -9,7 +9,7 @@ void _0xA7DCDF4DED40A8F4(Vehicle vehicle, BOOL p1);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

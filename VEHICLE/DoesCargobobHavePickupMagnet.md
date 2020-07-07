@@ -13,7 +13,7 @@ BOOL DOES_CARGOBOB_HAVE_PICKUP_MAGNET(Vehicle cargobob);
 Returns true only when the magnet is active, will return false if the hook is active  
 ```
 
-## Parameters
+## 參數
 * **cargobob**: 
 
-## Return value
+## 返回值

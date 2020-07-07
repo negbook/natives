@@ -10,11 +10,11 @@ int _CREATE_SYNCHRONIZED_SCENE_2(float x, float y, float z, float radius, Hash o
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 * **radius**: 
 * **object**: 
 
-## Return value
+## 返回值

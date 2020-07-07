@@ -9,4 +9,4 @@ BOOL NETWORK_CAN_SET_WAYPOINT();
 ```
 
 
-## Return value
+## 返回值

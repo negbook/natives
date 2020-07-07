@@ -13,7 +13,7 @@ Only works during nighttime.
 And only if there is a driver in heli.  
 ```
 
-## Parameters
+## 參數
 * **heli**: 
 * **toggle**: 
 * **canBeUsedByAI**: 

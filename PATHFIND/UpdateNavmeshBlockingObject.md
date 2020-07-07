@@ -9,7 +9,7 @@ void UPDATE_NAVMESH_BLOCKING_OBJECT(Any p0, float p1, float p2, float p3, float 
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

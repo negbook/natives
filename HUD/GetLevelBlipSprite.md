@@ -13,4 +13,4 @@ BOOL _GET_LEVEL_BLIP_SPRITE();
 NativeDB Return Type: int
 ```
 
-## Return value
+## 返回值

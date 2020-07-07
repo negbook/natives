@@ -9,7 +9,7 @@ void SET_TRACKED_POINT_INFO(int point, float x, float y, float z, float radius);
 ```
 
 
-## Parameters
+## 參數
 * **point**: 
 * **x**: 
 * **y**: 

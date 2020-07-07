@@ -16,7 +16,7 @@ bool p7 - always 1
 NativeDB Added Parameter 8: Any p7
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 

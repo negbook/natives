@@ -9,6 +9,6 @@ void NETWORK_SUPPRESS_INVITE(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

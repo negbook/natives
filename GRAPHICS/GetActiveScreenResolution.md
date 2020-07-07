@@ -13,7 +13,7 @@ void _GET_ACTIVE_SCREEN_RESOLUTION(int* x, int* y);
 Returns current screen resolution.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 

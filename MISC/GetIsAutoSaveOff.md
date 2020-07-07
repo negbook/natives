@@ -13,4 +13,4 @@ BOOL GET_IS_AUTO_SAVE_OFF();
 Returns true if profile setting 208 is equal to 0.
 ```
 
-## Return value
+## 返回值

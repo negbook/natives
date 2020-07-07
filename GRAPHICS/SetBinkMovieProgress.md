@@ -14,6 +14,6 @@ In percentage: 0.0 - 100.0
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **binkMovie**:
 * **progress**:

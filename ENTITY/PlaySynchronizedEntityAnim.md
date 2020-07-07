@@ -14,7 +14,7 @@ p4 and p7 are usually 1000.0f.
 
 [Animations list](https://alexguirre.github.io/animations-list/)
 
-## Parameters
+## 參數
 * **entity**: 
 * **syncedScene**: 
 * **animation**: 
@@ -24,4 +24,4 @@ p4 and p7 are usually 1000.0f.
 * **p6**: 
 * **p7**: 
 
-## Return value
+## 返回值

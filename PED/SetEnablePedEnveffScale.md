@@ -9,7 +9,7 @@ void SET_ENABLE_PED_ENVEFF_SCALE(Ped ped, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

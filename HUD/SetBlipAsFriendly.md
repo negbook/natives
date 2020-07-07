@@ -13,7 +13,7 @@ false for enemy
 true for friendly  
 ```
 
-## Parameters
+## 參數
 * **blip**: 
 * **toggle**: 
 

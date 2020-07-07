@@ -12,7 +12,7 @@ void SPECIAL_ABILITY_CHARGE_ABSOLUTE(Player player, int p1, BOOL p2);
 p1 appears as 5, 10, 15, 25, or 30. p2 is always true.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **p1**: 
 * **p2**: 

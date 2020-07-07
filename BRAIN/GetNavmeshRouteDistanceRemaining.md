@@ -17,9 +17,9 @@ Looks like the native returns an int for the path's state:
 3 - Finished Generating  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **distRemaining**: 
 * **isPathReady**: 
 
-## Return value
+## 返回值

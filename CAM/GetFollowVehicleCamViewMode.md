@@ -16,4 +16,4 @@ Returns the type of camera:
 4 - First Person  
 ```
 
-## Return value
+## 返回值

@@ -12,8 +12,8 @@ Any UNPIN_ROPE_VERTEX(int ropeId, int vertex);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **ropeId**: 
 * **vertex**: 
 
-## Return value
+## 返回值

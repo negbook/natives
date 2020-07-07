@@ -12,7 +12,7 @@ BOOL _IS_VEHICLE_DAMAGED(Vehicle vehicle);
 Appears to return true if the vehicle has any damage, including cosmetically.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

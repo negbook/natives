@@ -21,7 +21,7 @@ build = func(resourceName: string, cb: func(success: bool, status: string): void
 }
 ```
 
-## Parameters
+## 參數
 * **factoryId**: The identifier for the build task.
 * **factoryFn**: The factory function.
 

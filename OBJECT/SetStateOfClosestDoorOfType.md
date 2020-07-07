@@ -21,7 +21,7 @@ pastebin.com/gywnbzsH
 get door info: pastebin.com/i14rbekD  
 ```
 
-## Parameters
+## 參數
 * **type**: 
 * **x**: 
 * **y**: 

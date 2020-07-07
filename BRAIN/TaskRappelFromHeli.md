@@ -21,7 +21,7 @@ Not all helicopters support rappelling.
 NativeDB Parameter 1: float unused
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **unused**: 
 

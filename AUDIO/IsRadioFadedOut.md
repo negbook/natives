@@ -10,4 +10,4 @@ BOOL IS_RADIO_FADED_OUT();
 ```
 
 
-## Return value
+## 返回值

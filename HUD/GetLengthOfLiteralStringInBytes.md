@@ -13,7 +13,7 @@ int GET_LENGTH_OF_LITERAL_STRING_IN_BYTES(char* string);
 gets the length of a null terminated string, without checking unicode encodings  
 ```
 
-## Parameters
+## 參數
 * **string**: 
 
-## Return value
+## 返回值

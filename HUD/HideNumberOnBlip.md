@@ -9,6 +9,6 @@ void HIDE_NUMBER_ON_BLIP(Blip blip);
 ```
 
 
-## Parameters
+## 參數
 * **blip**: 
 

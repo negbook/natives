@@ -9,7 +9,7 @@ void SET_SEQUENCE_TO_REPEAT(int taskSequenceId, BOOL repeat);
 ```
 
 
-## Parameters
+## 參數
 * **taskSequenceId**: 
 * **repeat**: 
 

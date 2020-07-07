@@ -13,8 +13,8 @@ BOOL IS_TIME_EQUAL_TO(int timeA, int timeB);
 Returns true if the two times are equal; otherwise returns false.  
 ```
 
-## Parameters
+## 參數
 * **timeA**: 
 * **timeB**: 
 
-## Return value
+## 返回值

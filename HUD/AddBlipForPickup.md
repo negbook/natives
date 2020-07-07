@@ -9,7 +9,7 @@ Blip ADD_BLIP_FOR_PICKUP(Pickup pickup);
 ```
 
 
-## Parameters
+## 參數
 * **pickup**: 
 
-## Return value
+## 返回值

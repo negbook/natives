@@ -10,12 +10,12 @@ Blip ADD_BLIP_FOR_COORD(float x, float y, float z);
 
 Creates a blip for the specified coordinates. You can use `SET_BLIP_` natives to change the blip.
 
-## Parameters
+## 參數
 * **x**: The X coordinate to create the blip on.
 * **y**: The Y coordinate.
 * **z**: The Z coordinate.
 
-## Return value
+## 返回值
 A blip handle.
 
 ## Examples

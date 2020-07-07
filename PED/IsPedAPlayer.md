@@ -12,7 +12,7 @@ BOOL IS_PED_A_PLAYER(Ped ped);
 Returns true if the given ped has a valid pointer to CPlayerInfo in its CPed class. That's it.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

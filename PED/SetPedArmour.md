@@ -14,7 +14,7 @@ ped: The Ped to set the armor of.
 amount: A value between 0 and 100 indicating the value to set the Ped's armor to.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **amount**: 
 

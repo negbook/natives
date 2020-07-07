@@ -13,7 +13,7 @@ Retrieves the local player's NetworkHandle* and stores it in the given buffer.
 * Currently unknown struct  
 ```
 
-## Parameters
+## 參數
 * **networkHandle**: 
 * **bufferSize**: 
 

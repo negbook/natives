@@ -9,7 +9,7 @@ BOOL IS_EXPLOSION_IN_AREA(int explosionType, float x1, float y1, float z1, float
 ```
 
 
-## Parameters
+## 參數
 * **explosionType**: 
 * **x1**: 
 * **y1**: 
@@ -18,4 +18,4 @@ BOOL IS_EXPLOSION_IN_AREA(int explosionType, float x1, float y1, float z1, float
 * **y2**: 
 * **z2**: 
 
-## Return value
+## 返回值

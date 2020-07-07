@@ -16,4 +16,4 @@ maps script name (thread + 0xD0) by lookup via scriptfx.dat - does nothing when 
 NativeDB Return Type: void
 ```
 
-## Return value
+## 返回值

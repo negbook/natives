@@ -12,7 +12,7 @@ void SET_ENTITY_VISIBLE(Entity entity, BOOL toggle, BOOL unk);
 unk was always 0.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **toggle**: 
 * **unk**: 

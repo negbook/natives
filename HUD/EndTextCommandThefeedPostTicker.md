@@ -22,9 +22,9 @@ AddTextComponentSubstringPlayerName("Hello " .. GetPlayerName(PlayerId()) .. "."
 EndTextCommandThefeedPostTicker(true, true)
 ```
 
-## Parameters
+## 參數
 * **isImportant**: Makes the notification flash on the screen.
 * **bHasTokens**: Makes the notification appear in the "Pause Menu > Info/Brief > Notifications" section.
 
-## Return value
+## 返回值
 The notification handle.

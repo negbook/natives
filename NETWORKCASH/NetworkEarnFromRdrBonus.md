@@ -12,6 +12,6 @@ void _NETWORK_EARN_FROM_RDR_BONUS(int amount, Any p1);
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **amount**:
 * **p1**:

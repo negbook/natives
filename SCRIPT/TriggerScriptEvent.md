@@ -14,7 +14,7 @@ eventGroup: 0 = CEventGroupScriptAI, 1 = CEventGroupScriptNetwork
 ^^ I'm assuming it's like the rest with this parameter.  
 ```
 
-## Parameters
+## 參數
 * **eventGroup**: 
 * **args**: 
 * **argCount**: 

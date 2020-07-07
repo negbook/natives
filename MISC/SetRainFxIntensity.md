@@ -16,5 +16,5 @@ With an `intensity` of `0.0f` rain and rain sounds are disabled and there won't 
 
 To use the rain intensity of the current weather, call this native with `-1f` as `intensity`.
 
-## Parameters
+## 參數
 * **intensity**: Strength of rain effects

@@ -13,7 +13,7 @@ AI::TASK_SYNCHRONIZED_SCENE(ped, scene, "creatures@rottweiler@in_vehicle@std_car
 Animations List : www.ls-multiplayer.com/dev/index.php?section=3  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **scene**: 
 * **animDictionary**: 

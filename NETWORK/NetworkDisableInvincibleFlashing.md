@@ -22,7 +22,7 @@ NETWORK_DISABLE_INVINCIBLE_FLASHING(pindex, 1);
 }  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 

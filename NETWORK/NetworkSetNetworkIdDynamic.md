@@ -17,7 +17,7 @@ If I were to request and gain control of an online players vehicle then their ve
 So what would be the point hereafter of setting it 'dynamic'?  
 ```
 
-## Parameters
+## 參數
 * **netID**: 
 * **toggle**: 
 

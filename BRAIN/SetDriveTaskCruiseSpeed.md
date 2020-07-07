@@ -9,7 +9,7 @@ void SET_DRIVE_TASK_CRUISE_SPEED(Ped driver, float cruiseSpeed);
 ```
 
 
-## Parameters
+## 參數
 * **driver**: 
 * **cruiseSpeed**: 
 

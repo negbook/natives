@@ -12,4 +12,4 @@ BOOL IS_FRONTEND_FADING();
 This function is hard-coded to always return 0.  
 ```
 
-## Return value
+## 返回值

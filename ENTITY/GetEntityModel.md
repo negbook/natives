@@ -13,7 +13,7 @@ Returns the model hash from the entity
 Sometimes throws an exception, idk what causes it though.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

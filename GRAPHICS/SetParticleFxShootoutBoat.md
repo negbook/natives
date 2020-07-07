@@ -9,6 +9,6 @@ void SET_PARTICLE_FX_SHOOTOUT_BOAT(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

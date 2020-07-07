@@ -13,6 +13,6 @@ void _SET_SAVE_MIGRATION_TRANSACTION_ID(int transactionId);
 Set profile setting 501  
 ```
 
-## Parameters
+## 參數
 * **transactionId**: 
 

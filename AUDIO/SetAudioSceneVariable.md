@@ -9,7 +9,7 @@ void SET_AUDIO_SCENE_VARIABLE(char* scene, char* variable, float value);
 ```
 
 
-## Parameters
+## 參數
 * **scene**: 
 * **variable**: 
 * **value**: 

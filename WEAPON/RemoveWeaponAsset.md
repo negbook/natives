@@ -9,6 +9,6 @@ void REMOVE_WEAPON_ASSET(Hash weaponHash);
 ```
 
 
-## Parameters
+## 參數
 * **weaponHash**: 
 

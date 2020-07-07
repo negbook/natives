@@ -10,7 +10,7 @@ void _EJECT_JB700_ROOF(Vehicle vehicle, float x, float y, float z);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **x**: 
 * **y**: 

@@ -17,7 +17,7 @@ insrwi    r4, r31, 1,28 ;stores p1 as a bit in place 28 idk
 stb       r4, 0x862(r3) ; puts the newly modified one back in  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 

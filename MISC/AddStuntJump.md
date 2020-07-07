@@ -10,7 +10,7 @@ int ADD_STUNT_JUMP(float x1, float y1, float z1, float x2, float y2, float z2, f
 
 See description of [`ADD_STUNT_JUMP_ANGLED`](#_0xBBE5D803A5360CBF) for detailed info. The only difference really is this one does not have the radius (or angle, not sure) floats parameters for entry and landing zones.
 
-## Parameters
+## 參數
 * **x1**: Jump entry left far bottom corner coordinate X.
 * **y1**: Jump entry left far bottom corner coordinate Y.
 * **z1**: Jump entry left far bottom corner coordinate Z.
@@ -30,5 +30,5 @@ See description of [`ADD_STUNT_JUMP_ANGLED`](#_0xBBE5D803A5360CBF) for detailed 
 * **unk2**: Unknown, always 0.
 * **unk3**: Unknown, always 0.
 
-## Return value
+## 返回值
 The ID of the stunt jump that was added.

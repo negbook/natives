@@ -10,7 +10,7 @@ BOOL GET_ENTITY_COLLISION_DISABLED(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

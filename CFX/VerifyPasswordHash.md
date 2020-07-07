@@ -9,8 +9,8 @@ BOOL VERIFY_PASSWORD_HASH(char* password, char* hash);
 ```
 
 
-## Parameters
+## 參數
 * **password**: 
 * **hash**: 
 
-## Return value
+## 返回值

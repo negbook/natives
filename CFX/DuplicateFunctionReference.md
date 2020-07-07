@@ -9,7 +9,7 @@ char* DUPLICATE_FUNCTION_REFERENCE(char* referenceIdentity);
 ```
 
 
-## Parameters
+## 參數
 * **referenceIdentity**: 
 
-## Return value
+## 返回值

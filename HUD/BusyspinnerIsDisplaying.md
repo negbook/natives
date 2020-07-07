@@ -13,4 +13,4 @@ Pickup BUSYSPINNER_IS_DISPLAYING();
 NativeDB Return Type: BOOL
 ```
 
-## Return value
+## 返回值

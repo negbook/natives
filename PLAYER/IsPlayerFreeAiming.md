@@ -12,7 +12,7 @@ BOOL IS_PLAYER_FREE_AIMING(Player player);
 Gets a value indicating whether the specified player is currently aiming freely.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

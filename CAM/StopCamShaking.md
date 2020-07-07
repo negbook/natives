@@ -9,7 +9,7 @@ void STOP_CAM_SHAKING(Cam cam, BOOL p1);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **p1**: 
 

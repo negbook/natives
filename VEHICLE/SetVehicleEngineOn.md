@@ -19,7 +19,7 @@ from what I've tested when I do this to a helicopter the propellers turn off aft
 And what's with BOOL otherwise, what does it do???  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **value**: 
 * **instantly**: 

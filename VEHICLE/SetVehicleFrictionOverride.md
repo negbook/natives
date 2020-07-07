@@ -13,7 +13,7 @@ Seems to be related to the metal parts, not tyres (like i was expecting lol)
 Must be called every tick.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **friction**: 
 

@@ -19,7 +19,7 @@ doorIndex:
 Changed last paramater from CreateDoorObject To NoDoorOnTheFloor because when on false, the door object is created,and not created when on true...the former parameter name was counter intuitive...(by Calderon)  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **doorIndex**: 
 * **deleteDoor**: 

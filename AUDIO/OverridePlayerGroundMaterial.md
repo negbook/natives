@@ -13,7 +13,7 @@ void OVERRIDE_PLAYER_GROUND_MATERIAL(Any hash, BOOL toggle);
 NativeDB Parameter 0: Hash hash
 ```
 
-## Parameters
+## 參數
 * **hash**: 
 * **toggle**: 
 

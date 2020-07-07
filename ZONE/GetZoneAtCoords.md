@@ -9,9 +9,9 @@ int GET_ZONE_AT_COORDS(float x, float y, float z);
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 
-## Return value
+## 返回值

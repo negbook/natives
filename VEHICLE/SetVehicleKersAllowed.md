@@ -10,7 +10,7 @@ void SET_VEHICLE_KERS_ALLOWED(Vehicle vehicle, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

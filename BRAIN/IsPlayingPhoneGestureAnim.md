@@ -9,7 +9,7 @@ BOOL IS_PLAYING_PHONE_GESTURE_ANIM(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

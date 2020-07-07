@@ -12,5 +12,5 @@ void _PLAYSTATS_ARENA_WARS_ENDED(Any* data);
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **data**:

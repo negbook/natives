@@ -12,6 +12,6 @@ void DELETE_PED(Ped* ped);
 Deletes the specified ped, then sets the handle pointed to by the pointer to NULL.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 

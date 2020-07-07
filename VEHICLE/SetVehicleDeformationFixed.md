@@ -12,6 +12,6 @@ void SET_VEHICLE_DEFORMATION_FIXED(Vehicle vehicle);
 This fixes the deformation of a vehicle but the vehicle health doesn't improve  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 

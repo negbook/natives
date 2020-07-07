@@ -12,6 +12,6 @@ BOOL _IS_PLAYLIST_UNK(int tvChannel, Any p1);
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **tvChannel**:
 * **p1**:

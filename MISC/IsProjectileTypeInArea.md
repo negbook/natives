@@ -13,7 +13,7 @@ Determines whether there is a projectile of a specific type within the specified
 Note: This native hasn't been tested yet.  
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 
@@ -23,4 +23,4 @@ Note: This native hasn't been tested yet.
 * **type**: 
 * **p7**: 
 
-## Return value
+## 返回值

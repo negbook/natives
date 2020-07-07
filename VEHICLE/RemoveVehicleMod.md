@@ -9,7 +9,7 @@ void REMOVE_VEHICLE_MOD(Vehicle vehicle, int modType);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **modType**: 
 

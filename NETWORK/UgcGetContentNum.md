@@ -9,4 +9,4 @@ aliases: ["0xE0A6138401BCB837"]
 Any UGC_GET_CONTENT_NUM();
 ```
 
-## Return value
+## 返回值

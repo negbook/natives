@@ -13,7 +13,7 @@ int _GET_TIME_SINCE_LAST_INPUT(int inputGroup);
 The number of milliseconds since last inputGroup registered pressed
 ```
 
-## Parameters
+## 參數
 * **inputGroup**: 
 
-## Return value
+## 返回值

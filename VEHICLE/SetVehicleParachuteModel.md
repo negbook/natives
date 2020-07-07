@@ -13,7 +13,7 @@ void _SET_VEHICLE_PARACHUTE_MODEL(Vehicle vehicle, Hash modelHash);
 parachuteModel = 230075693  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **modelHash**: 
 

@@ -20,8 +20,8 @@ typedef struct
 } headBlendData;  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **headBlendData**: 
 
-## Return value
+## 返回值

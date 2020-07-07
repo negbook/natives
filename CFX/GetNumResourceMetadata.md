@@ -11,8 +11,8 @@ int GET_NUM_RESOURCE_METADATA(char* resourceName, char* metadataKey);
 Gets the amount of metadata values with the specified key existing in the specified resource's manifest.
 See also: [Resource manifest](https://docs.fivem.net/resources/manifest/)
 
-## Parameters
+## 參數
 * **resourceName**: The resource name.
 * **metadataKey**: The key to look up in the resource manifest.
 
-## Return value
+## 返回值

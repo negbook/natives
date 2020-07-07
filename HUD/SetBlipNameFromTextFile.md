@@ -12,7 +12,7 @@ void SET_BLIP_NAME_FROM_TEXT_FILE(Blip blip, char* gxtEntry);
 Doesn't work if the label text of gxtEntry is >= 80.  
 ```
 
-## Parameters
+## 參數
 * **blip**: 
 * **gxtEntry**: 
 

@@ -17,6 +17,6 @@ DELETE_VEHICLE(&vehicle);
 Deletes the specified vehicle, then sets the handle pointed to by the pointer to NULL.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 

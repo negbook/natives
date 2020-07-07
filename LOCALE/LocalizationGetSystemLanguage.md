@@ -10,4 +10,4 @@ int _LOCALIZATION_GET_SYSTEM_LANGUAGE();
 ```
 
 
-## Return value
+## 返回值

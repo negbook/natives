@@ -9,7 +9,7 @@ aliases: ["0xEBD0EDBA5BE957CF"]
 BOOL IS_PED_PERFORMING_DEPENDENT_COMBO_LIMIT(Ped ped);
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

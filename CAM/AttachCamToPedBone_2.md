@@ -12,7 +12,7 @@ void _ATTACH_CAM_TO_PED_BONE_2(Cam cam, Ped ped, int boneIndex, float p3, float 
 NativeDB Introduced: v1180
 ```
 
-## Parameters
+## 參數
 * **cam**:
 * **ped**:
 * **boneIndex**:

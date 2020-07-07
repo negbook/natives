@@ -10,8 +10,8 @@ int NETWORK_GET_PLATFORM_PARTY_MEMBERS(Any* data, int dataSize);
 ```
 
 
-## Parameters
+## 參數
 * **data**: 
 * **dataSize**: 
 
-## Return value
+## 返回值

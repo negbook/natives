@@ -9,6 +9,6 @@ void DELETE_ROPE(int* ropeId);
 ```
 
 
-## Parameters
+## 參數
 * **ropeId**: 
 

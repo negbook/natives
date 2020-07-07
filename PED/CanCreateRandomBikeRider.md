@@ -9,4 +9,4 @@ BOOL CAN_CREATE_RANDOM_BIKE_RIDER();
 ```
 
 
-## Return value
+## 返回值

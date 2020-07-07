@@ -9,4 +9,4 @@ int GET_CUTSCENE_SECTION_PLAYING();
 ```
 
 
-## Return value
+## 返回值

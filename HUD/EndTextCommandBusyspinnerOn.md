@@ -23,6 +23,6 @@ enum LoadingPromptTypes
 };  
 ```
 
-## Parameters
+## 參數
 * **busySpinnerType**: 
 

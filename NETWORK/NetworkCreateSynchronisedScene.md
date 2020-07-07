@@ -8,7 +8,7 @@ ns: NETWORK
 int NETWORK_CREATE_SYNCHRONISED_SCENE(float x, float y, float z, float xRot, float yRot, float zRot, int rotationOrder, BOOL useOcclusionPortal, BOOL looped, float p9, float animTime, float p11);
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -22,5 +22,5 @@ int NETWORK_CREATE_SYNCHRONISED_SCENE(float x, float y, float z, float xRot, flo
 * **animTime**: 
 * **p11**: 
 
-## Return value
+## 返回值
 netScene id

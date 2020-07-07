@@ -9,10 +9,10 @@ Hash GET_HASH_NAME_FOR_PROP(Entity entity, int componentId, int propIndex, int p
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **componentId**: 
 * **propIndex**: 
 * **propTextureIndex**: 
 
-## Return value
+## 返回值

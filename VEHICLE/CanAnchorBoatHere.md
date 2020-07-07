@@ -9,7 +9,7 @@ aliases: ["_GET_BOAT_ANCHOR","_CAN_BOAT_BE_ANCHORED"]
 BOOL CAN_ANCHOR_BOAT_HERE(Vehicle vehicle);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

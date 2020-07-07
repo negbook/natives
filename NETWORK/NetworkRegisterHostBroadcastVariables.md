@@ -12,7 +12,7 @@ void NETWORK_REGISTER_HOST_BROADCAST_VARIABLES(int* vars, int numVars);
 sizeofVars is in bytes  
 ```
 
-## Parameters
+## 參數
 * **vars**: 
 * **numVars**: 
 

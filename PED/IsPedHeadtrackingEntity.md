@@ -9,8 +9,8 @@ BOOL IS_PED_HEADTRACKING_ENTITY(Ped ped, Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **entity**: 
 
-## Return value
+## 返回值

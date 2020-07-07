@@ -15,7 +15,7 @@ Pickup pickup = OBJECT::CREATE_PICKUP_ROTATE(...);
 OBJECT::SET_PICKUP_REGENERATION_TIME(pickup, 600000); // 10mins  
 ```
 
-## Parameters
+## 參數
 * **pickup**: 
 * **duration**: 
 

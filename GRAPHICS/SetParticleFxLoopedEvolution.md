@@ -20,7 +20,7 @@ if (!GRAPHICS::DOES_PARTICLE_FX_LOOPED_EXIST(l_25C7)) {
       }  
 ```
 
-## Parameters
+## 參數
 * **ptfxHandle**: 
 * **propertyName**: 
 * **amount**: 

@@ -21,7 +21,7 @@ if success then
 end
 ```
 
-## Parameters
+## 參數
 * **ped**: The target ped
 * **index**: Overlay index
 * **overlayValue**: Overlay value pointer
@@ -30,5 +30,5 @@ end
 * **secondColour**: Second colour pointer
 * **overlayOpacity**: Opacity pointer
 
-## Return value
+## 返回值
 Returns ped's head overlay data.

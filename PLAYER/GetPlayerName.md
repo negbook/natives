@@ -12,7 +12,7 @@ char* GET_PLAYER_NAME(Player player);
 Returns the players name  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

@@ -33,7 +33,7 @@ Translation table:
 pastebin.com/a39K8Nz8  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 * **ammoCount**: 

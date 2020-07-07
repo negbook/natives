@@ -9,4 +9,4 @@ int GET_NETWORK_TIME();
 ```
 
 
-## Return value
+## 返回值

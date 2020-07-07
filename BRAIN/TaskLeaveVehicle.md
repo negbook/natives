@@ -20,7 +20,7 @@ Flags from decompiled scripts:
 Others to be tried out: 320, 512, 131072.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **vehicle**: 
 * **flags**: 

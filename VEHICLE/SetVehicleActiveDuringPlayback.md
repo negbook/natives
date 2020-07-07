@@ -9,7 +9,7 @@ aliases: ["0xDFFCEF48E511DB48"]
 void SET_VEHICLE_ACTIVE_DURING_PLAYBACK(Vehicle vehicle, BOOL toggle);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

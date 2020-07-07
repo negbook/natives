@@ -10,9 +10,9 @@ BOOL UGC_PUBLISH(char* contentId, char* baseContentId, char* contentTypeName);
 ```
 
 
-## Parameters
+## 參數
 * **contentId**: 
 * **baseContentId**: 
 * **contentTypeName**: 
 
-## Return value
+## 返回值

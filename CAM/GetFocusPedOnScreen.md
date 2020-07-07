@@ -10,7 +10,7 @@ Ped GET_FOCUS_PED_ON_SCREEN(float p0, int p1, float p2, float p3, float p4, floa
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
@@ -21,4 +21,4 @@ Ped GET_FOCUS_PED_ON_SCREEN(float p0, int p1, float p2, float p3, float p4, floa
 * **p7**: 
 * **p8**: 
 
-## Return value
+## 返回值

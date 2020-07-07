@@ -14,9 +14,9 @@ if (GET_PED_CONFIG_FLAG(ped, 78, 1))
 = returns true if ped is aiming/shooting a gun  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **flagId**: 
 * **p2**: 
 
-## Return value
+## 返回值

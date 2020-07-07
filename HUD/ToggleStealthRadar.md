@@ -9,6 +9,6 @@ void TOGGLE_STEALTH_RADAR(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

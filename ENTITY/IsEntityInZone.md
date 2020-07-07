@@ -9,8 +9,8 @@ BOOL IS_ENTITY_IN_ZONE(Entity entity, char* zone);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **zone**: 
 
-## Return value
+## 返回值

@@ -15,10 +15,10 @@ NativeDB Parameter 1: Hash categoryHash
 NativeDB Parameter 2: Hash actionHash
 ```
 
-## Parameters
+## 參數
 * **transactionId**: 
 * **categoryHash**: 
 * **actionHash**: 
 * **flags**: 
 
-## Return value
+## 返回值

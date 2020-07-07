@@ -12,8 +12,8 @@ BOOL DECOR_EXIST_ON(Entity entity, char* propertyName);
 Returns whether or not the specified property is set for the entity.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **propertyName**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ BOOL NETWORK_CLAN_DOWNLOAD_MEMBERSHIP(int* networkHandle);
 ```
 
 
-## Parameters
+## 參數
 * **networkHandle**: 
 
-## Return value
+## 返回值

@@ -12,7 +12,7 @@ Pickup GET_BLIP_INFO_ID_PICKUP_INDEX(Blip blip);
 This function is hard-coded to always return 0.  
 ```
 
-## Parameters
+## 參數
 * **blip**: 
 
-## Return value
+## 返回值

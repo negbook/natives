@@ -9,7 +9,7 @@ void ASSISTED_MOVEMENT_SET_ROUTE_PROPERTIES(char* route, int props);
 ```
 
 
-## Parameters
+## 參數
 * **route**: 
 * **props**: 
 

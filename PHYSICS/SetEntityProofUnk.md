@@ -10,7 +10,7 @@ void _SET_ENTITY_PROOF_UNK(Entity entity, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **toggle**: 
 

@@ -12,7 +12,7 @@ void SET_CAN_RESPRAY_VEHICLE(Vehicle vehicle, BOOL state);
 Hardcoded to not work in multiplayer.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **state**: 
 

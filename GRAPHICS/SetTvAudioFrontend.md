@@ -14,6 +14,6 @@ Rockstar made it like this.
 Probably changes tvs from being a 3d audio to being "global" audio  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

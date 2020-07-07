@@ -24,7 +24,7 @@ Anything higher than 10 seems to be exactly the same as 10. <br>
 <br>
 Rockstar seem to only use 0, 2, 3, 4, 5 and 8 in the decompiled scripts.
 
-## Parameters
+## 參數
 * **blip**: 
 * **displayId**: 
 

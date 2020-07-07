@@ -10,4 +10,4 @@ int NETWORK_GET_RANDOM_INT();
 ```
 
 
-## Return value
+## 返回值

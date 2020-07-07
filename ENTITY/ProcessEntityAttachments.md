@@ -13,6 +13,6 @@ Called to update entity attachments.
 When using ATTACH_ENTITY_TO_ENTITY and using bone '0' then you set the first entity invisible. The attachments will mess up, use bone '-1' to fix that issue  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 

@@ -13,7 +13,7 @@ BOOL _NET_GAMESERVER_CATALOG_ITEM_EXISTS(char* name);
 Belongs in UNK3, non-hashed version of 0x247F0F73A182EA0B  
 ```
 
-## Parameters
+## 參數
 * **name**: 
 
-## Return value
+## 返回值

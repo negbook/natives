@@ -12,7 +12,7 @@ int CEIL(float value);
 I'm guessing this rounds a float value up to the next whole number, and FLOOR rounds it down  
 ```
 
-## Parameters
+## 參數
 * **value**: 
 
-## Return value
+## 返回值

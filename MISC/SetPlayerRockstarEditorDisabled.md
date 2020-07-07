@@ -13,6 +13,6 @@ void _SET_PLAYER_ROCKSTAR_EDITOR_DISABLED(BOOL toggle);
 SET_PLAYER_*
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

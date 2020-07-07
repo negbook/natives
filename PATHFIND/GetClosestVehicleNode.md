@@ -25,7 +25,7 @@ Same with only asphalt road (0, 4, 8, etc) and simple path/asphalt road (1, 5, 9
 gtaforums.com/topic/843561-pathfind-node-types  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -34,4 +34,4 @@ gtaforums.com/topic/843561-pathfind-node-types
 * **p5**: 
 * **p6**: 
 
-## Return value
+## 返回值

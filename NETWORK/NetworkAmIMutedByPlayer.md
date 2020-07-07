@@ -9,7 +9,7 @@ BOOL NETWORK_AM_I_MUTED_BY_PLAYER(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

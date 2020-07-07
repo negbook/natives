@@ -14,9 +14,9 @@ Entity 2 = Attacker
 p2 seems to always be 1  
 ```
 
-## Parameters
+## 參數
 * **entity1**: 
 * **entity2**: 
 * **p2**: 
 
-## Return value
+## 返回值

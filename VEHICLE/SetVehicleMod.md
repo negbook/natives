@@ -45,7 +45,7 @@ Livery
 ENUMS: pastebin.com/QzEAn02v  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **modType**: 
 * **modIndex**: 

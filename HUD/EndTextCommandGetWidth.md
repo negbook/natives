@@ -15,7 +15,7 @@ In scripts, p0 is false when used in combination with "ESMINDOLLA" or "ESDOLLA",
 Returns from range 0 to 1.  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

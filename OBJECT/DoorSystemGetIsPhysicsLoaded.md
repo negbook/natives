@@ -13,7 +13,7 @@ BOOL DOOR_SYSTEM_GET_IS_PHYSICS_LOADED(Any doorHash);
 NativeDB Parameter 0: Hash doorHash
 ```
 
-## Parameters
+## 參數
 * **doorHash**: 
 
-## Return value
+## 返回值

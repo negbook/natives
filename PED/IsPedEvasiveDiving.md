@@ -15,8 +15,8 @@ var num3;
         if (ENTITY::IS_ENTITY_A_VEHICLE(num3) != 0)  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **evadingEntity**: 
 
-## Return value
+## 返回值

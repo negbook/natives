@@ -10,9 +10,9 @@ BOOL BAD_SPORT_PLAYER_LEFT_DETECTED(int* networkHandle, int event, int amountRec
 ```
 
 
-## Parameters
+## 參數
 * **networkHandle**: 
 * **event**: 
 * **amountReceived**: 
 
-## Return value
+## 返回值

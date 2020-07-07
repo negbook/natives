@@ -17,6 +17,6 @@ Related to monster trucks in native scripts.
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **vehicle**:
 * **toggle**:

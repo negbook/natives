@@ -12,7 +12,7 @@ void SET_WANTED_LEVEL_DIFFICULTY(Player player, float difficulty);
 Max value is 1.0  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **difficulty**: 
 

@@ -10,7 +10,7 @@ void FORCE_ROOM_FOR_GAME_VIEWPORT(int interiorID, Hash roomHashKey);
 ```
 
 
-## Parameters
+## 參數
 * **interiorID**: 
 * **roomHashKey**: 
 

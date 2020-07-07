@@ -13,7 +13,7 @@ Detect if ped is in any vehicle
 [True/False]  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

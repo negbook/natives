@@ -13,7 +13,7 @@ Determines whether there is a projectile within the specified coordinates. The c
 ownedByPlayer = only projectiles fired by the player will be detected.  
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 
@@ -22,4 +22,4 @@ ownedByPlayer = only projectiles fired by the player will be detected.
 * **z2**: 
 * **ownedByPlayer**: 
 
-## Return value
+## 返回值

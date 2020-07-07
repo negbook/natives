@@ -35,7 +35,7 @@ Blips with categories `7`, `10` or `11` will all show under the specific categor
 | 11 | Owned Property | `BLIP_APARTCAT` |
 
 
-## Parameters
+## 參數
 * **blip**: The blip to change the category index of
 * **index**: The category index to change to
 

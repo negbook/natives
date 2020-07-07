@@ -9,8 +9,8 @@ float GET_VEHICLE_WHEEL_HEALTH(Vehicle vehicle, int wheelIndex);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **wheelIndex**: 
 
-## Return value
+## 返回值

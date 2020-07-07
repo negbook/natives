@@ -16,7 +16,7 @@ public bool isCopInRange(Vector3 Location, float Range)
         }  
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **x2**: 
 * **y1**: 
@@ -24,4 +24,4 @@ public bool isCopInRange(Vector3 Location, float Range)
 * **z1**: 
 * **z2**: 
 
-## Return value
+## 返回值

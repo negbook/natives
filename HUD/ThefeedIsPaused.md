@@ -13,4 +13,4 @@ BOOL THEFEED_IS_PAUSED();
 Getter for 0xFDB423997FA30340
 ```
 
-## Return value
+## 返回值

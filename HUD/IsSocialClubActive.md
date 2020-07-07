@@ -10,4 +10,4 @@ BOOL IS_SOCIAL_CLUB_ACTIVE();
 ```
 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ void ADD_TEXT_COMPONENT_FLOAT(float value, int decimalPlaces);
 ```
 
 
-## Parameters
+## 參數
 * **value**: 
 * **decimalPlaces**: 
 

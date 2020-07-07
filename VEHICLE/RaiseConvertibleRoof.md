@@ -9,7 +9,7 @@ void RAISE_CONVERTIBLE_ROOF(Vehicle vehicle, BOOL instantlyRaise);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **instantlyRaise**: 
 

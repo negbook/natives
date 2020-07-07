@@ -9,7 +9,7 @@ void _0x6A98C2ECF57FA5D4(Vehicle vehicle, Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **entity**: 
 

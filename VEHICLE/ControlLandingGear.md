@@ -18,7 +18,7 @@ landing gear states:
 3: Retracted  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **state**: 
 

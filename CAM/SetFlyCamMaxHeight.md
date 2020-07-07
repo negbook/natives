@@ -10,7 +10,7 @@ void SET_FLY_CAM_MAX_HEIGHT(Cam cam, float height);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **height**: 
 

@@ -23,7 +23,7 @@ CVehicle *__fastcall sub_140CDAA10(signed int a1, char a2)
 }  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

@@ -10,7 +10,7 @@ void NETWORK_SPENT_FROM_ROCKSTAR(int bank, BOOL p1, BOOL p2);
 ```
 
 
-## Parameters
+## 參數
 * **bank**: 
 * **p1**: 
 * **p2**: 

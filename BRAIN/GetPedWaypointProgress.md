@@ -12,7 +12,7 @@ int GET_PED_WAYPOINT_PROGRESS(Ped ped);
 Returns the progress percent to current waypoint.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

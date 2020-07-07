@@ -9,7 +9,7 @@ void GET_PLAYER_PARACHUTE_PACK_TINT_INDEX(Player player, int* tintIndex);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **tintIndex**: 
 

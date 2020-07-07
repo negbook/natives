@@ -38,7 +38,7 @@ Occurrences in the b617d scripts:
 		else if (AI::IS_SCENARIO_GROUP_ENABLED("BLIMP")) {  
 ```
 
-## Parameters
+## 參數
 * **scenarioGroup**: 
 
-## Return value
+## 返回值

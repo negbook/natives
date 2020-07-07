@@ -13,11 +13,11 @@ BOOL NETWORK_CAN_SPEND_MONEY(Any p0, BOOL p1, BOOL p2, BOOL p3, Any p4);
 NativeDB Added Parameter 6: Any p5
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
 * **p3**: 
 * **p4**: 
 
-## Return value
+## 返回值

@@ -18,6 +18,6 @@ true = turns night vision on for your player.
 false = turns night vision off for your player.  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

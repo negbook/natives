@@ -9,7 +9,7 @@ BOOL ASSISTED_MOVEMENT_IS_ROUTE_LOADED(char* route);
 ```
 
 
-## Parameters
+## 參數
 * **route**: 
 
-## Return value
+## 返回值

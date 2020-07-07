@@ -9,10 +9,10 @@ aliases: ["0xD5A4B59980401588"]
 BOOL UGC_GET_BOOKMARKED_CONTENT(Any p0, Any p1, Any* p2, Any* p3);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
 * **p3**: 
 
-## Return value
+## 返回值

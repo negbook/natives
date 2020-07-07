@@ -9,6 +9,6 @@ void SET_TIMECYCLE_MODIFIER_STRENGTH(float strength);
 ```
 
 
-## Parameters
+## 參數
 * **strength**: 
 

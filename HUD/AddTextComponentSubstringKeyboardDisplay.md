@@ -9,6 +9,6 @@ aliases: ["_ADD_TEXT_COMPONENT_STRING3","_ADD_TEXT_COMPONENT_SCALEFORM"]
 void ADD_TEXT_COMPONENT_SUBSTRING_KEYBOARD_DISPLAY(char* p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

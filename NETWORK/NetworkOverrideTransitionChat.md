@@ -10,6 +10,6 @@ void NETWORK_OVERRIDE_TRANSITION_CHAT(BOOL p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

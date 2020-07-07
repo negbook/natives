@@ -10,11 +10,11 @@ int UGC_REQUEST_CONTENT_DATA_FROM_PARAMS(char* contentTypeName, char* contentId,
 ```
 
 
-## Parameters
+## 參數
 * **contentTypeName**: 
 * **contentId**: 
 * **p2**: 
 * **p3**: 
 * **p4**: 
 
-## Return value
+## 返回值

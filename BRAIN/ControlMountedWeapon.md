@@ -13,7 +13,7 @@ Forces the ped to use the mounted weapon.
 Returns false if task is not possible.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

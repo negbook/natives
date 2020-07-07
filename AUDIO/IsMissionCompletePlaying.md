@@ -9,4 +9,4 @@ BOOL IS_MISSION_COMPLETE_PLAYING();
 ```
 
 
-## Return value
+## 返回值

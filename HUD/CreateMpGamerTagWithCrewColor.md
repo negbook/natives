@@ -10,7 +10,7 @@ void CREATE_MP_GAMER_TAG_WITH_CREW_COLOR(Player player, char* username, BOOL poi
 ```
 
 
-## Parameters
+## 參數
 * **player**: the headDisplayId for the net players is the same as the local id of the ped
 * **username**: 
 * **pointedClanTag**: 

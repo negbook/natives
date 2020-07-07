@@ -12,7 +12,7 @@ BOOL IS_PLAYER_RIDING_TRAIN(Player player);
 Returns true if the player is riding a train.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

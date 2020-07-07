@@ -13,7 +13,7 @@ Player NETWORK_GET_PLAYER_INDEX_FROM_PED(Ped ped);
 Returns the Player associated to a given Ped when in an online session.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

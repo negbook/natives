@@ -9,7 +9,7 @@ void _SET_VEHICLE_ROCKET_BOOST_ACTIVE(Vehicle vehicle, BOOL active);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **active**: 
 

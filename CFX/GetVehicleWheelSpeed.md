@@ -11,9 +11,9 @@ float GET_VEHICLE_WHEEL_SPEED(Vehicle vehicle, int wheelIndex);
 Gets speed of a wheel at the tyre.
 Max number of wheels can be retrieved with the native GET_VEHICLE_NUMBER_OF_WHEELS.
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **wheelIndex**: 
 
-## Return value
+## 返回值
 An integer.

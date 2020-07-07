@@ -24,7 +24,7 @@ ________________________
 NativeDB Added Parameter 4: Any p3
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **painID**: 
 * **p1**: 

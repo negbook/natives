@@ -10,4 +10,4 @@ BOOL GET_IS_PRELOADED_CONVERSATION_READY();
 ```
 
 
-## Return value
+## 返回值

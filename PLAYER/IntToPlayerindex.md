@@ -12,7 +12,7 @@ Player INT_TO_PLAYERINDEX(int value);
 Simply returns whatever is passed to it (Regardless of whether the handle is valid or not).  
 ```
 
-## Parameters
+## 參數
 * **value**: 
 
-## Return value
+## 返回值

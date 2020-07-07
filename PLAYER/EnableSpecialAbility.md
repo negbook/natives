@@ -9,7 +9,7 @@ void ENABLE_SPECIAL_ABILITY(Player player, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 

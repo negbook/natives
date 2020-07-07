@@ -9,7 +9,7 @@ BOOL IS_PED_HANGING_ON_TO_VEHICLE(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

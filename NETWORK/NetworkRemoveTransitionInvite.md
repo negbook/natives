@@ -9,6 +9,6 @@ void NETWORK_REMOVE_TRANSITION_INVITE(Any* p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

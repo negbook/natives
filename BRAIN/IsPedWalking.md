@@ -9,7 +9,7 @@ BOOL IS_PED_WALKING(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

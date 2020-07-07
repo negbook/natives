@@ -12,7 +12,7 @@ Any GET_NTH_CLOSEST_VEHICLE_NODE_ID_WITH_HEADING(float x, float y, float z, int 
 NativeDB Return Type: BOOL
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -23,4 +23,4 @@ NativeDB Return Type: BOOL
 * **p7**: 
 * **p8**: 
 
-## Return value
+## 返回值

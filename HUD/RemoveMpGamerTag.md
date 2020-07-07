@@ -10,6 +10,6 @@ void REMOVE_MP_GAMER_TAG(int gamerTagId);
 ```
 
 
-## Parameters
+## 參數
 * **gamerTagId**: 
 

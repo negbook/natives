@@ -9,7 +9,7 @@ void SET_BLIP_SECONDARY_COLOUR(Blip blip, float r, float g, float b);
 ```
 
 
-## Parameters
+## 參數
 * **blip**: 
 * **r**: 
 * **g**: 

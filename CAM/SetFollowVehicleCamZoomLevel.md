@@ -9,6 +9,6 @@ void SET_FOLLOW_VEHICLE_CAM_ZOOM_LEVEL(int zoomLevel);
 ```
 
 
-## Parameters
+## 參數
 * **zoomLevel**: 
 

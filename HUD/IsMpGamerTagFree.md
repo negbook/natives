@@ -13,7 +13,7 @@ BOOL IS_MP_GAMER_TAG_FREE(int gamerTagId);
 _IS_MP_GAMER_TAG_ACTIVE_2  
 ```
 
-## Parameters
+## 參數
 * **gamerTagId**: 
 
-## Return value
+## 返回值

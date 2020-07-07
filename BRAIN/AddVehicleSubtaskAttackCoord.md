@@ -12,7 +12,7 @@ void ADD_VEHICLE_SUBTASK_ATTACK_COORD(Ped ped, float x, float y, float z);
 x, y, z: offset in world coords from some entity.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **x**: 
 * **y**: 

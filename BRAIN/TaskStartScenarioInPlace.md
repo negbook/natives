@@ -45,7 +45,7 @@ WORLD_VEHICLE_SALTON_DIRT_BIKE
 WORLD_VEHICLE_TRUCK_LOGS  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **scenarioName**: 
 * **unkDelay**: 

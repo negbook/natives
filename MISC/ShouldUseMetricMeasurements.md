@@ -12,7 +12,7 @@ BOOL SHOULD_USE_METRIC_MEASUREMENTS();
 Returns true if the game is using the metric measurement system, false if imperial is used.
 This is what r* uses for the different label types (either ones with miles in them or with km, as well as some other measurement related labels).
 
-## Return value
+## 返回值
 Returns true if the game is using the metric measurement system, false if imperial is used.
 
 ## Examples

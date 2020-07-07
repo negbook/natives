@@ -12,6 +12,6 @@ void FADE_OUT_LOCAL_PLAYER(BOOL p0);
 Hardcoded to not work in SP.  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

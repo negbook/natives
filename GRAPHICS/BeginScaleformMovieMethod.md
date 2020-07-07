@@ -13,8 +13,8 @@ BOOL BEGIN_SCALEFORM_MOVIE_METHOD(int scaleform, char* methodName);
 Push a function from the Scaleform onto the stack  
 ```
 
-## Parameters
+## 參數
 * **scaleform**: 
 * **methodName**: 
 
-## Return value
+## 返回值

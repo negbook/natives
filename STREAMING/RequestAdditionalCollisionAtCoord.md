@@ -12,7 +12,7 @@ void REQUEST_ADDITIONAL_COLLISION_AT_COORD(float x, float y, float z);
 MulleDK19: Alias of REQUEST_COLLISION_AT_COORD.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

@@ -10,7 +10,7 @@ void SEETHROUGH_SET_HEATSCALE(int index, float heatScale);
 ```
 
 
-## Parameters
+## 參數
 * **index**: 
 * **heatScale**: min: 0.0 max: 0.75
 

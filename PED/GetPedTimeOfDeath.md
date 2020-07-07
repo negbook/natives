@@ -16,7 +16,7 @@ There is no way this is the correct name. The only time this is called it's comp
 Retreives [CPed + 15CC] (as of 944)  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

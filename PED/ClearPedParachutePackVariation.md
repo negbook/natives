@@ -9,6 +9,6 @@ aliases: ["0x1280804F7CFD2D6C"]
 void CLEAR_PED_PARACHUTE_PACK_VARIATION(Ped ped);
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 

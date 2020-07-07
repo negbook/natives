@@ -22,9 +22,9 @@ if roomId ~= -1 then
 end
 ```
 
-## Parameters
+## 參數
 * **interiorId**: The target interior.
 * **roomIndex**: Interior room index.
 
-## Return value
+## 返回值
 Room extents.

@@ -13,6 +13,6 @@ void END_TEXT_COMMAND_OVERRIDE_BUTTON_TEXT(BOOL p0);
 NativeDB Parameter 0: int p0
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

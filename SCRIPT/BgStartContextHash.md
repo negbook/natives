@@ -14,5 +14,5 @@ Hashed version of 0x9D5A25BADB742ACD.
 NativeDB Introduced: v323
 ```
 
-## Parameters
+## 參數
 * **contextHash**:

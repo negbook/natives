@@ -9,8 +9,8 @@ BOOL IS_ENTITY_TOUCHING_MODEL(Entity entity, Hash modelHash);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **modelHash**: 
 
-## Return value
+## 返回值

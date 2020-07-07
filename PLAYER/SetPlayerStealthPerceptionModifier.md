@@ -9,7 +9,7 @@ void SET_PLAYER_STEALTH_PERCEPTION_MODIFIER(Player player, float value);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **value**: 
 

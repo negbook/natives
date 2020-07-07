@@ -13,6 +13,6 @@ void SCALEFORM_MOVIE_METHOD_ADD_PARAM_INT(int value);
 Pushes an integer for the Scaleform function onto the stack.  
 ```
 
-## Parameters
+## 參數
 * **value**: 
 

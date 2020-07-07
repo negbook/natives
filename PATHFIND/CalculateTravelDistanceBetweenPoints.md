@@ -13,7 +13,7 @@ Calculates the travel distance between a set of points.
 Doesn't seem to correlate with distance on gps sometimes.  
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 
@@ -21,4 +21,4 @@ Doesn't seem to correlate with distance on gps sometimes.
 * **y2**: 
 * **z2**: 
 
-## Return value
+## 返回值

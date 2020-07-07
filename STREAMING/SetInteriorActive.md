@@ -9,7 +9,7 @@ void SET_INTERIOR_ACTIVE(int interiorID, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **interiorID**: 
 * **toggle**: 
 

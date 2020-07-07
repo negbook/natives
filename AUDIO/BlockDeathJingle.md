@@ -9,6 +9,6 @@ aliases: ["0xF154B8D1775B2DEC"]
 void BLOCK_DEATH_JINGLE(BOOL toggle);
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

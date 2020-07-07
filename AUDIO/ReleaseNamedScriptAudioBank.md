@@ -9,6 +9,6 @@ void RELEASE_NAMED_SCRIPT_AUDIO_BANK(char* audioBank);
 ```
 
 
-## Parameters
+## 參數
 * **audioBank**: 
 

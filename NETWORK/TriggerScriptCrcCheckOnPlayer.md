@@ -14,9 +14,9 @@ p1 = 6
 NETWORK_CRC_HASH_CHECK?  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **p1**: 
 * **scriptHash**: 
 
-## Return value
+## 返回值

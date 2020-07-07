@@ -56,8 +56,8 @@ BoneNames:
 I doubt that the function is case-sensitive, since I found a "Chassis" and a "chassis". - Just tested: Definitely not case-sensitive.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **boneName**: 
 
-## Return value
+## 返回值

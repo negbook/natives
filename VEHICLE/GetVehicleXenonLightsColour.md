@@ -33,10 +33,10 @@ enum headlightColors {
 }
 ```
 
-## Parameters
+## 參數
 * **vehicle**: The vehicle to get the headlight color from.
 
-## Return value
+## 返回值
 Returns an int, value between 0-12 or 255 if no color is set.
 
 

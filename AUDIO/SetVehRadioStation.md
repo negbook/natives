@@ -12,7 +12,7 @@ void SET_VEH_RADIO_STATION(Vehicle vehicle, char* radioStation);
 For a full list, see here: pastebin.com/Kj9t38KF  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **radioStation**: 
 

@@ -10,9 +10,9 @@ char* PROCESS_CASH_GIFT(int* p0, int* p1, char* p2);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
 
-## Return value
+## 返回值

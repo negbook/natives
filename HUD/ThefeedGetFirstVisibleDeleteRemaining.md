@@ -14,4 +14,4 @@ Returns the handle for the notification currently displayed on the screen.
 Name may be a hash collision, but describes the function accurately.
 ```
 
-## Return value
+## 返回值

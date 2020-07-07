@@ -9,7 +9,7 @@ void APPLY_FORCE_TO_ENTITY_CENTER_OF_MASS(Entity entity, int forceType, float x,
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **forceType**: 
 * **x**: 

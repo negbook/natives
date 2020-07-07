@@ -9,6 +9,6 @@ void RELEASE_PRELOAD_MODS(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 

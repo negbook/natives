@@ -15,7 +15,7 @@ BOOL _PED_SKIP_NEXT_RELOADING(Ped ped);
 This native actually disables the reloading animation and script for the specified ped. Native renamed.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

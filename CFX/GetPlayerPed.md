@@ -9,7 +9,7 @@ Entity GET_PLAYER_PED(char* playerSrc);
 ```
 
 
-## Parameters
+## 參數
 * **playerSrc**: 
 
-## Return value
+## 返回值

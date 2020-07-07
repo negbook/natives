@@ -9,7 +9,7 @@ float GET_PHONE_GESTURE_ANIM_TOTAL_TIME(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

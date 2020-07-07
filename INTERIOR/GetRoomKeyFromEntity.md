@@ -12,7 +12,7 @@ Hash GET_ROOM_KEY_FROM_ENTITY(Entity entity);
 Gets the room hash key from the room that the specified entity is in. Each room in every interior has a unique key. Returns 0 if the entity is outside.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

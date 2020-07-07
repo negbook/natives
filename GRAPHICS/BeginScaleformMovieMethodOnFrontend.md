@@ -14,7 +14,7 @@ This can be used when you want to make custom frontend menus, and customize thin
 
 Use [`BEGIN_SCALEFORM_MOVIE_METHOD_ON_FRONTEND_HEADER`](#_0xB9449845F73F5E9C) for header scaleform functions.
 
-## Parameters
+## 參數
 * **functionName**: The function name of the scaleform to call.
 
-## Return value
+## 返回值

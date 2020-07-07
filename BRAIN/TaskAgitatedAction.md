@@ -10,7 +10,7 @@ void _TASK_AGITATED_ACTION(Ped ped, Ped ped2);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **ped2**: 
 

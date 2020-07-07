@@ -9,7 +9,7 @@ void SET_BLIP_FADE(Blip blip, int opacity, int duration);
 ```
 
 
-## Parameters
+## 參數
 * **blip**: 
 * **opacity**: 
 * **duration**: 

@@ -17,8 +17,8 @@ Sets [userID] to the user id of the given player. Returns "**Invalid**" if CPlay
 NativeDB Parameter 1: int* userID
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **userID**: 
 
-## Return value
+## 返回值

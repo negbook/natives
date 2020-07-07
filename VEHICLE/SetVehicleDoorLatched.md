@@ -12,7 +12,7 @@ void SET_VEHICLE_DOOR_LATCHED(Vehicle vehicle, int doorIndex, BOOL forceClose, B
 When lock is false other entities can overwrite it.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **doorIndex**: 
 * **forceClose**: 

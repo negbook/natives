@@ -9,7 +9,7 @@ aliases: ["0xBF09786A7FCAB582"]
 Any UGC_GET_CONTENT_NAME(Any p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

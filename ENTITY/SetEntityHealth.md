@@ -16,7 +16,7 @@ health >= 0
 NativeDB Added Parameter 3: int p2
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **health**: 
 

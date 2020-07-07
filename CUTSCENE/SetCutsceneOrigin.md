@@ -12,7 +12,7 @@ void SET_CUTSCENE_ORIGIN(float x, float y, float z, float p3, int p4);
 p3 could be heading. Needs more research.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

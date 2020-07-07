@@ -38,7 +38,7 @@ axis.
 
 To reset the value, use `RESET_SCRIPT_GFX_ALIGN`.
 
-## Parameters
+## 參數
 * **horizontalAlign**: The horizontal alignment. This can be 67 ('C'), 76 ('L'), or 82 ('R').
 * **verticalAlign**: The vertical alignment. This can be 67 ('C'), 66 ('B'), or 84 ('T').
 

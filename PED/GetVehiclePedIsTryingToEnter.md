@@ -15,7 +15,7 @@ From Calderon
 This is what R* named it, deal with it.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

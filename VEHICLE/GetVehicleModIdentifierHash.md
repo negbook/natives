@@ -17,9 +17,9 @@ Can be used for IS_DLC_VEHICLE_MOD and _0xC098810437312FFF
 NativeDB Return Type: Hash
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **modType**: 
 * **modIndex**: 
 
-## Return value
+## 返回值

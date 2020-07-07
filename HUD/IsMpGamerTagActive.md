@@ -10,7 +10,7 @@ BOOL IS_MP_GAMER_TAG_ACTIVE(int gamerTagId);
 ```
 
 
-## Parameters
+## 參數
 * **gamerTagId**: 
 
-## Return value
+## 返回值

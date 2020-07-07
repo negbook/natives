@@ -9,7 +9,7 @@ int GET_VEHICLE_ROOF_LIVERY(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

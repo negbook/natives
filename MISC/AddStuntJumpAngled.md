@@ -42,7 +42,7 @@ Visualized example in-game:
 Here is a list of almost all of the stunt jumps from GTA V (taken from decompiled scripts): https://pastebin.com/EW1jBPkY
 
 
-## Parameters
+## 參數
 * **x1**: Entry zone bottom left corner x.
 * **y1**: Entry zone bottom left corner y.
 * **z1**: Entry zone bottom left corner z.
@@ -64,7 +64,7 @@ Here is a list of almost all of the stunt jumps from GTA V (taken from decompile
 * **unk2**: always 0
 * **unk3**: always 0
 
-## Return value
+## 返回值
 The ID of the stuntjump that was created.
 
 ## Examples

@@ -13,4 +13,4 @@ BOOL GET_IS_USING_ALTERNATE_DRIVEBY();
 Returns profile setting 225.
 ```
 
-## Return value
+## 返回值

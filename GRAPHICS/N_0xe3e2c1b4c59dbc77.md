@@ -12,6 +12,6 @@ void _0xE3E2C1B4C59DBC77(int unk);
 Sets an unknown value related to timecycles.  
 ```
 
-## Parameters
+## 參數
 * **unk**: 
 

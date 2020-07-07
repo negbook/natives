@@ -12,5 +12,5 @@ void _PLAYSTATS_PEGASAIRCRAFT(Hash modelHash);
 NativeDB Introduced: v1180
 ```
 
-## Parameters
+## 參數
 * **modelHash**:

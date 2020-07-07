@@ -10,7 +10,7 @@ void ADD_TCMODIFIER_OVERRIDE(char* modifierName1, char* modifierName2);
 ```
 
 
-## Parameters
+## 參數
 * **modifierName1**: 
 * **modifierName2**: 
 

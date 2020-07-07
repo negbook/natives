@@ -10,7 +10,7 @@ char* GET_PLAYER_ADVANCED_MODIFIER_PRIVILEGES(int p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

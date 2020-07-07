@@ -9,7 +9,7 @@ void GET_VEHICLE_EXTRA_COLOURS(Vehicle vehicle, int* pearlescentColor, int* whee
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **pearlescentColor**: 
 * **wheelColor**: 

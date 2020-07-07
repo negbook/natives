@@ -9,7 +9,7 @@ void SET_PED_STEERS_AROUND_VEHICLES(Ped ped, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

@@ -15,7 +15,7 @@ If keepInMemory is true, all path nodes will be loaded and be kept in memory; ot
 August 29, 2017: This native has been removed in v1180.  
 ```
 
-## Parameters
+## 參數
 * **keepInMemory**: 
 
-## Return value
+## 返回值

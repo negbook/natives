@@ -13,4 +13,4 @@ Gets the number of players in the current session.
 If not multiplayer, always returns 1.
 ```
 
-## Return value
+## 返回值

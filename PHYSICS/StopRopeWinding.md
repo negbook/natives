@@ -9,6 +9,6 @@ void STOP_ROPE_WINDING(int ropeId);
 ```
 
 
-## Parameters
+## 參數
 * **ropeId**: 
 

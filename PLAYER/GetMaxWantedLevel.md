@@ -13,4 +13,4 @@ Gets the maximum wanted level the player can get.
 Ranges from 0 to 5.  
 ```
 
-## Return value
+## 返回值

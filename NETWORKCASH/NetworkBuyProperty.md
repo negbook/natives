@@ -12,7 +12,7 @@ void NETWORK_BUY_PROPERTY(float propertyCost, Hash propertyName, BOOL p2, BOOL p
 NativeDB Parameter 0: int propertyCost
 ```
 
-## Parameters
+## 參數
 * **propertyCost**: 
 * **propertyName**: 
 * **p2**: 

@@ -10,10 +10,10 @@ BOOL _NETWORK_SEND_PRESENCE_INVITE(int* networkHandle, Any* p1, Any p2, Any p3);
 ```
 
 
-## Parameters
+## 參數
 * **networkHandle**: 
 * **p1**: 
 * **p2**: 
 * **p3**: 
 
-## Return value
+## 返回值

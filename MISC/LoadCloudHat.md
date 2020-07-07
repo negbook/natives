@@ -32,7 +32,7 @@ The following cloudhats are useable:
 "Wispy"
 ```
 
-## Parameters
+## 參數
 * **name**: 
 * **transitionTime**: 
 

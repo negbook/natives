@@ -20,8 +20,8 @@ End Function
 		Note: -821520672 = VEHICLE_WEAPON_PLANE_ROCKET  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 
-## Return value
+## 返回值

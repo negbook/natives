@@ -12,7 +12,7 @@ void SET_RENDER_TRAIN_AS_DERAILED(Vehicle train, BOOL toggle);
 makes the train all jumbled up and derailed as it moves on the tracks (though that wont stop it from its normal operations)  
 ```
 
-## Parameters
+## 參數
 * **train**: 
 * **toggle**: 
 

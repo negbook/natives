@@ -10,7 +10,7 @@ void SET_VEHICLE_DISABLE_TOWING(Vehicle vehicle, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

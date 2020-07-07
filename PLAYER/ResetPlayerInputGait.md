@@ -9,6 +9,6 @@ void RESET_PLAYER_INPUT_GAIT(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 

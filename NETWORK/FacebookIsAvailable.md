@@ -10,4 +10,4 @@ BOOL _FACEBOOK_IS_AVAILABLE();
 ```
 
 
-## Return value
+## 返回值

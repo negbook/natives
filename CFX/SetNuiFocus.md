@@ -9,7 +9,7 @@ void SET_NUI_FOCUS(BOOL hasFocus, BOOL hasCursor);
 ```
 
 
-## Parameters
+## 參數
 * **hasFocus**: 
 * **hasCursor**: 
 

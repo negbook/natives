@@ -9,6 +9,6 @@ void RESET_GROUP_FORMATION_DEFAULT_SPACING(int groupHandle);
 ```
 
 
-## Parameters
+## 參數
 * **groupHandle**: 
 

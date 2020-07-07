@@ -10,7 +10,7 @@ BOOL _NETWORK_CAN_PLAY_MULTIPLAYER_WITH_GAMER(Any* networkHandle);
 ```
 
 
-## Parameters
+## 參數
 * **networkHandle**: 
 
-## Return value
+## 返回值

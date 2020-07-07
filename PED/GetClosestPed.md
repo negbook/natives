@@ -39,7 +39,7 @@ This function only work if the ped is:
 Note: PED::GET_PED_NEARBY_PEDS works for more peds.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -51,4 +51,4 @@ Note: PED::GET_PED_NEARBY_PEDS works for more peds.
 * **p8**: 
 * **pedType**: 
 
-## Return value
+## 返回值

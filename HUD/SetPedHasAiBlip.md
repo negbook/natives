@@ -25,7 +25,7 @@ Note: Everything said at the bottom is only valid for persistant peds, as AI bli
 You can change an AI blip's type with UI::0xE52B8E7F85D39A08(Ped ped, int type) (_SET_AI_BLIP_TYPE).  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **hasCone**: 
 

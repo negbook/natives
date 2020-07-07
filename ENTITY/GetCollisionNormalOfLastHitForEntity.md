@@ -9,7 +9,7 @@ Vector3 GET_COLLISION_NORMAL_OF_LAST_HIT_FOR_ENTITY(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

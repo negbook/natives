@@ -40,7 +40,7 @@ Native.Function.Call(Native.Hash._SET_PED_FACE_FEATURE, FreemodePed, Index, Scal
 End Sub  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **index**: 
 * **scale**: 

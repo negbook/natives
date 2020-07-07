@@ -12,4 +12,4 @@ Any GET_SNOW_LEVEL();
 NativeDB Return Type: float
 ```
 
-## Return value
+## 返回值

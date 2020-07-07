@@ -9,8 +9,8 @@ Ped GET_LAST_PED_IN_VEHICLE_SEAT(Vehicle vehicle, int seatIndex);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **seatIndex**: 
 
-## Return value
+## 返回值

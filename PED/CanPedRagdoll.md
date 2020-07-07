@@ -13,7 +13,7 @@ Prevents the ped from going limp.
 [Example: Can prevent peds from falling when standing on moving vehicles.]  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

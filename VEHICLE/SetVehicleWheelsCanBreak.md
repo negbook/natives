@@ -12,8 +12,8 @@ Any SET_VEHICLE_WHEELS_CAN_BREAK(Vehicle vehicle, BOOL enabled);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **enabled**: 
 
-## Return value
+## 返回值

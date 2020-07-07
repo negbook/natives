@@ -13,7 +13,7 @@ char* UGC_GET_ROOT_CONTENT_ID(int p0);
 Return the root content id of a job.
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

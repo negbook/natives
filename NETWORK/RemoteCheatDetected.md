@@ -15,4 +15,4 @@ NativeDB Added Parameter 2: int a
 NativeDB Added Parameter 3: int b
 ```
 
-## Return value
+## 返回值

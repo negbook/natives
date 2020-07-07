@@ -15,6 +15,6 @@ modifierName - The modifier to load (e.g. "V_FIB_IT3", "scanline_cam", etc.)
 For a full list, see here: pastebin.com/kVPwMemE  
 ```
 
-## Parameters
+## 參數
 * **modifierName**: 
 

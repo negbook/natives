@@ -9,7 +9,7 @@ float GET_RESOURCE_KVP_FLOAT(char* key);
 ```
 
 
-## Parameters
+## 參數
 * **key**: 
 
-## Return value
+## 返回值

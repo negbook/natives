@@ -14,7 +14,7 @@ If the function fails, returns "Unknown".
 Could be task (sequence) name. Needs more research.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

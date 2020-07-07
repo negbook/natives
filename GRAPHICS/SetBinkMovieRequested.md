@@ -12,5 +12,5 @@ int _SET_BINK_MOVIE_REQUESTED(char* name);
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **name**:

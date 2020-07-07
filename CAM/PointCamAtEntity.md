@@ -12,7 +12,7 @@ void POINT_CAM_AT_ENTITY(Cam cam, Entity entity, float p2, float p3, float p4, B
 p5 always seems to be 1 i.e TRUE  
 ```
 
-## Parameters
+## 參數
 * **cam**: 
 * **entity**: 
 * **p2**: 

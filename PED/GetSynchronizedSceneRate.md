@@ -9,7 +9,7 @@ float GET_SYNCHRONIZED_SCENE_RATE(int sceneID);
 ```
 
 
-## Parameters
+## 參數
 * **sceneID**: 
 
-## Return value
+## 返回值

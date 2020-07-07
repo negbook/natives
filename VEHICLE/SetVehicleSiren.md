@@ -12,7 +12,7 @@ void SET_VEHICLE_SIREN(Vehicle vehicle, BOOL toggle);
 Activate siren on vehicle (Only works if the vehicle has a siren).  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

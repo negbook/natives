@@ -13,7 +13,7 @@ void _SET_BLIP_SQUARED_ROTATION(Blip p0, float heading);
 Does not require whole whole number/integer rotations.
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **heading**: 
 

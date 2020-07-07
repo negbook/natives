@@ -9,7 +9,7 @@ Any _0x1F3F018BC3AFA77C(float p0, float p1, float p2, float p3, float p4, float 
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
@@ -20,4 +20,4 @@ Any _0x1F3F018BC3AFA77C(float p0, float p1, float p2, float p3, float p4, float 
 * **p7**: 
 * **p8**: 
 
-## Return value
+## 返回值

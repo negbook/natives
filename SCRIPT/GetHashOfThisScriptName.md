@@ -10,4 +10,4 @@ Hash GET_HASH_OF_THIS_SCRIPT_NAME();
 ```
 
 
-## Return value
+## 返回值

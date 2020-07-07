@@ -9,4 +9,4 @@ aliases: ["0x769951E2455E2EB5"]
 Any UGC_GET_CONTENT_TOTAL();
 ```
 
-## Return value
+## 返回值

@@ -10,8 +10,8 @@ BOOL IS_INTERIOR_ENTITY_SET_ACTIVE(int interior, char* entitySetName);
 ```
 
 
-## Parameters
+## 參數
 * **interior**: 
 * **entitySetName**: 
 
-## Return value
+## 返回值

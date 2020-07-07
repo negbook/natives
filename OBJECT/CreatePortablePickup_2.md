@@ -13,7 +13,7 @@ Pickup _CREATE_PORTABLE_PICKUP_2(Hash pickupHash, float x, float y, float z, BOO
 CREATE_*
 ```
 
-## Parameters
+## 參數
 * **pickupHash**: 
 * **x**: 
 * **y**: 
@@ -21,4 +21,4 @@ CREATE_*
 * **placeOnGround**: 
 * **modelHash**: 
 
-## Return value
+## 返回值

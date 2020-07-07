@@ -12,7 +12,7 @@ Object NET_TO_OBJ(int netHandle);
 gets the object id of a network id  
 ```
 
-## Parameters
+## 參數
 * **netHandle**: 
 
-## Return value
+## 返回值

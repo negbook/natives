@@ -12,7 +12,7 @@ void DRAW_SCALEFORM_MOVIE_FULLSCREEN(int scaleform, int red, int green, int blue
 unk is not used so no need  
 ```
 
-## Parameters
+## 參數
 * **scaleform**: 
 * **red**: 
 * **green**: 

@@ -12,6 +12,6 @@ void _0xED3C76ADFA6D07C4(Ped ped);
 FORCE_*
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 

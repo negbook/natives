@@ -13,6 +13,6 @@ void ENABLE_CLOWN_BLOOD_VFX(BOOL toggle);
 Creates cartoon effect when Michel smokes the weed  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

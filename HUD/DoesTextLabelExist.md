@@ -12,7 +12,7 @@ BOOL DOES_TEXT_LABEL_EXIST(char* gxt);
 Checks if the passed gxt name exists in the game files.  
 ```
 
-## Parameters
+## 參數
 * **gxt**: 
 
-## Return value
+## 返回值

@@ -12,9 +12,9 @@ Any SET_VEHICLE_AUTOMATICALLY_ATTACHES(Vehicle vehicle, BOOL p1, Any p2);
 Please change to void.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 * **p2**: 
 
-## Return value
+## 返回值

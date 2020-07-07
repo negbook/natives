@@ -10,9 +10,9 @@ BOOL NETWORK_ACCESS_TUNABLE_INT_HASH(Hash tunableContext, Hash tunableName, int*
 ```
 
 
-## Parameters
+## 參數
 * **tunableContext**: 
 * **tunableName**: 
 * **value**: 
 
-## Return value
+## 返回值

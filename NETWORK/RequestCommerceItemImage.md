@@ -10,7 +10,7 @@ BOOL REQUEST_COMMERCE_ITEM_IMAGE(int index);
 ```
 
 
-## Parameters
+## 參數
 * **index**: 
 
-## Return value
+## 返回值

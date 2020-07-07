@@ -9,6 +9,6 @@ void SET_AI_MELEE_WEAPON_DAMAGE_MODIFIER(float modifier);
 ```
 
 
-## Parameters
+## 參數
 * **modifier**: 
 

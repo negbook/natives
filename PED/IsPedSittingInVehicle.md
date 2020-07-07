@@ -13,8 +13,8 @@ Detect if ped is sitting in the specified vehicle
 [True/False]  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **vehicle**: 
 
-## Return value
+## 返回值

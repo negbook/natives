@@ -16,7 +16,7 @@ Seems to only appear in scripts used in Singleplayer. p1 ranges from 2 - 46.
 I assume this switches the crime type  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **p1**: 
 

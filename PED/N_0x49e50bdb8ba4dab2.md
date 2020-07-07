@@ -12,7 +12,7 @@ void _0x49E50BDB8BA4DAB2(Ped ped, BOOL toggle);
 SET_PED_ALLOW*
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

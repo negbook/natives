@@ -12,7 +12,7 @@ void _0xE05F6AEEFEB0BB02(Any p0, Any p1, Any p2);
 NativeDB Introduced: v1180
 ```
 
-## Parameters
+## 參數
 * **p0**:
 * **p1**:
 * **p2**:

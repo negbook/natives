@@ -9,8 +9,8 @@ int DECOR_GET_INT(Entity entity, char* propertyName);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **propertyName**: 
 
-## Return value
+## 返回值

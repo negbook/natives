@@ -19,7 +19,7 @@ p9 = 7, but no idea what it does
 Entity is an entity to ignore  
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 
@@ -31,4 +31,4 @@ Entity is an entity to ignore
 * **entity**: 
 * **p9**: 
 
-## Return value
+## 返回值

@@ -19,7 +19,7 @@ Works independently from the player-placed waypoint and blip routes.
 
 ![](https://i.imgur.com/ZZHQatX.png)
 
-## Parameters
+## 參數
 * **hudColor**: The HUD color of the GPS path.
 * **routeFromPlayer**: Makes the GPS draw a path from the player to the next point, rather than the original path from the previous point.
 * **displayOnFoot**: Draws the GPS path regardless if the player is in a vehicle or not.

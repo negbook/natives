@@ -13,7 +13,7 @@ from armenian3.c4
 AI::TASK_PUT_PED_DIRECTLY_INTO_MELEE(PlayerPed, armenianPed, 0.0, -1.0, 0.0, 0);  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **meleeTarget**: 
 * **p2**: 

@@ -12,7 +12,7 @@ void TASK_PARACHUTE_TO_TARGET(Ped ped, float x, float y, float z);
 makes ped parachute to coords x y z. Works well with PATHFIND::GET_SAFE_COORD_FOR_PED  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **x**: 
 * **y**: 

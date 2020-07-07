@@ -9,4 +9,4 @@ int GET_FOLLOW_PED_CAM_ZOOM_LEVEL();
 ```
 
 
-## Return value
+## 返回值

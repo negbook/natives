@@ -14,6 +14,6 @@ Disables the radio station (hides it from the radio wheel).
 NativeDB Introduced: v1493
 ```
 
-## Parameters
+## 參數
 * **radioStationName**:
 * **toggle**:

@@ -9,7 +9,7 @@ aliases: ["0x3C891A251567DFCE"]
 Any NETWORK_QUERY_RESPAWN_RESULTS(Any* p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

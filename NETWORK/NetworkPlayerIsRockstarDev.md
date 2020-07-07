@@ -16,7 +16,7 @@ R* now checks with the is_dlc_present native for the dlc hash 2532323046,
 if that is present it will unlock dev stuff.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

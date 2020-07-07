@@ -17,7 +17,7 @@ Depending on the angle of approach, the vehicle can park at the specified headin
 Radius seems to define how close the vehicle has to be -after parking- to the position for this task considered completed. If the value is too small, the vehicle will try to park again until it's exactly where it should be. 20.0 Works well but lower values don't, like the radius is measured in centimeters or something.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **vehicle**: 
 * **x**: 

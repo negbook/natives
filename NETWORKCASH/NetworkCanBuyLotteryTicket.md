@@ -12,5 +12,5 @@ BOOL NETWORK_CAN_BUY_LOTTERY_TICKET(int cost);
 NativeDB Introduced: v323
 ```
 
-## Parameters
+## 參數
 * **cost**:

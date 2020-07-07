@@ -9,7 +9,7 @@ aliases: ["0x685D5561680D088B"]
 void SET_CARGOBOB_PICKUP_MAGNET_FALLOFF(Vehicle vehicle, float p1);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

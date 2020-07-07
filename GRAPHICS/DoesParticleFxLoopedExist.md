@@ -9,7 +9,7 @@ BOOL DOES_PARTICLE_FX_LOOPED_EXIST(int ptfxHandle);
 ```
 
 
-## Parameters
+## 參數
 * **ptfxHandle**: 
 
-## Return value
+## 返回值

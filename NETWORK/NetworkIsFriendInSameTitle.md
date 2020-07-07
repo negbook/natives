@@ -12,7 +12,7 @@ BOOL NETWORK_IS_FRIEND_IN_SAME_TITLE(char* friendName);
 In scripts R* calls 'NETWORK_GET_FRIEND_NAME' in this param.  
 ```
 
-## Parameters
+## 參數
 * **friendName**: 
 
-## Return value
+## 返回值

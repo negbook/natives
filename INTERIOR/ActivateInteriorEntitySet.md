@@ -13,7 +13,7 @@ void ACTIVATE_INTERIOR_ENTITY_SET(int interior, char* entitySetName);
 More info: http://gtaforums.com/topic/836367-adding-props-to-interiors/  
 ```
 
-## Parameters
+## 參數
 * **interior**: 
 * **entitySetName**: 
 

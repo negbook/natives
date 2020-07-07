@@ -9,7 +9,7 @@ Vector3 GET_SCRIPTED_COVER_POINT_COORDS(ScrHandle coverpoint);
 ```
 
 
-## Parameters
+## 參數
 * **coverpoint**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ BOOL IS_AMBIENT_ZONE_ENABLED(char* ambientZone);
 ```
 
 
-## Parameters
+## 參數
 * **ambientZone**: 
 
-## Return value
+## 返回值

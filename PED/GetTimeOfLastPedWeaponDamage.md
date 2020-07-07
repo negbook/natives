@@ -17,8 +17,8 @@ GET_TIME_SINCE_???
 NativeDB Parameter 1: Hash weaponHash
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 
-## Return value
+## 返回值

@@ -9,9 +9,9 @@ aliases: ["0xC38DC1E90D22547C"]
 BOOL LEADERBOARDS2_READ_RANK_PREDICTION(Any* p0, Any* p1, Any* p2);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
 
-## Return value
+## 返回值

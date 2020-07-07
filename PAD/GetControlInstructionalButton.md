@@ -25,9 +25,9 @@ gtaforums.com/topic/819070-c-draw-instructional-buttons-scaleform-movie/#entry10
 NativeDB Parameter 2: BOOL p2
 ```
 
-## Parameters
+## 參數
 * **inputGroup**: 
 * **control**: 
 * **p2**: 
 
-## Return value
+## 返回值

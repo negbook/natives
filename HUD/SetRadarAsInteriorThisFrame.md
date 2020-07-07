@@ -13,7 +13,7 @@ List of interior hashes: pastebin.com/1FUyXNqY
 Not for every interior zoom > 0 available.  
 ```
 
-## Parameters
+## 參數
 * **interior**: 
 * **x**: 
 * **y**: 

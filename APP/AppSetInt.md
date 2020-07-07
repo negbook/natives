@@ -9,7 +9,7 @@ void APP_SET_INT(char* property, int value);
 ```
 
 
-## Parameters
+## 參數
 * **property**: 
 * **value**: 
 

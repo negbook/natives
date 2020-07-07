@@ -12,7 +12,7 @@ void SET_CAM_SPLINE_DURATION(Cam cam, int timeDuration);
 I named p1 as timeDuration as it is obvious. I'm assuming tho it is ran in ms(Milliseconds) as usual.  
 ```
 
-## Parameters
+## 參數
 * **cam**: 
 * **timeDuration**: 
 

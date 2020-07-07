@@ -9,7 +9,7 @@ aliases: ["0x7CF0448787B23758","_GET_CONTENT_DESCRIPTION_HASH"]
 int UGC_GET_CONTENT_DESCRIPTION_HASH(Any p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

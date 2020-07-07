@@ -13,7 +13,7 @@ void _SET_MP_GAMER_HEALTH_BAR_MAX(int gamerTagId, int value, int maximumValue);
 NativeDB Introduced: v1365
 ```
 
-## Parameters
+## 參數
 * **gamerTagId**:
 * **value**:
 * **maximumValue**:

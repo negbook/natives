@@ -10,6 +10,6 @@ void _PLAYSTATS_DUPE_DETECTION(Any* data);
 ```
 
 
-## Parameters
+## 參數
 * **data**: 
 

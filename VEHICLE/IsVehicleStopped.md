@@ -12,7 +12,7 @@ BOOL IS_VEHICLE_STOPPED(Vehicle vehicle);
 MulleDK19: Returns true if the vehicle's speed is equal to, or less than 0.02 meters per second, or 0.05 meters per second, if the vehicle's handbrake is engaged.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

@@ -16,4 +16,4 @@ Unloads rope textures for all ropes in the current scene.
 NativeDB Return Type: void
 ```
 
-## Return value
+## 返回值

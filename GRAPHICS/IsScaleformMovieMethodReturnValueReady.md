@@ -28,8 +28,8 @@ if (GRAPHICS::IS_SCALEFORM_MOVIE_METHOD_RETURN_VALUE_READY(l_45)) {
 }  
 ```
 
-## Parameters
+## 參數
 * **method_return**: The return value of this native: `EndScaleformMovieMethodReturn`
 
-## Return value
+## 返回值
 Returns true if the return value of a scaleform function is ready to be collected

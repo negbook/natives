@@ -9,7 +9,7 @@ int GET_WEAPON_OBJECT_TINT_INDEX(Object weapon);
 ```
 
 
-## Parameters
+## 參數
 * **weapon**: 
 
-## Return value
+## 返回值

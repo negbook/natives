@@ -13,7 +13,7 @@ void SET_MP_GAMER_TAG_WANTED_LEVEL(int gamerTagId, int wantedlvl);
 displays wanted star above head  
 ```
 
-## Parameters
+## 參數
 * **gamerTagId**: 
 * **wantedlvl**: 
 

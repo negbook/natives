@@ -14,4 +14,4 @@ Returns true if profile setting 901 is set to true and sets it to false.
 NETWORK_C*
 ```
 
-## Return value
+## 返回值

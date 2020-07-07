@@ -9,8 +9,8 @@ BOOL _0x0EDE326D47CD0F3E(Ped ped, Player player);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **player**: 
 
-## Return value
+## 返回值

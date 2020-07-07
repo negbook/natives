@@ -12,7 +12,7 @@ void SET_VEHICLE_DOORS_SHUT(Vehicle vehicle, BOOL closeInstantly);
 Closes all doors of a vehicle:  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **closeInstantly**: 
 

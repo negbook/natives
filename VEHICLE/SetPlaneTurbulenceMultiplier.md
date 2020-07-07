@@ -15,7 +15,7 @@ This native sets the turbulence multiplier. It only works for planes.
 
 Works by just calling it once, does not need to be called every tick.
 
-## Parameters
+## 參數
 * **vehicle**: The plane to set the multiplier for
 * **multiplier**: The turbulence multiplier. Value between 0.0 and 1.0
 

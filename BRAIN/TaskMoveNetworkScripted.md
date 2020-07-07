@@ -14,7 +14,7 @@ Used only once in the scripts (am_mp_nightclub)
 NativeDB Introduced: v1493
 ```
 
-## Parameters
+## 參數
 * **ped**:
 * **p1**:
 * **data**:

@@ -19,8 +19,8 @@ Eg. _CLAMP_GAMEPLAY_CAM_PITCH(0.0f, 0.0f) will set the vertical angle directly b
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **minimum**: 
 * **maximum**: 
 
-## Return value
+## 返回值

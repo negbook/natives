@@ -12,7 +12,7 @@ float GET_ENTITY_SUBMERGED_LEVEL(Entity entity);
 Get how much of the entity is submerged.  1.0f is whole entity.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

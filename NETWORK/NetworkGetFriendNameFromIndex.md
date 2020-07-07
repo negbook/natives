@@ -10,7 +10,7 @@ char* _NETWORK_GET_FRIEND_NAME_FROM_INDEX(int friendIndex);
 ```
 
 
-## Parameters
+## 參數
 * **friendIndex**: 
 
-## Return value
+## 返回值

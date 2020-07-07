@@ -12,7 +12,7 @@ void DRAW_DEBUG_TEXT_2D(char* text, float x, float y, float z, int red, int gree
 NOTE: Debugging functions are not present in the retail version of the game.  
 ```
 
-## Parameters
+## 參數
 * **text**: 
 * **x**: 
 * **y**: 

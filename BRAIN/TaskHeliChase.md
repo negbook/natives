@@ -15,7 +15,7 @@ x,y,z appear to be how close to the EntityToFollow the heli should be. Scripts u
 NOTE: If the pilot finds enemies, it will engage them, then remain there idle, not continuing to chase the Entity given.  
 ```
 
-## Parameters
+## 參數
 * **pilot**: 
 * **entityToFollow**: 
 * **x**: 

@@ -13,8 +13,8 @@ int END_TEXT_COMMAND_THEFEED_POST_TICKER_FORCED(BOOL isImportant, BOOL bHasToken
 Removes all game feed posts and unfreezes (see 0xFDB423997FA30340) CGameStreamMgr
 ```
 
-## Parameters
+## 參數
 * **isImportant**: 
 * **bHasTokens**: 
 
-## Return value
+## 返回值

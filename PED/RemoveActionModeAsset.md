@@ -9,6 +9,6 @@ void REMOVE_ACTION_MODE_ASSET(char* asset);
 ```
 
 
-## Parameters
+## 參數
 * **asset**: 
 

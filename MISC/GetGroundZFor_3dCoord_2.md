@@ -13,11 +13,11 @@ BOOL _GET_GROUND_Z_FOR_3D_COORD_2(float x, float y, float z, float* groundZ, BOO
 NativeDB Added Parameter 6: BOOL p5
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 * **groundZ**: 
 * **p4**: 
 
-## Return value
+## 返回值

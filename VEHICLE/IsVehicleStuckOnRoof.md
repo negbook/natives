@@ -9,7 +9,7 @@ BOOL IS_VEHICLE_STUCK_ON_ROOF(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

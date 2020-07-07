@@ -15,6 +15,6 @@ AUDIO::_1654F24A88A8E3FE("RADIO_16_SILVERLAKE");
 AUDIO::_1654F24A88A8E3FE("RADIO_01_CLASS_ROCK");  
 ```
 
-## Parameters
+## 參數
 * **radioStation**: 
 

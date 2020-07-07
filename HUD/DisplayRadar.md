@@ -16,7 +16,7 @@ If Minimap / Radar should be displayed.
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 
-## Return value
+## 返回值

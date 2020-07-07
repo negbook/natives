@@ -12,8 +12,8 @@ int GET_TIME_DIFFERENCE(int timeA, int timeB);
 Subtracts the second argument from the first.  
 ```
 
-## Parameters
+## 參數
 * **timeA**: 
 * **timeB**: 
 
-## Return value
+## 返回值

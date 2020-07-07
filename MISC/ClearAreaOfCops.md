@@ -12,7 +12,7 @@ void CLEAR_AREA_OF_COPS(float x, float y, float z, float radius, int flags);
 flags appears to always be 0
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

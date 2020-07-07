@@ -9,7 +9,7 @@ int GET_VEHICLE_NUMBER_OF_WHEELS(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

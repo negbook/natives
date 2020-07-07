@@ -10,7 +10,7 @@ int GET_NUMBER_OF_FREE_STACKS_OF_THIS_SIZE(int stackSize);
 ```
 
 
-## Parameters
+## 參數
 * **stackSize**: 
 
-## Return value
+## 返回值

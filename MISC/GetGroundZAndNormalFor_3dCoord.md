@@ -9,11 +9,11 @@ aliases: ["0x8BDC7BFC57A81E76","_GET_GROUND_Z_COORD_WITH_OFFSETS"]
 BOOL GET_GROUND_Z_AND_NORMAL_FOR_3D_COORD(float x, float y, float z, float* groundZ, Vector3* normal);
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 * **groundZ**: 
 * **normal**: 
 
-## Return value
+## 返回值

@@ -12,7 +12,7 @@ void _SET_ENTITY_COORDS_2(Entity entity, float xPos, float yPos, float zPos, BOO
 does the same as SET_ENTITY_COORDS.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **xPos**: 
 * **yPos**: 

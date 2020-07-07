@@ -23,6 +23,6 @@ This doesn't need to be called every tick, just once and the vehicle will transf
 Once this native is used then players will just be able to hit the vehicle transform key to toggle the transformation cycle; it won't block users from using the key.
 
 
-## Parameters
+## 參數
 * **vehicle**: The vehicle (a deluxo or oppressor2).
 * **state**: The transform state (value between 0.0 and 1.0).

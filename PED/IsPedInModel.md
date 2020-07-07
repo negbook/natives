@@ -9,8 +9,8 @@ BOOL IS_PED_IN_MODEL(Ped ped, Hash modelHash);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **modelHash**: 
 
-## Return value
+## 返回值

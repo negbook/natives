@@ -10,7 +10,7 @@ void SET_TV_CHANNEL_PLAYLIST_AT_HOUR(int tvChannel, char* playlistName, int hour
 ```
 
 
-## Parameters
+## 參數
 * **tvChannel**: 
 * **playlistName**: 
 * **hour**: 

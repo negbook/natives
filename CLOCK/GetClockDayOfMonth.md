@@ -9,4 +9,4 @@ int GET_CLOCK_DAY_OF_MONTH();
 ```
 
 
-## Return value
+## 返回值

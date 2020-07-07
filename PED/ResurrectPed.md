@@ -15,6 +15,6 @@ Instead, before calling this function, you may want to declare the position, whe
 Also, disabling any assigned task immediately helped in the number of scenarios, where If you want peds to perform certain decided tasks.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 

@@ -13,11 +13,11 @@ BOOL UGC_CREATE_MISSION(char* contentName, char* description, char* tagsCsv, cha
 NOTE: 'p1' might be some kind of array.  
 ```
 
-## Parameters
+## 參數
 * **contentName**: 
 * **description**: 
 * **tagsCsv**: 
 * **contentTypeName**: 
 * **publish**: 
 
-## Return value
+## 返回值

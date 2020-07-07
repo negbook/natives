@@ -15,10 +15,10 @@ int Global_1837683_f_404 = GlobalVariable::Get(1837683 + 404);
 NETWORK_INVITE_GAMERS(&Global_1837683, Global_1837683_f_404, 0, 0);  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
 * **p3**: 
 
-## Return value
+## 返回值

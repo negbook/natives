@@ -13,7 +13,7 @@ void _SET_ENABLE_ARENA_PROP_PHYSICS_ON_PED(Entity entity, BOOL p1, int p2, Ped p
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **entity**:
 * **p1**:
 * **p2**:

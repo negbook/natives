@@ -10,7 +10,7 @@ int GET_VEHICLE_DOORS_LOCKED_FOR_PLAYER(Vehicle vehicle);
 
 Currently it only works when set to "all players".
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

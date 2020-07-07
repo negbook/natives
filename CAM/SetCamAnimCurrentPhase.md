@@ -9,7 +9,7 @@ void SET_CAM_ANIM_CURRENT_PHASE(Cam cam, float phase);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **phase**: 
 

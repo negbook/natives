@@ -13,10 +13,10 @@ float _GET_HEIGHTMAP_TOP_Z_FOR_AREA(float x1, float y1, float x2, float y2);
 Returns CGameWorldHeightMap's maximum Z among all grid nodes that intersect with the specified rectangle.
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **x2**: 
 * **y2**: 
 
-## Return value
+## 返回值

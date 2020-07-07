@@ -12,4 +12,4 @@ int NETWORK_GET_MAX_FRIENDS();
 On PC this is hardcoded to 250.  
 ```
 
-## Return value
+## 返回值

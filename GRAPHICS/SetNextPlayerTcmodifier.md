@@ -13,6 +13,6 @@ void SET_NEXT_PLAYER_TCMODIFIER(char* modifierName);
 Something to do with timecycles.  
 ```
 
-## Parameters
+## 參數
 * **modifierName**: 
 

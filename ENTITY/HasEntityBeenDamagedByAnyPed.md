@@ -9,7 +9,7 @@ BOOL HAS_ENTITY_BEEN_DAMAGED_BY_ANY_PED(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

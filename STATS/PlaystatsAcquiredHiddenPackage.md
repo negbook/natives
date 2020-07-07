@@ -10,6 +10,6 @@ void PLAYSTATS_ACQUIRED_HIDDEN_PACKAGE(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

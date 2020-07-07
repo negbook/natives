@@ -37,9 +37,9 @@ _0xF633805A(&membership, 35, &handle.netHandle);
 }  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **clanMembership**: 
 * **p2**: 
 
-## Return value
+## 返回值

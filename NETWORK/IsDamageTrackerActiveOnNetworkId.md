@@ -9,7 +9,7 @@ BOOL IS_DAMAGE_TRACKER_ACTIVE_ON_NETWORK_ID(int netID);
 ```
 
 
-## Parameters
+## 參數
 * **netID**: 
 
-## Return value
+## 返回值

@@ -16,7 +16,7 @@ p8 = 0, p9 = 1, p10 = 0
 This method can also take two float<3> instead of 6 floats.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **originX**: 
 * **originY**: 
@@ -29,4 +29,4 @@ This method can also take two float<3> instead of 6 floats.
 * **p9**: 
 * **p10**: 
 
-## Return value
+## 返回值

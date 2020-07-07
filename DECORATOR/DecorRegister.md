@@ -62,7 +62,7 @@ enum eDecorType
 };  
 ```
 
-## Parameters
+## 參數
 * **propertyName**: 
 * **type**: 
 

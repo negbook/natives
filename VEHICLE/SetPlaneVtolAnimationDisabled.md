@@ -12,6 +12,6 @@ void _SET_PLANE_VTOL_ANIMATION_DISABLED(Vehicle vehicle, float direction);
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **vehicle**:
 * **direction**:

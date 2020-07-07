@@ -9,8 +9,8 @@ int SHIFT_RIGHT(int value, int bitShift);
 ```
 
 
-## Parameters
+## 參數
 * **value**: 
 * **bitShift**: 
 
-## Return value
+## 返回值

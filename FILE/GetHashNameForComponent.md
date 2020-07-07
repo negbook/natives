@@ -9,10 +9,10 @@ Hash GET_HASH_NAME_FOR_COMPONENT(Entity entity, int componentId, int drawableVar
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **componentId**: 
 * **drawableVariant**: 
 * **textureVariant**: 
 
-## Return value
+## 返回值

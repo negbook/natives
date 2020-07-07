@@ -9,7 +9,7 @@ BOOL DOES_GROUP_EXIST(int groupId);
 ```
 
 
-## Parameters
+## 參數
 * **groupId**: 
 
-## Return value
+## 返回值

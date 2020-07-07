@@ -9,7 +9,7 @@ BOOL NETWORK_HAS_CONTROL_OF_DOOR(Hash doorHash);
 ```
 
 
-## Parameters
+## 參數
 * **doorHash**: 
 
-## Return value
+## 返回值

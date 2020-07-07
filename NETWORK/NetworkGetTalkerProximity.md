@@ -9,4 +9,4 @@ float NETWORK_GET_TALKER_PROXIMITY();
 ```
 
 
-## Return value
+## 返回值

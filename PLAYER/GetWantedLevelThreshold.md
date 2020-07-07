@@ -12,7 +12,7 @@ int GET_WANTED_LEVEL_THRESHOLD(int wantedLevel);
 Drft  
 ```
 
-## Parameters
+## 參數
 * **wantedLevel**: 
 
-## Return value
+## 返回值

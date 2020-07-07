@@ -14,8 +14,8 @@ IS_VEHICLE_BUMPER_HANGING_OFF
 Not sure what the actual name is but this checks if the bumper of a vehicle is hanging off. It will return true if it is hanging, false if it falls off and false if it is not hanging off.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **frontBumper**: 
 
-## Return value
+## 返回值

@@ -12,7 +12,7 @@ void EXPLODE_PROJECTILES(Ped ped, Hash weaponHash, BOOL p2);
 WEAPON::EXPLODE_PROJECTILES(PLAYER::PLAYER_PED_ID(), func_221(0x00000003), 0x00000001);  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 * **p2**: 

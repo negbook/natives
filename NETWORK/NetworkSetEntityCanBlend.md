@@ -9,7 +9,7 @@ void NETWORK_SET_ENTITY_CAN_BLEND(Entity entity, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **toggle**: 
 

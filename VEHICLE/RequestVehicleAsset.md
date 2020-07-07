@@ -16,7 +16,7 @@ submersible
 blazer  
 ```
 
-## Parameters
+## 參數
 * **vehicleHash**: 
 * **vehicleAsset**: 
 

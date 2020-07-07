@@ -9,6 +9,6 @@ aliases: ["0x3F52E880AAF6C8CA"]
 void NETWORK_SESSION_SET_MATCHMAKING_PROPERTY_ID(BOOL p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

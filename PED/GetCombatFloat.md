@@ -38,8 +38,8 @@ p1:
 16=OptimalCoverDistance  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 
-## Return value
+## 返回值

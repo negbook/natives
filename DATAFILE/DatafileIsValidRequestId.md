@@ -9,7 +9,7 @@ aliases: ["0xFCCAE5B92A830878"]
 BOOL DATAFILE_IS_VALID_REQUEST_ID(int index);
 ```
 
-## Parameters
+## 參數
 * **index**: 
 
-## Return value
+## 返回值

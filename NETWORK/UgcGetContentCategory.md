@@ -9,7 +9,7 @@ aliases: ["0xA7BAB11E7C9C6C5A","_GET_CONTENT_CATEGORY"]
 int UGC_GET_CONTENT_CATEGORY(int p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

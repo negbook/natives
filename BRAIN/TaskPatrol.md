@@ -27,7 +27,7 @@ From the scripts
     AI::CREATE_PATROL_ROUTE();  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 * **p2**: 

@@ -9,7 +9,7 @@ BOOL IS_PLAYBACK_GOING_ON_FOR_VEHICLE(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

@@ -9,4 +9,4 @@ BOOL IS_AIM_CAM_ACTIVE();
 ```
 
 
-## Return value
+## 返回值

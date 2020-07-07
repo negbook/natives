@@ -12,7 +12,7 @@ void _NETWORK_SPENT_ARENA_SPECTATOR_BOX(int amount, Any p1, BOOL p2, BOOL p3);
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **amount**:
 * **p1**:
 * **p2**:

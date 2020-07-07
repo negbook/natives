@@ -9,6 +9,6 @@ aliases: ["0xCEF214315D276FD1","_SET_IS_IN_TOURNAMENT"]
 void FLAG_PLAYER_CONTEXT_IN_TOURNAMENT(BOOL toggle);
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

@@ -9,4 +9,4 @@ int GET_CURRENT_SCRIPTED_CONVERSATION_LINE();
 ```
 
 
-## Return value
+## 返回值

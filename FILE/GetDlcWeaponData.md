@@ -33,8 +33,8 @@ char upperCaseNameLabel[64];
 };  
 ```
 
-## Parameters
+## 參數
 * **dlcWeaponIndex**: 
 * **outData**: 
 
-## Return value
+## 返回值

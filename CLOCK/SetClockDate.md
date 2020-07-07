@@ -9,7 +9,7 @@ void SET_CLOCK_DATE(int day, int month, int year);
 ```
 
 
-## Parameters
+## 參數
 * **day**: 
 * **month**: 
 * **year**: 

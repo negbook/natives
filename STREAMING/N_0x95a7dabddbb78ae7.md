@@ -9,7 +9,7 @@ void _0x95A7DABDDBB78AE7(char* iplName1, char* iplName2);
 ```
 
 
-## Parameters
+## 參數
 * **iplName1**: 
 * **iplName2**: 
 

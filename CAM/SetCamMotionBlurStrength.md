@@ -9,7 +9,7 @@ void SET_CAM_MOTION_BLUR_STRENGTH(Cam cam, float strength);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **strength**: 
 

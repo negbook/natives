@@ -18,7 +18,7 @@ uint speedZone = Function.Call<uint>((Hash) 0x2CE544C68FB812A0, Game.PlayerPed.P
 What is the point in adding a speed zone? Does it just generally affect the speed NPCs will drive? I can imagine running this on every section of the interstate setting it to 3 MPH rip.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -26,4 +26,4 @@ What is the point in adding a speed zone? Does it just generally affect the spee
 * **speed**: 
 * **p5**: 
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ void ADD_TEXT_COMPONENT_INTEGER(int value);
 ```
 
 
-## Parameters
+## 參數
 * **value**: 
 

@@ -12,7 +12,7 @@ int PED_TO_NET(Ped ped);
 gets the network id of a ped  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ void SPECIAL_ABILITY_DEACTIVATE(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 

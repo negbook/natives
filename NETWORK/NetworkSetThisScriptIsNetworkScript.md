@@ -12,7 +12,7 @@ void NETWORK_SET_THIS_SCRIPT_IS_NETWORK_SCRIPT(int lobbySize, BOOL p1, int playe
 p1 is always 0  
 ```
 
-## Parameters
+## 參數
 * **lobbySize**: 
 * **p1**: 
 * **playerId**: 

@@ -9,6 +9,6 @@ void SET_MINIMAP_BLOCK_WAYPOINT(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

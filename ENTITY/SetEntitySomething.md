@@ -26,7 +26,7 @@ return ((flag & (1 << 3)) != 0) || ((flag & (1 << 30)) != 0);
 wot ?  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **toggle**: 
 

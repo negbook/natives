@@ -21,7 +21,7 @@ This is weird, because in memory atleast on xbox360 it stores it from testing wi
 The above is more then likely true for the native's return, but if you were to skip using the native it's a bit weird it returns different results.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

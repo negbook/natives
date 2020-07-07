@@ -12,7 +12,7 @@ Object GET_OBJECT_INDEX_FROM_ENTITY_INDEX(Entity entity);
 Simply returns whatever is passed to it (Regardless of whether the handle is valid or not).  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

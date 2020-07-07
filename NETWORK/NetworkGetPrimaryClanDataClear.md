@@ -10,4 +10,4 @@ Any NETWORK_GET_PRIMARY_CLAN_DATA_CLEAR();
 ```
 
 
-## Return value
+## 返回值

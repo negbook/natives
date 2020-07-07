@@ -10,7 +10,7 @@ void REMOVE_POP_MULTIPLIER_AREA(int id, BOOL p1);
 ```
 
 
-## Parameters
+## 參數
 * **id**: 
 * **p1**: 
 

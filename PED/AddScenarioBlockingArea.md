@@ -9,7 +9,7 @@ int ADD_SCENARIO_BLOCKING_AREA(float x1, float y1, float z1, float x2, float y2,
 ```
 
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 
@@ -21,4 +21,4 @@ int ADD_SCENARIO_BLOCKING_AREA(float x1, float y1, float z1, float x2, float y2,
 * **p8**: 
 * **p9**: 
 
-## Return value
+## 返回值

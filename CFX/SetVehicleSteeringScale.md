@@ -9,7 +9,7 @@ void SET_VEHICLE_STEERING_SCALE(Vehicle vehicle, float scale);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **scale**: 
 

@@ -10,4 +10,4 @@ BOOL _FACEBOOK_DO_UNK_CHECK();
 ```
 
 
-## Return value
+## 返回值

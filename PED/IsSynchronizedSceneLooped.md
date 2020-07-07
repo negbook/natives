@@ -9,7 +9,7 @@ BOOL IS_SYNCHRONIZED_SCENE_LOOPED(int sceneID);
 ```
 
 
-## Parameters
+## 參數
 * **sceneID**: 
 
-## Return value
+## 返回值

@@ -19,9 +19,9 @@ bool __fastcall sub_7FF6C56CE684(__int64 a1, _DWORD *a2)
 Found At: 7ff6c56ce684  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 * **p2**: 
 
-## Return value
+## 返回值

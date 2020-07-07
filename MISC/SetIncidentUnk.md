@@ -13,7 +13,7 @@ void _SET_INCIDENT_UNK(int incidentId, float p1);
 SET_INCIDENT_*
 ```
 
-## Parameters
+## 參數
 * **incidentId**: 
 * **p1**: 
 

@@ -9,7 +9,7 @@ void DRAW_SCALEFORM_MOVIE_FULLSCREEN_MASKED(int scaleform1, int scaleform2, int 
 ```
 
 
-## Parameters
+## 參數
 * **scaleform1**: 
 * **scaleform2**: 
 * **red**: 

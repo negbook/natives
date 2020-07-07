@@ -9,7 +9,7 @@ aliases: ["0xA9240A96C74CCA13"]
 BOOL UGC_GET_CONTENT_IS_VERIFIED(Any p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

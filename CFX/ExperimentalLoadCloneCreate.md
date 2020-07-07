@@ -10,9 +10,9 @@ Entity EXPERIMENTAL_LOAD_CLONE_CREATE(char* data, int objectId, char* tree);
 
 This native is not implemented.
 
-## Parameters
+## 參數
 * **data**: 
 * **objectId**: 
 * **tree**: 
 
-## Return value
+## 返回值

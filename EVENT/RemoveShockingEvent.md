@@ -9,7 +9,7 @@ BOOL REMOVE_SHOCKING_EVENT(ScrHandle event);
 ```
 
 
-## Parameters
+## 參數
 * **event**: 
 
-## Return value
+## 返回值

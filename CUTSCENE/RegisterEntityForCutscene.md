@@ -9,7 +9,7 @@ void REGISTER_ENTITY_FOR_CUTSCENE(Ped cutscenePed, char* cutsceneEntName, int p2
 ```
 
 
-## Parameters
+## 參數
 * **cutscenePed**: 
 * **cutsceneEntName**: 
 * **p2**: 

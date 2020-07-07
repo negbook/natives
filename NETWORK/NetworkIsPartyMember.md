@@ -17,7 +17,7 @@ h t t p ://i.imgur.com/m2ci1mF.png
 h t t p://i.imgur.com/Z0Wx2B6.png  
 ```
 
-## Parameters
+## 參數
 * **networkHandle**: 
 
-## Return value
+## 返回值

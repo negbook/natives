@@ -9,7 +9,7 @@ BOOL IS_WEAPON_VALID(Hash weaponHash);
 ```
 
 
-## Parameters
+## 參數
 * **weaponHash**: 
 
-## Return value
+## 返回值

@@ -13,7 +13,7 @@ void NETWORK_EARN_FROM_AMBIENT_JOB(int p0, char* p1, Any* p2);
 Example for p1: "AM_DISTRACT_COPS"  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

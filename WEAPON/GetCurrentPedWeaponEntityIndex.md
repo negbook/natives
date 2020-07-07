@@ -9,7 +9,7 @@ Entity GET_CURRENT_PED_WEAPON_ENTITY_INDEX(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

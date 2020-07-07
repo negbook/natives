@@ -12,7 +12,7 @@ BOOL DOES_ROPE_EXIST(int* ropeId);
 Ptr is correct  
 ```
 
-## Parameters
+## 參數
 * **ropeId**: 
 
-## Return value
+## 返回值

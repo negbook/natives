@@ -9,6 +9,6 @@ void SET_NOISEOVERIDE(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

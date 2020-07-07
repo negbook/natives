@@ -13,7 +13,7 @@ void SET_BOAT_SINKS_WHEN_WRECKED(Vehicle vehicle, Vehicle toggle);
 NativeDB Parameter 1: BOOL toggle
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

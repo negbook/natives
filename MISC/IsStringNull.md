@@ -9,7 +9,7 @@ BOOL IS_STRING_NULL(char* string);
 ```
 
 
-## Parameters
+## 參數
 * **string**: 
 
-## Return value
+## 返回值

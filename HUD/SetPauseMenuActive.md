@@ -9,6 +9,6 @@ void SET_PAUSE_MENU_ACTIVE(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

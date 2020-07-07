@@ -14,7 +14,7 @@ Gets the heading of the entity physics in degrees, which tends to be more accura
 NOTE: The name and description of this native are based on independent research. If you find this native to be more suitable under a different name and/or described differently, please feel free to do so.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

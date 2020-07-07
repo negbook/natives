@@ -30,7 +30,7 @@ strncpy(g_szScriptName, l_pThread->m_szScriptName, 64);
 }  
 ```
 
-## Parameters
+## 參數
 * **threadId**: 
 
-## Return value
+## 返回值

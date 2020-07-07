@@ -9,6 +9,6 @@ void TERMINATE_THREAD(int threadId);
 ```
 
 
-## Parameters
+## 參數
 * **threadId**: 
 

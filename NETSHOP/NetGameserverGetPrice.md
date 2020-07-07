@@ -13,9 +13,9 @@ int _NET_GAMESERVER_GET_PRICE(Hash itemHash, Hash categoryHash, BOOL p2);
 bool is always true in game scripts  
 ```
 
-## Parameters
+## 參數
 * **itemHash**: 
 * **categoryHash**: 
 * **p2**: 
 
-## Return value
+## 返回值

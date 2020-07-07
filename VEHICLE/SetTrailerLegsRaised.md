@@ -13,6 +13,6 @@ void SET_TRAILER_LEGS_RAISED(Vehicle vehicle);
 Also related to the attachment strength of the trailer (e.g., only detaching on negative health).
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 

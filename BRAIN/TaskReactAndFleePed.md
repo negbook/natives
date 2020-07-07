@@ -9,7 +9,7 @@ void TASK_REACT_AND_FLEE_PED(Ped ped, Ped fleeTarget);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **fleeTarget**: 
 

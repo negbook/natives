@@ -15,6 +15,6 @@ NETWORK_HANDLE_FROM_PLAYER(selectedPlayer, &playerHandle, 13);
 NETWORK_SHOW_PROFILE_UI(&playerHandle);  
 ```
 
-## Parameters
+## 參數
 * **networkHandle**: 
 

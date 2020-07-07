@@ -10,7 +10,7 @@ void GOLF_TRAIL_SET_TESSELLATION(int p0, int p1);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

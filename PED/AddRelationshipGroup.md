@@ -12,8 +12,8 @@ Any ADD_RELATIONSHIP_GROUP(char* name, Hash* groupHash);
 Can't select void. This function returns nothing. The hash of the created relationship group is output in the second parameter.  
 ```
 
-## Parameters
+## 參數
 * **name**: 
 * **groupHash**: 
 
-## Return value
+## 返回值

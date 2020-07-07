@@ -10,7 +10,7 @@ BOOL NETWORK_IS_DOOR_NETWORKED(Hash doorHash);
 ```
 
 
-## Parameters
+## 參數
 * **doorHash**: 
 
-## Return value
+## 返回值

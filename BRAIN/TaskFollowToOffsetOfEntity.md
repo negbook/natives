@@ -14,7 +14,7 @@ p7 always 10.0
 p8 always 1  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **entity**: 
 * **offsetX**: 

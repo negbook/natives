@@ -9,7 +9,7 @@ BOOL IS_AMBIENT_SPEECH_PLAYING(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

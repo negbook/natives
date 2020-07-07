@@ -9,7 +9,7 @@ BOOL IS_AN_ENTITY(int handle);
 ```
 
 
-## Parameters
+## 參數
 * **handle**: 
 
-## Return value
+## 返回值

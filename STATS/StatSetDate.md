@@ -21,10 +21,10 @@ int millisecond
 The decompiled scripts use TIME::GET_POSIX_TIME to fill this structure.  
 ```
 
-## Parameters
+## 參數
 * **statName**: 
 * **value**: 
 * **numFields**: 
 * **save**: 
 
-## Return value
+## 返回值

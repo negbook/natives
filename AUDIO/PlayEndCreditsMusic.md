@@ -9,6 +9,6 @@ void PLAY_END_CREDITS_MUSIC(BOOL play);
 ```
 
 
-## Parameters
+## 參數
 * **play**: 
 

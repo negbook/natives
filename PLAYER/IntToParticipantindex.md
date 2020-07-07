@@ -14,7 +14,7 @@ Simply returns whatever is passed to it (Regardless of whether the handle is val
 if (NETWORK::NETWORK_IS_PARTICIPANT_ACTIVE(PLAYER::INT_TO_PARTICIPANTINDEX(i)))  
 ```
 
-## Parameters
+## 參數
 * **value**: 
 
-## Return value
+## 返回值

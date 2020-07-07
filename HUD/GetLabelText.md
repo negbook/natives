@@ -12,7 +12,7 @@ char* _GET_LABEL_TEXT(char* labelName);
 Gets a string literal from a label name.  
 ```
 
-## Parameters
+## 參數
 * **labelName**: 
 
-## Return value
+## 返回值

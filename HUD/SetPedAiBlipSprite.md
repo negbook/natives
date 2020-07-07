@@ -10,7 +10,7 @@ void _SET_PED_AI_BLIP_SPRITE(Ped ped, int spriteId);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **spriteId**: 
 

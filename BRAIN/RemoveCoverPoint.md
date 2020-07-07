@@ -9,6 +9,6 @@ void REMOVE_COVER_POINT(ScrHandle coverpoint);
 ```
 
 
-## Parameters
+## 參數
 * **coverpoint**: 
 

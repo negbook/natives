@@ -10,8 +10,8 @@ int GET_RUNTIME_TEXTURE_WIDTH(long tex);
 
 Gets the width of the specified runtime texture.
 
-## Parameters
+## 參數
 * **tex**: A handle to the runtime texture.
 
-## Return value
+## 返回值
 The width in pixels.

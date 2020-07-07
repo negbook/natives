@@ -13,10 +13,10 @@ BOOL IS_OBJECT_ENTIRELY_INSIDE_GARAGE(Any garageHash, Entity entity, float p2, i
 NativeDB Parameter 0: Hash garageHash
 ```
 
-## Parameters
+## 參數
 * **garageHash**: 
 * **entity**: 
 * **p2**: 
 * **p3**: 
 
-## Return value
+## 返回值

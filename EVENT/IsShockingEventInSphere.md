@@ -30,11 +30,11 @@ Some events that i found, not sure about them, but seems to have logic based on 
 		Here is full dump of shocking event types from the exe camx.me/gtav/tasks/shockingevents.txt  
 ```
 
-## Parameters
+## 參數
 * **type**: 
 * **x**: 
 * **y**: 
 * **z**: 
 * **radius**: 
 
-## Return value
+## 返回值

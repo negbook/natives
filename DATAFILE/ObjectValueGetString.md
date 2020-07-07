@@ -9,8 +9,8 @@ char* _OBJECT_VALUE_GET_STRING(Any* objectData, char* key);
 ```
 
 
-## Parameters
+## 參數
 * **objectData**: 
 * **key**: 
 
-## Return value
+## 返回值

@@ -9,8 +9,8 @@ BOOL CAN_PED_HEAR_PLAYER(Player player, Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **ped**: 
 
-## Return value
+## 返回值

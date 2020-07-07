@@ -12,7 +12,7 @@ Any NETWORK_EARN_FROM_PICKUP(int amount);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **amount**: 
 
-## Return value
+## 返回值

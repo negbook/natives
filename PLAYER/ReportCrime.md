@@ -64,7 +64,7 @@ crimeType:
 46: ???  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **crimeType**: 
 * **wantedLvlThresh**: 

@@ -9,7 +9,7 @@ void LOAD_SCENE(float x, float y, float z);
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

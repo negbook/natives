@@ -39,8 +39,8 @@ SYSTEM::START_NEW_SCRIPT("Celebrations", 3650);
 		All native script names: pastebin.com/K9adDsu4 and pastebin.com/yLNWicUi  
 ```
 
-## Parameters
+## 參數
 * **scriptName**: 
 * **stackSize**: 
 
-## Return value
+## 返回值

@@ -11,7 +11,7 @@ void _SET_VEHICLE_MAX_SPEED(Vehicle vehicle, float speed);
 
 This native sets a maximum speed for a vehicle.
 
-## Parameters
+## 參數
 * **vehicle**: The vehicle handle.
 * **speed**: The speed limit in meters per second.
 

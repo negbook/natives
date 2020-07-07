@@ -12,7 +12,7 @@ void SET_VEHICLE_NAME_DEBUG(Vehicle vehicle, char* name);
 NOTE: Debugging functions are not present in the retail version of the game.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **name**: 
 

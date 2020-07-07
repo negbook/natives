@@ -10,6 +10,6 @@ void _SC_INBOX_MESSAGE_SEND_UGC_STAT_UPDATE_EVENT(char* data);
 ```
 
 
-## Parameters
+## 參數
 * **data**: 
 

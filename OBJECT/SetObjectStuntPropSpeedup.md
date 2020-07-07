@@ -9,7 +9,7 @@ aliases: ["0x96EE0EBA0163DF80"]
 void _SET_OBJECT_STUNT_PROP_SPEEDUP(Object object, Any p1);
 ```
 
-## Parameters
+## 參數
 * **object**: 
 * **p1**: 
 

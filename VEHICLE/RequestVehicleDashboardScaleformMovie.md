@@ -13,6 +13,6 @@ void _REQUEST_VEHICLE_DASHBOARD_SCALEFORM_MOVIE(Vehicle vehicle);
 REQUEST_VEHICLE_*  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 

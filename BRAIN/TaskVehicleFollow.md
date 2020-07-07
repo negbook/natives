@@ -17,7 +17,7 @@ What is this known as in the decompiled scripts ffs. I need more examples. I've 
 TASK_VEHICLE_FOLLOW, FC545A9F0626E3B6, 0xFC545A9F0626E3B6, all the parameters in the above example even just search the last few params '40.0, 262144, 10' and couldnt find where this native is used in scripts at all unless whoever decompiled the scripts gave it a whack a.. name.  
 ```
 
-## Parameters
+## 參數
 * **driver**: 
 * **vehicle**: 
 * **targetEntity**: 

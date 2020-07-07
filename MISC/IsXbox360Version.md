@@ -12,4 +12,4 @@ BOOL IS_XBOX360_VERSION();
 MulleDK19: This function is hard-coded to always return 0.  
 ```
 
-## Return value
+## 返回值

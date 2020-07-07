@@ -9,7 +9,7 @@ void NETWORK_BUY_ITEM(int amount, Hash item, Any p2, Any p3, BOOL p4, char* item
 ```
 
 
-## Parameters
+## 參數
 * **amount**: 
 * **item**: 
 * **p2**: 

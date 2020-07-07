@@ -12,7 +12,7 @@ Any SET_GARBAGE_TRUCKS(BOOL toggle);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 
-## Return value
+## 返回值

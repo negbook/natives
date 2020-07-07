@@ -13,4 +13,4 @@ Returns TRUE if the game is in online mode and FALSE if in offline mode.
 This is an alias for NETWORK_IS_SIGNED_ONLINE.  
 ```
 
-## Return value
+## 返回值

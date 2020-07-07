@@ -15,7 +15,7 @@ The parameter is unused.
 Returns a handle to the created group, or 0 if a group couldn't be created.  
 ```
 
-## Parameters
+## 參數
 * **unused**: 
 
-## Return value
+## 返回值

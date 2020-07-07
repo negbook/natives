@@ -9,7 +9,7 @@ BOOL IS_ANY_SPEECH_PLAYING(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

@@ -14,7 +14,7 @@ distance = ped will flee this distance.
 fleeTime = ped will flee for this amount of time, set to "-1" to flee forever  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **fleeTarget**: 
 * **distance**: 

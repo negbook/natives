@@ -27,7 +27,7 @@ The values found above, I found within the 5 scripts this is ever called in. (fm
 =========================================================  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **animDict**: 
 * **animation**: 

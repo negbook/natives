@@ -13,7 +13,7 @@ void _SET_MP_GAMER_TAG_MP_BAG_LARGE_COUNT(int gamerTagId, int count);
 displays wanted star above head  
 ```
 
-## Parameters
+## 參數
 * **gamerTagId**: 
 * **count**: 
 

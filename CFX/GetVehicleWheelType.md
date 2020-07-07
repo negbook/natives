@@ -9,7 +9,7 @@ int GET_VEHICLE_WHEEL_TYPE(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

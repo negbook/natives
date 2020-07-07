@@ -15,7 +15,7 @@ In decompiled scripts this is used to deduct from or add to the count whenever b
 
 Use [`_GET_AIRCRAFT_BOMB_COUNT`](#_0xEA12BD130D7569A1) to get the amount of bombs on that vehicle.
 
-## Parameters
+## 參數
 * **aircraft**: The vehicle to set the bombCount on.
 * **bombCount**: The amount of bombs to set for this vehicle.
 

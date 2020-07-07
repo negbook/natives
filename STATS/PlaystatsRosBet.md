@@ -10,7 +10,7 @@ void PLAYSTATS_ROS_BET(int amount, int act, Player player, float cm);
 ```
 
 
-## Parameters
+## 參數
 * **amount**: 
 * **act**: 
 * **player**: 

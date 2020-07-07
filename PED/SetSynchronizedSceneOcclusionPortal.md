@@ -10,7 +10,7 @@ void _SET_SYNCHRONIZED_SCENE_OCCLUSION_PORTAL(Any sceneID, BOOL p1);
 ```
 
 
-## Parameters
+## 參數
 * **sceneID**: 
 * **p1**: 
 

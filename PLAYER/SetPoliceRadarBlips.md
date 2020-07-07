@@ -15,6 +15,6 @@ The police won't be shown on the (mini)map
 The police will be shown on the (mini)map  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

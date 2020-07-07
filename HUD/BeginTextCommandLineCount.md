@@ -19,6 +19,6 @@ return _END_TEXT_COMMAND_GET_LINE_COUNT(x, y);
 	}  
 ```
 
-## Parameters
+## 參數
 * **entry**: 
 

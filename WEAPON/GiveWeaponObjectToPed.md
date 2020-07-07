@@ -9,7 +9,7 @@ void GIVE_WEAPON_OBJECT_TO_PED(Object weaponObject, Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **weaponObject**: 
 * **ped**: 
 

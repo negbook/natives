@@ -9,7 +9,7 @@ void SET_VEHICLE_CLUTCH(Vehicle vehicle, float clutch);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **clutch**: 
 

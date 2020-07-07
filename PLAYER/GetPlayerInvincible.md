@@ -25,7 +25,7 @@ return false;
 This has bothered me for too long, whoever may come across this, where did anyone ever come up with this made up hash? 0x733A643B5B0C53C1 I've looked all over old hash list, and this nativedb I can not find that PC hash anywhere. What native name is it now or was it?  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

@@ -13,6 +13,6 @@ void _SET_GAMEPLAY_CAM_VEHICLE_CAMERA_NAME(Any vehicleModel);
 NativeDB Parameter 0: Hash vehicleModel
 ```
 
-## Parameters
+## 參數
 * **vehicleModel**: 
 

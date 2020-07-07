@@ -10,7 +10,7 @@ BOOL DOES_BLIP_HAVE_GPS_ROUTE(Blip blip);
 ```
 
 
-## Parameters
+## 參數
 * **blip**: 
 
-## Return value
+## 返回值

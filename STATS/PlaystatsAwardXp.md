@@ -13,7 +13,7 @@ NativeDB Parameter 1: Hash type
 NativeDB Parameter 2: Hash category
 ```
 
-## Parameters
+## 參數
 * **amount**: 
 * **type**: 
 * **category**: 

@@ -12,7 +12,7 @@ BOOL IS_PED_VAULTING(Ped ped);
 Definition of vaulting?  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

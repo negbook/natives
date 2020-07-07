@@ -12,7 +12,7 @@ void SET_PLAYER_TEAM(Player player, int team);
 Set player team on deathmatch and last team standing..  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **team**: 
 

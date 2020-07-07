@@ -52,7 +52,7 @@ BOOL isAudible = If explosion makes a sound.
 BOOL isInvisible = If the explosion is invisible or not.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **x**: 
 * **y**: 

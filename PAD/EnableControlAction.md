@@ -55,7 +55,7 @@ INPUTGROUP_VEH_HYDRAULICS_CONTROL
 Took those in IDA Pro.Not sure in which order they go  
 ```
 
-## Parameters
+## 參數
 * **inputGroup**: 
 * **control**: 
 * **enable**: 

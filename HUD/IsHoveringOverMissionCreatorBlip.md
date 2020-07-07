@@ -9,4 +9,4 @@ aliases: ["0x4167EFE0527D706E"]
 BOOL IS_HOVERING_OVER_MISSION_CREATOR_BLIP();
 ```
 
-## Return value
+## 返回值

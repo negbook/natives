@@ -9,10 +9,10 @@ BOOL STAT_SET_BOOL_MASKED(Hash statName, BOOL value, int mask, BOOL save);
 ```
 
 
-## Parameters
+## 參數
 * **statName**: 
 * **value**: 
 * **mask**: 
 * **save**: 
 
-## Return value
+## 返回值

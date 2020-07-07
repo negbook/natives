@@ -12,7 +12,7 @@ float GET_CAM_SPLINE_NODE_PHASE(Cam cam);
 I'm pretty sure the parameter is the camera as usual, but I am not certain so I'm going to leave it as is.  
 ```
 
-## Parameters
+## 參數
 * **cam**: 
 
-## Return value
+## 返回值

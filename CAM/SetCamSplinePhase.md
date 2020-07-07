@@ -9,7 +9,7 @@ void SET_CAM_SPLINE_PHASE(Cam cam, float p1);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **p1**: 
 

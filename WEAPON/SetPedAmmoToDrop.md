@@ -9,7 +9,7 @@ void SET_PED_AMMO_TO_DROP(Ped ped, int ammo);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **ammo**: 
 

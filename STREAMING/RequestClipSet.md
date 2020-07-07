@@ -9,6 +9,6 @@ void REQUEST_CLIP_SET(char* clipSet);
 ```
 
 
-## Parameters
+## 參數
 * **clipSet**: 
 

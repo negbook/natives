@@ -12,7 +12,7 @@ BOOL WAS_PED_SKELETON_UPDATED(Ped ped);
 Despite this function's name, it simply returns whether the specified handle is a Ped.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

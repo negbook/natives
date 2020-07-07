@@ -14,7 +14,7 @@ Called 4 times in the b617d scripts:
 GAMEPLAY::_A74802FB8D0B7814("CONTRAILS", 0);  
 ```
 
-## Parameters
+## 參數
 * **name**: 
 * **p1**: 
 

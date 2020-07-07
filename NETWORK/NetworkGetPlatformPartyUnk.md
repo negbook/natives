@@ -10,4 +10,4 @@ int _NETWORK_GET_PLATFORM_PARTY_UNK();
 ```
 
 
-## Return value
+## 返回值

@@ -12,7 +12,7 @@ Starts a text command to change the name of a blip displayed in the pause menu.
 
 This should be paired with [`END_TEXT_COMMAND_SET_BLIP_NAME`](#_0xBC38B49BCB83BC9B), once adding all required text components.
 
-## Parameters
+## 參數
 * **textLabel**: The text label to set.
 
 ## Examples

@@ -13,7 +13,7 @@ BOOL _DOES_RELATIONSHIP_GROUP_EXIST(Any groupHash);
 NativeDB Parameter 0: Hash groupHash
 ```
 
-## Parameters
+## 參數
 * **groupHash**: 
 
-## Return value
+## 返回值

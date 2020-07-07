@@ -17,7 +17,7 @@ for (v_2 = 0; v_2 <= 4; v_2 += 1) {
 }  
 ```
 
-## Parameters
+## 參數
 * **statSlot**: 
 
-## Return value
+## 返回值

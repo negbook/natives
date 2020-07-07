@@ -9,4 +9,4 @@ int NETWORK_GET_NUM_PARTICIPANTS();
 ```
 
 
-## Return value
+## 返回值

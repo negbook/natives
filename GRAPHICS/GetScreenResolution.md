@@ -14,7 +14,7 @@ GET_SCREEN_RESOLUTION(&screenresx,&screenresy);
 Hardcoded to always return 1280 x 720  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 

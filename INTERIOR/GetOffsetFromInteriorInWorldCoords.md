@@ -9,10 +9,10 @@ Vector3 GET_OFFSET_FROM_INTERIOR_IN_WORLD_COORDS(int interior, float x, float y,
 ```
 
 
-## Parameters
+## 參數
 * **interior**: 
 * **x**: 
 * **y**: 
 * **z**: 
 
-## Return value
+## 返回值

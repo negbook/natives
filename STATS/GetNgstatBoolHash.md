@@ -14,11 +14,11 @@ Needs more research. Gets the stat name of a masked bool?
 p4 - Usually "_NGPSTAT_BOOL" or "_NGTATPSTAT_BOOL". There may be more that I missed.  
 ```
 
-## Parameters
+## 參數
 * **index**: 
 * **spStat**: 
 * **charStat**: 
 * **character**: 
 * **section**: 
 
-## Return value
+## 返回值

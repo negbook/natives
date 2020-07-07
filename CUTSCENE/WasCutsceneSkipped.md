@@ -9,4 +9,4 @@ BOOL WAS_CUTSCENE_SKIPPED();
 ```
 
 
-## Return value
+## 返回值

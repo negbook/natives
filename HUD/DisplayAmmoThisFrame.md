@@ -9,6 +9,6 @@ void DISPLAY_AMMO_THIS_FRAME(BOOL display);
 ```
 
 
-## Parameters
+## 參數
 * **display**: 
 

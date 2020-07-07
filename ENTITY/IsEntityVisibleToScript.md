@@ -9,7 +9,7 @@ BOOL IS_ENTITY_VISIBLE_TO_SCRIPT(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

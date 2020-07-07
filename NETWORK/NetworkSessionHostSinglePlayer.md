@@ -15,6 +15,6 @@ p0 is always 2 in R* scripts.
 Appears to be patched in gtav b757 (game gets terminated) alonside with most other network natives to prevent online modding ~ghost30812  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

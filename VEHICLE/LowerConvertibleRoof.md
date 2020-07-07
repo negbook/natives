@@ -9,7 +9,7 @@ void LOWER_CONVERTIBLE_ROOF(Vehicle vehicle, BOOL instantlyLower);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **instantlyLower**: 
 

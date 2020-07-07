@@ -13,7 +13,7 @@ BOOL DOES_CARGOBOB_HAVE_PICK_UP_ROPE(Vehicle cargobob);
 Returns true only when the hook is active, will return false if the magnet is active  
 ```
 
-## Parameters
+## 參數
 * **cargobob**: 
 
-## Return value
+## 返回值

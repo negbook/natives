@@ -14,10 +14,10 @@ Similar to REGISTER_PEDHEADSHOT but creates a transparent background instead of 
 **Result of the example code:**
 [https://i.imgur.com/iHz8ztn.png](https://i.imgur.com/iHz8ztn.png)
 
-## Parameters
+## 參數
 * **ped**: A ped handle.
 
-## Return value
+## 返回值
 The Pedheadshot handle.
 
 ## Examples

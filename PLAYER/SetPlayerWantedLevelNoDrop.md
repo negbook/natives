@@ -12,7 +12,7 @@ void SET_PLAYER_WANTED_LEVEL_NO_DROP(Player player, int wantedLevel, BOOL p2);
 p2 is always false in R* scripts  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **wantedLevel**: 
 * **p2**: 

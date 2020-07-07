@@ -12,7 +12,7 @@ Draws a marker with the specified appearance at the target location. This has to
 
 There's a [list of markers](https://docs.fivem.net/game-references/markers/) on the FiveM documentation site.
 
-## Parameters
+## 參數
 * **type**: The marker type to draw.
 * **posX**: The X coordinate to draw the marker at.
 * **posY**: The Y coordinate to draw the marker at.

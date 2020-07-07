@@ -18,6 +18,6 @@ if (PED::IS_TRACKED_PED_VISIBLE(ped))
 }  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 

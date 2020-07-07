@@ -30,7 +30,7 @@ VEHICLE::SET_VEHICLE_ON_GROUND_PROPERLY(playerVeh);
 C# Example (ins1de) : pastebin.com/fxtMWAHD  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -40,4 +40,4 @@ C# Example (ins1de) : pastebin.com/fxtMWAHD
 * **p6**: 
 * **p7**: 
 
-## Return value
+## 返回值

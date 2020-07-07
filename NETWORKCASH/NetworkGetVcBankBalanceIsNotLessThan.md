@@ -14,5 +14,5 @@ Returns true if bank balance >= amount.
 NativeDB Introduced: v323
 ```
 
-## Parameters
+## 參數
 * **amount**:

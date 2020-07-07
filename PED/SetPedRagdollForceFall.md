@@ -12,7 +12,7 @@ Any SET_PED_RAGDOLL_FORCE_FALL(Ped ped);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

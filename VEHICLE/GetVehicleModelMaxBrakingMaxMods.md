@@ -15,7 +15,7 @@ max braking if air vehicle, else max braking + 0.1
 For a full list, see here: pastebin.com/Cb9L1Cn0  
 ```
 
-## Parameters
+## 參數
 * **modelHash**: 
 
-## Return value
+## 返回值

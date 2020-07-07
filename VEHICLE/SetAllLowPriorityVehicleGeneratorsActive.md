@@ -9,6 +9,6 @@ void SET_ALL_LOW_PRIORITY_VEHICLE_GENERATORS_ACTIVE(BOOL active);
 ```
 
 
-## Parameters
+## 參數
 * **active**: 
 

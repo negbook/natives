@@ -10,7 +10,7 @@ BOOL _DOES_VEHICLE_HAVE_PARACHUTE(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

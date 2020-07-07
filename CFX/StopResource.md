@@ -9,7 +9,7 @@ BOOL STOP_RESOURCE(char* resourceName);
 ```
 
 
-## Parameters
+## 參數
 * **resourceName**: 
 
-## Return value
+## 返回值

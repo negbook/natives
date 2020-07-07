@@ -15,7 +15,7 @@ Note: At least the IDA method if you change the max float multiplier from 1.5 it
 It is not possible to "decrease" speed. Anything below 1 will be ignored.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **multiplier**: 
 

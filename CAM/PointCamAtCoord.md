@@ -9,7 +9,7 @@ void POINT_CAM_AT_COORD(Cam cam, float x, float y, float z);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **x**: 
 * **y**: 

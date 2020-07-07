@@ -12,4 +12,4 @@ BOOL _0x1D4DC17C38FEAFF0();
 IS_COMMERCE_*
 ```
 
-## Return value
+## 返回值

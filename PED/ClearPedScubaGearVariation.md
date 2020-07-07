@@ -12,6 +12,6 @@ void CLEAR_PED_SCUBA_GEAR_VARIATION(Ped ped);
 Removes the scubagear (for mp male: component id: 8, drawableId: 123, textureId: any) from peds. Does not play the 'remove scuba gear' animation, but instantly removes it.
 
 
-## Parameters
+## 參數
 * **ped**: The ped to remove the scuba gear from.
 

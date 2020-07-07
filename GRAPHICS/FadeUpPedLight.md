@@ -9,6 +9,6 @@ aliases: ["0xC9B18B4619F48F7B"]
 void FADE_UP_PED_LIGHT(float p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

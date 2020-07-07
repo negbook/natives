@@ -20,8 +20,8 @@ enum eDecorType
 };  
 ```
 
-## Parameters
+## 參數
 * **propertyName**: 
 * **type**: 
 
-## Return value
+## 返回值

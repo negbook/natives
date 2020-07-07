@@ -20,8 +20,8 @@ if interiorId ~= 0 then
 end
 ```
 
-## Parameters
+## 參數
 * **interiorId**: The target interior.
 
-## Return value
+## 返回值
 Interior position.

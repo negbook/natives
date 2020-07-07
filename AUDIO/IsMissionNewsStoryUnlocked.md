@@ -13,7 +13,7 @@ int IS_MISSION_NEWS_STORY_UNLOCKED(int newsStory);
 NativeDB Return Type: BOOL
 ```
 
-## Parameters
+## 參數
 * **newsStory**: 
 
-## Return value
+## 返回值

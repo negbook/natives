@@ -27,7 +27,7 @@ Note for the 3rd param 2 is only ever set in (franklin0.c), but it also sets it 
 NativeDB Added Parameter 4: Any p3
 ```
 
-## Parameters
+## 參數
 * **render**: 
 * **p1**: 
 * **p2**: 

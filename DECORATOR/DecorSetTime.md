@@ -9,9 +9,9 @@ BOOL DECOR_SET_TIME(Entity entity, char* propertyName, int timestamp);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **propertyName**: 
 * **timestamp**: 
 
-## Return value
+## 返回值

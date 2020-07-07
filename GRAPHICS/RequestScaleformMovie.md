@@ -24,7 +24,7 @@ Update 1.0.678.1
 0x2F14983962462691  
 ```
 
-## Parameters
+## 參數
 * **scaleformName**: 
 
-## Return value
+## 返回值

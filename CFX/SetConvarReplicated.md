@@ -9,7 +9,7 @@ void SET_CONVAR_REPLICATED(char* varName, char* value);
 ```
 
 
-## Parameters
+## 參數
 * **varName**: 
 * **value**: 
 

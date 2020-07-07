@@ -14,7 +14,7 @@ Previously named _0x97C65887D4B37FA9.
 Sets the maximum view distance for the AI BIP  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **range**: 
 

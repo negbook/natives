@@ -13,8 +13,8 @@ int GET_POSITION_OF_VEHICLE_RECORDING_ID_AT_TIME(int id, float time);
 NativeDB Return Type: Vector3
 ```
 
-## Parameters
+## 參數
 * **id**: 
 * **time**: 
 
-## Return value
+## 返回值

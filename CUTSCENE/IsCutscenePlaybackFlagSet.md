@@ -13,7 +13,7 @@ BOOL IS_CUTSCENE_PLAYBACK_FLAG_SET(int flag);
 It's 100% an IS_CUTSCENE_* native.  
 ```
 
-## Parameters
+## 參數
 * **flag**: 
 
-## Return value
+## 返回值

@@ -15,9 +15,9 @@ slot - outfit slot
 item - hold 3 ints in a struct, you can use Vector3 structure  
 ```
 
-## Parameters
+## 參數
 * **outfit**: 
 * **slot**: 
 * **item**: 
 
-## Return value
+## 返回值

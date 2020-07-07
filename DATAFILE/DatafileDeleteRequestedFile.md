@@ -9,7 +9,7 @@ aliases: ["0x8F5EA1C01D65A100"]
 BOOL DATAFILE_DELETE_REQUESTED_FILE(Any p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

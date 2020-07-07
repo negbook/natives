@@ -12,7 +12,7 @@ void SET_PLAYER_VEHICLE_DAMAGE_MODIFIER(Player player, float modifier);
 modifier's min value is 0.1
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **modifier**: 
 

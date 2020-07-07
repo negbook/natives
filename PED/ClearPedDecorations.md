@@ -9,6 +9,6 @@ void CLEAR_PED_DECORATIONS(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 

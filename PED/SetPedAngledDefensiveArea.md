@@ -9,7 +9,7 @@ void SET_PED_ANGLED_DEFENSIVE_AREA(Ped ped, float p1, float p2, float p3, float 
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 * **p2**: 

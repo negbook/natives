@@ -12,7 +12,7 @@ void NETWORK_SPENT_BANK_INTEREST(int p0, BOOL p1, BOOL p2);
 NativeDB Introduced: v323
 ```
 
-## Parameters
+## 參數
 * **p0**:
 * **p1**:
 * **p2**:

@@ -10,8 +10,8 @@ Vector3 GET_ROTATION_OF_VEHICLE_RECORDING_ID_AT_TIME(int id, float time);
 ```
 
 
-## Parameters
+## 參數
 * **id**: 
 * **time**: 
 
-## Return value
+## 返回值

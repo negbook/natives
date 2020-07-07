@@ -18,7 +18,7 @@ SetVehicleWheelXOffset(vehicle, 1, width/2)
 end
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **wheelIndex**: 
 * **offset**: 

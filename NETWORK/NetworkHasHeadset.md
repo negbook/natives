@@ -9,4 +9,4 @@ BOOL NETWORK_HAS_HEADSET();
 ```
 
 
-## Return value
+## 返回值

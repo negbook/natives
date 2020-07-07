@@ -13,7 +13,7 @@ Entity _GET_ENTITY_INSIDE_EXPLOSION_AREA(int explosionType, float x1, float y1, 
 Returns a handle to the first entity within the a circle spawned inside the 2 points from a radius. It could return a ped or an entity, but the scripts expect a ped, but still check if it's a ped.  
 ```
 
-## Parameters
+## 參數
 * **explosionType**: 
 * **x1**: 
 * **y1**: 
@@ -23,4 +23,4 @@ Returns a handle to the first entity within the a circle spawned inside the 2 po
 * **z2**: 
 * **radius**: 
 
-## Return value
+## 返回值

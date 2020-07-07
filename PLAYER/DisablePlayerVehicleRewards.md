@@ -9,6 +9,6 @@ void DISABLE_PLAYER_VEHICLE_REWARDS(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 

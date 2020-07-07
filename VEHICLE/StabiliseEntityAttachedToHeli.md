@@ -10,7 +10,7 @@ void STABILISE_ENTITY_ATTACHED_TO_HELI(Vehicle vehicle, Entity entity, float p2)
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **entity**: 
 * **p2**: 

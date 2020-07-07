@@ -13,8 +13,8 @@ BOOL _NETWORK_CLAN_ANIMATION(char* animDict, char* animName);
 Only documented...  
 ```
 
-## Parameters
+## 參數
 * **animDict**: 
 * **animName**: 
 
-## Return value
+## 返回值

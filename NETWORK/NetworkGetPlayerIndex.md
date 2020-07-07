@@ -9,7 +9,7 @@ int NETWORK_GET_PLAYER_INDEX(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

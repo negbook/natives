@@ -17,6 +17,6 @@ ped::_0x4668d80430d6c299(iVar0);
 ui::give_ped_to_pause_menu(iVar0, 1);  
 ```
 
-## Parameters
+## 參數
 * **model**: 
 

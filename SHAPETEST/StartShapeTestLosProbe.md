@@ -16,7 +16,7 @@ p8 = 7 most of the time.
 Result of this function is passed to WORLDPROBE::_GET_RAYCAST_RESULT as a first argument.  
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 
@@ -27,4 +27,4 @@ Result of this function is passed to WORLDPROBE::_GET_RAYCAST_RESULT as a first 
 * **ent**: 
 * **p8**: 
 
-## Return value
+## 返回值

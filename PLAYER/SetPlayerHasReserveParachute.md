@@ -9,6 +9,6 @@ void SET_PLAYER_HAS_RESERVE_PARACHUTE(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 

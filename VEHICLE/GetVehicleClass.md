@@ -38,7 +38,7 @@ std::sprintf(buffer, "VEH_CLASS_%i", VEHICLE::GET_VEHICLE_CLASS(vehicle));
 char* className = UI::_GET_LABEL_TEXT(buffer);  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

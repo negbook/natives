@@ -13,7 +13,7 @@ p1/gadgetHash was always 0xFBAB5776 ("GADGET_PARACHUTE").
 p2 is always true.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **gadgetHash**: 
 * **p2**: 

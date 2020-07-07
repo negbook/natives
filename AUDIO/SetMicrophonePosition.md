@@ -12,7 +12,7 @@ void SET_MICROPHONE_POSITION(BOOL p0, float x1, float y1, float z1, float x2, fl
 If this is the correct name, what microphone? I know your TV isn't going to reach out and adjust your headset so..  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **x1**: 
 * **y1**: 

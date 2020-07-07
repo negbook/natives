@@ -14,7 +14,7 @@ If true, peds will shoot at Entity till it is dead.
 If false, peds will just walk till they reach the entity and will cease shooting.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **entityToWalkTo**: 
 * **entityToAimAt**: 

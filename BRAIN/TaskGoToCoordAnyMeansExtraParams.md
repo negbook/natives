@@ -12,7 +12,7 @@ void TASK_GO_TO_COORD_ANY_MEANS_EXTRA_PARAMS(Ped ped, float x, float y, float z,
 NativeDB Added Parameter 13: Any p12
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **x**: 
 * **y**: 

@@ -15,8 +15,8 @@ return - it's possible for it to have an error and return a value. One error is 
 to the top guy, idk if it is possible. It is probably read a max of 64 characters on the recieving end so even if we did modify it to send more it probably wouldn't work. One of the other problems is that in part of the function it copies the string to the local stack which means we would have to change that to make it work.  
 ```
 
-## Parameters
+## 參數
 * **message**: 
 * **networkHandle**: 
 
-## Return value
+## 返回值

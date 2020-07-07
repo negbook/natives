@@ -9,6 +9,6 @@ void DELETE_MISSION_TRAIN(Vehicle* train);
 ```
 
 
-## Parameters
+## 參數
 * **train**: 
 

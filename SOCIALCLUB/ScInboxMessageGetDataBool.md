@@ -10,8 +10,8 @@ BOOL _SC_INBOX_MESSAGE_GET_DATA_BOOL(int p0, char* p1);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

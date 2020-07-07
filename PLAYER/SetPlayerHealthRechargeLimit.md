@@ -10,7 +10,7 @@ void _SET_PLAYER_HEALTH_RECHARGE_LIMIT(Player player, float limit);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **limit**: 
 

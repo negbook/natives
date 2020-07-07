@@ -9,7 +9,7 @@ BOOL IS_CAM_SHAKING(Cam cam);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 
-## Return value
+## 返回值

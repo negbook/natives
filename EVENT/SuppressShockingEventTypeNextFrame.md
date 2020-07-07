@@ -9,6 +9,6 @@ void SUPPRESS_SHOCKING_EVENT_TYPE_NEXT_FRAME(int type);
 ```
 
 
-## Parameters
+## 參數
 * **type**: 
 

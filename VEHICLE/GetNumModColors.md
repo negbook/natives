@@ -9,8 +9,8 @@ int GET_NUM_MOD_COLORS(int p0, BOOL p1);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

@@ -10,4 +10,4 @@ BOOL BUSYSPINNER_IS_ON();
 ```
 
 
-## Return value
+## 返回值

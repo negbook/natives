@@ -12,7 +12,7 @@ BOOL IS_CAM_ACTIVE(Cam cam);
 Returns whether or not the passed camera handle is active.  
 ```
 
-## Parameters
+## 參數
 * **cam**: 
 
-## Return value
+## 返回值

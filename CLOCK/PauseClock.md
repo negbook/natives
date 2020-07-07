@@ -9,6 +9,6 @@ void PAUSE_CLOCK(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

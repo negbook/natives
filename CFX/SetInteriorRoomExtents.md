@@ -20,7 +20,7 @@ if interiorId ~= 0 then
 end
 ```
 
-## Parameters
+## 參數
 * **interiorId**: The target interior.
 * **roomIndex**: Interior room index.
 * **bbMinX**:

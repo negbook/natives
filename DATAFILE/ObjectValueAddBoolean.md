@@ -9,7 +9,7 @@ void _OBJECT_VALUE_ADD_BOOLEAN(Any* objectData, char* key, BOOL value);
 ```
 
 
-## Parameters
+## 參數
 * **objectData**: 
 * **key**: 
 * **value**: 

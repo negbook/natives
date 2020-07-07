@@ -9,7 +9,7 @@ BOOL IS_POINT_OBSCURED_BY_A_MISSION_ENTITY(float p0, float p1, float p2, float p
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
@@ -18,4 +18,4 @@ BOOL IS_POINT_OBSCURED_BY_A_MISSION_ENTITY(float p0, float p1, float p2, float p
 * **p5**: 
 * **p6**: 
 
-## Return value
+## 返回值

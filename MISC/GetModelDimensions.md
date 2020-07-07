@@ -20,7 +20,7 @@ Vector3 GetDimensions(Hash model)
 Example from the scripts: GAMEPLAY::GET_MODEL_DIMENSIONS(ENTITY::GET_ENTITY_MODEL(PLAYER::PLAYER_PED_ID()), &v_1A, &v_17);  
 ```
 
-## Parameters
+## 參數
 * **modelHash**: 
 * **minimum**: 
 * **maximum**: 

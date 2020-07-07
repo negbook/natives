@@ -13,7 +13,7 @@ void _SET_DISABLE_VEHICLE_WINDOW_COLLISIONS(Vehicle vehicle, BOOL p1);
 Must be called each frame
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

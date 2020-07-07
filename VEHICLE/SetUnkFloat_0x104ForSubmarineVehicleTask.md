@@ -12,6 +12,6 @@ void _SET_UNK_FLOAT_0x104_FOR_SUBMARINE_VEHICLE_TASK(Vehicle vehicle, float valu
 NativeDB Introduced: v1365
 ```
 
-## Parameters
+## 參數
 * **vehicle**:
 * **value**:

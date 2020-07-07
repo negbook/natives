@@ -10,6 +10,6 @@ void NETWORK_REGISTER_ENTITY_AS_NETWORKED(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 

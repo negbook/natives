@@ -23,11 +23,11 @@ p5 is (most likely) ownedByPlayer. (see IS_PROJECTILE_IN_AREA for info)
 NativeDB Parameter 3: Entity* entity
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 * **radius**: 
 * **entity**: 
 * **ownedByPlayer**: 
 
-## Return value
+## 返回值

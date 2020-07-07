@@ -10,7 +10,7 @@ void SET_MINIMAP_OVERLAY_DISPLAY(int miniMap, float x, float y, float xScale, fl
 
 Sets the display info for a minimap overlay.
 
-## Parameters
+## 參數
 * **miniMap**: The minimap overlay ID.
 * **x**: The X position for the overlay. This is equivalent to a game coordinate X.
 * **y**: The Y position for the overlay. This is equivalent to a game coordinate Y, except that it's inverted (gfxY = -gameY).

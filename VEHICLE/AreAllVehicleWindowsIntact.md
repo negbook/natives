@@ -13,7 +13,7 @@ BOOL ARE_ALL_VEHICLE_WINDOWS_INTACT(Vehicle vehicle);
 Appears to return false if any window is broken.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

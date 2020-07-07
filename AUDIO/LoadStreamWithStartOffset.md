@@ -14,9 +14,9 @@ AUDIO::LOAD_STREAM_WITH_START_OFFSET("STASH_TOXIN_STREAM", 2400, "FBI_05_SOUNDS"
 Only called a few times in the scripts.  
 ```
 
-## Parameters
+## 參數
 * **streamName**: 
 * **startOffset**: 
 * **soundSet**: 
 
-## Return value
+## 返回值

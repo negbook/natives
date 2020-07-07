@@ -15,8 +15,8 @@ NETWORK_SESSION_END(0, 0)
 Results in: "Connection to session lost due to an unknown network error. Please return to Grand Theft Auto V and try again later."  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ void ADD_NEXT_MESSAGE_TO_PREVIOUS_BRIEFS(BOOL p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

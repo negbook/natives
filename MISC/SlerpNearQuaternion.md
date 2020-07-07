@@ -11,7 +11,7 @@ void SLERP_NEAR_QUATERNION(float t, float x, float y, float z, float w, float x1
 
 This native always come right before SetEntityQuaternion where its final 4 parameters are SlerpNearQuaternion p9 to p12
 
-## Parameters
+## 參數
 * **t**: acceleration differenzial (am_rollercoaster.c func_134)
 * **x**: rotation parameter (maybe X axys)
 * **y**: rotation parameter (maybe X axys)

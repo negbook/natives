@@ -12,7 +12,7 @@ void SET_PED_VISUAL_FIELD_MIN_ELEVATION_ANGLE(Ped ped, float angle);
 This native refers to the field of vision the ped has below them, starting at 0 degrees. The angle value should be negative.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **angle**: 
 

@@ -13,7 +13,7 @@ Returns whether the ped's blip is controlled by the game.
 It's the default blip you can see on enemies during freeroam in singleplayer (the one that fades out quickly).  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ void _0x5E569EC46EC21CAE(Vehicle vehicle, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

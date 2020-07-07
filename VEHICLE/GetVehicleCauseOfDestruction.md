@@ -17,7 +17,7 @@ if (iVar3 == joaat("weapon_stickybomb"))
 }  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

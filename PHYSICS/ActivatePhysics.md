@@ -12,6 +12,6 @@ void ACTIVATE_PHYSICS(Entity entity);
 seems to be frequently used with the NETWORK::NET_TO_x natives, particularly with vehicles. It is often the only ROPE:: native in a script.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 

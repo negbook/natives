@@ -9,7 +9,7 @@ aliases: ["0x6636C535F6CC2725"]
 float GET_BOAT_BOOM_POSITION_RATIO(Vehicle vehicle);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

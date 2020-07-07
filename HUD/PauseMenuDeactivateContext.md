@@ -10,6 +10,6 @@ void PAUSE_MENU_DEACTIVATE_CONTEXT(Hash contextHash);
 ```
 
 
-## Parameters
+## 參數
 * **contextHash**: 
 

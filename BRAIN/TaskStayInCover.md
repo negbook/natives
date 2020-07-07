@@ -12,6 +12,6 @@ void TASK_STAY_IN_COVER(Ped ped);
 Makes the ped run to take cover  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 

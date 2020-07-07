@@ -9,6 +9,6 @@ void _0xF1E22DC13F5EEBAD(float p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

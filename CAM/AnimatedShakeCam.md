@@ -13,7 +13,7 @@ Example from michael2 script.
 CAM::ANIMATED_SHAKE_CAM(l_5069, "shake_cam_all@", "light", "", 1f);  
 ```
 
-## Parameters
+## 參數
 * **cam**: 
 * **p1**: 
 * **p2**: 

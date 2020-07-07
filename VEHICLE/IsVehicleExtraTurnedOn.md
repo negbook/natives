@@ -9,8 +9,8 @@ BOOL IS_VEHICLE_EXTRA_TURNED_ON(Vehicle vehicle, int extraId);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **extraId**: 
 
-## Return value
+## 返回值

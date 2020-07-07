@@ -19,7 +19,7 @@ WEAPON::REMOVE_WEAPON_FROM_PED(PLAYER::PLAYER_PED_ID(), 0x99B507EA);
 The code above removes the knife from the player.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 

@@ -13,4 +13,4 @@ BOOL IS_REPORTUGC_MENU_OPEN();
 return bool according to scripts  
 ```
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ void GET_SHOP_PED_QUERY_COMPONENT(int componentId, int* outComponent);
 ```
 
 
-## Parameters
+## 參數
 * **componentId**: 
 * **outComponent**: 
 

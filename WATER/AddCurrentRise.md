@@ -13,11 +13,11 @@ int _ADD_CURRENT_RISE(float xLow, float yLow, float xHigh, float yHigh, float he
 Most likely ADD_CURRENT_*
 ```
 
-## Parameters
+## 參數
 * **xLow**: 
 * **yLow**: 
 * **xHigh**: 
 * **yHigh**: 
 * **height**: 
 
-## Return value
+## 返回值

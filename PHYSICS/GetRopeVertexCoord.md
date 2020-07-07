@@ -9,8 +9,8 @@ Vector3 GET_ROPE_VERTEX_COORD(int ropeId, int vertex);
 ```
 
 
-## Parameters
+## 參數
 * **ropeId**: 
 * **vertex**: 
 
-## Return value
+## 返回值

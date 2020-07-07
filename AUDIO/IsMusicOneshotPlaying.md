@@ -10,4 +10,4 @@ BOOL IS_MUSIC_ONESHOT_PLAYING();
 ```
 
 
-## Return value
+## 返回值

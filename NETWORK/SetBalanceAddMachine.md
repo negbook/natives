@@ -13,8 +13,8 @@ NativeDB Parameter 0: char* contentId
 NativeDB Parameter 1: char* contentTypeName
 ```
 
-## Parameters
+## 參數
 * **contentId**: 
 * **contentTypeName**: 
 
-## Return value
+## 返回值

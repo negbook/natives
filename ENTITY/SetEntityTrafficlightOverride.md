@@ -16,7 +16,7 @@ Example here: www.gtaforums.com/topic/830463-help-with-turning-lights-green-and-
 changing lights may not change the behavior of vehicles  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **state**: 
 

@@ -9,7 +9,7 @@ void CLEAR_AMBIENT_ZONE_LIST_STATE(Any* p0, BOOL p1);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

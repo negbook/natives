@@ -13,4 +13,4 @@ Hash GET_ROOM_KEY_FOR_GAME_VIEWPORT();
 Returns the room hash key from the current gameplay cam.  
 ```
 
-## Return value
+## 返回值

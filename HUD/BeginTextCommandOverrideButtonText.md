@@ -18,6 +18,6 @@ void message(char *text)
 }  
 ```
 
-## Parameters
+## 參數
 * **gxtEntry**: 
 

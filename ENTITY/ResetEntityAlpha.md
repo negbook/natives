@@ -12,7 +12,7 @@ Any RESET_ENTITY_ALPHA(Entity entity);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ void STOP_CINEMATIC_CAM_SHAKING(BOOL p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

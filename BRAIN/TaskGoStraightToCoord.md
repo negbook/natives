@@ -9,7 +9,7 @@ void TASK_GO_STRAIGHT_TO_COORD(Ped ped, float x, float y, float z, float speed, 
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **x**: 
 * **y**: 

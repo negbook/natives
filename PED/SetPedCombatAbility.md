@@ -18,7 +18,7 @@ Only the values 0, 1 and 2 occur in the decompiled scripts. Most likely refers d
 Tested this and got the same results as the first explanation here. Could not find any difference between 0, 1 and 2.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 

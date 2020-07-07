@@ -12,6 +12,6 @@ void _SET_UNK_BOOL_0x102_FOR_SUBMARINE_VEHICLE_TASK(Vehicle vehicle, BOOL value)
 NativeDB Introduced: v1365
 ```
 
-## Parameters
+## 參數
 * **vehicle**:
 * **value**:

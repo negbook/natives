@@ -17,7 +17,7 @@ You can only use text entries. No custom text.
 NativeDB Added Parameter 11: Any p10
 ```
 
-## Parameters
+## 參數
 * **entryHeader**: 
 * **entryLine1**: 
 * **instructionalKey**: 

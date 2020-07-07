@@ -12,7 +12,7 @@ void SPECIAL_ABILITY_FILL_METER(Player player, BOOL p1);
 Also known as _RECHARGE_SPECIAL_ABILITY  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **p1**: 
 

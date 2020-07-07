@@ -13,4 +13,4 @@ int GET_NETWORK_TIME_ACCURATE();
 returns the same value as NETWORK::GET_NETWORK_TIME in freemode.  
 ```
 
-## Return value
+## 返回值

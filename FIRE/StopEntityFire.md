@@ -9,6 +9,6 @@ void STOP_ENTITY_FIRE(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 

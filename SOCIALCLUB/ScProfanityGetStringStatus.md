@@ -14,7 +14,7 @@ Unknown.
 Seems to return either 0, 1, or -1.  
 ```
 
-## Parameters
+## 參數
 * **token**: 
 
-## Return value
+## 返回值

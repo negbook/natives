@@ -15,7 +15,7 @@ Should be enabled as flag (2). Has 0 opacity by default.
 - This was _SET_MP_GAMER_TAG_HEALTH_BAR_COLOR,  
 ```
 
-## Parameters
+## 參數
 * **headDisplayId**: 
 * **color**: 
 

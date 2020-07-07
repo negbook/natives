@@ -12,7 +12,7 @@ void TASK_TURN_PED_TO_FACE_COORD(Ped ped, float x, float y, float z, int duratio
 duration in milliseconds  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **x**: 
 * **y**: 

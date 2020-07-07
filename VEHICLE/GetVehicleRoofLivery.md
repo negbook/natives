@@ -12,8 +12,8 @@ int _GET_VEHICLE_ROOF_LIVERY(Vehicle vehicle);
 Returns index of the current vehicle's rooftop livery.
 A getter for [_SET_VEHICLE_ROOF_LIVERY](#_0xA6D3A8750DC73270).
 
-## Parameters
+## 參數
 * **vehicle**: The vehicle handle.
 
-## Return value
+## 返回值
 An index of the current vehicle's rooftop livery.

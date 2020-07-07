@@ -9,10 +9,10 @@ BOOL GET_WATER_HEIGHT_NO_WAVES(float x, float y, float z, float* height);
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 * **height**: 
 
-## Return value
+## 返回值

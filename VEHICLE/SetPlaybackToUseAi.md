@@ -9,7 +9,7 @@ void SET_PLAYBACK_TO_USE_AI(Vehicle vehicle, int flag);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **flag**: 
 

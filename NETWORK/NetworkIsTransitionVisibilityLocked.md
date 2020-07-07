@@ -13,4 +13,4 @@ BOOL NETWORK_IS_TRANSITION_VISIBILITY_LOCKED();
 x360 Hash: 0xF637166E  
 ```
 
-## Return value
+## 返回值

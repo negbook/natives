@@ -23,7 +23,7 @@ PED::SET_RELATIONSHIP_BETWEEN_GROUPS(2, l_1017, 0xA49E591C);
 PED::SET_RELATIONSHIP_BETWEEN_GROUPS(2, 0xA49E591C, l_1017);  
 ```
 
-## Parameters
+## 參數
 * **relationship**: 
 * **group1**: 
 * **group2**: 

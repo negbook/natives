@@ -27,7 +27,7 @@ Airbone = 12,
 Sunrise = 13,  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **index**: 
 

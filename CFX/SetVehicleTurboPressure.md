@@ -9,7 +9,7 @@ void SET_VEHICLE_TURBO_PRESSURE(Vehicle vehicle, float pressure);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **pressure**: 
 

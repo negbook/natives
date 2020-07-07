@@ -13,6 +13,6 @@ void _SET_PLAYER_HOMING_ROCKET_DISABLED(Player player, BOOL p1);
 NativeDB Introduced: v1180
 ```
 
-## Parameters
+## 參數
 * **player**:
 * **p1**:

@@ -13,6 +13,6 @@ Enables laser sight on any weapon.
 It doesn't work. Neither on tick nor OnKeyDown  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

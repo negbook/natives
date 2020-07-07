@@ -9,7 +9,7 @@ Any GET_ITEMSET_SIZE(ScrHandle x);
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 
-## Return value
+## 返回值

@@ -12,8 +12,8 @@ BOOL HAS_ANIM_EVENT_FIRED(Entity entity, Hash actionHash);
 if (ENTITY::HAS_ANIM_EVENT_FIRED(PLAYER::PLAYER_PED_ID(), GAMEPLAY::GET_HASH_KEY("CreateObject")))  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **actionHash**: 
 
-## Return value
+## 返回值

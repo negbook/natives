@@ -15,8 +15,8 @@ weapon::_0xB4C8D77C80C0421E(Local_888[3 /*33*/], -1082130432);
 The code following this relates to manually triggering an RPG rocket (creating the object, the particle fx and sound)  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 
-## Return value
+## 返回值

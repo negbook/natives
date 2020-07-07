@@ -9,7 +9,7 @@ BOOL IS_PED_GETTING_INTO_A_VEHICLE(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

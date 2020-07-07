@@ -12,7 +12,7 @@ void SET_SIREN_WITH_NO_DRIVER(Vehicle vehicle, ScrHandle* toggle);
 NativeDB Parameter 1: BOOL toggle
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

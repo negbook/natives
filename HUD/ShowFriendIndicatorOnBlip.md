@@ -14,7 +14,7 @@ Highlights a blip by a half cyan circle on the right side of the blip. ![](https
 To toggle the left side (crew member indicator) of the half circle around the blip, use: [`SHOW_CREW_INDICATOR_ON_BLIP`](#_0xDCFB5D4DB8BF367E).
 
 
-## Parameters
+## 參數
 * **blip**: The blip to toggle the half circle on.
 * **toggle**: Enables or disables the half circle around the blip (on the right side of the blip).
 

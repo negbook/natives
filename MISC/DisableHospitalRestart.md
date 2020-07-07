@@ -13,7 +13,7 @@ The game by default has 5 hospital respawn points. Disabling them all will cause
 Doesn't work....  
 ```
 
-## Parameters
+## 參數
 * **hospitalIndex**: 
 * **toggle**: 
 

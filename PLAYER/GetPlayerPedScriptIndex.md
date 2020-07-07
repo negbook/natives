@@ -12,7 +12,7 @@ Ped GET_PLAYER_PED_SCRIPT_INDEX(Player player);
 Does the same like PLAYER::GET_PLAYER_PED<br/>  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

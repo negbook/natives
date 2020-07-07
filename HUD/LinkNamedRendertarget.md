@@ -9,6 +9,6 @@ void LINK_NAMED_RENDERTARGET(Hash modelHash);
 ```
 
 
-## Parameters
+## 參數
 * **modelHash**: 
 

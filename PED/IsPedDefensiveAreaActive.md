@@ -10,8 +10,8 @@ BOOL IS_PED_DEFENSIVE_AREA_ACTIVE(Ped ped, BOOL p1);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 
-## Return value
+## 返回值

@@ -11,10 +11,10 @@ float _GET_PLANE_VTOL_DIRECTION(Vehicle aircraft);
 
 A float indicating the percentage of the hover mode. 1.0 = in VTOL mode, 0.0 = in normal flying mode.
 
-## Parameters
+## 參數
 * **aircraft**: The vehicle to check the hover mode on.
 
-## Return value
+## 返回值
 A float indicating the percentage of the hover mode. 1.0 = in VTOL mode, 0.0 = in normal flying mode.
 
 ## Examples

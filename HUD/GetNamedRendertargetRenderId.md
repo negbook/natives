@@ -9,7 +9,7 @@ int GET_NAMED_RENDERTARGET_RENDER_ID(char* name);
 ```
 
 
-## Parameters
+## 參數
 * **name**: 
 
-## Return value
+## 返回值

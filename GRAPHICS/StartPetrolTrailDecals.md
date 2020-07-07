@@ -9,6 +9,6 @@ aliases: ["0x99AC7F0D8B9C893D"]
 void START_PETROL_TRAIL_DECALS(float p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

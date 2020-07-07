@@ -13,6 +13,6 @@ Sets the camera position relative to heading in float from -360 to +360.
 Heading is alwyas 0 in aiming camera.  
 ```
 
-## Parameters
+## 參數
 * **heading**: 
 

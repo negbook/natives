@@ -9,7 +9,7 @@ float GET_VEHICLE_CURRENT_ACCELERATION(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

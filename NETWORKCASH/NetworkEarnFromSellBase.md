@@ -12,6 +12,6 @@ void _NETWORK_EARN_FROM_SELL_BASE(int amount, Hash baseNameHash);
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **amount**:
 * **baseNameHash**:

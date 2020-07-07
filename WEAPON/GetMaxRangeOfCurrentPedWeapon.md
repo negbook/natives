@@ -9,7 +9,7 @@ float GET_MAX_RANGE_OF_CURRENT_PED_WEAPON(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

@@ -16,10 +16,10 @@ PC scripts:
 v_5/*{3}*/ = VEHICLE::GET_VEHICLE_DEFORMATION_AT_POS(a_0._f1, 1.21, 6.15, 0.3);  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **offsetX**: 
 * **offsetY**: 
 * **offsetZ**: 
 
-## Return value
+## 返回值

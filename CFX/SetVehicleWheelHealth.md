@@ -9,7 +9,7 @@ void SET_VEHICLE_WHEEL_HEALTH(Vehicle vehicle, int wheelIndex, float health);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **wheelIndex**: 
 * **health**: 

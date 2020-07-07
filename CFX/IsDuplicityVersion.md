@@ -10,5 +10,5 @@ BOOL IS_DUPLICITY_VERSION();
 
 Gets whether or not this is the CitizenFX server.
 
-## Return value
+## 返回值
 A boolean value.

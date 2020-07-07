@@ -14,7 +14,7 @@ start - left boundry on screen position (0.0 - 1.0)
 end - right boundry on screen position (0.0 - 1.0)  
 ```
 
-## Parameters
+## 參數
 * **start**: 
 * **end**: 
 

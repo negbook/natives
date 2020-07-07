@@ -9,7 +9,7 @@ BOOL IS_VEHICLE_PREVIOUSLY_OWNED_BY_PLAYER(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

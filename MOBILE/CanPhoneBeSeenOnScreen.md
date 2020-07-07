@@ -13,4 +13,4 @@ This one is weird and seems to return a TRUE state regardless of whether the pho
 I can confirm the above. This function is hard-coded to always return 1.  
 ```
 
-## Return value
+## 返回值

@@ -12,7 +12,7 @@ int GET_NUMBER_OF_EVENTS(int eventGroup);
 eventGroup: 0 = CEventGroupScriptAI, 1 = CEventGroupScriptNetwork  
 ```
 
-## Parameters
+## 參數
 * **eventGroup**: 
 
-## Return value
+## 返回值

@@ -9,8 +9,8 @@ BOOL IS_PRINCIPAL_ACE_ALLOWED(char* principal, char* object);
 ```
 
 
-## Parameters
+## 參數
 * **principal**: 
 * **object**: 
 
-## Return value
+## 返回值

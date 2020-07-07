@@ -15,7 +15,7 @@ IS_PED_*
 Returns true if the ped is currently opening a door (CTaskOpenDoor).
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

@@ -9,9 +9,9 @@ aliases: ["0xC22912B1D85F26B1","_NETWORK_GET_BAN_DATA"]
 BOOL NETWORK_HAS_ROS_PRIVILEGE_END_DATE(int p0, int* banType, Vector3* timeData);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **banType**: 
 * **timeData**: 
 
-## Return value
+## 返回值

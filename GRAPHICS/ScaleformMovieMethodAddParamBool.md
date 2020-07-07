@@ -13,6 +13,6 @@ void SCALEFORM_MOVIE_METHOD_ADD_PARAM_BOOL(BOOL value);
 Pushes a boolean for the Scaleform function onto the stack.  
 ```
 
-## Parameters
+## 參數
 * **value**: 
 

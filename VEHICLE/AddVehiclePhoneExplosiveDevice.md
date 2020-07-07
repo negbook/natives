@@ -10,6 +10,6 @@ void ADD_VEHICLE_PHONE_EXPLOSIVE_DEVICE(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 

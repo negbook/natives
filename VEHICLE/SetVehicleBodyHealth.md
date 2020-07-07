@@ -12,7 +12,7 @@ void SET_VEHICLE_BODY_HEALTH(Vehicle vehicle, float value);
 p2 often set to 1000.0 in the decompiled scripts.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **value**: 
 

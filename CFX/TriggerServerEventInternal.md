@@ -10,7 +10,7 @@ void TRIGGER_SERVER_EVENT_INTERNAL(char* eventName, char* eventPayload, int payl
 
 The backing function for TriggerServerEvent.
 
-## Parameters
+## 參數
 * **eventName**: 
 * **eventPayload**: 
 * **payloadLength**: 

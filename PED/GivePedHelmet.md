@@ -18,7 +18,7 @@ PilotHelmet	65536
 p2 is generally 4096 or 16384 in the scripts. p1 varies between 1 and 0.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **cannotRemove**: 
 * **helmetFlag**: 

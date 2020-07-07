@@ -15,7 +15,7 @@ Creates/hosts a new transition to another online session, using this in FiveM wi
 You also need to use `NetworkJoinTransition(Player player)` and `NetworkLaunchTransition()`.
 
 
-## Parameters
+## 參數
 * **p0**: Unknown int
 * **p1**: Unknown int
 * **p2**: Unknown int
@@ -27,5 +27,5 @@ You also need to use `NetworkJoinTransition(Player player)` and `NetworkLaunchTr
 * **p8**: Unknown int, it's an int according to decompiled scripts, however the value is always 0 or 1.
 * **p9**: Unknown int, sometimes 0, but also 32768 or 16384 appear in decompiled scripst, maybe a flag of some sort?
 
-## Return value
+## 返回值
 Probably a bool indicating if the transition was created.

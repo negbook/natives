@@ -13,6 +13,6 @@ void REQUEST_CUT_FILE(char* cutsceneName);
 Loads the cutscene and doesn't do extra stuff that REQUEST_CUTSCENE does.
 ```
 
-## Parameters
+## 參數
 * **cutsceneName**: 
 

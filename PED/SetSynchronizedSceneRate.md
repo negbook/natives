@@ -9,7 +9,7 @@ void SET_SYNCHRONIZED_SCENE_RATE(int sceneID, float rate);
 ```
 
 
-## Parameters
+## 參數
 * **sceneID**: 
 * **rate**: 
 

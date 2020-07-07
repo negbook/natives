@@ -14,4 +14,4 @@ Gets whether or not NIGHTVISION is Active.
 Note:  When nightvision is actually active, this native will return TRUE!  
 ```
 
-## Return value
+## 返回值

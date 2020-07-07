@@ -9,4 +9,4 @@ int NETWORK_GET_FRIEND_COUNT();
 ```
 
 
-## Return value
+## 返回值

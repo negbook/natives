@@ -10,7 +10,7 @@ BOOL PLAY_SYNCHRONIZED_MAP_ENTITY_ANIM(float p0, float p1, float p2, float p3, A
 
 [Animations list](https://alexguirre.github.io/animations-list/)
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
@@ -24,4 +24,4 @@ BOOL PLAY_SYNCHRONIZED_MAP_ENTITY_ANIM(float p0, float p1, float p2, float p3, A
 * **p10**: 
 * **p11**: 
 
-## Return value
+## 返回值

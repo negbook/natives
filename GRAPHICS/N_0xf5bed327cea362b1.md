@@ -13,7 +13,7 @@ int _0xF5BED327CEA362B1(BOOL p0);
 appcamera, appmedia, and cellphone_controller.  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ void REMOVE_VEHICLE_UPSIDEDOWN_CHECK(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 

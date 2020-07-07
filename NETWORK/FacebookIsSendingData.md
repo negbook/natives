@@ -10,4 +10,4 @@ BOOL _FACEBOOK_IS_SENDING_DATA();
 ```
 
 
-## Return value
+## 返回值

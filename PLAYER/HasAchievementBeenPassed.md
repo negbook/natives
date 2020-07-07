@@ -9,7 +9,7 @@ BOOL HAS_ACHIEVEMENT_BEEN_PASSED(int achievement);
 ```
 
 
-## Parameters
+## 參數
 * **achievement**: 
 
-## Return value
+## 返回值

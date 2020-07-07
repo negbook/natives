@@ -9,7 +9,7 @@ char* GET_RESOURCE_KVP_STRING(char* key);
 ```
 
 
-## Parameters
+## 參數
 * **key**: 
 
-## Return value
+## 返回值

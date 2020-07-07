@@ -9,7 +9,7 @@ BOOL IS_INTERIOR_DISABLED(int interior);
 ```
 
 
-## Parameters
+## 參數
 * **interior**: 
 
-## Return value
+## 返回值

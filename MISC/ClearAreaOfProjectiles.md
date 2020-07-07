@@ -12,7 +12,7 @@ void CLEAR_AREA_OF_PROJECTILES(float x, float y, float z, float radius, BOOL fla
 NativeDB Parameter 4: int flags
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

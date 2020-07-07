@@ -18,7 +18,7 @@ bool speedZoneClosed = Function.Call<bool>((Hash) 0x1033371FC8E842A7, speedZone)
 (Thanks to alexguirre for his help!)  
 ```
 
-## Parameters
+## 參數
 * **speedzone**: 
 
-## Return value
+## 返回值

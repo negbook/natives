@@ -9,7 +9,7 @@ BOOL IS_WAYPOINT_PLAYBACK_GOING_ON_FOR_PED(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

@@ -10,8 +10,8 @@ Vector3 _GET_WORLD_ROTATION_OF_ENTITY_BONE(Entity entity, int boneIndex);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **boneIndex**: 
 
-## Return value
+## 返回值

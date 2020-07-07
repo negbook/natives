@@ -10,7 +10,7 @@ BOOL _IS_PED_HELMET_UNK(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

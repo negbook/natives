@@ -12,7 +12,7 @@ void ENABLE_TENNIS_MODE(Ped ped, BOOL toggle, BOOL p2);
 Makes the ped jump around like they're in a tennis match  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 * **p2**: 

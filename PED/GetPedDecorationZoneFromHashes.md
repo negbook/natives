@@ -24,8 +24,8 @@ enum TattooZoneData
 };  
 ```
 
-## Parameters
+## 參數
 * **collection**: 
 * **overlay**: 
 
-## Return value
+## 返回值

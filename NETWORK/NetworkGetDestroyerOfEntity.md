@@ -10,9 +10,9 @@ BOOL _NETWORK_GET_DESTROYER_OF_ENTITY(Any p0, Any p1, Hash* weaponHash);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **weaponHash**: 
 
-## Return value
+## 返回值

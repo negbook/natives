@@ -10,7 +10,7 @@ void SEND_DUI_MOUSE_WHEEL(long duiObject, int deltaY, int deltaX);
 
 Injects a 'mouse wheel' event for a DUI object.
 
-## Parameters
+## 參數
 * **duiObject**: The DUI browser handle.
 * **deltaY**: The wheel Y delta.
 * **deltaX**: The wheel X delta.

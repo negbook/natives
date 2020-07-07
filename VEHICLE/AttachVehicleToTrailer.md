@@ -9,7 +9,7 @@ void ATTACH_VEHICLE_TO_TRAILER(Vehicle vehicle, Vehicle trailer, float radius);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **trailer**: 
 * **radius**: 

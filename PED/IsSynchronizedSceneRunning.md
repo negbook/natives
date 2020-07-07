@@ -12,7 +12,7 @@ BOOL IS_SYNCHRONIZED_SCENE_RUNNING(int sceneId);
 Returns true if a synchronized scene is running  
 ```
 
-## Parameters
+## 參數
 * **sceneId**: 
 
-## Return value
+## 返回值

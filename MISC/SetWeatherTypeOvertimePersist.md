@@ -10,7 +10,7 @@ void SET_WEATHER_TYPE_OVERTIME_PERSIST(char* weatherType, float time);
 ```
 
 
-## Parameters
+## 參數
 * **weatherType**: 
 * **time**: 
 

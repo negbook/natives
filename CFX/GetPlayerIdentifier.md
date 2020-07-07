@@ -9,8 +9,8 @@ char* GET_PLAYER_IDENTIFIER(char* playerSrc, int identifier);
 ```
 
 
-## Parameters
+## 參數
 * **playerSrc**: 
 * **identifier**: 
 
-## Return value
+## 返回值

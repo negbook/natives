@@ -16,9 +16,9 @@ p1 = -1
 p2 = 0  
 ```
 
-## Parameters
+## 參數
 * **scriptName**: 
 * **p1**: 
 * **p2**: 
 
-## Return value
+## 返回值

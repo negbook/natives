@@ -12,9 +12,9 @@ Any SET_PED_PINNED_DOWN(Ped ped, BOOL pinned, int p2);
 p2 could be time. Only example in the decompiled scripts uses it as -1.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **pinned**: 
 * **p2**: 
 
-## Return value
+## 返回值

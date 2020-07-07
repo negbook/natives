@@ -9,7 +9,7 @@ BOOL _CAN_REGISTER_MISSION_PICKUPS(int amount);
 ```
 
 
-## Parameters
+## 參數
 * **amount**: 
 
-## Return value
+## 返回值

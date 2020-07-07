@@ -9,6 +9,6 @@ void SET_CG_AT_BOUNDCENTER(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 

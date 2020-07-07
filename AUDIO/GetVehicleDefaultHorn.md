@@ -13,7 +13,7 @@ Returns hash of default vehicle horn
 Hash is stored in audVehicleAudioEntity  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

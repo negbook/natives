@@ -9,8 +9,8 @@ aliases: ["0x40F7E66472DF3E5C"]
 Any UGC_GET_CACHED_DESCRIPTION(Any p0, Any p1);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

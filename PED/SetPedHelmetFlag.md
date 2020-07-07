@@ -9,7 +9,7 @@ void SET_PED_HELMET_FLAG(Ped ped, int helmetFlag);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **helmetFlag**: 
 

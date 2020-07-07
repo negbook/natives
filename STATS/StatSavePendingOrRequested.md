@@ -12,4 +12,4 @@ Any STAT_SAVE_PENDING_OR_REQUESTED();
 NativeDB Return Type: BOOL
 ```
 
-## Return value
+## 返回值

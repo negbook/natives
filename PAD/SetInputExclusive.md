@@ -12,7 +12,7 @@ void SET_INPUT_EXCLUSIVE(int inputGroup, int control);
 inputGroup: 0 (PLAYER_CONTROL), 1 (unk) and 2 (unk) used in the scripts.
 ```
 
-## Parameters
+## 參數
 * **inputGroup**: 
 * **control**: 
 

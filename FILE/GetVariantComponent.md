@@ -9,7 +9,7 @@ void GET_VARIANT_COMPONENT(Hash componentHash, int componentId, Any* p2, Any* p3
 ```
 
 
-## Parameters
+## 參數
 * **componentHash**: 
 * **componentId**: 
 * **p2**: 

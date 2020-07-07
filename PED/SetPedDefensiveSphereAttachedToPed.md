@@ -10,7 +10,7 @@ void SET_PED_DEFENSIVE_SPHERE_ATTACHED_TO_PED(Ped ped, Ped target, float xOffset
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **target**: 
 * **xOffset**: 

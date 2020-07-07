@@ -13,6 +13,6 @@ void RESET_PARTICLE_FX_OVERRIDE(char* name);
 Resets the effect of _SET_PARTICLE_FX_ASSET_OLD_TO_NEW  
 ```
 
-## Parameters
+## 參數
 * **name**: 
 

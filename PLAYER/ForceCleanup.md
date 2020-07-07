@@ -12,6 +12,6 @@ void FORCE_CLEANUP(int cleanupFlags);
 used with 1,2,8,64,128 in the scripts  
 ```
 
-## Parameters
+## 參數
 * **cleanupFlags**: 
 

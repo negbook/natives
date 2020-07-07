@@ -10,7 +10,7 @@ BOOL _NET_GAMESERVER_CHECKOUT_START(int transactionId);
 ```
 
 
-## Parameters
+## 參數
 * **transactionId**: 
 
-## Return value
+## 返回值

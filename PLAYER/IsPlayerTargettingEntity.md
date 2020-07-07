@@ -9,8 +9,8 @@ BOOL IS_PLAYER_TARGETTING_ENTITY(Player player, Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **entity**: 
 
-## Return value
+## 返回值

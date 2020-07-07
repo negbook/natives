@@ -9,8 +9,8 @@ BOOL DOES_WEAPON_TAKE_WEAPON_COMPONENT(Hash weaponHash, Hash componentHash);
 ```
 
 
-## Parameters
+## 參數
 * **weaponHash**: 
 * **componentHash**: 
 
-## Return value
+## 返回值

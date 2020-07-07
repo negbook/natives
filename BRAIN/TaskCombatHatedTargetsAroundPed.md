@@ -13,7 +13,7 @@ Despite its name, it only attacks ONE hated target. The one closest hated target
 p2 seems to be always 0  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **radius**: 
 * **p2**: 

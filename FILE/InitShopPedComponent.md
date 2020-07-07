@@ -9,6 +9,6 @@ void INIT_SHOP_PED_COMPONENT(int* outComponent);
 ```
 
 
-## Parameters
+## 參數
 * **outComponent**: 
 

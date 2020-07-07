@@ -14,7 +14,7 @@ Example:
 AI::_D5B35BEA41919ACB(PLAYER::PLAYER_PED_ID(), "minigame_tattoo_michael_parts", 324.13, 181.29, 102.6, 0.0, 0.0, 22.32, 2, 0, 0, 0, 0);  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 * **p2**: 

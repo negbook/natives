@@ -12,7 +12,7 @@ void PLAY_VEHICLE_DOOR_OPEN_SOUND(Vehicle vehicle, int doorIndex);
 p1 appears to only be "0" or "3". I personally use "0" as p1.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **doorIndex**: 
 

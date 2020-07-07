@@ -10,7 +10,7 @@ void SET_CONVERTIBLE_ROOF_LATCH_STATE(Vehicle vehicle, BOOL state);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **state**: 
 

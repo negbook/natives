@@ -13,7 +13,7 @@ gets 2 floats from the CNetGamePlayer of p0 and stores them in p1 and p2.
 Possibly waypoint?  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

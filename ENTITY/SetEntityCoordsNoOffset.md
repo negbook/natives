@@ -12,7 +12,7 @@ void SET_ENTITY_COORDS_NO_OFFSET(Entity entity, float xPos, float yPos, float zP
 Axis - Invert Axis Flags  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **xPos**: 
 * **yPos**: 

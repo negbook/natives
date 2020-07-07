@@ -21,7 +21,7 @@ or use std::tm struct
 TIME::GET_LOCAL_TIME(&year, &month, &day, &hour, &minute, &second);  
 ```
 
-## Parameters
+## 參數
 * **year**: 
 * **month**: 
 * **day**: 

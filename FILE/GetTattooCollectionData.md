@@ -47,12 +47,12 @@ struct outComponent
 ```
 
 
-## Parameters
+## 參數
 * **characterType**: Character types 0 = Michael, 1 = Franklin, 2 = Trevor, 3 = MPMale, 4 = MPFemale.
 * **decorationIndex**: Tattoo index, value between 0 and GetNumDecorations(characterType).
 * **outComponent**: The referenced struct.
 
-## Return value
+## 返回值
 A bool indicating that the tattoo data could be fetched(?)
 
 ## Examples

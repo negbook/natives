@@ -10,7 +10,7 @@ void SET_TEXT_DROPSHADOW(int distance, int r, int g, int b, int a);
 
 Sets the drop shadow for the current text style.
 
-## Parameters
+## 參數
 * **distance**: Shadow distance in pixels, both horizontal and vertical.
 * **r**: Red color.
 * **g**: Green color.

@@ -9,6 +9,6 @@ aliases: ["0xF46A1E03E8755980"]
 void NETWORK_SET_NO_SPECTATOR_CHAT(BOOL toggle);
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

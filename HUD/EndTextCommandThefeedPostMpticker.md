@@ -13,8 +13,8 @@ int END_TEXT_COMMAND_THEFEED_POST_MPTICKER(BOOL isImportant, BOOL bHasTokens);
 Alias of 0x2ED7843F8F801023
 ```
 
-## Parameters
+## 參數
 * **isImportant**: 
 * **bHasTokens**: 
 
-## Return value
+## 返回值

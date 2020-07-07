@@ -10,9 +10,9 @@ BOOL UGC_SET_PLAYER_DATA(char* contentId, float rating, char* contentTypeName);
 ```
 
 
-## Parameters
+## 參數
 * **contentId**: 
 * **rating**: 
 * **contentTypeName**: 
 
-## Return value
+## 返回值

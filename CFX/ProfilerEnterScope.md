@@ -10,6 +10,6 @@ void PROFILER_ENTER_SCOPE(char* scopeName);
 
 Scope entry for profiler.
 
-## Parameters
+## 參數
 * **scopeName**: Scope name.
 

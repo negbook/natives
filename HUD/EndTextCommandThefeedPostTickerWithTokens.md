@@ -10,8 +10,8 @@ int END_TEXT_COMMAND_THEFEED_POST_TICKER_WITH_TOKENS(BOOL isImportant, BOOL bHas
 ```
 
 
-## Parameters
+## 參數
 * **isImportant**: 
 * **bHasTokens**: 
 
-## Return value
+## 返回值

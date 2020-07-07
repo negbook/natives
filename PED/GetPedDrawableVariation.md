@@ -23,8 +23,8 @@ Ids
 11 - Auxiliary parts for torso  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **componentId**: 
 
-## Return value
+## 返回值

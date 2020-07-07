@@ -10,7 +10,7 @@ void _TASK_PERFORM_SEQUENCE_LOCALLY(Ped ped, int taskSequenceId);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **taskSequenceId**: 
 

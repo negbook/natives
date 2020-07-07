@@ -19,8 +19,8 @@ Use GET_VEHICLE_MAX_NUMBER_OF_PASSENGERS(vehicle) - 1 for last seat index.
 NativeDB Added Parameter 3: BOOL p2
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **seatIndex**: 
 
-## Return value
+## 返回值

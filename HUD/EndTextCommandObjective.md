@@ -13,6 +13,6 @@ void _END_TEXT_COMMAND_OBJECTIVE(BOOL p0);
 p0 is always false in scripts.  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

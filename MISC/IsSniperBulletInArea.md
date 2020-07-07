@@ -12,7 +12,7 @@ BOOL IS_SNIPER_BULLET_IN_AREA(float x1, float y1, float z1, float x2, float y2, 
 Determines whether there is a sniper bullet within the specified coordinates. The coordinates form a rectangle.  
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 
@@ -20,4 +20,4 @@ Determines whether there is a sniper bullet within the specified coordinates. Th
 * **y2**: 
 * **z2**: 
 
-## Return value
+## 返回值

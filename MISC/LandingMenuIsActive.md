@@ -13,4 +13,4 @@ BOOL _LANDING_MENU_IS_ACTIVE();
 Returns true if the current frontend menu is FE_MENU_VERSION_LANDING_MENU
 ```
 
-## Return value
+## 返回值

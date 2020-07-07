@@ -9,6 +9,6 @@ void DELETE_CHECKPOINT(int checkpoint);
 ```
 
 
-## Parameters
+## 參數
 * **checkpoint**: 
 

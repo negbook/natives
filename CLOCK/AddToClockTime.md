@@ -9,7 +9,7 @@ void ADD_TO_CLOCK_TIME(int hours, int minutes, int seconds);
 ```
 
 
-## Parameters
+## 參數
 * **hours**: 
 * **minutes**: 
 * **seconds**: 

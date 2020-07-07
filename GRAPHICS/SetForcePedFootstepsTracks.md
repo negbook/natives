@@ -12,6 +12,6 @@ void _SET_FORCE_PED_FOOTSTEPS_TRACKS(BOOL toggle);
 Forces footstep tracks on all surfaces.  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

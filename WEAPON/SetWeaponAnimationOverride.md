@@ -44,7 +44,7 @@ Strings to use with GET_HASH_KEY :
 	"Trevor"  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **animStyle**: 
 

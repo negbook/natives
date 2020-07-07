@@ -13,6 +13,6 @@ void SET_AUDIO_SPECIAL_EFFECT_MODE(int mode);
 p0 is usually 0. sometimes 2. Not sure what this does.  
 ```
 
-## Parameters
+## 參數
 * **mode**: 
 

@@ -18,7 +18,7 @@ Only values used in the scripts are:
 "heist_pre"  
 ```
 
-## Parameters
+## 參數
 * **scaleformName**: 
 
-## Return value
+## 返回值

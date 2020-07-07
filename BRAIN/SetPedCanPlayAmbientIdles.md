@@ -16,7 +16,7 @@ p1 was always true
 p2 was always true  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 * **p2**: 

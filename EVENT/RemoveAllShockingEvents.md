@@ -9,6 +9,6 @@ void REMOVE_ALL_SHOCKING_EVENTS(BOOL p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

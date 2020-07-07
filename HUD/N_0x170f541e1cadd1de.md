@@ -13,6 +13,6 @@ Related to displaying cash on the HUD
 Always called before UI::_SET_SINGLEPLAYER_HUD_CASH in decompiled scripts  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

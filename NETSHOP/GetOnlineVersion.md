@@ -18,4 +18,4 @@ _GET_ONLINE_VERSION() will return "1.33"
 Belongs in NETWORK  
 ```
 
-## Return value
+## 返回值

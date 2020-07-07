@@ -16,4 +16,4 @@ Any _0xE3B05614DCE1D014(Any p0) // 0xE3B05614DCE1D014 0xD217EE7E
 returns current websitePageID  
 ```
 
-## Return value
+## 返回值

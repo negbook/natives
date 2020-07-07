@@ -19,7 +19,7 @@ Right-Rear = 2
 Extra seats = 3-14(This may differ from vehicle type e.g. Firetruck Rear Stand, Ambulance Rear)  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **vehicle**: 
 * **seat**: 

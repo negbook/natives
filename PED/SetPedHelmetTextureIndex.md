@@ -9,7 +9,7 @@ void SET_PED_HELMET_TEXTURE_INDEX(Ped ped, int textureIndex);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **textureIndex**: 
 

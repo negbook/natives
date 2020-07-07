@@ -15,6 +15,6 @@ void _SET_THREAD_PRIORITY(int priority);
 2 = low
 ```
 
-## Parameters
+## 參數
 * **priority**: 
 

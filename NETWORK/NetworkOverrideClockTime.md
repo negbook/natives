@@ -13,7 +13,7 @@ Works in Singleplayer too.
 Actually has a 4th param (BOOL) that sets byte_14273C46C (in b944) to whatever was passed to p3.  
 ```
 
-## Parameters
+## 參數
 * **Hours**: 
 * **Minutes**: 
 * **Seconds**: 

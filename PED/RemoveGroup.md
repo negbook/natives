@@ -9,6 +9,6 @@ void REMOVE_GROUP(int groupId);
 ```
 
 
-## Parameters
+## 參數
 * **groupId**: 
 

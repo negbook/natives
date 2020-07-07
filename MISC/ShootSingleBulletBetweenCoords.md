@@ -18,7 +18,7 @@ if (isInvisible)
 int v110 = var | 2 * p7;  
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 

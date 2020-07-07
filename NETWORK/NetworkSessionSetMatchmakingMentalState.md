@@ -9,6 +9,6 @@ aliases: ["0xF1EEA2DDA9FFA69D"]
 void NETWORK_SESSION_SET_MATCHMAKING_MENTAL_STATE(Any p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

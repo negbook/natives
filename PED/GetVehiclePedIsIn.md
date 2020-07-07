@@ -10,9 +10,9 @@ Vehicle GET_VEHICLE_PED_IS_IN(Ped ped, BOOL lastVehicle);
 
 Gets the vehicle the specified Ped is/was in depending on bool value.  
 
-## Parameters
+## 參數
 * **ped**: The target ped
 * **lastVehicle**: False = CurrentVehicle, True = LastVehicle
 
-## Return value
+## 返回值
 The vehicle id. Returns 0 if the ped is/was not in a vehicle.

@@ -10,7 +10,7 @@ void _SET_PED_HELMET_UNK(Ped ped, BOOL p1, int p2, int p3);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 * **p2**: 

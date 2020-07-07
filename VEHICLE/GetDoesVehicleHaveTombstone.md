@@ -12,5 +12,5 @@ BOOL _GET_DOES_VEHICLE_HAVE_TOMBSTONE(Vehicle vehicle);
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **vehicle**:

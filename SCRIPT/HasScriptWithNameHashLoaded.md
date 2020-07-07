@@ -10,7 +10,7 @@ BOOL HAS_SCRIPT_WITH_NAME_HASH_LOADED(Hash scriptHash);
 ```
 
 
-## Parameters
+## 參數
 * **scriptHash**: 
 
-## Return value
+## 返回值

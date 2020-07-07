@@ -9,7 +9,7 @@ void REMOVE_SCENARIO_BLOCKING_AREA(Any p0, BOOL p1);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

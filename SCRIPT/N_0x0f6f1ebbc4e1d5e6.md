@@ -14,6 +14,6 @@ BG_*
 NativeDB Introduced: v323
 ```
 
-## Parameters
+## 參數
 * **scriptIndex**:
 * **p1**:

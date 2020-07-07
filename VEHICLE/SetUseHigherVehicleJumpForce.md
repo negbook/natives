@@ -11,7 +11,7 @@ void _SET_USE_HIGHER_VEHICLE_JUMP_FORCE(Vehicle vehicle, BOOL toggle);
 
 Allows vehicles with the FLAG_JUMPING_CAR flag to jump higher (i.e. Ruiner 2000).
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

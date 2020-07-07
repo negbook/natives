@@ -9,7 +9,7 @@ void ADD_NAVMESH_REQUIRED_REGION(float x, float y, float radius);
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **radius**: 

@@ -10,7 +10,7 @@ void SET_PED_VEHICLE_FORCED_SEAT_USAGE(Ped ped, Vehicle vehicle, int seatIndex, 
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **vehicle**: 
 * **seatIndex**: 

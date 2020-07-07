@@ -18,9 +18,9 @@ doorIndex:
 6 = Trunk2  
 
 
-## Parameters
+## 參數
 * **vehicle**: The vehicle to check.
 * **doorIndex**: The index of the door to check.
 
-## Return value
+## 返回值
 A bool indiciating if the specified door is fully open on the specified vehicle.

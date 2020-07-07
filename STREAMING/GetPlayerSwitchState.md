@@ -9,4 +9,4 @@ int GET_PLAYER_SWITCH_STATE();
 ```
 
 
-## Return value
+## 返回值

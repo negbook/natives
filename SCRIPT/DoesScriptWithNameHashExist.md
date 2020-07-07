@@ -14,7 +14,7 @@ formerly _IS_STREAMED_SCRIPT_RUNNING
 Jenkins hash: 0x19EAE282  
 ```
 
-## Parameters
+## 參數
 * **scriptHash**: 
 
-## Return value
+## 返回值

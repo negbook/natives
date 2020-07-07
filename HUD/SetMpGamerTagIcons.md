@@ -13,7 +13,7 @@ void _SET_MP_GAMER_TAG_ICONS(int gamerTagId, BOOL p1);
 Displays a bunch of icons above the players name, and level, and their name twice  
 ```
 
-## Parameters
+## 參數
 * **gamerTagId**: 
 * **p1**: 
 

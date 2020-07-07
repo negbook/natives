@@ -9,4 +9,4 @@ BOOL IS_SCRIPTED_CONVERSATION_ONGOING();
 ```
 
 
-## Return value
+## 返回值

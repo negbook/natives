@@ -9,4 +9,4 @@ BOOL NETWORK_IS_CLOUD_AVAILABLE();
 ```
 
 
-## Return value
+## 返回值

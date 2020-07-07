@@ -28,7 +28,7 @@ FIRING_PATTERN_SLOW_FIRE_TANK = 0xE2CA3A71 ( -490063247 )
 if anyone is interested firing pattern info: pastebin.com/Px036isB  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **patternHash**: 
 

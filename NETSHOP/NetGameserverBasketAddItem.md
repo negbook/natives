@@ -13,8 +13,8 @@ BOOL _NET_GAMESERVER_BASKET_ADD_ITEM(Any* itemData, int quantity);
 p0 is pointer to a script array  
 ```
 
-## Parameters
+## 參數
 * **itemData**: 
 * **quantity**: 
 
-## Return value
+## 返回值

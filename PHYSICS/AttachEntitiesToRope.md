@@ -12,7 +12,7 @@ void ATTACH_ENTITIES_TO_ROPE(int ropeId, Entity ent1, Entity ent2, float ent1_x,
 Attaches entity 1 to entity 2.  
 ```
 
-## Parameters
+## 參數
 * **ropeId**: 
 * **ent1**: 
 * **ent2**: 

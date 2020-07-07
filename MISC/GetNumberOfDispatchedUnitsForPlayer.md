@@ -10,7 +10,7 @@ int _GET_NUMBER_OF_DISPATCHED_UNITS_FOR_PLAYER(int dispatchService);
 ```
 
 
-## Parameters
+## 參數
 * **dispatchService**: 
 
-## Return value
+## 返回值

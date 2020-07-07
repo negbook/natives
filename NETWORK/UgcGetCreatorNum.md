@@ -9,4 +9,4 @@ aliases: ["0x597F8DBA9B206FC7"]
 Any UGC_GET_CREATOR_NUM();
 ```
 
-## Return value
+## 返回值

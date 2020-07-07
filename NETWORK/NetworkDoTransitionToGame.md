@@ -9,8 +9,8 @@ BOOL NETWORK_DO_TRANSITION_TO_GAME(BOOL p0, int maxPlayers);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **maxPlayers**: 
 
-## Return value
+## 返回值

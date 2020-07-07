@@ -14,7 +14,7 @@ This means that it will return true even if the entity is behind a wall for exam
 Chipping  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

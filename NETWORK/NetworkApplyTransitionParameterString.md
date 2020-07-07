@@ -16,7 +16,7 @@ that global is for ps3/xbox not pc
 no idea what this does does  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **string**: 
 * **p2**: 

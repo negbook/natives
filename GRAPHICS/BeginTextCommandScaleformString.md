@@ -28,6 +28,6 @@ UI::_0x17299B63C7683A2B(v_3);
 GRAPHICS::END_TEXT_COMMAND_SCALEFORM_STRING();  
 ```
 
-## Parameters
+## 參數
 * **componentType**: 
 

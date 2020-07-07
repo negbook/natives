@@ -13,7 +13,7 @@ void _TRIGGER_SCRIPT_EVENT_2(BOOL eventGroup, int* args, int argCount, int bit);
 NativeDB Parameter 0: int eventGroup
 ```
 
-## Parameters
+## 參數
 * **eventGroup**: 
 * **args**: 
 * **argCount**: 

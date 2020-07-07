@@ -17,7 +17,7 @@ returns the weapon hash of pickup
 NativeDB Parameter 0: Hash pickupHash
 ```
 
-## Parameters
+## 參數
 * **pickupHash**: 
 
-## Return value
+## 返回值

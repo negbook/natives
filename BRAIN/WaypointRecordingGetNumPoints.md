@@ -13,8 +13,8 @@ For a full list, see here: pastebin.com/Tp0XpBMN
 For a full list of the points, see here: goo.gl/wIH0vn  
 ```
 
-## Parameters
+## 參數
 * **name**: 
 * **points**: 
 
-## Return value
+## 返回值

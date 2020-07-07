@@ -14,6 +14,6 @@ Sets a value that determines how aggressive the ocean waves will be. Values of 2
 Works only ~200 meters around the player.  
 ```
 
-## Parameters
+## 參數
 * **intensity**: 
 

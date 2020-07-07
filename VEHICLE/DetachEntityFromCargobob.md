@@ -9,8 +9,8 @@ aliases: ["0xAF03011701811146"]
 Any _DETACH_ENTITY_FROM_CARGOBOB(Vehicle vehicle, Entity entity);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **entity**: 
 
-## Return value
+## 返回值

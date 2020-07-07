@@ -12,8 +12,8 @@ Any REMOVE_PLAYER_HELMET(Player player, BOOL p2);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **p2**: 
 
-## Return value
+## 返回值

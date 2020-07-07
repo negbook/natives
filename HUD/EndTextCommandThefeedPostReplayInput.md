@@ -23,9 +23,9 @@ l_D1[1/*1*/]=UI::_DD6CB2CCE7C2735C(1,"~INPUT_REPLAY_START_STOP_RECORDING~","");
 l_D1[2/*1*/]=UI::_DD6CB2CCE7C2735C(1,"~INPUT_REPLAY_START_STOP_RECORDING_SECONDARY~","");  
 ```
 
-## Parameters
+## 參數
 * **eType**: 
 * **sIcon**: 
 * **sSubtitle**: 
 
-## Return value
+## 返回值

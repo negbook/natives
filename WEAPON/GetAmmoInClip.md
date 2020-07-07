@@ -9,9 +9,9 @@ BOOL GET_AMMO_IN_CLIP(Ped ped, Hash weaponHash, int* ammo);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 * **ammo**: 
 
-## Return value
+## 返回值

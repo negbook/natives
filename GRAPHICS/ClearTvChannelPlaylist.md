@@ -10,6 +10,6 @@ void CLEAR_TV_CHANNEL_PLAYLIST(int tvChannel);
 ```
 
 
-## Parameters
+## 參數
 * **tvChannel**: 
 

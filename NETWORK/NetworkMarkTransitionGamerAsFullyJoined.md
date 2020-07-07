@@ -9,7 +9,7 @@ BOOL NETWORK_MARK_TRANSITION_GAMER_AS_FULLY_JOINED(Any* p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ Vector3 GET_BLIP_COORDS(Blip blip);
 ```
 
 
-## Parameters
+## 參數
 * **blip**: 
 
-## Return value
+## 返回值

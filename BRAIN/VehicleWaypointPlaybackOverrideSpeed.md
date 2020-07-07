@@ -9,7 +9,7 @@ void VEHICLE_WAYPOINT_PLAYBACK_OVERRIDE_SPEED(Vehicle vehicle, float speed);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **speed**: 
 

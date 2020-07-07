@@ -10,6 +10,6 @@ void OVERRIDE_INTERIOR_SMOKE_NAME(char* name);
 ```
 
 
-## Parameters
+## 參數
 * **name**: 
 

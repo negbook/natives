@@ -15,4 +15,4 @@ NETWORK_RE*
 Triggers a CEventNetworkInviteConfirmed event
 ```
 
-## Return value
+## 返回值

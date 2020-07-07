@@ -9,7 +9,7 @@ void NETWORK_BUY_HEALTHCARE(int cost, BOOL p1, BOOL p2);
 ```
 
 
-## Parameters
+## 參數
 * **cost**: 
 * **p1**: 
 * **p2**: 

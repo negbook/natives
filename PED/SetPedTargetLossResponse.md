@@ -12,7 +12,7 @@ void SET_PED_TARGET_LOSS_RESPONSE(Ped ped, int responseType);
 Only 1 and 2 appear in the scripts. combatbehaviour.meta seems to only have TLR_SearchForTarget for all peds, but we don't know if that's 1 or 2.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **responseType**: 
 

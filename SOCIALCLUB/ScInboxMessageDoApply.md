@@ -10,7 +10,7 @@ BOOL SC_INBOX_MESSAGE_DO_APPLY(int p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

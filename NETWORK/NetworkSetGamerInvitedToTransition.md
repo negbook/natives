@@ -9,6 +9,6 @@ void NETWORK_SET_GAMER_INVITED_TO_TRANSITION(int* networkHandle);
 ```
 
 
-## Parameters
+## 參數
 * **networkHandle**: 
 

@@ -12,7 +12,7 @@ Any CLOSE_SEQUENCE_TASK(int taskSequenceId);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **taskSequenceId**: 
 
-## Return value
+## 返回值

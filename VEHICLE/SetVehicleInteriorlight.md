@@ -9,7 +9,7 @@ void SET_VEHICLE_INTERIORLIGHT(Vehicle vehicle, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

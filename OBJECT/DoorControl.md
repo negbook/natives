@@ -15,7 +15,7 @@ locked simply tells the game whether or not the door is locked.
 x,y,z RotMult are multipliers that specify how fast the door/gate will rotate in degrees per second.  
 ```
 
-## Parameters
+## 參數
 * **doorHash**: 
 * **x**: 
 * **y**: 

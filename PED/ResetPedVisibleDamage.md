@@ -12,7 +12,7 @@ Any RESET_PED_VISIBLE_DAMAGE(Ped ped);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

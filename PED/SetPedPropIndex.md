@@ -23,7 +23,7 @@ This native is used to set prop variation on a ped. Components, drawables and te
 
 [List of component/props ID](gtaxscripting.blogspot.com/2016/04/gta-v-peds-component-and-props.html) of player_two with examples
 
-## Parameters
+## 參數
 * **ped**: The ped handle.
 * **componentId**: The component that you want to set.
 * **drawableId**: The drawable id that is going to be set.

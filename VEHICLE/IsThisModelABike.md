@@ -12,7 +12,7 @@ BOOL IS_THIS_MODEL_A_BIKE(Hash model);
 Returns true if the model is motorcycle or bycicle.  
 ```
 
-## Parameters
+## 參數
 * **model**: 
 
-## Return value
+## 返回值

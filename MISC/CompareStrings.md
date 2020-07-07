@@ -31,10 +31,10 @@ GAMEPLAY::COMPARE_STRINGS("A", "a", true, 1); // -1; 'A' < 'a'
 GAMEPLAY::COMPARE_STRINGS("a", "A", true, 1); // 1; 'a' > 'A'  
 ```
 
-## Parameters
+## 參數
 * **str1**: 
 * **str2**: 
 * **matchCase**: 
 * **maxLength**: 
 
-## Return value
+## 返回值

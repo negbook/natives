@@ -12,6 +12,6 @@ void _SET_SPECIALFLIGHT_WING_RATIO(Vehicle vehicle, float ratio);
 NativeDB Introduced: v1365
 ```
 
-## Parameters
+## 參數
 * **vehicle**:
 * **ratio**:

@@ -12,7 +12,7 @@ int _0xEEBFC7A7EFDC35B4(Vehicle vehicle);
 Some kind of flags.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

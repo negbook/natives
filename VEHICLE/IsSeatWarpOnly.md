@@ -14,8 +14,8 @@ BOOL IS_SEAT_WARP_ONLY(Vehicle vehicle, BOOL seatIndex);
 NativeDB Parameter 1: int seatIndex
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **seatIndex**: 
 
-## Return value
+## 返回值

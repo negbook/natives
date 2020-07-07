@@ -17,7 +17,7 @@ Use _GET_VEHICLE_MOD_DATA for modData
 NativeDB Parameter 0: Hash hash
 ```
 
-## Parameters
+## 參數
 * **hash**: 
 
-## Return value
+## 返回值

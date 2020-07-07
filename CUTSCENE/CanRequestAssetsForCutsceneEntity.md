@@ -13,4 +13,4 @@ BOOL CAN_REQUEST_ASSETS_FOR_CUTSCENE_ENTITY();
 "Can request assets for cutscene entity"? (found in decompiled scripts)  
 ```
 
-## Return value
+## 返回值

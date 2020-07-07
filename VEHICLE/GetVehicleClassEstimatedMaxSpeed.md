@@ -9,7 +9,7 @@ aliases: ["0x00C09F246ABEDD82","_GET_VEHICLE_CLASS_MAX_SPEED"]
 float GET_VEHICLE_CLASS_ESTIMATED_MAX_SPEED(int vehicleClass);
 ```
 
-## Parameters
+## 參數
 * **vehicleClass**: 
 
-## Return value
+## 返回值

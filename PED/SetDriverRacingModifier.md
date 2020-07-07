@@ -13,7 +13,7 @@ void SET_DRIVER_RACING_MODIFIER(Ped driver, float modifier);
 Scripts use 0.2, 0.5 and 1.0.  
 ```
 
-## Parameters
+## 參數
 * **driver**: 
 * **modifier**: 
 

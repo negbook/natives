@@ -12,6 +12,6 @@ void DISPLAY_HUD(BOOL toggle);
 If Hud should be displayed  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

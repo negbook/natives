@@ -12,5 +12,5 @@ BOOL _GET_IS_SUBMARINE_VEHICLE_TRANSFORMED(Vehicle vehicle);
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **vehicle**:

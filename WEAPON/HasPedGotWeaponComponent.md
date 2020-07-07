@@ -9,9 +9,9 @@ BOOL HAS_PED_GOT_WEAPON_COMPONENT(Ped ped, Hash weaponHash, Hash componentHash);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 * **componentHash**: 
 
-## Return value
+## 返回值

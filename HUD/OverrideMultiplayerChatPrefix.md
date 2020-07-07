@@ -13,6 +13,6 @@ void _OVERRIDE_MULTIPLAYER_CHAT_PREFIX(Any gxtEntryHash);
 NativeDB Parameter 0: Hash gxtEntryHash
 ```
 
-## Parameters
+## 參數
 * **gxtEntryHash**: 
 

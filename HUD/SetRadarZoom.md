@@ -12,6 +12,6 @@ void SET_RADAR_ZOOM(int zoomLevel);
 zoomLevel ranges from 0 to 200  
 ```
 
-## Parameters
+## 參數
 * **zoomLevel**: 
 

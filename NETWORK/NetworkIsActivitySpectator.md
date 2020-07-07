@@ -12,4 +12,4 @@ Any NETWORK_IS_ACTIVITY_SPECTATOR();
 NativeDB Return Type: BOOL
 ```
 
-## Return value
+## 返回值

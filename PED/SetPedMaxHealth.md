@@ -13,7 +13,7 @@ sets the maximum health of a ped
 I think it's never been used in any script  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **value**: 
 

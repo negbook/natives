@@ -13,7 +13,7 @@ Checks if entity1 is within the box defined by x/y/zSize of entity2.
 Last three parameters are almost alwasy p5 = 0, p6 = 1, p7 = 0  
 ```
 
-## Parameters
+## 參數
 * **entity1**: 
 * **entity2**: 
 * **xSize**: 
@@ -23,4 +23,4 @@ Last three parameters are almost alwasy p5 = 0, p6 = 1, p7 = 0
 * **p6**: 
 * **p7**: 
 
-## Return value
+## 返回值

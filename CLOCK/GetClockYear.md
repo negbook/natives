@@ -9,4 +9,4 @@ int GET_CLOCK_YEAR();
 ```
 
 
-## Return value
+## 返回值

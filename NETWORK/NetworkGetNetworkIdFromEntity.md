@@ -9,7 +9,7 @@ int NETWORK_GET_NETWORK_ID_FROM_ENTITY(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

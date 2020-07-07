@@ -16,7 +16,7 @@ p8 is probably ownedByPlayer, but not known for sure. (see IS_PROJECTILE_IN_AREA
 Unsure of the hash name, could someone confirm this?  
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 
@@ -27,4 +27,4 @@ Unsure of the hash name, could someone confirm this?
 * **projPos**: 
 * **ownedByPlayer**: 
 
-## Return value
+## 返回值

@@ -13,7 +13,7 @@ int ADD_POP_MULTIPLIER_AREA(float x1, float y1, float z1, float x2, float y2, fl
 NativeDB Added Parameter 10: BOOL p9
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 
@@ -24,4 +24,4 @@ NativeDB Added Parameter 10: BOOL p9
 * **p7**: 
 * **p8**: 
 
-## Return value
+## 返回值

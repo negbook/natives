@@ -9,6 +9,6 @@ aliases: ["0x55598D21339CB998","_CLEAR_NOTIFICATIONS_POS"]
 void THEFEED_SET_SCRIPTED_MENU_HEIGHT(float pos);
 ```
 
-## Parameters
+## 參數
 * **pos**: 
 

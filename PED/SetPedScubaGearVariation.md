@@ -12,6 +12,6 @@ void _SET_PED_SCUBA_GEAR_VARIATION(Ped ped);
 This native sets a scuba mask for freemode models and an oxygen bottle for player_* models.
 It works on freemode and player_* models. 
 
-## Parameters
+## 參數
 * **ped**: 
 

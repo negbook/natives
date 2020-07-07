@@ -9,10 +9,10 @@ int TEXTURE_DOWNLOAD_REQUEST(int* PlayerHandle, char* FilePath, char* Name, BOOL
 ```
 
 
-## Parameters
+## 參數
 * **PlayerHandle**: 
 * **FilePath**: 
 * **Name**: 
 * **p3**: 
 
-## Return value
+## 返回值

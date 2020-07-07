@@ -10,7 +10,7 @@ void ADD_CAM_SPLINE_NODE_USING_GAMEPLAY_FRAME(Cam cam, int p1, int p2);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **p1**: 
 * **p2**: 

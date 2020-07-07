@@ -10,7 +10,7 @@ void _NETWORK_EARN_FROM_CONTRABAND(int amount, Any p1);
 ```
 
 
-## Parameters
+## 參數
 * **amount**: 
 * **p1**: 
 

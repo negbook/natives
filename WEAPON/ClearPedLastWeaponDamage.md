@@ -11,6 +11,6 @@ void CLEAR_PED_LAST_WEAPON_DAMAGE(Ped ped);
 Does NOT seem to work with HasPedBeenDamagedByWeapon.
 Use ClearEntityLastWeaponDamage and HasEntityBeenDamagedByWeapon instead.
 
-## Parameters
+## 參數
 * **ped**: 
 

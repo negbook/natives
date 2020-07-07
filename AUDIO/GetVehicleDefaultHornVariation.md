@@ -13,5 +13,5 @@ int _GET_VEHICLE_DEFAULT_HORN_VARIATION(Vehicle vehicle);
 NativeDB Introduced: v1365
 ```
 
-## Parameters
+## 參數
 * **vehicle**:

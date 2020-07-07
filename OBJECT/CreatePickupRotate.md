@@ -15,7 +15,7 @@ flags:
 512 (1 << 9): spin around  
 ```
 
-## Parameters
+## 參數
 * **pickupHash**: 
 * **posX**: 
 * **posY**: 
@@ -29,4 +29,4 @@ flags:
 * **p10**: 
 * **modelHash**: 
 
-## Return value
+## 返回值

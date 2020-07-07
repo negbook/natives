@@ -15,7 +15,7 @@ How can i convert it to meters?
 Everything seems to be in meters, probably this too.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

@@ -36,7 +36,7 @@ int IconNotification(char *text, char *text2, char *Subject)
 }  
 ```
 
-## Parameters
+## 參數
 * **picTxd**: 
 * **picTxn**: 
 * **flash**: 
@@ -48,4 +48,4 @@ int IconNotification(char *text, char *text2, char *Subject)
 * **iconType2**: 
 * **textColor**: 
 
-## Return value
+## 返回值

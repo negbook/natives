@@ -9,8 +9,8 @@ BOOL IS_VEHICLE_ATTACHED_TO_CARGOBOB(Vehicle cargobob, Vehicle vehicleAttached);
 ```
 
 
-## Parameters
+## 參數
 * **cargobob**: 
 * **vehicleAttached**: 
 
-## Return value
+## 返回值

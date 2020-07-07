@@ -12,7 +12,7 @@ void SET_VEHICLE_RADIO_ENABLED(Vehicle vehicle, BOOL toggle);
 can't seem to enable radio on cop cars etc  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

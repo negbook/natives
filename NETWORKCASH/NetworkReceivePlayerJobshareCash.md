@@ -9,7 +9,7 @@ void NETWORK_RECEIVE_PLAYER_JOBSHARE_CASH(int value, int* networkHandle);
 ```
 
 
-## Parameters
+## 參數
 * **value**: 
 * **networkHandle**: 
 

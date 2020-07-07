@@ -22,8 +22,8 @@ p1 is anywhere from 4 to 7 in the scripts. Might be a weapon wheel group?
 Note: When I say "Explosives weapon group", it does not include the Jerry can and Fire Extinguisher.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 
-## Return value
+## 返回值

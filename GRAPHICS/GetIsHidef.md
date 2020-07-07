@@ -13,4 +13,4 @@ false = Any resolution < 1280x720
 true = Any resolution >= 1280x720  
 ```
 
-## Return value
+## 返回值

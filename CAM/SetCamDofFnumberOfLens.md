@@ -13,7 +13,7 @@ void _SET_CAM_DOF_FNUMBER_OF_LENS(Cam camera, float p1);
 This native has its name defined inside its codE  
 ```
 
-## Parameters
+## 參數
 * **camera**: 
 * **p1**: 
 

@@ -9,7 +9,7 @@ void SET_PED_CHANCE_OF_FIRING_BLANKS(Ped ped, float xBias, float yBias);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **xBias**: 
 * **yBias**: 

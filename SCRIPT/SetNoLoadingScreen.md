@@ -9,6 +9,6 @@ void SET_NO_LOADING_SCREEN(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

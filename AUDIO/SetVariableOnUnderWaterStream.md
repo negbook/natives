@@ -15,7 +15,7 @@ AUDIO::_733ADF241531E5C2("inTunnel", 0.0);
 I do not know as of yet what this does, but this was found in the scripts.  
 ```
 
-## Parameters
+## 參數
 * **variableName**: 
 * **value**: 
 

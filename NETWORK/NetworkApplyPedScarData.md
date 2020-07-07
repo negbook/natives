@@ -10,7 +10,7 @@ void NETWORK_APPLY_PED_SCAR_DATA(Ped ped, int p1);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 

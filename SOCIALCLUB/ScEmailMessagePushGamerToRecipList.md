@@ -9,6 +9,6 @@ void SC_EMAIL_MESSAGE_PUSH_GAMER_TO_RECIP_LIST(int* networkHandle);
 ```
 
 
-## Parameters
+## 參數
 * **networkHandle**: 
 

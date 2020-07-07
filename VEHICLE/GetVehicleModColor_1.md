@@ -13,7 +13,7 @@ p3 seems to be the pearlescent highlight color.
 Seems redondant with void GET_VEHICLE_EXTRA_COLOURS(Vehicle vehicle, int *pearlescentColor, int *wheelColor)  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **paintType**: 
 * **color**: 

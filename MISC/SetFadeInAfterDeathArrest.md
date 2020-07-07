@@ -12,6 +12,6 @@ void SET_FADE_IN_AFTER_DEATH_ARREST(BOOL toggle);
 Sets whether the game should fade in after the player dies or is arrested.  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

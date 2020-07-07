@@ -10,6 +10,6 @@ void _SET_HANDLE_ROCKSTAR_MESSAGE_VIA_SCRIPT(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

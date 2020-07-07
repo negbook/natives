@@ -13,7 +13,7 @@ BOOL IS_VEHICLE_SPRAYABLE(Vehicle vehicle);
 Checks for FLAG_NO_RESPRAY  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

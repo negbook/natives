@@ -13,6 +13,6 @@ Request a model to be loaded into memory
 Looking it the disassembly, it seems like it actually returns the model if it's already loaded.  
 ```
 
-## Parameters
+## 參數
 * **model**: 
 

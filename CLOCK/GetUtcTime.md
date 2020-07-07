@@ -13,7 +13,7 @@ void GET_UTC_TIME(int* year, int* month, int* day, int* hour, int* minute, int* 
 gets current UTC time  
 ```
 
-## Parameters
+## 參數
 * **year**: 
 * **month**: 
 * **day**: 

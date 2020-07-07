@@ -9,7 +9,7 @@ Blip GET_NEXT_BLIP_INFO_ID(int blipSprite);
 ```
 
 
-## Parameters
+## 參數
 * **blipSprite**: 
 
-## Return value
+## 返回值

@@ -26,7 +26,7 @@ public void DrawBox(Vector3 a, Vector3 b, Color col)
 }  
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 

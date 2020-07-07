@@ -12,7 +12,7 @@ Vector3 _0x33DE49EDF4DDE77A(Entity entity);
 NETWORK_GET_*
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ aliases: ["0x15FF52B809DB2353"]
 BOOL DATAFILE_HAS_LOADED_FILE_DATA(Any p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

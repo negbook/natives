@@ -10,7 +10,7 @@ BOOL _DOES_SCENARIO_BLOCKING_AREA_EXIST(float x1, float y1, float z1, float x2, 
 ```
 
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 
@@ -18,4 +18,4 @@ BOOL _DOES_SCENARIO_BLOCKING_AREA_EXIST(float x1, float y1, float z1, float x2, 
 * **y2**: 
 * **z2**: 
 
-## Return value
+## 返回值

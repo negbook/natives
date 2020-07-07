@@ -9,7 +9,7 @@ void TASK_AIM_GUN_AT_COORD(Ped ped, float x, float y, float z, int time, BOOL p5
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **x**: 
 * **y**: 

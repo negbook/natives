@@ -21,6 +21,6 @@ Note: Alexander Blade, needs to fix this site or his code one, as when we do fin
 NativeDB Added Parameter 2: float p1
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 

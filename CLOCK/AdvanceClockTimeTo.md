@@ -9,7 +9,7 @@ void ADVANCE_CLOCK_TIME_TO(int hour, int minute, int second);
 ```
 
 
-## Parameters
+## 參數
 * **hour**: 
 * **minute**: 
 * **second**: 

@@ -59,7 +59,7 @@ BEING IN A CAR CHANGES 60,79,104 TO FALSE AND 62 TO TRUE
 ID 0xF0 (240) appears to be a special flag which is handled different compared to the others IDs.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **flagId**: 
 * **value**: 

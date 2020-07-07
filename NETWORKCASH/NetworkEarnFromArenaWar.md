@@ -12,7 +12,7 @@ void _NETWORK_EARN_FROM_ARENA_WAR(int amount, Any p1, Any p2, Any p3);
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **amount**:
 * **p1**:
 * **p2**:

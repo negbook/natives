@@ -11,6 +11,6 @@ void FORCE_SNOW_PASS(BOOL enabled);
 
 Forces the game snow pass to render.
 
-## Parameters
+## 參數
 * **enabled**: Whether or not to force rendering to use a snow pass.
 

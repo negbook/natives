@@ -20,7 +20,7 @@ These seem to be the only scaleforms ever requested by this native:
 Note: Unless this hash is out-of-order, this native is next-gen only.  
 ```
 
-## Parameters
+## 參數
 * **scaleformName**: 
 
-## Return value
+## 返回值

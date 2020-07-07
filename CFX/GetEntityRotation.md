@@ -12,5 +12,5 @@ Vector3 GET_ENTITY_ROTATION(Entity entity);
 ## 參數
 * **entity**: 
 
-## Return value
+## 返回值
 一個Vector3數據，內包含x的朝向，y的朝向，z的朝向

@@ -13,10 +13,10 @@ BOOL GET_IS_PETROL_DECAL_IN_RANGE(float xCoord, float yCoord, float zCoord, floa
 only documented. to be continued...  
 ```
 
-## Parameters
+## 參數
 * **xCoord**: 
 * **yCoord**: 
 * **zCoord**: 
 * **radius**: 
 
-## Return value
+## 返回值

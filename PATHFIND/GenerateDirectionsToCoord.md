@@ -31,7 +31,7 @@ direction:
 return value set to 0 always  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -40,4 +40,4 @@ return value set to 0 always
 * **vehicle**: 
 * **distToNxJunction**: 
 
-## Return value
+## 返回值

@@ -10,4 +10,4 @@ BOOL GET_REQUESTINGNIGHTVISION();
 ```
 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ void SET_CONVAR(char* varName, char* value);
 ```
 
 
-## Parameters
+## 參數
 * **varName**: 
 * **value**: 
 

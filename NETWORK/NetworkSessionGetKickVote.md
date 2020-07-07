@@ -9,7 +9,7 @@ aliases: ["_NETWORK_SESSION_ARE_PLAYERS_VOTING_TO_KICK","_NETWORK_SESSION_IS_PLA
 BOOL NETWORK_SESSION_GET_KICK_VOTE(Player player);
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

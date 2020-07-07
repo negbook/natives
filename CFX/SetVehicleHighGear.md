@@ -9,7 +9,7 @@ void SET_VEHICLE_HIGH_GEAR(Vehicle vehicle, int gear);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **gear**: 
 

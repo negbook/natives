@@ -10,6 +10,6 @@ void _DISABLE_VEHICLE_NEON_LIGHTS(Vehicle vehicle, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 

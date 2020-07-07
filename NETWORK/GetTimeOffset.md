@@ -12,8 +12,8 @@ int GET_TIME_OFFSET(int timeA, int timeB);
 Adds the first argument to the second.  
 ```
 
-## Parameters
+## 參數
 * **timeA**: 
 * **timeB**: 
 
-## Return value
+## 返回值

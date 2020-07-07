@@ -29,8 +29,8 @@ enum ePopulationType
 };
 ```
 
-## Parameters
+## 參數
 * **entity**: The entity to obtain the population type from.
 
-## Return value
+## 返回值
 A population type, from the enumeration above.

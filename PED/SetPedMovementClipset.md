@@ -64,7 +64,7 @@ Thanks to elsewhat for list.
 ~ NotCrunchyTaco  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **clipSet**: 
 * **p2**: 

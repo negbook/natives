@@ -9,7 +9,7 @@ aliases: ["0xC265DF9FB44A9FBD"]
 BOOL IS_ANIMAL_VOCALIZATION_PLAYING(Ped pedHandle);
 ```
 
-## Parameters
+## 參數
 * **pedHandle**: 
 
-## Return value
+## 返回值

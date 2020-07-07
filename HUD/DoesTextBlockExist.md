@@ -9,7 +9,7 @@ BOOL DOES_TEXT_BLOCK_EXIST(char* gxt);
 ```
 
 
-## Parameters
+## 參數
 * **gxt**: 
 
-## Return value
+## 返回值

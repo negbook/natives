@@ -10,7 +10,7 @@ int GET_REPLAY_STAT_AT_INDEX(int index);
 ```
 
 
-## Parameters
+## 參數
 * **index**: 
 
-## Return value
+## 返回值

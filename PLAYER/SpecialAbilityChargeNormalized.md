@@ -14,7 +14,7 @@ normalizedValue is from 0.0 - 1.0
 p2 is always 1  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **normalizedValue**: 
 * **p2**: 

@@ -17,7 +17,7 @@ p2 - From what i can see it goes up to 1f (maybe).
 Example: AI::_D5BB4025AE449A4E(PLAYER::PLAYER_PED_ID(), "Phase", 0.5);  
 ```
 
-## Parameters
+## 參數
 * **ped**: The ped on which the task is playing.
 * **signalName**: The property name.
 * **value**: The property value to set.

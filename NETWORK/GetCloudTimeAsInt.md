@@ -14,6 +14,6 @@ Returns POSIX timestamp.
 Renamed from `_GET_POSIX_TIME` to `GET_CLOUD_TIME_AS_INT` because of conflicting native names ([`0xDA488F299A5B164E`](#_0xDA488F299A5B164E))
 
 
-## Return value
+## 返回值
 An int representing the cloud time.
 

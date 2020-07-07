@@ -9,6 +9,6 @@ void REMOVE_VEHICLE_ASSET(int vehicleAsset);
 ```
 
 
-## Parameters
+## 參數
 * **vehicleAsset**: 
 

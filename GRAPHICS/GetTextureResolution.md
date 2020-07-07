@@ -13,8 +13,8 @@ Returns the texture resolution of the passed texture dict+name.
 Note: Most texture resolutions are doubled compared to the console version of the game.  
 ```
 
-## Parameters
+## 參數
 * **textureDict**: 
 * **textureName**: 
 
-## Return value
+## 返回值

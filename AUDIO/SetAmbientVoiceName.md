@@ -15,7 +15,7 @@ All found occurrences in b617d, sorted alphabetically and identical lines remove
 Yes  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **name**: 
 

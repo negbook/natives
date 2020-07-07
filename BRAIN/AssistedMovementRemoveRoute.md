@@ -9,6 +9,6 @@ void ASSISTED_MOVEMENT_REMOVE_ROUTE(char* route);
 ```
 
 
-## Parameters
+## 參數
 * **route**: 
 

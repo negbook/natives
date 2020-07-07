@@ -10,4 +10,4 @@ BOOL IS_COMMERCE_DATA_VALID();
 ```
 
 
-## Return value
+## 返回值

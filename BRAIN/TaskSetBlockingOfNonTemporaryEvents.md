@@ -14,7 +14,7 @@ It makes the ped ignore basically all shocking events around it. Occasionally th
 Since it is a task, every time the native is called the ped will stop for a moment.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

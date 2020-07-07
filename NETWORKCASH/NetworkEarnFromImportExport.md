@@ -12,7 +12,7 @@ void NETWORK_EARN_FROM_IMPORT_EXPORT(int amount, Any modelHash);
 NativeDB Parameter 1: Hash modelHash
 ```
 
-## Parameters
+## 參數
 * **amount**: 
 * **modelHash**: 
 

@@ -25,8 +25,8 @@ www.allstar.fiu.edu/aero/images/pic5-1.gif
 I don't know why it returns a Vec3, but sometimes the values x and y go negative, yet they're always zero. Just use GET_ENTITY_PITCH and GET_ENTITY_ROLL for pitch and roll.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **rotationOrder**: 
 
-## Return value
+## 返回值

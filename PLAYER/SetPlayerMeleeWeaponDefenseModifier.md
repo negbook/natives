@@ -9,7 +9,7 @@ void SET_PLAYER_MELEE_WEAPON_DEFENSE_MODIFIER(Player player, float modifier);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **modifier**: 
 

@@ -9,6 +9,6 @@ void SET_MINIGAME_IN_PROGRESS(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

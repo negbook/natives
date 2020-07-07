@@ -12,4 +12,4 @@ BOOL IS_PLAYER_LOGGING_IN_NP();
 this function is hard-coded to always return 0.  
 ```
 
-## Return value
+## 返回值

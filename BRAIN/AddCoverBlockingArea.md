@@ -9,7 +9,7 @@ void ADD_COVER_BLOCKING_AREA(float playerX, float playerY, float playerZ, float 
 ```
 
 
-## Parameters
+## 參數
 * **playerX**: 
 * **playerY**: 
 * **playerZ**: 

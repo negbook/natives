@@ -13,9 +13,9 @@ Returns the text label of a mod type for a given vehicle
 Use _GET_LABEL_TEXT to get the part name in the game's language  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **modType**: 
 * **modValue**: 
 
-## Return value
+## 返回值

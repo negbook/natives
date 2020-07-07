@@ -12,7 +12,7 @@ void _NETWORK_DEDUCT_CASH(int amount, char* p1, char* p2, BOOL p3, BOOL p4, BOOL
 NativeDB Introduced: v323
 ```
 
-## Parameters
+## 參數
 * **amount**:
 * **p1**:
 * **p2**:

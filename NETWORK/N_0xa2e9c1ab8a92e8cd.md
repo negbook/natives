@@ -14,6 +14,6 @@ Appears to set whether a transition should be started when the session is migrat
 NETWORK_SET_*
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

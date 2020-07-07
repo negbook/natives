@@ -17,9 +17,9 @@ subStr = UI::_GET_TEXT_SUBSTRING_SLICE("MY_STRING", 3, 9);
 subStr = UI::_GET_TEXT_SUBSTRING_SLICE("MY_STRING", 3, 10); // "STRING_"?  
 ```
 
-## Parameters
+## 參數
 * **text**: 
 * **startPosition**: 
 * **endPosition**: 
 
-## Return value
+## 返回值

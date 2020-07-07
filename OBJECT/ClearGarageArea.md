@@ -13,7 +13,7 @@ void _CLEAR_GARAGE_AREA(Any garageHash, BOOL isNetwork);
 NativeDB Parameter 0: Hash garageHash
 ```
 
-## Parameters
+## 參數
 * **garageHash**: 
 * **isNetwork**: 
 

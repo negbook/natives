@@ -16,7 +16,7 @@ found a materialFX.dat list of them but not sure if it has to do with this nativ
 materials (full list): pastebin.com/gyHjsYBK  
 ```
 
-## Parameters
+## 參數
 * **rayHandle**: 
 * **hit**: 
 * **endCoords**: 
@@ -24,4 +24,4 @@ materials (full list): pastebin.com/gyHjsYBK
 * **materialHash**: 
 * **entityHit**: 
 
-## Return value
+## 返回值

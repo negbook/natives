@@ -9,6 +9,6 @@ void NETWORK_SET_VOICE_ACTIVE(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

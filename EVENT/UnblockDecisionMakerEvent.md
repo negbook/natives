@@ -9,7 +9,7 @@ void UNBLOCK_DECISION_MAKER_EVENT(Hash name, int type);
 ```
 
 
-## Parameters
+## 參數
 * **name**: 
 * **type**: 
 

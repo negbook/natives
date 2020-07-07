@@ -9,4 +9,4 @@ BOOL IS_RADAR_HIDDEN();
 ```
 
 
-## Return value
+## 返回值

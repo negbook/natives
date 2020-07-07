@@ -9,7 +9,7 @@ void SET_HUD_COMPONENT_POSITION(int id, float x, float y);
 ```
 
 
-## Parameters
+## 參數
 * **id**: 
 * **x**: 
 * **y**: 

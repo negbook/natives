@@ -22,9 +22,9 @@ STATS::STAT_SET_INT(hash, val, 1);
 }  
 ```
 
-## Parameters
+## 參數
 * **statName**: 
 * **value**: 
 * **save**: 
 
-## Return value
+## 返回值

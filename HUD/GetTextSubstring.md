@@ -15,9 +15,9 @@ Example:
 subStr = UI::_GET_TEXT_SUBSTRING("MY_STRING", 3, 6);  
 ```
 
-## Parameters
+## 參數
 * **text**: 
 * **position**: 
 * **length**: 
 
-## Return value
+## 返回值

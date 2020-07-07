@@ -12,8 +12,8 @@ Any HINT_SCRIPT_AUDIO_BANK(Any p0, int p1);
 NativeDB Added Parameter 3: Any p2
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

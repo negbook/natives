@@ -13,5 +13,5 @@ void REGISTER_ENTITIES(func factory);
 Registers a set of entities with the game engine. These should match `CEntityDef` class information from the game.
 At this time, this function **should not be used in a live environment**.
 
-## Parameters
+## 參數
 * **factory**: A function returning a list of entities.

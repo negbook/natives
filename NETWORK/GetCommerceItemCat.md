@@ -13,8 +13,8 @@ char* GET_COMMERCE_ITEM_CAT(int index, int index2);
 index2 is unused
 ```
 
-## Parameters
+## 參數
 * **index**: 
 * **index2**: 
 
-## Return value
+## 返回值

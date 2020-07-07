@@ -15,4 +15,4 @@ Force67: I patched return result and got this : i.imgur.com/hUn7zSj.jpg
 translate please?  
 ```
 
-## Return value
+## 返回值

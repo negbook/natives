@@ -9,6 +9,6 @@ void NETWORK_SET_ACTIVITY_SPECTATOR_MAX(int maxSpectators);
 ```
 
 
-## Parameters
+## 參數
 * **maxSpectators**: 
 

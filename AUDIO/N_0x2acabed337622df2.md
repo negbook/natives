@@ -12,5 +12,5 @@ void _0x2ACABED337622DF2(char* p0);
 NativeDB Introduced: v1493
 ```
 
-## Parameters
+## 參數
 * **p0**:

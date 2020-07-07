@@ -20,7 +20,7 @@ tyreIndex = 0 to 4 on normal vehicles
 '47 = 6 wheels trailer mid wheel right  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **tyreIndex**: 
 

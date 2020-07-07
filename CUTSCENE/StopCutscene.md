@@ -9,6 +9,6 @@ void STOP_CUTSCENE(BOOL p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

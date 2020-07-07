@@ -10,7 +10,7 @@ BOOL NETWORK_GET_ENTITY_IS_NETWORKED(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

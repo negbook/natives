@@ -9,7 +9,7 @@ void SET_PED_CAN_SMASH_GLASS(Ped ped, BOOL p1, BOOL p2);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 * **p2**: 

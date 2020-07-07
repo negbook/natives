@@ -13,4 +13,4 @@ Dr. Underscore (1/6/18):
 Only one instances in two scripts. (cellphone_controller, maintransition)  
 ```
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ void STOP_PAD_SHAKE(int inputGroup);
 ```
 
 
-## Parameters
+## 參數
 * **inputGroup**: 
 

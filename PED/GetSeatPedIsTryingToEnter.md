@@ -9,7 +9,7 @@ int GET_SEAT_PED_IS_TRYING_TO_ENTER(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

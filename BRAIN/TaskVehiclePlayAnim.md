@@ -18,7 +18,7 @@ FYI : Speedo is the name of van in which chop was put in the mission.
 
 [Animations list](https://alexguirre.github.io/animations-list/)
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **animation_set**: 
 * **animation_name**: 

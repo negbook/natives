@@ -18,7 +18,7 @@ AI::TASK_SHOOT_AT_ENTITY(bg[i], aimedentity, 5000, GAMEPLAY::GET_HASH_KEY("FIRIN
 in practical usage, getting the entity the player is aiming at and then task the peds to shoot at the entity, at a button press event would be better.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **target**: 
 * **duration**: 

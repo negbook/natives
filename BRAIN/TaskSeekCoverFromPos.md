@@ -9,7 +9,7 @@ void TASK_SEEK_COVER_FROM_POS(Ped ped, float x, float y, float z, int duration, 
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **x**: 
 * **y**: 

@@ -9,7 +9,7 @@ aliases: ["0x91A0BD635321F145"]
 void SET_DISABLE_VEHICLE_ENGINE_FIRES(Vehicle vehicle, BOOL p1);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

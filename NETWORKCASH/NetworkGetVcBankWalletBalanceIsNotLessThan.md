@@ -13,8 +13,8 @@ BOOL _NETWORK_GET_VC_BANK_WALLET_BALANCE_IS_NOT_LESS_THAN(int amount, int charac
 probably 0x3461981 on console  
 ```
 
-## Parameters
+## 參數
 * **amount**: 
 * **characterSlot**: 
 
-## Return value
+## 返回值

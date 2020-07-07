@@ -9,6 +9,6 @@ void CLEAR_ENTITY_LAST_WEAPON_DAMAGE(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 

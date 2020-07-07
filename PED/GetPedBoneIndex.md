@@ -12,8 +12,8 @@ int GET_PED_BONE_INDEX(Ped ped, int boneId);
 Bone ID enum: pastebin.com/3pz17QGd  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **boneId**: 
 
-## Return value
+## 返回值

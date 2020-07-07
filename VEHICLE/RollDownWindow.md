@@ -20,8 +20,8 @@ windowIndex:
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **windowIndex**: 
 
-## Return value
+## 返回值

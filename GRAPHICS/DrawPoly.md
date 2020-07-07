@@ -30,7 +30,7 @@ public void DrawPoly(Vector3 a, Vector3 b, Vector3 c, Color col)
 BTW: Intersecting triangles are not supported: They overlap in the order they were called.  
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 

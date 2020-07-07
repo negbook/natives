@@ -9,8 +9,8 @@ BOOL CAN_SET_EXIT_STATE_FOR_REGISTERED_ENTITY(char* cutsceneEntName, Hash modelH
 ```
 
 
-## Parameters
+## 參數
 * **cutsceneEntName**: 
 * **modelHash**: 
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ void RESET_PLAYER_STAMINA(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 

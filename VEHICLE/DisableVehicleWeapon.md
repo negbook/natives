@@ -12,7 +12,7 @@ void DISABLE_VEHICLE_WEAPON(BOOL disabled, Hash weaponHash, Vehicle vehicle, Ped
 how does this work?  
 ```
 
-## Parameters
+## 參數
 * **disabled**: 
 * **weaponHash**: 
 * **vehicle**: 

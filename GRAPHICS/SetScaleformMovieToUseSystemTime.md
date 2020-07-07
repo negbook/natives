@@ -9,7 +9,7 @@ void SET_SCALEFORM_MOVIE_TO_USE_SYSTEM_TIME(int scaleform, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **scaleform**: 
 * **toggle**: 
 

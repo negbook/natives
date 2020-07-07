@@ -24,7 +24,7 @@ if (WEAPON::GET_CURRENT_PED_WEAPON(playerPed, &cur, 1))
 }  
 ```
 
-## Parameters
+## 參數
 * **weaponHash**: 
 
-## Return value
+## 返回值

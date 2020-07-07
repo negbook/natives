@@ -12,6 +12,6 @@ void _NETWORK_EARN_FROM_GANGOPS_JOBS_SETUP(int amount, char* unk);
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **amount**:
 * **unk**:

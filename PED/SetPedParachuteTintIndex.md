@@ -9,7 +9,7 @@ void SET_PED_PARACHUTE_TINT_INDEX(Ped ped, int tintIndex);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **tintIndex**: 
 

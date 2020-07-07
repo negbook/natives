@@ -9,7 +9,7 @@ void TASK_FOLLOW_NAV_MESH_TO_COORD_ADVANCED(Ped ped, float x, float y, float z, 
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **x**: 
 * **y**: 

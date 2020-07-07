@@ -12,7 +12,7 @@ Hash GET_PED_CAUSE_OF_DEATH(Ped ped);
 Returns the hash of the weapon/model/object that killed the ped.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

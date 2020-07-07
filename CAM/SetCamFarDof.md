@@ -9,7 +9,7 @@ void SET_CAM_FAR_DOF(Cam cam, float farDOF);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **farDOF**: 
 

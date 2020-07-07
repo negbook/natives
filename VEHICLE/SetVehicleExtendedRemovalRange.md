@@ -10,7 +10,7 @@ void SET_VEHICLE_EXTENDED_REMOVAL_RANGE(Vehicle vehicle, int range);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **range**: 
 

@@ -9,8 +9,8 @@ Ped CREATE_RANDOM_PED_AS_DRIVER(Vehicle vehicle, BOOL returnHandle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **returnHandle**: 
 
-## Return value
+## 返回值

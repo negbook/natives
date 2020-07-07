@@ -9,7 +9,7 @@ void SET_CAM_PARAMS(Cam cam, float posX, float posY, float posZ, float rotX, flo
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **posX**: 
 * **posY**: 

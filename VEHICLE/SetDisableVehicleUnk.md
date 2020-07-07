@@ -12,5 +12,5 @@ void _SET_DISABLE_VEHICLE_UNK(BOOL toggle);
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **toggle**:

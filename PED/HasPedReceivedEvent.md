@@ -9,8 +9,8 @@ BOOL HAS_PED_RECEIVED_EVENT(Ped ped, int eventId);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **eventId**: 
 
-## Return value
+## 返回值

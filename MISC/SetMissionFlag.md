@@ -14,6 +14,6 @@ If the parameter is true, sets the mission flag to true, if the parameter is fal
 ^ also, if the mission flag is already set, the function does nothing at all  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

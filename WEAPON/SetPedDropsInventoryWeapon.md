@@ -31,7 +31,7 @@ if (is_ped_walking(player_ped_id()))
         }  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 * **xOffset**: 

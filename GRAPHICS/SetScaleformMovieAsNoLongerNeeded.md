@@ -9,6 +9,6 @@ void SET_SCALEFORM_MOVIE_AS_NO_LONGER_NEEDED(int* scaleformHandle);
 ```
 
 
-## Parameters
+## 參數
 * **scaleformHandle**: 
 

@@ -12,7 +12,7 @@ void CLEAR_AREA(float X, float Y, float Z, float radius, BOOL p4, BOOL ignoreCop
 Example: CLEAR_AREA(0, 0, 0, 30, true, false, false, false);  
 ```
 
-## Parameters
+## 參數
 * **X**: 
 * **Y**: 
 * **Z**: 

@@ -17,6 +17,6 @@ BOOL IsContextActive(char *ctx)
 }  
 ```
 
-## Parameters
+## 參數
 * **labelName**: 
 

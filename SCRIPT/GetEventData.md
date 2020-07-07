@@ -12,10 +12,10 @@ BOOL GET_EVENT_DATA(int eventGroup, int eventIndex, int* argStruct, int argStruc
 eventGroup: 0 = CEventGroupScriptAI, 1 = CEventGroupScriptNetwork  
 ```
 
-## Parameters
+## 參數
 * **eventGroup**: 
 * **eventIndex**: 
 * **argStruct**: 
 * **argStructSize**: 
 
-## Return value
+## 返回值

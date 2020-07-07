@@ -12,7 +12,7 @@ void SET_PED_PATHS_IN_AREA(float x1, float y1, float z1, float x2, float y2, flo
 NativeDB Added Parameter 8: Any p7
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 

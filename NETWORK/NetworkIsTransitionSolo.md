@@ -10,4 +10,4 @@ BOOL NETWORK_IS_TRANSITION_SOLO();
 ```
 
 
-## Return value
+## 返回值

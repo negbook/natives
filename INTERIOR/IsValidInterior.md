@@ -12,7 +12,7 @@ BOOL IS_VALID_INTERIOR(int interiorID);
 Return if interior is valid.  
 ```
 
-## Parameters
+## 參數
 * **interiorID**: 
 
-## Return value
+## 返回值

@@ -10,6 +10,6 @@ void _DISPOSE_SYNCHRONIZED_SCENE(int scene);
 ```
 
 
-## Parameters
+## 參數
 * **scene**: 
 

@@ -12,5 +12,5 @@ void _RELEASE_BINK_MOVIE(int binkMovie);
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **binkMovie**:

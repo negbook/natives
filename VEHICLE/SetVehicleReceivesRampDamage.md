@@ -10,7 +10,7 @@ void _SET_VEHICLE_RECEIVES_RAMP_DAMAGE(Vehicle vehicle, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

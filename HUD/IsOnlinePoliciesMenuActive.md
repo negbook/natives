@@ -11,4 +11,4 @@ BOOL IS_ONLINE_POLICIES_MENU_ACTIVE();
 
 Returns the same as `IS_SOCIAL_CLUB_ACTIVE`.
 
-## Return value
+## 返回值

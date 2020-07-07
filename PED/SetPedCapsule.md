@@ -14,7 +14,7 @@ Must be called every tick to be effective.
 Setting this to 0.001 will allow warping through some objects.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **value**: 
 

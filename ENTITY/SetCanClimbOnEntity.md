@@ -9,7 +9,7 @@ aliases: ["0xA80AE305E0A3044F"]
 void SET_CAN_CLIMB_ON_ENTITY(Entity entity, BOOL p1);
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **p1**: 
 

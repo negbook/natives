@@ -12,7 +12,7 @@ void SET_VEHICLE_IS_CONSIDERED_BY_PLAYER(Vehicle vehicle, BOOL toggle);
 Setting this to false, makes the specified vehicle to where if you press Y your character doesn't even attempt the animation to enter the vehicle. Hence it's not considered aka ignored.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

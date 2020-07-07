@@ -20,8 +20,8 @@ Only tested on un-achieved achievements, Steamworks probably just rejects it if 
 Steamworks also seems to not like reversing achievement progression.  
 ```
 
-## Parameters
+## 參數
 * **achievement**: 
 * **progress**: 
 
-## Return value
+## 返回值

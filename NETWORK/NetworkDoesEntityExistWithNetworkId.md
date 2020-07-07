@@ -9,7 +9,7 @@ BOOL NETWORK_DOES_ENTITY_EXIST_WITH_NETWORK_ID(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

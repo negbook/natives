@@ -25,7 +25,7 @@ This function also effects the drawing of texts and other UI-elements.
 The effect can be reset by calling GRAPHICS::CLEAR_DRAW_ORIGIN().  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

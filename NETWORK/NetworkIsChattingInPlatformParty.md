@@ -14,7 +14,7 @@ This would be nice to see if someone is in party chat, but 2 sad notes.
 2) It will never, become true unless you are in that party with said person.  
 ```
 
-## Parameters
+## 參數
 * **networkHandle**: 
 
-## Return value
+## 返回值

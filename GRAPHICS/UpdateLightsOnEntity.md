@@ -9,6 +9,6 @@ aliases: ["0xDEADC0DEDEADC0DE","_ENTITY_DESCRIPTION_TEXT"]
 void UPDATE_LIGHTS_ON_ENTITY(Entity entity);
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 

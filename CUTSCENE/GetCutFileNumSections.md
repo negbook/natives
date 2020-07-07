@@ -13,7 +13,7 @@ int _GET_CUT_FILE_NUM_SECTIONS(char* cutsceneName);
 Jenkins hash probably is 0xFD8B1AC2
 ```
 
-## Parameters
+## 參數
 * **cutsceneName**: 
 
-## Return value
+## 返回值

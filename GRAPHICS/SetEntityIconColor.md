@@ -9,7 +9,7 @@ void SET_ENTITY_ICON_COLOR(Entity entity, int red, int green, int blue, int alph
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **red**: 
 * **green**: 

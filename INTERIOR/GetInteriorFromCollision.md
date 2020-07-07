@@ -9,9 +9,9 @@ int GET_INTERIOR_FROM_COLLISION(float x, float y, float z);
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ void SET_IGNORE_LOW_PRIORITY_SHOCKING_EVENTS(Player player, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 

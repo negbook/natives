@@ -13,7 +13,7 @@ BOOL IS_PLANE_LANDING_GEAR_INTACT(Vehicle plane);
 Vehicle has landing gear?  
 ```
 
-## Parameters
+## 參數
 * **plane**: 
 
-## Return value
+## 返回值

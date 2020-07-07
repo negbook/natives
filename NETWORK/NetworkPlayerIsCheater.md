@@ -9,4 +9,4 @@ BOOL NETWORK_PLAYER_IS_CHEATER();
 ```
 
 
-## Return value
+## 返回值

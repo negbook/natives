@@ -14,5 +14,5 @@ Returns false if amount > wallet balance or daily transfer limit has been hit.
 NativeDB Introduced: v323
 ```
 
-## Parameters
+## 參數
 * **amount**:

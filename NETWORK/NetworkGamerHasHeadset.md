@@ -9,7 +9,7 @@ BOOL NETWORK_GAMER_HAS_HEADSET(Any* networkHandle);
 ```
 
 
-## Parameters
+## 參數
 * **networkHandle**: 
 
-## Return value
+## 返回值

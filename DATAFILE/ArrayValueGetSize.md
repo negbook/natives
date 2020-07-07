@@ -9,7 +9,7 @@ int _ARRAY_VALUE_GET_SIZE(Any* arrayData);
 ```
 
 
-## Parameters
+## 參數
 * **arrayData**: 
 
-## Return value
+## 返回值

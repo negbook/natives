@@ -10,7 +10,7 @@ int CLOUD_DELETE_MEMBER_FILE(char* p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

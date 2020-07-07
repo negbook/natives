@@ -10,7 +10,7 @@ void NETWORK_SET_IN_SPECTATOR_MODE_EXTENDED(BOOL toggle, Ped playerPed, BOOL p2)
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 * **playerPed**: 
 * **p2**: 

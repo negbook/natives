@@ -10,4 +10,4 @@ int GET_REPLAY_STAT_COUNT();
 ```
 
 
-## Return value
+## 返回值

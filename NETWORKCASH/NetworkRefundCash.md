@@ -44,7 +44,7 @@ unk
 Unknown bool value  
 ```
 
-## Parameters
+## 參數
 * **index**: 
 * **context**: 
 * **reason**: 

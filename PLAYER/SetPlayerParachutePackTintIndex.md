@@ -16,7 +16,7 @@ tints 0
 4  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **tintIndex**: 
 

@@ -18,7 +18,7 @@ Using UI::_GET_LABEL_TEXT, you can get the localized name.
 For a full list, see here: pastebin.com/wvpyS4kS (pastebin.com/dA3TbkZw)  
 ```
 
-## Parameters
+## 參數
 * **modelHash**: 
 
-## Return value
+## 返回值

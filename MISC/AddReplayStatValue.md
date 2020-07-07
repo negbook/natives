@@ -10,6 +10,6 @@ void ADD_REPLAY_STAT_VALUE(Any value);
 ```
 
 
-## Parameters
+## 參數
 * **value**: 
 

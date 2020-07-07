@@ -9,7 +9,7 @@ void TASK_PLANT_BOMB(Ped ped, float x, float y, float z, float heading);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **x**: 
 * **y**: 

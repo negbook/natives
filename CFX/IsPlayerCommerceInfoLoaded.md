@@ -10,8 +10,8 @@ BOOL IS_PLAYER_COMMERCE_INFO_LOADED(char* playerSrc);
 
 Requests whether or not the commerce data for the specified player has loaded.
 
-## Parameters
+## 參數
 * **playerSrc**: The player handle
 
-## Return value
+## 返回值
 A boolean.

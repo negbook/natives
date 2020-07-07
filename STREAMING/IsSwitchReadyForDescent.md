@@ -10,4 +10,4 @@ BOOL IS_SWITCH_READY_FOR_DESCENT();
 ```
 
 
-## Return value
+## 返回值

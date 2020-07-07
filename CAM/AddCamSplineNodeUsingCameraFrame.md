@@ -10,7 +10,7 @@ void ADD_CAM_SPLINE_NODE_USING_CAMERA_FRAME(Cam cam, Cam cam2, int p2, int p3);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **cam2**: 
 * **p2**: 

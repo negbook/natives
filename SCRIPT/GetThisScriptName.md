@@ -9,4 +9,4 @@ char* GET_THIS_SCRIPT_NAME();
 ```
 
 
-## Return value
+## 返回值

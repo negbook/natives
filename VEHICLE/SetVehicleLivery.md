@@ -8,7 +8,7 @@ ns: VEHICLE
 void SET_VEHICLE_LIVERY(Vehicle vehicle, int livery);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **livery**: 
 

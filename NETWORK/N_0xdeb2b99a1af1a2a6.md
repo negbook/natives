@@ -9,7 +9,7 @@ Any _0xDEB2B99A1AF1A2A6(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

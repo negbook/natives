@@ -9,7 +9,7 @@ aliases: ["0x0A6A279F3AA4FD70"]
 void SET_BOAT_DISABLE_AVOIDANCE(Vehicle vehicle, BOOL p1);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

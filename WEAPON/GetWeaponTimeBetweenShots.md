@@ -11,5 +11,5 @@ Any _GET_WEAPON_TIME_BETWEEN_SHOTS(Hash weaponHash);
 
 NativeDB Introduced: v1290
 
-## Parameters
+## 參數
 * **weaponHash**:

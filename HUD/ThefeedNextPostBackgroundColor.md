@@ -22,6 +22,6 @@ Here is a list of some colors that can be used: gyazo.com/68bd384455fceb0a85a872
 this seems to set the alpha to 255 automatically, if you have a work around let me know  
 ```
 
-## Parameters
+## 參數
 * **hudColorIndex**: 
 

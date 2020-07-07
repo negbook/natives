@@ -9,7 +9,7 @@ int FLOOR(float value);
 ```
 
 
-## Parameters
+## 參數
 * **value**: 
 
-## Return value
+## 返回值

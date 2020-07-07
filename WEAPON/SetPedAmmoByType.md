@@ -9,7 +9,7 @@ void SET_PED_AMMO_BY_TYPE(Ped ped, Any ammoType, int ammo);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **ammoType**: 
 * **ammo**: 

@@ -9,7 +9,7 @@ BOOL IS_PLAYER_IN_CUTSCENE(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

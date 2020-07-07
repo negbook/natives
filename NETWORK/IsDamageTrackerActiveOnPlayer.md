@@ -10,7 +10,7 @@ BOOL _IS_DAMAGE_TRACKER_ACTIVE_ON_PLAYER(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

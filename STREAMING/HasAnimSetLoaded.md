@@ -13,7 +13,7 @@ Gets whether the specified animation set has finished loading. An animation set 
 Animation set and clip set are synonymous.  
 ```
 
-## Parameters
+## 參數
 * **animSet**: 
 
-## Return value
+## 返回值

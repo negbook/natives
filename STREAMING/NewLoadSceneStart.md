@@ -9,7 +9,7 @@ BOOL NEW_LOAD_SCENE_START(float p0, float p1, float p2, float p3, float p4, floa
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
@@ -19,4 +19,4 @@ BOOL NEW_LOAD_SCENE_START(float p0, float p1, float p2, float p3, float p4, floa
 * **p6**: 
 * **p7**: 
 
-## Return value
+## 返回值

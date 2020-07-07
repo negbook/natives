@@ -21,7 +21,7 @@ If using this to continually follow a Ped who is on foot:  You will need to run 
 EDIT:  This is being discussed in more detail at http://gtaforums.com/topic/818504-any-idea-on-how-to-make-peds-clever-and-insanely-fast-c/  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **vehicle**: 
 * **x**: 

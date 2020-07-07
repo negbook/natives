@@ -67,7 +67,7 @@ public enum DecalTypes
 }  
 ```
 
-## Parameters
+## 參數
 * **decalType**: 
 * **posX**: 
 * **posY**: 
@@ -89,4 +89,4 @@ public enum DecalTypes
 * **p18**: 
 * **p19**: 
 
-## Return value
+## 返回值

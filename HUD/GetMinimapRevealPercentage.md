@@ -10,4 +10,4 @@ float _GET_MINIMAP_REVEAL_PERCENTAGE();
 ```
 
 
-## Return value
+## 返回值

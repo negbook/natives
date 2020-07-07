@@ -9,7 +9,7 @@ BOOL IS_AUDIO_SCENE_ACTIVE(char* scene);
 ```
 
 
-## Parameters
+## 參數
 * **scene**: 
 
-## Return value
+## 返回值

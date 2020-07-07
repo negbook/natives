@@ -16,7 +16,7 @@ p8 ???
 p9 uses 2 by default  
 ```
 
-## Parameters
+## 參數
 * **camHash**: 
 * **posX**: 
 * **posY**: 
@@ -28,4 +28,4 @@ p9 uses 2 by default
 * **p8**: 
 * **p9**: 
 
-## Return value
+## 返回值

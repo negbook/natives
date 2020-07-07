@@ -13,6 +13,6 @@ void REMOVE_NAMED_PTFX_ASSET(char* fxName);
 assetName = For example "core"  
 ```
 
-## Parameters
+## 參數
 * **fxName**: 
 

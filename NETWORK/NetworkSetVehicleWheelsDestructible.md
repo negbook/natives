@@ -17,6 +17,6 @@ Allow vehicle wheels to be destructible even when the Vehicle entity is invincib
 NativeDB Introduced: v1365
 ```
 
-## Parameters
+## 參數
 * **vehicle**:
 * **toggle**:

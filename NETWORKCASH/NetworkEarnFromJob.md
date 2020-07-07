@@ -9,7 +9,7 @@ void NETWORK_EARN_FROM_JOB(int amount, char* p1);
 ```
 
 
-## Parameters
+## 參數
 * **amount**: 
 * **p1**: 
 

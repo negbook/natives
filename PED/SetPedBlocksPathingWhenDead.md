@@ -9,7 +9,7 @@ aliases: ["0x576594E8D64375E2"]
 void SET_PED_BLOCKS_PATHING_WHEN_DEAD(Ped ped, BOOL p1);
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 

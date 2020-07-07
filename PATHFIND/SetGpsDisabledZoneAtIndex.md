@@ -20,7 +20,7 @@ Disabled Zone: [https://i.imgur.com/P9VUuxM.png](https://i.imgur.com/P9VUuxM.png
 Enabled Zone (normal): [https://i.imgur.com/BPi24aw.png](https://i.imgur.com/BPi24aw.png)
 
 
-## Parameters
+## 參數
 * **x1**: X coordinate of first vector.
 * **y1**: Y coordinate of first vector.
 * **z1**: Z coordinate of first vector.

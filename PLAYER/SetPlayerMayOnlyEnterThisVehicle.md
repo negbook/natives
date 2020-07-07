@@ -9,7 +9,7 @@ void SET_PLAYER_MAY_ONLY_ENTER_THIS_VEHICLE(Player player, Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **vehicle**: 
 

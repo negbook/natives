@@ -28,7 +28,7 @@ iconTypes:
 "clanTag" shows a crew tag in the "sender" header, after the text. You need to use 3 underscores as padding. Maximum length of this field seems to be 7. (e.g. "MK" becomes "___MK", "ACE" becomes "___ACE", etc.)  
 ```
 
-## Parameters
+## 參數
 * **picTxd**: 
 * **picTxn**: 
 * **flash**: 
@@ -38,4 +38,4 @@ iconTypes:
 * **duration**: 
 * **crewPackedStr**: 
 
-## Return value
+## 返回值

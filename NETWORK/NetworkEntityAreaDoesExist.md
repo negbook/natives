@@ -9,7 +9,7 @@ aliases: ["0xE64A3CA08DFA37A9"]
 BOOL NETWORK_ENTITY_AREA_DOES_EXIST(int areaHandle);
 ```
 
-## Parameters
+## 參數
 * **areaHandle**: 
 
-## Return value
+## 返回值

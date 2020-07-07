@@ -9,7 +9,7 @@ void SET_ALL_RANDOM_PEDS_FLEE(Player player, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 

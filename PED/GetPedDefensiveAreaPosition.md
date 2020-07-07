@@ -9,8 +9,8 @@ Vector3 GET_PED_DEFENSIVE_AREA_POSITION(Ped ped, BOOL p1);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 
-## Return value
+## 返回值

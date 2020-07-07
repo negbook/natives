@@ -10,7 +10,7 @@ void ADD_EXPLOSION_WITH_USER_VFX(float x, float y, float z, int explosionType, H
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

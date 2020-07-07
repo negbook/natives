@@ -9,7 +9,7 @@ int GET_ZONE_POPSCHEDULE(int zoneId);
 ```
 
 
-## Parameters
+## 參數
 * **zoneId**: 
 
-## Return value
+## 返回值

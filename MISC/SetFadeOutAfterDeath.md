@@ -12,6 +12,6 @@ void SET_FADE_OUT_AFTER_DEATH(BOOL toggle);
 Sets whether the game should fade out after the player dies.  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

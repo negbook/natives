@@ -9,6 +9,6 @@ aliases: ["0x4757F00BC6323CFE"]
 void _SET_WEAPON_DAMAGE_MODIFIER(Hash weaponHash, float damageAmount);
 ```
 
-## Parameters
+## 參數
 * **weaponHash**: 
 * **damageAmount**: 

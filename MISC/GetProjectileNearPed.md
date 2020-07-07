@@ -21,7 +21,7 @@ NativeDB Parameter 3: float projPos
 NativeDB Parameter 4: float projEnt
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponhash**: 
 * **radius**: 
@@ -29,4 +29,4 @@ NativeDB Parameter 4: float projEnt
 * **projEnt**: 
 * **ownedByPlayer**: 
 
-## Return value
+## 返回值

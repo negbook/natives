@@ -9,7 +9,7 @@ void GET_PLAYER_PARACHUTE_SMOKE_TRAIL_COLOR(Player player, int* r, int* g, int* 
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **r**: 
 * **g**: 

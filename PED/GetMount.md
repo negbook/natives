@@ -19,7 +19,7 @@ void __fastcall ped__get_mount(NativeContext *a1)
 }  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

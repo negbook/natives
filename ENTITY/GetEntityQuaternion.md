@@ -12,7 +12,7 @@ void GET_ENTITY_QUATERNION(Entity entity, float* x, float* y, float* z, float* w
 w is the correct parameter name!  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **x**: 
 * **y**: 

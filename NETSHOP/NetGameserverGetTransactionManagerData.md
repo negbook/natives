@@ -13,8 +13,8 @@ BOOL _NET_GAMESERVER_GET_TRANSACTION_MANAGER_DATA(Any* p0, BOOL* p1);
 NativeDB Parameter 0: int* p0
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

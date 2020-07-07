@@ -10,7 +10,7 @@ char* _SC_INBOX_MESSAGE_GET_STRING(int p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ void DETACH_VEHICLE_FROM_CARGOBOB(Vehicle vehicle, Vehicle cargobob);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **cargobob**: 
 

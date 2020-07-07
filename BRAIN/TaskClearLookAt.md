@@ -24,6 +24,6 @@ PED::_2208438012482A1A(l_3ED, 0, 0);
 AI::TASK_CLEAR_LOOK_AT(l_3ED);  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 

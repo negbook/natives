@@ -9,6 +9,6 @@ void STOP_PED_RINGTONE(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 

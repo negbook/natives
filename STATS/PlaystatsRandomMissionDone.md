@@ -10,7 +10,7 @@ void PLAYSTATS_RANDOM_MISSION_DONE(char* name, Any p1, Any p2, Any p3);
 ```
 
 
-## Parameters
+## 參數
 * **name**: 
 * **p1**: 
 * **p2**: 

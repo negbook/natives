@@ -12,7 +12,7 @@ void _NETWORK_EARN_FROM_HACKER_TRUCK_MISSION(Any p0, int amount, Any p2, Any p3)
 NativeDB Introduced: v1493
 ```
 
-## Parameters
+## 參數
 * **p0**:
 * **amount**:
 * **p2**:

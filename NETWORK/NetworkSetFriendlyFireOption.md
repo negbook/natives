@@ -12,6 +12,6 @@ void NETWORK_SET_FRIENDLY_FIRE_OPTION(BOOL toggle);
 //friendly fire toggle  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

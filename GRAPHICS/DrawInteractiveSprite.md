@@ -24,7 +24,7 @@ Prop_Screen_Nightclub
 And a few others
 ```
 
-## Parameters
+## 參數
 * **textureDict**: Name of texture dictionary to load texture from
 * **textureName**: Name of texture to load from texture dictionary
 * **screenX**: Screen X

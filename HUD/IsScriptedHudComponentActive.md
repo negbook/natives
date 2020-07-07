@@ -9,7 +9,7 @@ BOOL IS_SCRIPTED_HUD_COMPONENT_ACTIVE(int id);
 ```
 
 
-## Parameters
+## 參數
 * **id**: 
 
-## Return value
+## 返回值

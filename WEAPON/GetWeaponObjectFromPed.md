@@ -13,8 +13,8 @@ Drops the current weapon and returns the object
 Unknown behavior when unarmed.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 
-## Return value
+## 返回值

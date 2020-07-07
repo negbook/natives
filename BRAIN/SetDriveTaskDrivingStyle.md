@@ -17,7 +17,7 @@ Driving styles id seems to be:
 http://gtaforums.com/topic/822314-guide-driving-styles/  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **drivingStyle**: 
 

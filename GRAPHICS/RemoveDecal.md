@@ -9,6 +9,6 @@ void REMOVE_DECAL(int decal);
 ```
 
 
-## Parameters
+## 參數
 * **decal**: 
 

@@ -9,7 +9,7 @@ aliases: ["0xB055A34527CB8FD7"]
 void SET_VEHICLE_FORCE_AFTERBURNER(Vehicle vehicle, BOOL p1);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

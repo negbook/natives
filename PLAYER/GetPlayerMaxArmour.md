@@ -9,7 +9,7 @@ int GET_PLAYER_MAX_ARMOUR(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

@@ -13,7 +13,7 @@ void ROPE_SET_UPDATE_ORDER(int ropeId, Any p1);
 ROPE_*
 ```
 
-## Parameters
+## 參數
 * **ropeId**: 
 * **p1**: 
 

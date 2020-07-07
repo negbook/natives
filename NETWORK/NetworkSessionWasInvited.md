@@ -10,4 +10,4 @@ BOOL NETWORK_SESSION_WAS_INVITED();
 ```
 
 
-## Return value
+## 返回值

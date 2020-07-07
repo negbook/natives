@@ -12,6 +12,6 @@ void CLEAR_PED_TASKS_IMMEDIATELY(Ped ped);
 Immediately stops the pedestrian from whatever it's doing. They stop fighting, animations, etc. they forget what they were doing.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 

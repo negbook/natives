@@ -13,7 +13,7 @@ returned values:
 0 to 7 = task that's currently in progress, 0 meaning the first one.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

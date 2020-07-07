@@ -10,6 +10,6 @@ void _SEETHROUGH_SET_MAX_THICKNESS(float thickness);
 ```
 
 
-## Parameters
+## 參數
 * **thickness**: min: 1.0 max: 10000.0
 

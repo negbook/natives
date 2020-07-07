@@ -13,7 +13,7 @@ void NETWORK_GET_GLOBAL_MULTIPLAYER_CLOCK(int* hours, int* minutes, int* seconds
 NETWORK_GET_*
 ```
 
-## Parameters
+## 參數
 * **hours**: 
 * **minutes**: 
 * **seconds**: 

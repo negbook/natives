@@ -9,7 +9,7 @@ void SET_SYNCHRONIZED_SCENE_LOOPED(int sceneID, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **sceneID**: 
 * **toggle**: 
 

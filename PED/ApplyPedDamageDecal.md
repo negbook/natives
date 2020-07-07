@@ -12,7 +12,7 @@ void APPLY_PED_DAMAGE_DECAL(Ped ped, int damageZone, float xOffset, float yOffse
 APPLY_PED_DAMAGE_DECAL(ped, 1, 0.5f, 0.513f, 0f, 1f, unk, 0, 0, "blushing");  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **damageZone**: 
 * **xOffset**: 

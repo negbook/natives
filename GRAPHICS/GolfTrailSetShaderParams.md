@@ -13,7 +13,7 @@ void GOLF_TRAIL_SET_SHADER_PARAMS(float p0, float p1, float p2, float p3, float 
 Only appeared in Golf & Golf_mp. Parameters were all ptrs  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

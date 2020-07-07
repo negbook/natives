@@ -12,8 +12,8 @@ Any SET_OBJECT_TARGETTABLE(Object object, BOOL targettable);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **object**: 
 * **targettable**: 
 
-## Return value
+## 返回值

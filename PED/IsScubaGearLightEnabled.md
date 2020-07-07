@@ -12,5 +12,5 @@ BOOL _IS_SCUBA_GEAR_LIGHT_ENABLED(Ped ped);
 NativeDB Introduced: v1493
 ```
 
-## Parameters
+## 參數
 * **ped**:

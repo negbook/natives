@@ -12,7 +12,7 @@ void REGISTER_WORLD_POINT_SCRIPT_BRAIN(Any* scriptName, float activationRange, i
 NativeDB Parameter 0: char* scriptName
 ```
 
-## Parameters
+## 參數
 * **scriptName**: 
 * **activationRange**: 
 * **p2**: 

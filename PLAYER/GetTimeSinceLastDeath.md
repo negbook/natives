@@ -16,4 +16,4 @@ UI.DrawSubtitle(time.ToString());
 if player has not died, the int returned will be -1.  
 ```
 
-## Return value
+## 返回值

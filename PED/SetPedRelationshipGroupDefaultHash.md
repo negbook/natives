@@ -9,7 +9,7 @@ void SET_PED_RELATIONSHIP_GROUP_DEFAULT_HASH(Ped ped, Hash hash);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **hash**: 
 

@@ -9,7 +9,7 @@ void TASK_VEHICLE_AIM_AT_PED(Ped ped, Ped target);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **target**: 
 

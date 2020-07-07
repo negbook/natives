@@ -9,7 +9,7 @@ BOOL HAS_ADDITIONAL_TEXT_LOADED(int slot);
 ```
 
 
-## Parameters
+## 參數
 * **slot**: 
 
-## Return value
+## 返回值

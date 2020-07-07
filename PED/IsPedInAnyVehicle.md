@@ -11,11 +11,11 @@ BOOL IS_PED_IN_ANY_VEHICLE(Ped ped, BOOL atGetIn);
 Returns whether the specified ped is in any vehicle. If `atGetIn` is set to true, also returns true if the ped is
 currently in the process of entering a vehicle (a specific stage check for `CTaskEnterVehicle`).
 
-## Parameters
+## 參數
 * **ped**: The ped to check.
 * **atGetIn**: `true` to also consider attempting to enter a vehicle. 
 
-## Return value
+## 返回值
 Whether or not the ped is currently involved in any vehicle.
 
 ## Examples

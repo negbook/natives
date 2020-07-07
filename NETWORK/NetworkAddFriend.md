@@ -9,8 +9,8 @@ BOOL NETWORK_ADD_FRIEND(int* networkHandle, char* message);
 ```
 
 
-## Parameters
+## 參數
 * **networkHandle**: 
 * **message**: 
 
-## Return value
+## 返回值

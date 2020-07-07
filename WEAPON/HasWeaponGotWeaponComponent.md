@@ -9,8 +9,8 @@ BOOL HAS_WEAPON_GOT_WEAPON_COMPONENT(Object weapon, Hash addonHash);
 ```
 
 
-## Parameters
+## 參數
 * **weapon**: 
 * **addonHash**: 
 
-## Return value
+## 返回值

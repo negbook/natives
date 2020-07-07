@@ -13,7 +13,7 @@ NativeDB Parameter 0: Hash p0
 NativeDB Parameter 2: Hash p2
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

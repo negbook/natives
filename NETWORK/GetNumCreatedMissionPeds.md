@@ -9,7 +9,7 @@ aliases: ["0xCB215C4B56A7FAE7"]
 int GET_NUM_CREATED_MISSION_PEDS(BOOL p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

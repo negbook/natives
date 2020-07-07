@@ -15,7 +15,7 @@ x = pitches the camera on the x axis.
 Value2 = always seems to be hex 0x3F800000 (1.000000 float).  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **Value2**: 
 

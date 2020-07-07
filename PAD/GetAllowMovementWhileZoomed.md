@@ -13,4 +13,4 @@ BOOL GET_ALLOW_MOVEMENT_WHILE_ZOOMED();
 Returns profile setting 17.
 ```
 
-## Return value
+## 返回值

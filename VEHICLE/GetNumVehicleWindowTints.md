@@ -9,4 +9,4 @@ int GET_NUM_VEHICLE_WINDOW_TINTS();
 ```
 
 
-## Return value
+## 返回值

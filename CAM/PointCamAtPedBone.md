@@ -12,7 +12,7 @@ void POINT_CAM_AT_PED_BONE(Cam cam, Ped ped, int boneIndex, float x, float y, fl
 Parameters p0-p5 seems correct. The bool p6 is unknown, but through every X360 script it's always 1. Please correct p0-p5 if any prove to be wrong.  
 ```
 
-## Parameters
+## 參數
 * **cam**: 
 * **ped**: 
 * **boneIndex**: 

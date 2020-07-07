@@ -13,7 +13,7 @@ Blip _GET_AI_BLIP(Ped ped);
 Returns the current AI BLIP for the specified ped  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

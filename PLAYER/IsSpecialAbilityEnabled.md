@@ -9,7 +9,7 @@ BOOL IS_SPECIAL_ABILITY_ENABLED(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

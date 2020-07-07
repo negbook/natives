@@ -9,6 +9,6 @@ void DESTROY_ITEMSET(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

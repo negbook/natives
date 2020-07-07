@@ -13,8 +13,8 @@ dx = x1
 dy = y1  
 ```
 
-## Parameters
+## 參數
 * **dx**: 
 * **dy**: 
 
-## Return value
+## 返回值

@@ -44,7 +44,7 @@ iVar3 = 1;
 	}  
 ```
 
-## Parameters
+## 參數
 * **crewTypeIsPrivate**: 
 * **crewTagContainsRockstar**: 
 * **crewTag**: 
@@ -56,4 +56,4 @@ iVar3 = 1;
 * **g**: 
 * **b**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ void SET_SCRIPTED_CONVERSION_COORD_THIS_FRAME(float x, float y, float z);
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

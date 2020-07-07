@@ -13,6 +13,6 @@ void ANIMPOSTFX_STOP(char* effectName);
 Example and list of screen FX: www.pastebin.com/dafBAjs0  
 ```
 
-## Parameters
+## 參數
 * **effectName**: 
 

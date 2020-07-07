@@ -12,7 +12,7 @@ BOOL IS_PED_WEAPON_READY_TO_SHOOT(Ped ped);
 Probably checks whether the ped has finished reloading or not and if the current weapon is not being switched to another.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

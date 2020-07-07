@@ -9,4 +9,4 @@ BOOL IS_NEW_LOAD_SCENE_LOADED();
 ```
 
 
-## Return value
+## 返回值

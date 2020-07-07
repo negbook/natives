@@ -15,6 +15,6 @@ Most references of this native come from the creator scripts. (creator, fm_captu
 Seems to have something to do with initializing/destroying creator shit.  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

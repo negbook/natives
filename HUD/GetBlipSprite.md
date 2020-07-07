@@ -13,7 +13,7 @@ Blips Images + IDs:
 gtaxscripting.blogspot.com/2016/05/gta-v-blips-id-and-image.html  
 ```
 
-## Parameters
+## 參數
 * **blip**: 
 
-## Return value
+## 返回值

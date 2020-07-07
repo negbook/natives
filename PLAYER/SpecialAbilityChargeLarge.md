@@ -12,7 +12,7 @@ void SPECIAL_ABILITY_CHARGE_LARGE(Player player, BOOL p1, BOOL p2);
 2 matches. p1 was always true.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **p1**: 
 * **p2**: 

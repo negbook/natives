@@ -9,7 +9,7 @@ BOOL NETWORK_CAN_COMMUNICATE_WITH_GAMER(int* networkHandle);
 ```
 
 
-## Parameters
+## 參數
 * **networkHandle**: 
 
-## Return value
+## 返回值

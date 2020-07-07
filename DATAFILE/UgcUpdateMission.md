@@ -13,11 +13,11 @@ BOOL UGC_UPDATE_MISSION(char* contentId, char* contentName, char* description, c
 NOTE: 'p2' might be some kind of array.  
 ```
 
-## Parameters
+## 參數
 * **contentId**: 
 * **contentName**: 
 * **description**: 
 * **tagsCsv**: 
 * **contentTypeName**: 
 
-## Return value
+## 返回值

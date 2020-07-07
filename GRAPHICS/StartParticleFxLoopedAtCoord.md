@@ -13,7 +13,7 @@ GRAPHICS::START_PARTICLE_FX_LOOPED_AT_COORD("scr_fbi_falling_debris", 93.7743f, 
 p11 seems to be always 0  
 ```
 
-## Parameters
+## 參數
 * **effectName**: 
 * **x**: 
 * **y**: 
@@ -27,4 +27,4 @@ p11 seems to be always 0
 * **zAxis**: 
 * **p11**: 
 
-## Return value
+## 返回值

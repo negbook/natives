@@ -12,5 +12,5 @@ void _UPDATE_LSUR(BOOL enableMixes);
 NativeDB Introduced: v1493
 ```
 
-## Parameters
+## 參數
 * **enableMixes**:

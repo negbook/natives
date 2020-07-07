@@ -9,8 +9,8 @@ BOOL IS_PLAYER_WANTED_LEVEL_GREATER(Player player, int wantedLevel);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **wantedLevel**: 
 
-## Return value
+## 返回值

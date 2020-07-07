@@ -9,7 +9,7 @@ Hash GET_PED_RELATIONSHIP_GROUP_DEFAULT_HASH(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

@@ -13,7 +13,7 @@ Has 8 params in the latest patches.
 isMission - if true doesn't return mission objects  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -23,4 +23,4 @@ isMission - if true doesn't return mission objects
 * **p6**: 
 * **p7**: 
 
-## Return value
+## 返回值

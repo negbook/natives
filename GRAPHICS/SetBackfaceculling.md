@@ -15,6 +15,6 @@ Found only in all creator scripts. (fm_capture_creator, fm_deathmatch_creator, f
 Used in-between DRAW_* calls (DRAW_POLY specifically).  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

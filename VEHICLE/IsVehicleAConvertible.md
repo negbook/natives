@@ -13,8 +13,8 @@ p1 is false almost always.
 However, in launcher_carwash/carwash1/carwash2 scripts, p1 is true and is accompanied by DOES_VEHICLE_HAVE_ROOF  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 
-## Return value
+## 返回值

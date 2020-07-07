@@ -14,6 +14,6 @@ For a full list of the points, see here: goo.gl/wIH0vn
 Max number of loaded recordings is 32.  
 ```
 
-## Parameters
+## 參數
 * **name**: 
 

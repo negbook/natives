@@ -9,6 +9,6 @@ void _0x9EDD76E87D5D51BA(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 

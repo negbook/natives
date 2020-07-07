@@ -9,7 +9,7 @@ BOOL IS_ENTITY_WAITING_FOR_WORLD_COLLISION(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

@@ -9,8 +9,8 @@ int GET_VEHICLE_DOOR_STATUS(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值
 A number from 0 to 7.

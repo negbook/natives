@@ -13,7 +13,7 @@ p1 was always 5.
 p4 was always false.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **p1**: 
 * **p2**: 

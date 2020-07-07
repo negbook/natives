@@ -9,11 +9,11 @@ BOOL IS_ANY_OBJECT_NEAR_POINT(float x, float y, float z, float range, BOOL p4);
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 * **range**: 
 * **p4**: 
 
-## Return value
+## 返回值

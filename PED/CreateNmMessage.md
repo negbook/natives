@@ -15,7 +15,7 @@ messageId: The ID of the NaturalMotion message.
 If a message already exists, this function does nothing. A message exists until the point it has been successfully dispatched by GIVE_PED_NM_MESSAGE.  
 ```
 
-## Parameters
+## 參數
 * **startImmediately**: 
 * **messageId**: 
 

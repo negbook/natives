@@ -12,7 +12,7 @@ BOOL DOES_CAM_EXIST(Cam cam);
 Returns whether or not the passed camera handle exists.  
 ```
 
-## Parameters
+## 參數
 * **cam**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ void _ARRAY_VALUE_ADD_BOOLEAN(Any* arrayData, BOOL value);
 ```
 
 
-## Parameters
+## 參數
 * **arrayData**: 
 * **value**: 
 

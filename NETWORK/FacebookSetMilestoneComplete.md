@@ -20,7 +20,7 @@ milestoneId:
 6 = "prologue"  
 ```
 
-## Parameters
+## 參數
 * **milestoneId**: 
 
-## Return value
+## 返回值

@@ -10,7 +10,7 @@ Hash _SC_INBOX_MESSAGE_INIT(int p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

@@ -13,11 +13,11 @@ BOOL DOOR_SYSTEM_FIND_EXISTING_DOOR(float x, float y, float z, Any modelHash, An
 NativeDB Parameter 3: Hash modelHash
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 * **modelHash**: 
 * **doorOutPointer**: 
 
-## Return value
+## 返回值

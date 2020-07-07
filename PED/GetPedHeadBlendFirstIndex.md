@@ -14,7 +14,7 @@ Type equals 0 for male non-dlc, 1 for female non-dlc, 2 for male dlc, and 3 for 
 Used when calling SET_PED_HEAD_BLEND_DATA.
 ```
 
-## Parameters
+## 參數
 * **type**: 
 
-## Return value
+## 返回值

@@ -15,7 +15,7 @@ func_720(socialclub::_0x8416FE4E4629D7D7("bIgnoreCheaterOverride"));
 func_719(socialclub::_0x8416FE4E4629D7D7("bIgnoreBadSportOverride"));  
 ```
 
-## Parameters
+## 參數
 * **name**: 
 
-## Return value
+## 返回值

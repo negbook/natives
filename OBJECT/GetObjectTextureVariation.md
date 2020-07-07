@@ -10,7 +10,7 @@ int _GET_OBJECT_TEXTURE_VARIATION(Object object);
 ```
 
 
-## Parameters
+## 參數
 * **object**: 
 
-## Return value
+## 返回值

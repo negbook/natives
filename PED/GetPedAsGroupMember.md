@@ -18,8 +18,8 @@ if (groupSize >= 1) {
 . . . . . . . . //and so on  
 ```
 
-## Parameters
+## 參數
 * **groupID**: 
 * **memberNumber**: 
 
-## Return value
+## 返回值

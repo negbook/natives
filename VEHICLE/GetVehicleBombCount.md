@@ -15,10 +15,10 @@ In decompiled scripts this is used to check if the vehicle has enough bombs befo
 
 Use [`_SET_AIRCRAFT_BOMB_COUNT`](#_0xF4B2ED59DEB5D774) to set the amount of bombs on that vehicle.
 
-## Parameters
+## 參數
 * **aircraft**: The vehicle to get the amount of bombs from.
 
-## Return value
+## 返回值
 An int indicating the amount of bombs remaining on that plane.
 
 ## Examples

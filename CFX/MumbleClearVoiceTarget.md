@@ -10,5 +10,5 @@ void MUMBLE_CLEAR_VOICE_TARGET(int targetId);
 
 Clears the target list for the specified Mumble voice target ID.
 
-## Parameters
+## 參數
 * **targetId**: A Mumble voice target ID, ranging from 1..30 (inclusive).

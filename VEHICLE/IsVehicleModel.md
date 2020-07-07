@@ -9,8 +9,8 @@ BOOL IS_VEHICLE_MODEL(Vehicle vehicle, Hash model);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **model**: 
 
-## Return value
+## 返回值

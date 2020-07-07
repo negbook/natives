@@ -9,8 +9,8 @@ aliases: ["0x1ACCFBA3D8DAB2EE"]
 Any UGC_GET_CONTENT_RATING(Any p0, Any p1);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

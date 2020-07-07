@@ -9,7 +9,7 @@ void SET_PED_HELMET(Ped ped, BOOL canWearHelmet);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **canWearHelmet**: 
 

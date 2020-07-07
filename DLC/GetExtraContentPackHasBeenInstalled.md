@@ -10,4 +10,4 @@ BOOL _GET_EXTRA_CONTENT_PACK_HAS_BEEN_INSTALLED();
 ```
 
 
-## Return value
+## 返回值

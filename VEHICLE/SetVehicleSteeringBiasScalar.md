@@ -9,7 +9,7 @@ aliases: ["0x9007A2F21DC108D4"]
 void SET_VEHICLE_STEERING_BIAS_SCALAR(Vehicle vehicle, float scalar);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **scalar**: 
 

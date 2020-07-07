@@ -9,7 +9,7 @@ void SET_MODEL_HEADLIGHT_CONFIGURATION(Hash modelHash, float ratePerSecond, floa
 ```
 
 
-## Parameters
+## 參數
 * **modelHash**: 
 * **ratePerSecond**: 
 * **headlightRotation**: 

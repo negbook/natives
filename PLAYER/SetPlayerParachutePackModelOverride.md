@@ -9,7 +9,7 @@ void SET_PLAYER_PARACHUTE_PACK_MODEL_OVERRIDE(Player player, Hash model);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **model**: 
 

@@ -13,7 +13,7 @@ Any ADD_VEHICLE_COMBAT_ANGLED_AVOIDANCE_AREA(float p0, float p1, float p2, float
 ADD_*
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
@@ -22,4 +22,4 @@ ADD_*
 * **p5**: 
 * **p6**: 
 
-## Return value
+## 返回值

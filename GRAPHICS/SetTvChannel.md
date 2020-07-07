@@ -9,6 +9,6 @@ void SET_TV_CHANNEL(int channel);
 ```
 
 
-## Parameters
+## 參數
 * **channel**: 
 

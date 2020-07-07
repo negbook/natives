@@ -17,7 +17,7 @@ Set entity alpha level. Ranging from 0 to 255 but chnages occur after every 20 p
 NativeDB Parameter 2: BOOL skin
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **alphaLevel**: 
 * **skin**: 

@@ -9,6 +9,6 @@ void RESERVE_NETWORK_MISSION_PEDS(int amount);
 ```
 
 
-## Parameters
+## 參數
 * **amount**: 
 

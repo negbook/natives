@@ -19,7 +19,7 @@ if (!ENTITY::IS_ENTITY_DEAD(l_1911)) {
 }  
 ```
 
-## Parameters
+## 參數
 * **plane**: 
 
-## Return value
+## 返回值

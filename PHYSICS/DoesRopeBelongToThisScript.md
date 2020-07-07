@@ -10,7 +10,7 @@ BOOL _DOES_ROPE_BELONG_TO_THIS_SCRIPT(int ropeId);
 ```
 
 
-## Parameters
+## 參數
 * **ropeId**: 
 
-## Return value
+## 返回值

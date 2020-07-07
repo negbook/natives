@@ -18,7 +18,7 @@ State 6 == Start animation
 State 9 == End of the animation  
 ```
 
-## Parameters
+## 參數
 * **object**: 
 * **state**: 
 

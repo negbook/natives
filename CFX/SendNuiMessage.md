@@ -9,7 +9,7 @@ BOOL SEND_NUI_MESSAGE(char* jsonString);
 ```
 
 
-## Parameters
+## 參數
 * **jsonString**: 
 
-## Return value
+## 返回值

@@ -12,4 +12,4 @@ BOOL _0x7C4FCCD2E4DEB394();
 Used for cash gifts  
 ```
 
-## Return value
+## 返回值

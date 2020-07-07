@@ -12,7 +12,7 @@ void GET_GROUP_SIZE(int groupID, Any* unknown, int* sizeInMembers);
 p1 may be a BOOL representing whether or not the group even exists  
 ```
 
-## Parameters
+## 參數
 * **groupID**: 
 * **unknown**: 
 * **sizeInMembers**: 

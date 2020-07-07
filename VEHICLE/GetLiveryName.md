@@ -29,8 +29,8 @@ NOTE: You may need to set the vehicle's modKit to 0 by using this function: SET_
 dev-c.com/nativedb/func/info/1f2aa07f00b3217a  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **liveryIndex**: 
 
-## Return value
+## 返回值

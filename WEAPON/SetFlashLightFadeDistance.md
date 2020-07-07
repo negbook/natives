@@ -9,7 +9,7 @@ Any SET_FLASH_LIGHT_FADE_DISTANCE(float distance);
 ```
 
 
-## Parameters
+## 參數
 * **distance**: 
 
-## Return value
+## 返回值

@@ -17,7 +17,7 @@ Flags(256, 260, 384, 768, 896, 900, 952, 1280)
 [ translation: cameraRotation = flags & (1 << 8) - sfink]  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **bHasControl**: 
 * **flags**: 

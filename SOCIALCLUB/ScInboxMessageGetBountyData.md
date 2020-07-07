@@ -10,8 +10,8 @@ BOOL _SC_INBOX_MESSAGE_GET_BOUNTY_DATA(int index, int* outData);
 ```
 
 
-## Parameters
+## 參數
 * **index**: 
 * **outData**: 
 
-## Return value
+## 返回值

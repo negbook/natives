@@ -18,5 +18,5 @@ You might need to DoScreenFadeIn and ShutdownLoadingScreen otherwise you probabl
 Somewhat related note: opening the pause menu after loading into this 'singleplayer' mode crashes the game.
 
 
-## Return value
+## 返回值
 always seems to be 1

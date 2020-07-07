@@ -9,7 +9,7 @@ int _GET_NUMBER_OF_VEHICLE_DOORS(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

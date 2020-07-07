@@ -16,8 +16,8 @@ End Function
 		I'm Not MentaL  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **door**: 
 
-## Return value
+## 返回值

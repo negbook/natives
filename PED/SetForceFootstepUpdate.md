@@ -10,7 +10,7 @@ void SET_FORCE_FOOTSTEP_UPDATE(Ped ped, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

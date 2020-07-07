@@ -14,7 +14,7 @@ policeIndex: The police house index.
 toggle: true to enable the spawn point, false to disable.  
 ```
 
-## Parameters
+## 參數
 * **policeIndex**: 
 * **toggle**: 
 

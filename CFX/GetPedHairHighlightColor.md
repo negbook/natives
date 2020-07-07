@@ -19,8 +19,8 @@ if secondaryColour == 32 then
 end
 ```
 
-## Parameters
+## 參數
 * **ped**: The target ped
 
-## Return value
+## 返回值
 Returns ped's secondary hair colour.

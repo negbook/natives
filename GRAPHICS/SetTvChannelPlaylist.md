@@ -32,7 +32,7 @@ Restart
 1=sequence restarts from beginning every time that channel is selected  
 ```
 
-## Parameters
+## 參數
 * **tvChannel**: 
 * **playlistName**: 
 * **restart**: 

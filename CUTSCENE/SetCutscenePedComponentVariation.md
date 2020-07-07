@@ -9,7 +9,7 @@ void SET_CUTSCENE_PED_COMPONENT_VARIATION(char* cutsceneEntName, int p1, int p2,
 ```
 
 
-## Parameters
+## 參數
 * **cutsceneEntName**: 
 * **p1**: 
 * **p2**: 

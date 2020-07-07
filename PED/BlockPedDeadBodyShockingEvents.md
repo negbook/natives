@@ -13,7 +13,7 @@ void _BLOCK_PED_DEAD_BODY_SHOCKING_EVENTS(Ped ped, BOOL toggle);
 Related toggling CEventShockingDeadBody
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

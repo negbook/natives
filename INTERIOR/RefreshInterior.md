@@ -9,6 +9,6 @@ void REFRESH_INTERIOR(int interiorID);
 ```
 
 
-## Parameters
+## 參數
 * **interiorID**: 
 

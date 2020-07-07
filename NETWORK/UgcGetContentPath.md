@@ -13,8 +13,8 @@ char* UGC_GET_CONTENT_PATH(int p0, Any* p1);
 NativeDB Parameter 1: int p1
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

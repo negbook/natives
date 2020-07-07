@@ -20,7 +20,7 @@ doorIndex:
 7 = Back2  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **doorIndex**: 
 * **loose**: 

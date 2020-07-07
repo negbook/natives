@@ -12,7 +12,7 @@ void SET_CHECKPOINT_RGBA(int checkpoint, int red, int green, int blue, int alpha
 Sets the checkpoint color.  
 ```
 
-## Parameters
+## 參數
 * **checkpoint**: 
 * **red**: 
 * **green**: 

@@ -10,7 +10,7 @@ int _NETWORK_GET_ENTITY_NET_SCRIPT_ID(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

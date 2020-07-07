@@ -9,7 +9,7 @@ BOOL NETWORK_HAS_PLAYER_STARTED_TRANSITION(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

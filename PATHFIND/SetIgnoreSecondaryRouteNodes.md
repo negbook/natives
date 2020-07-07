@@ -13,6 +13,6 @@ void _SET_IGNORE_SECONDARY_ROUTE_NODES(BOOL toggle);
 See: SET_BLIP_ROUTE
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

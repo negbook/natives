@@ -9,7 +9,7 @@ BOOL NETWORK_IS_GAMER_IN_MY_SESSION(int* networkHandle);
 ```
 
 
-## Parameters
+## 參數
 * **networkHandle**: 
 
-## Return value
+## 返回值

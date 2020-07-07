@@ -19,4 +19,4 @@ Gets the current day of the week.
 6: Saturday  
 ```
 
-## Return value
+## 返回值

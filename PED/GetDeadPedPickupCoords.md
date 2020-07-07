@@ -9,9 +9,9 @@ Vector3 GET_DEAD_PED_PICKUP_COORDS(Ped ped, float p1, float p2);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 * **p2**: 
 
-## Return value
+## 返回值

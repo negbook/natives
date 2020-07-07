@@ -14,6 +14,6 @@ if p0 is 1, effect zooms in, gradually tilts cam clockwise apx 30 degrees, wobbl
 if p0 is 2, effect immediately tilts cam clockwise apx 30 degrees, begins to wobble slowly, then gradually tilts cam back to normal. The wobbling will continue until the effect is cancelled.  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

@@ -13,7 +13,7 @@ list: pastebin.com/DCeRiaLJ
 All found occurrences in b617d, sorted alphabetically and identical lines removed: pastebin.com/0neZdsZ5  
 ```
 
-## Parameters
+## 參數
 * **soundId**: 
 * **audioName**: 
 * **audioRef**: 

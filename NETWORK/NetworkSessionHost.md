@@ -12,9 +12,9 @@ BOOL NETWORK_SESSION_HOST(int p0, int maxPlayers, BOOL p2);
 Does nothing in online but in offline it will cause the screen to fade to black. Nothing happens past then, the screen will sit at black until you restart GTA. Other stuff must be needed to actually host a session.  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **maxPlayers**: 
 * **p2**: 
 
-## Return value
+## 返回值

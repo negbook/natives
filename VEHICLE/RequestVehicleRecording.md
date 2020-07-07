@@ -12,7 +12,7 @@ void REQUEST_VEHICLE_RECORDING(int i, char* name);
 In script files, seen as REQUEST_VEHICLE_RECORDING(1, "FBIs1UBER");  
 ```
 
-## Parameters
+## 參數
 * **i**: 
 * **name**: 
 

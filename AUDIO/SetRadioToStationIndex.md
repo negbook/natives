@@ -12,6 +12,6 @@ void SET_RADIO_TO_STATION_INDEX(int radioStation);
 Sets radio station by index.  
 ```
 
-## Parameters
+## 參數
 * **radioStation**: 
 

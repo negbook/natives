@@ -10,7 +10,7 @@ int GET_SHOP_PED_OUTFIT_LOCATE(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

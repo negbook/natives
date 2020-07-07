@@ -19,7 +19,7 @@ Needs to be looped!
 Note: According to IDA for the Xbox360 xex, when they check bgt they seem to have the min to 0.0f, but the max set to 1.15f not 10.0f.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **value**: 
 

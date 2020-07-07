@@ -9,7 +9,7 @@ void SET_TASK_VEHICLE_CHASE_IDEAL_PURSUIT_DISTANCE(Ped ped, float distance);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **distance**: 
 

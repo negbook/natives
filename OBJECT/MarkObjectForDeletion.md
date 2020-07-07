@@ -12,6 +12,6 @@ void _MARK_OBJECT_FOR_DELETION(Object object);
 is this like setting is as no longer needed?  
 ```
 
-## Parameters
+## 參數
 * **object**: 
 

@@ -12,7 +12,7 @@ void _SET_RADIO_TRACK_MIX(char* radioStationName, char* mixName, int p2);
 NativeDB Introduced: v1493
 ```
 
-## Parameters
+## 參數
 * **radioStationName**:
 * **mixName**:
 * **p2**:

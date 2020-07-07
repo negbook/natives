@@ -10,7 +10,7 @@ Any NETWORK_GET_PRESENCE_INVITE_ID(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

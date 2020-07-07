@@ -9,7 +9,7 @@ void SET_CURRENT_PED_WEAPON(Ped ped, Hash weaponHash, BOOL equipNow);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 * **equipNow**: 

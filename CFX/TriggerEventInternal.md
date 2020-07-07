@@ -10,7 +10,7 @@ void TRIGGER_EVENT_INTERNAL(char* eventName, char* eventPayload, int payloadLeng
 
 The backing function for TriggerEvent.
 
-## Parameters
+## 參數
 * **eventName**: 
 * **eventPayload**: 
 * **payloadLength**: 

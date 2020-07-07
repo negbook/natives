@@ -10,7 +10,7 @@ void PLAY_STREAM_FROM_POSITION(float x, float y, float z);
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

@@ -21,7 +21,7 @@ Appears only 3 times in the scripts, more specifically in michael1.ysc
 This can be used to prevent dying if you are "out of the world"  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

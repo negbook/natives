@@ -13,4 +13,4 @@ BOOL _GET_IS_PLAYER_IN_ANIMAL_FORM();
 Although we don't have a jenkins hash for this one, the name is 100% confirmed.
 ```
 
-## Return value
+## 返回值

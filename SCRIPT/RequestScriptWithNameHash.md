@@ -13,6 +13,6 @@ void REQUEST_SCRIPT_WITH_NAME_HASH(Hash scriptHash);
 formerly _REQUEST_STREAMED_SCRIPT  
 ```
 
-## Parameters
+## 參數
 * **scriptHash**: 
 

@@ -14,6 +14,6 @@ Sets GtaThread+0x14A
 SET_S*
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

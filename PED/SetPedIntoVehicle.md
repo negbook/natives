@@ -19,7 +19,7 @@ Left Rear = 1
 RightRear = 2  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **vehicle**: 
 * **seatIndex**: 

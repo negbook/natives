@@ -10,6 +10,6 @@ void _SEETHROUGH_SET_HI_LIGHT_INTENSITY(float intensity);
 ```
 
 
-## Parameters
+## 參數
 * **intensity**: 
 

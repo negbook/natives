@@ -9,7 +9,7 @@ Vector3 _GET_OBJECT_OFFSET_FROM_COORDS(float xPos, float yPos, float zPos, float
 ```
 
 
-## Parameters
+## 參數
 * **xPos**: 
 * **yPos**: 
 * **zPos**: 
@@ -18,4 +18,4 @@ Vector3 _GET_OBJECT_OFFSET_FROM_COORDS(float xPos, float yPos, float zPos, float
 * **yOffset**: 
 * **zOffset**: 
 
-## Return value
+## 返回值

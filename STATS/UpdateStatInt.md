@@ -13,7 +13,7 @@ void _UPDATE_STAT_INT(char* statHash, int value, int p2);
 NativeDB Parameter 0: Hash statHash
 ```
 
-## Parameters
+## 參數
 * **statHash**: 
 * **value**: 
 * **p2**: 

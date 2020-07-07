@@ -9,7 +9,7 @@ void _0x826D1EE4D1CAFC78(Any p0, Any p1);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

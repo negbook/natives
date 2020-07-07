@@ -22,9 +22,9 @@ if interiorId ~= 0 then
 end
 ```
 
-## Parameters
+## 參數
 * **interiorId**: The target interior.
 * **portalIndex**: Interior portal index.
 
-## Return value
+## 返回值
 Portal's room FROM index.

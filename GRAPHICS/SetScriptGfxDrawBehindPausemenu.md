@@ -12,6 +12,6 @@ void SET_SCRIPT_GFX_DRAW_BEHIND_PAUSEMENU(BOOL flag);
 Sets a flag defining whether or not script draw commands should continue being drawn behind the pause
 menu. This is usually used for TV channels and other draw commands that are used with a world render target.
 
-## Parameters
+## 參數
 * **flag**: A boolean value.
 

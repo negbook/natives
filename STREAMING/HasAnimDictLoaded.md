@@ -9,7 +9,7 @@ BOOL HAS_ANIM_DICT_LOADED(char* animDict);
 ```
 
 
-## Parameters
+## 參數
 * **animDict**: 
 
-## Return value
+## 返回值

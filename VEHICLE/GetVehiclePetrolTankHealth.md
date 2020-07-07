@@ -13,7 +13,7 @@ float GET_VEHICLE_PETROL_TANK_HEALTH(Vehicle vehicle);
 Begins leaking gas at around 650 health  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ void DISABLE_VEHICLE_DISTANTLIGHTS(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

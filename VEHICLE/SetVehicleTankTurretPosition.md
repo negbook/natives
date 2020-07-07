@@ -10,7 +10,7 @@ void SET_VEHICLE_TANK_TURRET_POSITION(Vehicle vehicle, float position, BOOL p2);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **position**: 
 * **p2**: 

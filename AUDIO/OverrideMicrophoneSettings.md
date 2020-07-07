@@ -13,7 +13,7 @@ void _OVERRIDE_MICROPHONE_SETTINGS(Any hash, BOOL toggle);
 NativeDB Parameter 0: Hash hash
 ```
 
-## Parameters
+## 參數
 * **hash**: 
 * **toggle**: 
 

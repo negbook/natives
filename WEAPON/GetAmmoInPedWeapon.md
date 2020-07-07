@@ -16,8 +16,8 @@ GTALua Example :
 natives.WEAPON.GET_AMMO_IN_PED_WEAPON(plyPed, WeaponHash)  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponhash**: 
 
-## Return value
+## 返回值

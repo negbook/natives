@@ -13,7 +13,7 @@ Any _HUD_WEAPON_WHEEL_GET_SLOT_HASH(int weaponTypeIndex);
 Return the weapon hash active in a specific weapon wheel slotList
 ```
 
-## Parameters
+## 參數
 * **weaponTypeIndex**: 
 
-## Return value
+## 返回值

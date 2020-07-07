@@ -16,7 +16,7 @@ AI::_B0A6CFD2C69C1088(PLAYER::PLAYER_PED_ID(), "isFirstPerson", 1);
 AI::_B0A6CFD2C69C1088(PLAYER::PLAYER_PED_ID(), "isBlocked", sub_179027());  
 ```
 
-## Parameters
+## 參數
 * **ped**: The ped that's performing the task.
 * **signalName**: The property name.
 * **value**: The property value to set.

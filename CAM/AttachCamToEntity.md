@@ -12,7 +12,7 @@ void ATTACH_CAM_TO_ENTITY(Cam cam, Entity entity, float xOffset, float yOffset, 
 Last param determines if its relative to the Entity  
 ```
 
-## Parameters
+## 參數
 * **cam**: 
 * **entity**: 
 * **xOffset**: 

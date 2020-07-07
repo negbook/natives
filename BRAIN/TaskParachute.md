@@ -18,7 +18,7 @@ seconds parameter was for jetpack in the early stages of gta and the hard coded 
 NativeDB Added Parameter 3: BOOL p2
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 

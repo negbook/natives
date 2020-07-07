@@ -13,4 +13,4 @@ int _GET_POWER_SAVING_MODE_DURATION();
 Returns duration of how long the game has been in power-saving mode (aka "constrained") in milliseconds.
 ```
 
-## Return value
+## 返回值

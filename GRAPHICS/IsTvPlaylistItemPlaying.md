@@ -13,7 +13,7 @@ BOOL _IS_TV_PLAYLIST_ITEM_PLAYING(Hash videoCliphash);
 IS_*
 ```
 
-## Parameters
+## 參數
 * **videoCliphash**: 
 
-## Return value
+## 返回值

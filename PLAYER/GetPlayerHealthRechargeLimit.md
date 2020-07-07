@@ -10,7 +10,7 @@ float _GET_PLAYER_HEALTH_RECHARGE_LIMIT(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

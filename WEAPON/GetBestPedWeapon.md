@@ -12,8 +12,8 @@ Hash GET_BEST_PED_WEAPON(Ped ped, BOOL p1);
 p1 is always 0 in the scripts.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 
-## Return value
+## 返回值

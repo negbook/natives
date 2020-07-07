@@ -13,7 +13,7 @@ void _SET_CAM_DOF_FOCAL_LENGTH_MULTIPLIER(Cam camera, float p1);
 Native name labeled within its code
 ```
 
-## Parameters
+## 參數
 * **camera**: 
 * **p1**: 
 

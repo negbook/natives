@@ -9,6 +9,6 @@ aliases: ["GET_IS_MULTIPLAYER_BRIEF","0xE3433EADAAF7EE40"]
 void _SET_GAMEPLAY_HINT_ANIM_CLOSEUP(BOOL p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

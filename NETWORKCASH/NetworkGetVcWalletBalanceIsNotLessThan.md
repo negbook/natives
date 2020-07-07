@@ -14,6 +14,6 @@ Returns true if wallet balance >= amount.
 NativeDB Introduced: v323
 ```
 
-## Parameters
+## 參數
 * **amount**:
 * **characterSlot**:

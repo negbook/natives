@@ -13,6 +13,6 @@ void STOP_CURRENT_PLAYING_SPEECH(Ped ped);
 Stops speech.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 

@@ -10,5 +10,5 @@ BOOL IS_SRL_LOADED();
 
 Returns true when the srl from BeginSrl is loaded.
 
-## Return value
+## 返回值
 * A boolean once BeginSrl srl is loaded. 

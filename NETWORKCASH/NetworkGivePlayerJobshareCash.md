@@ -9,7 +9,7 @@ void NETWORK_GIVE_PLAYER_JOBSHARE_CASH(int amount, int* networkHandle);
 ```
 
 
-## Parameters
+## 參數
 * **amount**: 
 * **networkHandle**: 
 

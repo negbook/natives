@@ -25,4 +25,4 @@ mexican = 11
 chinesesimplified = 12
 ```
 
-## Return value
+## 返回值

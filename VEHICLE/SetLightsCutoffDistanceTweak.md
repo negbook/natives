@@ -9,6 +9,6 @@ aliases: ["0xBC3CCA5844452B06"]
 void SET_LIGHTS_CUTOFF_DISTANCE_TWEAK(float distance);
 ```
 
-## Parameters
+## 參數
 * **distance**: 
 

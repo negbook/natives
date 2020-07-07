@@ -18,7 +18,7 @@ Full list of speeches and voices names: gist.github.com/alexguirre/0af600eb3d4c9
 NativeDB Added Parameter 4: Any p3
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **speechName**: 
 * **speechParam**: 

@@ -10,7 +10,7 @@ BOOL _NETWORK_IS_ENTITY_CONCEALED(Entity entity);
 
 This only works with vehicles.
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

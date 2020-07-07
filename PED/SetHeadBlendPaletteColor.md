@@ -11,7 +11,7 @@ void SET_HEAD_BLEND_PALETTE_COLOR(Ped ped, int r, int g, int b, int id);
 
 Preview: https://gfycat.com/MaleRareAmazonparrot
 
-## Parameters
+## 參數
 * **ped**: 
 * **r**: 
 * **g**: 

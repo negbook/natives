@@ -12,8 +12,8 @@ Any SET_VEHICLE_IS_STOLEN(Vehicle vehicle, BOOL isStolen);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **isStolen**: 
 
-## Return value
+## 返回值

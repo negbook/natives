@@ -9,7 +9,7 @@ aliases: ["0x4A2D4E8BF4265B0F"]
 BOOL NETWORK_ENTITY_AREA_IS_OCCUPIED(int areaHandle);
 ```
 
-## Parameters
+## 參數
 * **areaHandle**: 
 
-## Return value
+## 返回值

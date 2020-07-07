@@ -10,7 +10,7 @@ void _SET_INTERIOR_ENTITY_SET_COLOR(int interior, char* entitySetName, int color
 ```
 
 
-## Parameters
+## 參數
 * **interior**: 
 * **entitySetName**: 
 * **color**: 

@@ -13,4 +13,4 @@ Any _NET_GAMESERVER_BASKET_IS_FULL();
 NativeDB Return Type: BOOL
 ```
 
-## Return value
+## 返回值

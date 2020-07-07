@@ -16,7 +16,7 @@ p0 appears to be for MP
 NativeDB Added Parameter 2: Any p1
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

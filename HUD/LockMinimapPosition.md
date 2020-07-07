@@ -12,7 +12,7 @@ void LOCK_MINIMAP_POSITION(float x, float y);
 Locks the minimap to the specified world position.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 

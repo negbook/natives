@@ -14,7 +14,7 @@ AUDIO::SET_STATIC_EMITTER_ENABLED((Any*)"LOS_SANTOS_VANILLA_UNICORN_01_STAGE", f
 This turns off surrounding sounds not connected directly to peds.  
 ```
 
-## Parameters
+## 參數
 * **emitterName**: 
 * **toggle**: 
 

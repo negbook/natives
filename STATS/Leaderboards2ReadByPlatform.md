@@ -13,9 +13,9 @@ BOOL _LEADERBOARDS2_READ_BY_PLATFORM(Any* p0, char* gamerHandleCsv, char* platfo
 LEADERBOARDS2_READ_BY_???  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **gamerHandleCsv**: 
 * **platformName**: 
 
-## Return value
+## 返回值

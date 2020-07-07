@@ -10,6 +10,6 @@ void GOLF_TRAIL_SET_FACING(BOOL p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

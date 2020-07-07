@@ -12,7 +12,7 @@ Any _0x1E77FA7A62EE6C4C(Any p0);
 GET_*
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

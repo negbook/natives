@@ -34,7 +34,7 @@ AI::TASK_GO_TO_COORD_AND_AIM_AT_HATED_ENTITIES_NEAR_COORD(pedHandle, goToLocatio
 2nd example: The ped will walk towards goToLocation2. This time, while walking towards goToLocation2 and aiming at focusLocation, the ped will point his weapon on sight to any enemy in his path without shooting. The ped will stop once he is closer than distanceToStopAt to goToLocation2.  
 ```
 
-## Parameters
+## 參數
 * **pedHandle**: 
 * **goToLocationX**: 
 * **goToLocationY**: 

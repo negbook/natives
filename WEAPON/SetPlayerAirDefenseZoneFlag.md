@@ -10,7 +10,7 @@ void _SET_PLAYER_AIR_DEFENSE_ZONE_FLAG(Player player, int zoneId, BOOL enable);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **zoneId**: 
 * **enable**: 

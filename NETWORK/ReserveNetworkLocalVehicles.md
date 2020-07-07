@@ -13,6 +13,6 @@ void _RESERVE_NETWORK_LOCAL_VEHICLES(int amount);
 Internal logging string: SCRIPT_RESERVING_LOCAL_VEHICLES
 ```
 
-## Parameters
+## 參數
 * **amount**: 
 

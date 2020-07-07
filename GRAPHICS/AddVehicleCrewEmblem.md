@@ -18,7 +18,7 @@ p13 is always 0.
 For alpha, 200 seems to match what the game is doing, I think. I don't have access to the new scripts to see what this parameter is, but based on guessing this seems (kind of) accurate.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **ped**: 
 * **boneIndex**: 
@@ -35,4 +35,4 @@ For alpha, 200 seems to match what the game is doing, I think. I don't have acce
 * **p13**: 
 * **alpha**: 
 
-## Return value
+## 返回值

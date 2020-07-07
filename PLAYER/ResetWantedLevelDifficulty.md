@@ -9,6 +9,6 @@ void RESET_WANTED_LEVEL_DIFFICULTY(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 

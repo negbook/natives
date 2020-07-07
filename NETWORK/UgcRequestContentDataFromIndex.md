@@ -10,8 +10,8 @@ int UGC_REQUEST_CONTENT_DATA_FROM_INDEX(int p0, int p1);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

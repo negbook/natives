@@ -19,6 +19,6 @@ return END_TEXT_COMMAND_IS_MESSAGE_DISPLAYED();
 	}  
 ```
 
-## Parameters
+## 參數
 * **text**: 
 

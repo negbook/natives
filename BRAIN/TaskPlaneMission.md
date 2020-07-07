@@ -56,7 +56,7 @@ pastebin.com/gx7Finsk
 NativeDB Added Parameter 14: Any p13
 ```
 
-## Parameters
+## 參數
 * **pilot**: 
 * **aircraft**: 
 * **targetVehicle**: 

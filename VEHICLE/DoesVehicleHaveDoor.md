@@ -9,8 +9,8 @@ BOOL _DOES_VEHICLE_HAVE_DOOR(Vehicle vehicle, int doorIndex);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **doorIndex**: 
 
-## Return value
+## 返回值

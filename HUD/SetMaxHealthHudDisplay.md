@@ -9,6 +9,6 @@ aliases: ["0x975D66A0BC17064C"]
 void SET_MAX_HEALTH_HUD_DISPLAY(int p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

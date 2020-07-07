@@ -9,7 +9,7 @@ aliases: ["0x9BA001CB45CBF627"]
 void DOOR_SYSTEM_SET_AUTOMATIC_DISTANCE(Hash doorHash, float heading, BOOL p2, BOOL p3);
 ```
 
-## Parameters
+## 參數
 * **doorHash**: 
 * **heading**: 
 * **p2**: 

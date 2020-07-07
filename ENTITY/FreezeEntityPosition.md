@@ -13,7 +13,7 @@ No, this should be called SET_ENTITY_KINEMATIC. It does more than just "freeze" 
 ^Rockstar Devs named it like that, Now cry about it.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **toggle**: 
 

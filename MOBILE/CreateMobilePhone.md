@@ -18,6 +18,6 @@ Possible phone types:
 These values represent bit flags, so a value of '3' would toggle Trevor and Franklin's phones together, causing unexpected behavior and most likely crash the game.  
 ```
 
-## Parameters
+## 參數
 * **phoneType**: 
 

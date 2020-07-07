@@ -17,8 +17,8 @@ lol
 that's a good meme right there.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 
-## Return value
+## 返回值

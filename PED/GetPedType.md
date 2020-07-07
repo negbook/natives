@@ -31,7 +31,7 @@ s_m_y_ranger_01 : 4 // Ranger
 s_m_y_uscg_01 : 6 // US Coast Guard  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

@@ -10,4 +10,4 @@ BOOL IS_WARNING_MESSAGE_ACTIVE();
 ```
 
 
-## Return value
+## 返回值

@@ -9,4 +9,4 @@ int GET_CUTSCENE_TOTAL_DURATION();
 ```
 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ aliases: ["0x2A8F319B392E7B3F"]
 void SET_TRAILER_INVERSE_MASS_SCALE(Vehicle vehicle, float p1);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

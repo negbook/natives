@@ -13,7 +13,7 @@ Takes a text label, gets the string (must not be longer than 600 chars, should n
 p0 must be true.  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **name**: 
 

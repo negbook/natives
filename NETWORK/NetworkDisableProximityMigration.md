@@ -9,6 +9,6 @@ aliases: ["0x407091CF6037118E"]
 void NETWORK_DISABLE_PROXIMITY_MIGRATION(int netID);
 ```
 
-## Parameters
+## 參數
 * **netID**: 
 

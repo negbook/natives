@@ -9,6 +9,6 @@ void SET_LOCAL_PLAYER_VISIBLE_LOCALLY(BOOL p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

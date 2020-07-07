@@ -10,7 +10,7 @@ void SET_BLIP_AS_SHORT_RANGE(Blip blip, BOOL toggle);
 
 Sets whether or not the specified blip should only be displayed when nearby, or on the minimap.
 
-## Parameters
+## 參數
 * **blip**: The blip handle.
 * **toggle**: True to only display the blip as 'short range', false to display the blip from a longer distance.
 

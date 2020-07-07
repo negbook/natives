@@ -13,6 +13,6 @@ void _SET_HAS_CONTENT_UNLOCKS_FLAGS(int value);
 Set profile setting 866  
 ```
 
-## Parameters
+## 參數
 * **value**: 
 

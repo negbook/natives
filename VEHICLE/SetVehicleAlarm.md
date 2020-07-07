@@ -9,7 +9,7 @@ void SET_VEHICLE_ALARM(Vehicle vehicle, BOOL state);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **state**: 
 

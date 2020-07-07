@@ -16,6 +16,6 @@ AI::DELETE_PATROL_ROUTE("miss_merc2");
 AI::DELETE_PATROL_ROUTE("miss_dock");  
 ```
 
-## Parameters
+## 參數
 * **patrolRoute**: 
 

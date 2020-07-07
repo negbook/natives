@@ -10,6 +10,6 @@ void SET_TEXT_PROPORTIONAL(BOOL p0);
 
 **This native does absolutely nothing, just a nullsub**
 
-## Parameters
+## 參數
 * **p0**: 
 

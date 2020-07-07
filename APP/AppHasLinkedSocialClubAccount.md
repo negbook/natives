@@ -9,4 +9,4 @@ BOOL APP_HAS_LINKED_SOCIAL_CLUB_ACCOUNT();
 ```
 
 
-## Return value
+## 返回值

@@ -12,7 +12,7 @@ void SPECIAL_ABILITY_CHARGE_MEDIUM(Player player, BOOL p1, BOOL p2);
 Only 1 match. Both p1 & p2 were true.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **p1**: 
 * **p2**: 

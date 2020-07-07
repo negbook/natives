@@ -13,7 +13,7 @@ void DRAW_SCALEFORM_MOVIE_3D(int scaleform, float posX, float posY, float posZ, 
 sharpness goes from 0.0 to 1.0  
 ```
 
-## Parameters
+## 參數
 * **scaleform**: 
 * **posX**: 
 * **posY**: 

@@ -13,6 +13,6 @@ Purpose of the BOOL currently unknown.
 Both, true and false, work  
 ```
 
-## Parameters
+## 參數
 * **unk**: 
 

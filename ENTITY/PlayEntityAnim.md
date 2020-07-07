@@ -15,7 +15,7 @@ The only time bitset has a value is 0x4000 and the only time delta has a value i
 
 [Animations list](https://alexguirre.github.io/animations-list/)
 
-## Parameters
+## 參數
 * **entity**: 
 * **animName**: 
 * **animDict**: 
@@ -26,4 +26,4 @@ The only time bitset has a value is 0x4000 and the only time delta has a value i
 * **delta**: 
 * **bitset**: 
 
-## Return value
+## 返回值

@@ -13,7 +13,7 @@ MulleKD19: Adds a new point to the current point route. Call TASK_FLUSH_ROUTE be
 A maximum of 8 points can be added.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

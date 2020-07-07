@@ -12,7 +12,7 @@ BOOL DOES_SCRIPT_EXIST(char* scriptName);
 For a full list, see here: pastebin.com/yLNWicUi  
 ```
 
-## Parameters
+## 參數
 * **scriptName**: 
 
-## Return value
+## 返回值

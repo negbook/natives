@@ -9,7 +9,7 @@ aliases: ["0x3B39236746714134"]
 int NETWORK_GET_PLAYER_TUTORIAL_SESSION_INSTANCE(Player player);
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

@@ -13,8 +13,8 @@ Any _SET_VEHICLE_DAMAGE_MODIFIER(Vehicle vehicle, float p1);
 SET_VEHICLE_D*
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 
-## Return value
+## 返回值

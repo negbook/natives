@@ -12,7 +12,7 @@ void SET_ENABLE_HANDCUFFS(Ped ped, BOOL toggle);
 ped can not pull out a weapon when true  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

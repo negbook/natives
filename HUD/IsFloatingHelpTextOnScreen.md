@@ -9,7 +9,7 @@ aliases: ["0x2432784ACA090DA4"]
 BOOL IS_FLOATING_HELP_TEXT_ON_SCREEN(int hudIndex);
 ```
 
-## Parameters
+## 參數
 * **hudIndex**: 
 
-## Return value
+## 返回值

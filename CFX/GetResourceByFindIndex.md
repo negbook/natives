@@ -9,7 +9,7 @@ char* GET_RESOURCE_BY_FIND_INDEX(int findIndex);
 ```
 
 
-## Parameters
+## 參數
 * **findIndex**: 
 
-## Return value
+## 返回值

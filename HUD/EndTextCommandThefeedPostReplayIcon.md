@@ -17,9 +17,9 @@ example:
 UI::_0xD202B92CBF1D816F(1, 20, "Who you trynna get crazy with, ese? Don't you know I'm LOCO?!");  
 ```
 
-## Parameters
+## 參數
 * **eType**: 
 * **iIcon**: 
 * **sTitle**: 
 
-## Return value
+## 返回值

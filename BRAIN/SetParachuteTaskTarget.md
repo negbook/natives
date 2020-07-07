@@ -9,7 +9,7 @@ void SET_PARACHUTE_TASK_TARGET(Ped ped, float x, float y, float z);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **x**: 
 * **y**: 

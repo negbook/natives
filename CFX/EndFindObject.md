@@ -9,6 +9,6 @@ void END_FIND_OBJECT(int findHandle);
 ```
 
 
-## Parameters
+## 參數
 * **findHandle**: 
 

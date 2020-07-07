@@ -13,6 +13,6 @@ Detaches the vehicle's windscreen.
 For further information, see : gtaforums.com/topic/859570-glass/#entry1068894566  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 

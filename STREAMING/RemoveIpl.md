@@ -12,6 +12,6 @@ void REMOVE_IPL(char* iplName);
 IPL list: pastebin.com/iNGLY32D  
 ```
 
-## Parameters
+## 參數
 * **iplName**: 
 

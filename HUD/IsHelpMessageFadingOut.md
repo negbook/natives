@@ -9,4 +9,4 @@ BOOL IS_HELP_MESSAGE_FADING_OUT();
 ```
 
 
-## Return value
+## 返回值

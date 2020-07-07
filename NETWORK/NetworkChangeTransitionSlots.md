@@ -10,7 +10,7 @@ void NETWORK_CHANGE_TRANSITION_SLOTS(Any p0, Any p1);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

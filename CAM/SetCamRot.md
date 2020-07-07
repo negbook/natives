@@ -14,7 +14,7 @@ Last parameter unknown.
 Last parameter seems to always be set to 2.  
 ```
 
-## Parameters
+## 參數
 * **cam**: 
 * **rotX**: 
 * **rotY**: 

@@ -9,4 +9,4 @@ BOOL GET_IS_LOADING_SCREEN_ACTIVE();
 ```
 
 
-## Return value
+## 返回值

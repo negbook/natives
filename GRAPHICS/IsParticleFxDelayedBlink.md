@@ -9,4 +9,4 @@ float IS_PARTICLE_FX_DELAYED_BLINK();
 ```
 
 
-## Return value
+## 返回值

@@ -12,7 +12,7 @@ int GET_PLAYER_GROUP(Player player);
 Returns the group ID the player is member of.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

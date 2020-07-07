@@ -12,8 +12,8 @@ Any SET_TRAIN_SPEED(Vehicle train, float speed);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **train**: 
 * **speed**: 
 
-## Return value
+## 返回值

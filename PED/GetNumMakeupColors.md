@@ -10,4 +10,4 @@ int _GET_NUM_MAKEUP_COLORS();
 ```
 
 
-## Return value
+## 返回值

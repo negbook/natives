@@ -13,8 +13,8 @@ Hash GET_PED_AMMO_TYPE_FROM_WEAPON(Ped ped, Hash weaponHash);
 Returns an ammo type hash, which is defined in AmmoInfo.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 
-## Return value
+## 返回值

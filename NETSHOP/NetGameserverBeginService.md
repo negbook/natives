@@ -23,7 +23,7 @@ Only difference I noticed.
 NativeDB Parameter 3: Hash actionTypeHash
 ```
 
-## Parameters
+## 參數
 * **transactionId**: 
 * **categoryHash**: 
 * **itemHash**: 
@@ -31,4 +31,4 @@ NativeDB Parameter 3: Hash actionTypeHash
 * **value**: 
 * **flags**: 
 
-## Return value
+## 返回值

@@ -14,8 +14,8 @@ Returns the coordinates of another player.
 Does not work if you enter your own player id as p0 (will return `(0.0, 0.0, 0.0)` in that case).
 
 
-## Parameters
+## 參數
 * **player**: The player id, MUST be another player.
 
-## Return value
+## 返回值
 A Vector3 containing the coordinates of another player.

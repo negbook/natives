@@ -13,7 +13,7 @@ Displays the current ROLL axis of the entity [-180.0000/180.0000+]
 (Sideways Roll) such as a vehicle tipped on its side  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

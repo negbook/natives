@@ -9,7 +9,7 @@ BOOL DOES_PICKUP_EXIST(Pickup pickup);
 ```
 
 
-## Parameters
+## 參數
 * **pickup**: 
 
-## Return value
+## 返回值

@@ -14,7 +14,7 @@ From decompiled scripts: 0.0, 0.6, 0.65, 0.8, 1.0
 You are correct, just looked in IDA it breaks from the function if it's less than 0.0f or greater than 1.0f.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **value**: 
 

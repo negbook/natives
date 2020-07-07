@@ -23,7 +23,7 @@ SKY_DIVING_SHAKE
 VIBRATE_SHAKE  
 ```
 
-## Parameters
+## 參數
 * **shakeName**: 
 * **intensity**: 
 

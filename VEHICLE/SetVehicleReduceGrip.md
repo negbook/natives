@@ -12,7 +12,7 @@ void SET_VEHICLE_REDUCE_GRIP(Vehicle vehicle, BOOL toggle);
 Reduces grip significantly so it's hard to go anywhere.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

@@ -10,11 +10,11 @@ BOOL _IS_AIR_DEFENSE_ZONE_INSIDE_SPHERE(float x, float y, float z, float radius,
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 * **radius**: 
 * **zoneId**: 
 
-## Return value
+## 返回值

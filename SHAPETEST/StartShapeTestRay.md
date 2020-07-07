@@ -28,7 +28,7 @@ Flags:
 NOTE: Raycasts that intersect with mission_entites (flag = 2) has limited range and will not register for far away entites. The range seems to be about 30 metres.  
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 
@@ -39,4 +39,4 @@ NOTE: Raycasts that intersect with mission_entites (flag = 2) has limited range 
 * **entity**: 
 * **p8**: 
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ void _SET_GAMEPLAY_CAM_RAW_PITCH(float pitch);
 ```
 
 
-## Parameters
+## 參數
 * **pitch**: 
 

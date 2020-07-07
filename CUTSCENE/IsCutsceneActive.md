@@ -9,4 +9,4 @@ BOOL IS_CUTSCENE_ACTIVE();
 ```
 
 
-## Return value
+## 返回值

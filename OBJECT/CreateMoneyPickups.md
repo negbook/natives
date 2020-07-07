@@ -23,7 +23,7 @@ Spawns 3 spray cans that'll collectively give $1000 when picked up. (Three spray
 Max is 2000 in MP. So if you put the amount to 20, but the value to $400,000 eg. They will only be able to pickup 20 - $2,000 bags. So, $40,000  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

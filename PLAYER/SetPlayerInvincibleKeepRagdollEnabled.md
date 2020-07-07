@@ -10,7 +10,7 @@ void _SET_PLAYER_INVINCIBLE_KEEP_RAGDOLL_ENABLED(Player player, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 

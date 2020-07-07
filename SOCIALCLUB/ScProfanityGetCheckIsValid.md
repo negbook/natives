@@ -13,7 +13,7 @@ BOOL SC_PROFANITY_GET_CHECK_IS_VALID(int token);
 Returns whether or not a task started with _SC_START_CHECK_STRING_TASK has completed.  
 ```
 
-## Parameters
+## 參數
 * **token**: 
 
-## Return value
+## 返回值

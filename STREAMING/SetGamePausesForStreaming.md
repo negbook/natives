@@ -9,6 +9,6 @@ void SET_GAME_PAUSES_FOR_STREAMING(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

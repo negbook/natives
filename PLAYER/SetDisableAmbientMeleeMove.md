@@ -9,7 +9,7 @@ void SET_DISABLE_AMBIENT_MELEE_MOVE(Player player, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 

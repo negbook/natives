@@ -12,9 +12,9 @@ Any REQUEST_COLLISION_AT_COORD(float x, float y, float z);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 
-## Return value
+## 返回值

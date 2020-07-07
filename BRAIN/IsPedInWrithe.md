@@ -12,7 +12,7 @@ BOOL IS_PED_IN_WRITHE(Ped ped);
 returns true is the ped is on the ground whining like a little female dog from a gunshot wound  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

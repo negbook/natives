@@ -12,7 +12,7 @@ void SET_FLASH(float p0, float p1, float fadeIn, float duration, float fadeOut);
 Purpose of p0 and p1 unknown.  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **fadeIn**: 

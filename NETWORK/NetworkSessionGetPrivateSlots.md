@@ -10,4 +10,4 @@ int NETWORK_SESSION_GET_PRIVATE_SLOTS();
 ```
 
 
-## Return value
+## 返回值

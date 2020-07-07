@@ -9,6 +9,6 @@ void VEHICLE_WAYPOINT_PLAYBACK_RESUME(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 

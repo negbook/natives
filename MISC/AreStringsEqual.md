@@ -12,8 +12,8 @@ BOOL ARE_STRINGS_EQUAL(char* string1, char* string2);
 is this like strcmp??  
 ```
 
-## Parameters
+## 參數
 * **string1**: 
 * **string2**: 
 
-## Return value
+## 返回值

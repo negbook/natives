@@ -10,7 +10,7 @@ void SET_VEHICLE_AUDIO_ENGINE_DAMAGE_FACTOR(Vehicle vehicle, float damageFactor)
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **damageFactor**: 
 

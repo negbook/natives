@@ -13,6 +13,6 @@ void SET_DISTANT_CARS_ENABLED(BOOL toggle);
 Toggles to render distant vehicles. They may not be vehicles but images to look like vehicles.  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

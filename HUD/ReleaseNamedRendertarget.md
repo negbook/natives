@@ -9,7 +9,7 @@ BOOL RELEASE_NAMED_RENDERTARGET(char* name);
 ```
 
 
-## Parameters
+## 參數
 * **name**: 
 
-## Return value
+## 返回值

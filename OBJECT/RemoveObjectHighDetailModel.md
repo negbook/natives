@@ -9,6 +9,6 @@ aliases: ["0x4A39DB43E47CF3AA"]
 void REMOVE_OBJECT_HIGH_DETAIL_MODEL(Any p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

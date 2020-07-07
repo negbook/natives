@@ -12,6 +12,6 @@ void NETWORK_SESSION_KICK_PLAYER(Player player);
 Only works when you are host.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 

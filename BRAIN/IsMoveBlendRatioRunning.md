@@ -9,7 +9,7 @@ BOOL IS_MOVE_BLEND_RATIO_RUNNING(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

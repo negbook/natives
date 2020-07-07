@@ -9,7 +9,7 @@ BOOL NETWORK_REQUEST_CONTROL_OF_NETWORK_ID(int netId);
 ```
 
 
-## Parameters
+## 參數
 * **netId**: 
 
-## Return value
+## 返回值

@@ -13,7 +13,7 @@ void START_SAVE_ARRAY_WITH_SIZE(Any* p0, int size, char* arrayName);
 Second parameter might be length.  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **size**: 
 * **arrayName**: 

@@ -29,6 +29,6 @@ public enum CursorType
 }  
 ```
 
-## Parameters
+## 參數
 * **spriteId**: 
 

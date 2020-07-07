@@ -16,7 +16,7 @@ BOOL isInvisible = If the explosion is invisible or not.
 First BOOL does not give any visual explosion, the vehicle just falls apart completely but slowly and starts to burn.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **isAudible**: 
 * **isInvisible**: 

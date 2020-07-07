@@ -9,7 +9,7 @@ BOOL NETWORK_CLAN_JOIN(int clanDesc);
 ```
 
 
-## Parameters
+## 參數
 * **clanDesc**: 
 
-## Return value
+## 返回值

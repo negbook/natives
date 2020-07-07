@@ -12,6 +12,6 @@ void SET_SCRIPT_AS_NO_LONGER_NEEDED(char* scriptName);
 For a full list, see here: pastebin.com/yLNWicUi  
 ```
 
-## Parameters
+## 參數
 * **scriptName**: 
 

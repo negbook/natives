@@ -9,7 +9,7 @@ void SET_PARTICLE_FX_LOOPED_ALPHA(int ptfxHandle, float alpha);
 ```
 
 
-## Parameters
+## 參數
 * **ptfxHandle**: 
 * **alpha**: 
 

@@ -13,4 +13,4 @@ int END_SCALEFORM_MOVIE_METHOD_RETURN_VALUE();
 Pops and calls the Scaleform movie on the stack. Returns data from the function (not sure if this is a string).  
 ```
 
-## Return value
+## 返回值

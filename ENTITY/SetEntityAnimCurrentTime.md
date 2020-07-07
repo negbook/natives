@@ -10,7 +10,7 @@ void SET_ENTITY_ANIM_CURRENT_TIME(Entity entity, char* animDictionary, char* ani
 
 [Animations list](https://alexguirre.github.io/animations-list/)
 
-## Parameters
+## 參數
 * **entity**: 
 * **animDictionary**: 
 * **animName**: 

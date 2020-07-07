@@ -10,7 +10,7 @@ void SET_PED_ALTERNATE_WALK_ANIM(Ped ped, char* animDict, char* animName, float 
 
 [Animations list](https://alexguirre.github.io/animations-list/)
 
-## Parameters
+## 參數
 * **ped**: 
 * **animDict**: 
 * **animName**: 

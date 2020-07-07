@@ -9,6 +9,6 @@ void SPECIAL_ABILITY_DEACTIVATE_FAST(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 

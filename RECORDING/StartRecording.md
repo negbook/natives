@@ -16,6 +16,6 @@ If mode is 1, starts recording.
 If already recording a replay, does nothing.  
 ```
 
-## Parameters
+## 參數
 * **mode**: 
 

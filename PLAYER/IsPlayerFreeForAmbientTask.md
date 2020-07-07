@@ -9,7 +9,7 @@ BOOL IS_PLAYER_FREE_FOR_AMBIENT_TASK(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

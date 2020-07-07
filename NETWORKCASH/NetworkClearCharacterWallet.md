@@ -10,6 +10,6 @@ void NETWORK_CLEAR_CHARACTER_WALLET(int characterSlot);
 ```
 
 
-## Parameters
+## 參數
 * **characterSlot**: 
 

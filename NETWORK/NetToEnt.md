@@ -12,7 +12,7 @@ Entity NET_TO_ENT(int netHandle);
 gets the entity id of a network id  
 ```
 
-## Parameters
+## 參數
 * **netHandle**: 
 
-## Return value
+## 返回值

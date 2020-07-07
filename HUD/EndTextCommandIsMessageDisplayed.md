@@ -10,4 +10,4 @@ BOOL END_TEXT_COMMAND_IS_MESSAGE_DISPLAYED();
 ```
 
 
-## Return value
+## 返回值

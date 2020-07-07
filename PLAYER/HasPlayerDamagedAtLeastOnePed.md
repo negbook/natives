@@ -9,7 +9,7 @@ BOOL HAS_PLAYER_DAMAGED_AT_LEAST_ONE_PED(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

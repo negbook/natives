@@ -16,7 +16,7 @@ NETWORK_JOIN_TRANSITION(uVar2);
 		nothing doin.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

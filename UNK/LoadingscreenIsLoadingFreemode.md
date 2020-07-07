@@ -10,4 +10,4 @@ BOOL _LOADINGSCREEN_IS_LOADING_FREEMODE();
 ```
 
 
-## Return value
+## 返回值

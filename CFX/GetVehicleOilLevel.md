@@ -9,7 +9,7 @@ float GET_VEHICLE_OIL_LEVEL(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

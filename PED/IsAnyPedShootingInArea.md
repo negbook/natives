@@ -9,7 +9,7 @@ BOOL IS_ANY_PED_SHOOTING_IN_AREA(float x1, float y1, float z1, float x2, float y
 ```
 
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 
@@ -19,4 +19,4 @@ BOOL IS_ANY_PED_SHOOTING_IN_AREA(float x1, float y1, float z1, float x2, float y
 * **p6**: 
 * **p7**: 
 
-## Return value
+## 返回值

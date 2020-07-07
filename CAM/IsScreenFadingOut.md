@@ -9,4 +9,4 @@ BOOL IS_SCREEN_FADING_OUT();
 ```
 
 
-## Return value
+## 返回值

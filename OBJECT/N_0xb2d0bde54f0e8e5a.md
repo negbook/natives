@@ -9,7 +9,7 @@ void _0xB2D0BDE54F0E8E5A(Object object, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **object**: 
 * **toggle**: 
 

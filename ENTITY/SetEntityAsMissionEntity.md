@@ -16,7 +16,7 @@ p2 has no effect when either its on or off
 maybe a quick disassembly will tell us what it does  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **p1**: 
 * **p2**: 

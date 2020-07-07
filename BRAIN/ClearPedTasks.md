@@ -9,6 +9,6 @@ void CLEAR_PED_TASKS(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 

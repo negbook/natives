@@ -9,7 +9,7 @@ void _NETWORK_CONCEAL_ENTITY(Entity entity, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **toggle**: 
 

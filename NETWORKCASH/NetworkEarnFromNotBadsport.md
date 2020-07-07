@@ -14,6 +14,6 @@ Enough007: Adds an entry in the Network Transaction Log.
 Max value for amount 2000  
 ```
 
-## Parameters
+## 參數
 * **amount**: 
 

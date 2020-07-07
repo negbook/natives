@@ -10,7 +10,7 @@ BOOL NETWORK_ARE_TRANSITION_DETAILS_VALID(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

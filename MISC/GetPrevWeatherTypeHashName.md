@@ -13,4 +13,4 @@ Hash GET_PREV_WEATHER_TYPE_HASH_NAME();
 Returns current weather name hash  
 ```
 
-## Return value
+## 返回值

@@ -12,7 +12,7 @@ Blip GET_FIRST_BLIP_INFO_ID(int blipSprite);
 8 = waypoint  
 ```
 
-## Parameters
+## 參數
 * **blipSprite**: 
 
-## Return value
+## 返回值

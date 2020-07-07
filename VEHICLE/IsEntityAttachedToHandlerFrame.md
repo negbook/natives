@@ -9,8 +9,8 @@ aliases: ["SET_PED_ENABLED_BIKE_RINGTONE","_IS_VEHICLE_NEAR_ENTITY"]
 BOOL IS_ENTITY_ATTACHED_TO_HANDLER_FRAME(Vehicle vehicle, Entity entity);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **entity**: 
 
-## Return value
+## 返回值

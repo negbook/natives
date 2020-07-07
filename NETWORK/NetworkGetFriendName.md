@@ -9,7 +9,7 @@ char* NETWORK_GET_FRIEND_NAME(int friendIndex);
 ```
 
 
-## Parameters
+## 參數
 * **friendIndex**: 
 
-## Return value
+## 返回值

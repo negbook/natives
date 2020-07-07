@@ -18,10 +18,10 @@ Entity's coords are: x=30, y=1000, z=60.
 All three returned coords will then be in range of [-20,20] depending on rotation of the entity.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **posX**: 
 * **posY**: 
 * **posZ**: 
 
-## Return value
+## 返回值

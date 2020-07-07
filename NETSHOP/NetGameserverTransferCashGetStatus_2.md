@@ -13,4 +13,4 @@ int _NET_GAMESERVER_TRANSFER_CASH_GET_STATUS_2();
 Same as 0x23789E777D14CE44
 ```
 
-## Return value
+## 返回值

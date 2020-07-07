@@ -10,7 +10,7 @@ BOOL GET_TENNIS_SWING_ANIM_COMPLETE(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

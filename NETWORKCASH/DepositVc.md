@@ -13,7 +13,7 @@ BOOL DEPOSIT_VC(int amount);
 Does nothing and always returns false.
 ```
 
-## Parameters
+## 參數
 * **amount**: 
 
-## Return value
+## 返回值

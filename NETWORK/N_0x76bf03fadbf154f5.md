@@ -9,4 +9,4 @@ Any _0x76BF03FADBF154F5();
 ```
 
 
-## Return value
+## 返回值

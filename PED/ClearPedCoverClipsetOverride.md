@@ -13,6 +13,6 @@ void _CLEAR_PED_COVER_CLIPSET_OVERRIDE(Ped ped);
 CLEAR_PED_*
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 

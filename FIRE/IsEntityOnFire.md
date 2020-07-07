@@ -9,7 +9,7 @@ BOOL IS_ENTITY_ON_FIRE(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

@@ -19,7 +19,7 @@ p1 = Hash of Menu
 p2 = Unknown but always works with -1.  
 ```
 
-## Parameters
+## 參數
 * **menuHash**: 
 * **p1**: 
 

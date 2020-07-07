@@ -10,7 +10,7 @@ void _SET_MP_GAMER_TAG_UNK(int gamerTagId, int p1);
 ```
 
 
-## Parameters
+## 參數
 * **gamerTagId**: 
 * **p1**: 
 

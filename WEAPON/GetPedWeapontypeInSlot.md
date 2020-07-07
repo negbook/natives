@@ -9,8 +9,8 @@ Hash GET_PED_WEAPONTYPE_IN_SLOT(Ped ped, Hash weaponSlot);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponSlot**: 
 
-## Return value
+## 返回值

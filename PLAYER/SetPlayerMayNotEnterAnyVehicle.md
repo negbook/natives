@@ -9,6 +9,6 @@ void SET_PLAYER_MAY_NOT_ENTER_ANY_VEHICLE(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 

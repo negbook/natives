@@ -18,7 +18,7 @@ mov dword ptr [rax], 2
 Заебись функционал  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

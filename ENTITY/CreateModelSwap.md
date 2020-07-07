@@ -13,7 +13,7 @@ Only works with objects!
 Network players do not see changes done with this.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

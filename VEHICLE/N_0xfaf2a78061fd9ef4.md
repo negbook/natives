@@ -9,7 +9,7 @@ void _0xFAF2A78061FD9EF4(Any p0, float p1, float p2, float p3);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

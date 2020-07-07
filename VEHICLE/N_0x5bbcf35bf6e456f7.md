@@ -12,5 +12,5 @@ void _0x5BBCF35BF6E456F7(BOOL toggle);
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **toggle**:

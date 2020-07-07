@@ -9,6 +9,6 @@ void STOP_AUDIO_SCENE(char* scene);
 ```
 
 
-## Parameters
+## 參數
 * **scene**: 
 

@@ -9,4 +9,4 @@ BOOL CAN_CREATE_RANDOM_COPS();
 ```
 
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ void NETWORK_BLOCK_INVITES(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

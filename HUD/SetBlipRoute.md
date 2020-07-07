@@ -12,7 +12,7 @@ void SET_BLIP_ROUTE(Blip blip, BOOL enabled);
 Enable / disable showing route for the Blip-object.  
 ```
 
-## Parameters
+## 參數
 * **blip**: 
 * **enabled**: 
 

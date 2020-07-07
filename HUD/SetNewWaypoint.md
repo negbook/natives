@@ -9,7 +9,7 @@ void SET_NEW_WAYPOINT(float x, float y);
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 

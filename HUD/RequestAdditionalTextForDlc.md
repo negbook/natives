@@ -10,7 +10,7 @@ void REQUEST_ADDITIONAL_TEXT_FOR_DLC(char* gxt, int slot);
 ```
 
 
-## Parameters
+## 參數
 * **gxt**: 
 * **slot**: 
 

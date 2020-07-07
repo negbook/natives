@@ -14,7 +14,7 @@ SET_VEHICLE_BOOST_ACTIVE(vehicle, 0, 0);
 Will give a boost-soundeffect.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

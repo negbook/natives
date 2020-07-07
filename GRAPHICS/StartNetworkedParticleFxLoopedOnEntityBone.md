@@ -20,7 +20,7 @@ NativeDB Added Parameter 16: Any p15
 NativeDB Added Parameter 17: Any p16
 ```
 
-## Parameters
+## 參數
 * **effectName**: 
 * **entity**: 
 * **xOffset**: 
@@ -35,4 +35,4 @@ NativeDB Added Parameter 17: Any p16
 * **yAxis**: 
 * **zAxis**: 
 
-## Return value
+## 返回值

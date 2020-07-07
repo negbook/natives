@@ -9,8 +9,8 @@ int GET_PED_WEAPON_TINT_INDEX(Ped ped, Hash weaponHash);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 
-## Return value
+## 返回值

@@ -21,7 +21,7 @@ p5, p6 and p7 are for example set to: 1599.0406494140625, 2713.392578125, 44.430
 p8 is an int, often random set to for example: GAMEPLAY::GET_RANDOM_INT_IN_RANGE(5000, 10000).  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **x1**: 

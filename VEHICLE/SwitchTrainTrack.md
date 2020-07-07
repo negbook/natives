@@ -12,8 +12,8 @@ Any SWITCH_TRAIN_TRACK(int intersectionId, BOOL state);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **intersectionId**: 
 * **state**: 
 
-## Return value
+## 返回值

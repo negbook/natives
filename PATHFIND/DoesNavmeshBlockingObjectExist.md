@@ -10,7 +10,7 @@ BOOL DOES_NAVMESH_BLOCKING_OBJECT_EXIST(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

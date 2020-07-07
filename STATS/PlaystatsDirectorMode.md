@@ -10,6 +10,6 @@ void _PLAYSTATS_DIRECTOR_MODE(Any* p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

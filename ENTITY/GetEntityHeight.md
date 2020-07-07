@@ -9,7 +9,7 @@ float GET_ENTITY_HEIGHT(Entity entity, float X, float Y, float Z, BOOL atTop, BO
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **X**: 
 * **Y**: 
@@ -17,4 +17,4 @@ float GET_ENTITY_HEIGHT(Entity entity, float X, float Y, float Z, BOOL atTop, BO
 * **atTop**: 
 * **inWorldCoords**: 
 
-## Return value
+## 返回值

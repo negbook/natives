@@ -23,10 +23,10 @@ if interiorId ~= 0 then
 end
 ```
 
-## Parameters
+## 參數
 * **interiorId**: The target interior.
 * **portalIndex**: Interior portal index.
 * **cornerIndex**: Portal's corner index.
 
-## Return value
+## 返回值
 Portal corner position.

@@ -12,7 +12,7 @@ int GET_NTH_CLOSEST_VEHICLE_NODE_ID(float x, float y, float z, int nth, int node
 Returns the id.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -21,4 +21,4 @@ Returns the id.
 * **p5**: 
 * **p6**: 
 
-## Return value
+## 返回值

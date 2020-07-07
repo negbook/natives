@@ -14,7 +14,7 @@ Tested with vehicles, returns true whenever the vehicle is touching any entity.
 Note: for vehicles, the wheels can touch the ground and it will still return false, but if the body of the vehicle touches the ground, it will return true.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ BOOL GET_NTH_CLOSEST_VEHICLE_NODE(float x, float y, float z, int nthClosest, Vec
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -19,4 +19,4 @@ BOOL GET_NTH_CLOSEST_VEHICLE_NODE(float x, float y, float z, int nthClosest, Vec
 * **unknown2**: 
 * **unknown3**: 
 
-## Return value
+## 返回值

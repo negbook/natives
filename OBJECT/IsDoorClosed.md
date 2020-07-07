@@ -9,7 +9,7 @@ BOOL IS_DOOR_CLOSED(Hash doorHash);
 ```
 
 
-## Parameters
+## 參數
 * **doorHash**: 
 
-## Return value
+## 返回值

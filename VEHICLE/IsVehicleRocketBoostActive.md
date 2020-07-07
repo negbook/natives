@@ -9,7 +9,7 @@ BOOL _IS_VEHICLE_ROCKET_BOOST_ACTIVE(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

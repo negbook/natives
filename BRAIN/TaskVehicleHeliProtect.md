@@ -18,7 +18,7 @@ NOT CONFIRMED:  p7 appears to be a FlyingStyle enum.  Still investigating it as 
 NOTE: If the pilot finds enemies, it will engage them until it kills them, but will return to protect the ped/vehicle given shortly thereafter.  
 ```
 
-## Parameters
+## 參數
 * **pilot**: 
 * **vehicle**: 
 * **entityToFollow**: 

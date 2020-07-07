@@ -9,6 +9,6 @@ void DESTROY_TRACKED_POINT(int point);
 ```
 
 
-## Parameters
+## 參數
 * **point**: 
 

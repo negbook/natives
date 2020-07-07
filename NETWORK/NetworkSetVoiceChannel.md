@@ -9,6 +9,6 @@ void NETWORK_SET_VOICE_CHANNEL(int channel);
 ```
 
 
-## Parameters
+## 參數
 * **channel**: 
 

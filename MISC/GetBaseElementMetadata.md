@@ -14,10 +14,10 @@ This line found 48 times in the scripts:
 GAMEPLAY::_B335F761606DB47C(&v_4, &v_7, a_0, v_A);  
 ```
 
-## Parameters
+## 參數
 * **p1**: 
 * **p2**: 
 * **p3**: 
 * **p4**: 
 
-## Return value
+## 返回值

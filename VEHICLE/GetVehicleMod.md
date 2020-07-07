@@ -13,8 +13,8 @@ In b944, there are 50 (0 - 49) mod types.
 Returns -1 if the vehicle mod is stock  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **modType**: 
 
-## Return value
+## 返回值

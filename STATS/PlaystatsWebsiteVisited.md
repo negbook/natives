@@ -10,7 +10,7 @@ void PLAYSTATS_WEBSITE_VISITED(Hash scaleformHash, int p1);
 ```
 
 
-## Parameters
+## 參數
 * **scaleformHash**: 
 * **p1**: 
 

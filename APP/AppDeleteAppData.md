@@ -9,7 +9,7 @@ BOOL APP_DELETE_APP_DATA(char* appName);
 ```
 
 
-## Parameters
+## 參數
 * **appName**: 
 
-## Return value
+## 返回值

@@ -17,7 +17,7 @@ I marked p6 as distanceToShoot as if you think of GTA's Logic with the native SE
 I marked p7 as pedAccuracy as it seems it's mostly 100 (Completely Accurate), 75, 90, etc. Although this could be the ammo count within the gun, but I highly doubt it. I will change this comment once I find out if it's ammo count or not.  
 ```
 
-## Parameters
+## 參數
 * **driverPed**: 
 * **targetPed**: 
 * **targetVehicle**: 

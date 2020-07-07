@@ -9,4 +9,4 @@ BOOL NETWORK_IS_ACTIVITY_SESSION();
 ```
 
 
-## Return value
+## 返回值

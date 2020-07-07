@@ -10,7 +10,7 @@ void SET_FLY_CAM_HORIZONTAL_RESPONSE(Cam cam, float p1, float p2, float p3);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **p1**: 
 * **p2**: 

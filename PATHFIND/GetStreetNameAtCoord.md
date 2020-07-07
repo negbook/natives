@@ -16,7 +16,7 @@ crossingRoad - if the coordinates are on an intersection, a hash to the name of 
 Note: the names are returned as hashes, the strings can be returned using the function UI::GET_STREET_NAME_FROM_HASH_KEY.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

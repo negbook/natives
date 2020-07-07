@@ -9,7 +9,7 @@ void TASK_COMBAT_PED_TIMED(Any p0, Ped ped, int p2, Any p3);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **ped**: 
 * **p2**: 

@@ -16,6 +16,6 @@ Sets the type of Player camera in vehicles:
 4 - First Person  
 ```
 
-## Parameters
+## 參數
 * **viewMode**: 
 

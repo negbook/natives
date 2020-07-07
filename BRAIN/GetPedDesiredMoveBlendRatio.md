@@ -9,7 +9,7 @@ float GET_PED_DESIRED_MOVE_BLEND_RATIO(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

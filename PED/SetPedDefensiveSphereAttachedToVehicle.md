@@ -10,7 +10,7 @@ void SET_PED_DEFENSIVE_SPHERE_ATTACHED_TO_VEHICLE(Ped ped, Vehicle target, float
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **target**: 
 * **xOffset**: 

@@ -14,4 +14,4 @@ Dr. Underscore (1/6/18):
 It does return bool.  
 ```
 
-## Return value
+## 返回值

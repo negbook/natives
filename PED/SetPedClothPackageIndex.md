@@ -9,7 +9,7 @@ aliases: ["0x78C4E9961DB3EB5B"]
 void SET_PED_CLOTH_PACKAGE_INDEX(Ped ped, int p1);
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 

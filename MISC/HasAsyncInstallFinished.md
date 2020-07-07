@@ -13,4 +13,4 @@ BOOL _HAS_ASYNC_INSTALL_FINISHED();
 Hardcoded to always return true.
 ```
 
-## Return value
+## 返回值

@@ -12,8 +12,8 @@ BOOL GET_PED_LAST_DAMAGE_BONE(Ped ped, int* outBone);
 Pretty sure outBone is an int.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **outBone**: 
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ void SET_DISPATCH_IDEAL_SPAWN_DISTANCE(float p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

@@ -9,7 +9,7 @@ void SET_PARACHUTE_TASK_THRUST(Ped ped, float thrust);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **thrust**: 
 

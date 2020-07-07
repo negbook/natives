@@ -10,4 +10,4 @@ BOOL NETWORK_IS_CLOCK_TIME_OVERRIDDEN();
 ```
 
 
-## Return value
+## 返回值

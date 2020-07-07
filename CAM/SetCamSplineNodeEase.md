@@ -10,7 +10,7 @@ void SET_CAM_SPLINE_NODE_EASE(Cam cam, int p1, int p2, float p3);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **p1**: 
 * **p2**: 

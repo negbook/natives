@@ -9,6 +9,6 @@ aliases: ["0x113E6E3E50E286B0"]
 void NETWORK_CLAN_RELEASE_EMBLEM(Any p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

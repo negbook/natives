@@ -9,7 +9,7 @@ BOOL DOES_SCRIPT_VEHICLE_GENERATOR_EXIST(int vehicleGenerator);
 ```
 
 
-## Parameters
+## 參數
 * **vehicleGenerator**: 
 
-## Return value
+## 返回值

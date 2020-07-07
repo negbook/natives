@@ -23,7 +23,7 @@ NativeDB Parameter 2: BOOL y
 NativeDB Parameter 3: BOOL z
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **position**: 
 * **y**: 

@@ -9,7 +9,7 @@ void TASK_SHOCKING_EVENT_REACT(Ped ped, int eventHandle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **eventHandle**: 
 

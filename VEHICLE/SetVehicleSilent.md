@@ -13,7 +13,7 @@ void _SET_VEHICLE_SILENT(Vehicle vehicle, BOOL toggle);
 If set to TRUE, it seems to suppress door noises and doesn't allow the horn to be continuous.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

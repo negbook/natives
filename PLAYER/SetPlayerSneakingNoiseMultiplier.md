@@ -12,7 +12,7 @@ void SET_PLAYER_SNEAKING_NOISE_MULTIPLIER(Player player, float multiplier);
 Values around 1.0f to 2.0f used in game scripts.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **multiplier**: 
 

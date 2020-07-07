@@ -9,7 +9,7 @@ Hash GET_WEAPON_COMPONENT_TYPE_MODEL(Hash componentHash);
 ```
 
 
-## Parameters
+## 參數
 * **componentHash**: 
 
-## Return value
+## 返回值

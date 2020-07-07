@@ -9,7 +9,7 @@ BOOL IS_CAM_SPLINE_PAUSED(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

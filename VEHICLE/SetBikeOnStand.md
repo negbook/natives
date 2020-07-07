@@ -17,7 +17,7 @@ Example with X -1/Y 1
 http://i.imgur.com/TgIuAPJ.jpg
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **x**: 
 * **y**: 

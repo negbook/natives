@@ -9,6 +9,6 @@ void SET_TEXT_RIGHT_JUSTIFY(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

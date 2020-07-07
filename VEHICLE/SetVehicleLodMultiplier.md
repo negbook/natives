@@ -9,7 +9,7 @@ void SET_VEHICLE_LOD_MULTIPLIER(Vehicle vehicle, float multiplier);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **multiplier**: 
 

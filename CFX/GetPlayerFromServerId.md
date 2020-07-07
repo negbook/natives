@@ -9,7 +9,7 @@ Player GET_PLAYER_FROM_SERVER_ID(int serverId);
 ```
 
 
-## Parameters
+## 參數
 * **serverId**: 
 
-## Return value
+## 返回值

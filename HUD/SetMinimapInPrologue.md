@@ -13,6 +13,6 @@ void SET_MINIMAP_IN_PROLOGUE(BOOL toggle);
 Toggles the North Yankton map
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

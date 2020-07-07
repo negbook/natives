@@ -10,4 +10,4 @@ BOOL IS_MISSION_COMPLETE_READY_FOR_UI();
 ```
 
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ void CLEAR_PED_BLOOD_DAMAGE(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 

@@ -9,4 +9,4 @@ BOOL NETWORK_GAMERTAG_FROM_HANDLE_SUCCEEDED();
 ```
 
 
-## Return value
+## 返回值

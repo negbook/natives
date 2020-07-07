@@ -13,7 +13,7 @@ example:
 PLAYER::SET_PLAYER_PARACHUTE_MODEL_OVERRIDE(PLAYER::PLAYER_ID(), 0x73268708);  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **model**: 
 

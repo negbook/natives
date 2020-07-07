@@ -12,6 +12,6 @@ void _0x38BAAA5DD4C9D19F(int value);
 Sets profile setting 934  
 ```
 
-## Parameters
+## 參數
 * **value**: 
 

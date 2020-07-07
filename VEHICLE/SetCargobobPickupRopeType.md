@@ -9,7 +9,7 @@ aliases: ["0x0D5F65A8F4EBDAB5"]
 void SET_CARGOBOB_PICKUP_ROPE_TYPE(Vehicle vehicle, int state);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **state**: 
 

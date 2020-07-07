@@ -16,7 +16,7 @@ playerTypes:
 8 = unknown
 ```
 
-## Parameters
+## 參數
 * **playerType**: 
 * **playerCount**: 
 

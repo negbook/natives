@@ -9,7 +9,7 @@ void SET_SYNCHRONIZED_SCENE_ORIGIN(int sceneID, float x, float y, float z, float
 ```
 
 
-## Parameters
+## 參數
 * **sceneID**: 
 * **x**: 
 * **y**: 

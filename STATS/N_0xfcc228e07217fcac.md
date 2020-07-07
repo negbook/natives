@@ -9,6 +9,6 @@ void _0xFCC228E07217FCAC(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

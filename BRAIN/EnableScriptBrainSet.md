@@ -12,6 +12,6 @@ void ENABLE_SCRIPT_BRAIN_SET(int brainSet);
 #4  
 ```
 
-## Parameters
+## 參數
 * **brainSet**: 
 

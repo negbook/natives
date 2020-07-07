@@ -14,7 +14,7 @@ Checks if model is a boat, then checks for FLAG_IS_JETSKI.
 @whoever named this _IS_THIS_MODEL_AN_EMERGENCY_BOAT: please do some tests before naming natives, thanks.  
 ```
 
-## Parameters
+## 參數
 * **model**: 
 
-## Return value
+## 返回值

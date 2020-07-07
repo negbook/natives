@@ -12,7 +12,7 @@ Returns the distance between two three-dimensional points, optionally ignoring t
 
 You'll most likely want to use your language's native vector functionality instead.
 
-## Parameters
+## 參數
 * **x1**: The X coordinate of the first point.
 * **y1**: The Y coordinate of the first point.
 * **z1**: The Z coordinate of the first point.
@@ -21,7 +21,7 @@ You'll most likely want to use your language's native vector functionality inste
 * **z2**: The Z coordinate of the second point.
 * **useZ**: Whether or not to use the Z coordinate.
 
-## Return value
+## 返回值
 The distance between the passed points in units.
 
 ## Examples

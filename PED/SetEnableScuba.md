@@ -12,7 +12,7 @@ void SET_ENABLE_SCUBA(Ped ped, BOOL toggle);
 Enables diving motion when underwater.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

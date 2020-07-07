@@ -13,10 +13,10 @@ return : script thread id, 0 if failed
 Pass pointer to struct of args in p1, size of struct goes into p2  
 ```
 
-## Parameters
+## 參數
 * **scriptName**: 
 * **args**: 
 * **argCount**: 
 * **stackSize**: 
 
-## Return value
+## 返回值

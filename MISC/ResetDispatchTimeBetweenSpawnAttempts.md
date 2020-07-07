@@ -12,5 +12,5 @@ void RESET_DISPATCH_TIME_BETWEEN_SPAWN_ATTEMPTS(Any p0);
 NativeDB Introduced: v323
 ```
 
-## Parameters
+## 參數
 * **p0**:

@@ -9,8 +9,8 @@ Vector3 _GET_ENTRY_POSITION_OF_DOOR(Vehicle vehicle, int doorIndex);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **doorIndex**: 
 
-## Return value
+## 返回值

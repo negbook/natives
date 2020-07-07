@@ -13,6 +13,6 @@ void _GET_AI_BLIP_2(Ped ped);
 NativeDB Return Type: Blip
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 

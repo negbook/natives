@@ -13,6 +13,6 @@ void NETWORK_SESSION_SET_MATCHMAKING_GROUP(int matchmakingGroup);
 p0 = 0 or 4  
 ```
 
-## Parameters
+## 參數
 * **matchmakingGroup**: 
 

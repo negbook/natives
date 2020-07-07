@@ -13,6 +13,6 @@ void SET_PLAYER_SWITCH_ESTABLISHING_SHOT(char* name);
 All names can be found in playerswitchestablishingshots.meta
 ```
 
-## Parameters
+## 參數
 * **name**: 
 

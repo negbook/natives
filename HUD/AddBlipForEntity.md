@@ -16,7 +16,7 @@ blip = UI::ADD_BLIP_FOR_ENTITY(YourPedOrBodyguardName);
 UI::SET_BLIP_AS_FRIENDLY(blip, true);  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

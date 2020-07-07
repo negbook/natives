@@ -12,7 +12,7 @@ int START_PARTICLE_FX_LOOPED_ON_ENTITY(char* effectName, Entity entity, float xO
 list: pastebin.com/N9unUFWY  
 ```
 
-## Parameters
+## 參數
 * **effectName**: 
 * **entity**: 
 * **xOffset**: 
@@ -26,4 +26,4 @@ list: pastebin.com/N9unUFWY
 * **yAxis**: 
 * **zAxis**: 
 
-## Return value
+## 返回值

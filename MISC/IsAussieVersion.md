@@ -17,4 +17,4 @@ sub_129d2("AUSSIE VERSION IS TRUE!?!?!"); // DEBUG
 		Used to block some of the prostitute stuff due to laws in Australia.  
 ```
 
-## Return value
+## 返回值

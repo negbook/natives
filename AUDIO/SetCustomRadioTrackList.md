@@ -21,7 +21,7 @@ AUDIO::_4E404A9361F75BB2("RADIO_16_SILVERLAKE", "SEA_RACE_RADIO_PLAYLIST", 1);
 AUDIO::_4E404A9361F75BB2("RADIO_01_CLASS_ROCK", "OFF_ROAD_RADIO_ROCK_LIST", 1);  
 ```
 
-## Parameters
+## 參數
 * **radioStation**: 
 * **trackListName**: 
 * **p2**: 

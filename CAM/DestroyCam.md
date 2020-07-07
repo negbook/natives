@@ -12,7 +12,7 @@ void DESTROY_CAM(Cam cam, BOOL thisScriptCheck);
 BOOL param indicates whether the cam should be destroyed if it belongs to the calling script.  
 ```
 
-## Parameters
+## 參數
 * **cam**: 
 * **thisScriptCheck**: 
 

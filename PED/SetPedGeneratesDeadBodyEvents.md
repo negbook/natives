@@ -9,7 +9,7 @@ void SET_PED_GENERATES_DEAD_BODY_EVENTS(Ped ped, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

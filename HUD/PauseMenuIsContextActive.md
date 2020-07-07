@@ -10,7 +10,7 @@ BOOL PAUSE_MENU_IS_CONTEXT_ACTIVE(Hash contextHash);
 ```
 
 
-## Parameters
+## 參數
 * **contextHash**: 
 
-## Return value
+## 返回值

@@ -14,7 +14,7 @@ Override the area where the camera will render the terrain.
 p3, p4 and p5 are usually set to 0.0
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

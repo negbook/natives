@@ -12,7 +12,7 @@ void SET_PED_AMMO(Ped ped, Hash weaponHash, int ammo);
 NativeDB Added Parameter 4: BOOL p3
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 * **ammo**: 

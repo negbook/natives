@@ -13,7 +13,7 @@ Example:
 bool prepareAlarm = AUDIO::PREPARE_ALARM("PORT_OF_LS_HEIST_FORT_ZANCUDO_ALARMS");  
 ```
 
-## Parameters
+## 參數
 * **alarmName**: 
 
-## Return value
+## 返回值

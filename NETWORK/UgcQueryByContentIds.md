@@ -10,10 +10,10 @@ BOOL UGC_QUERY_BY_CONTENT_IDS(Any* data, int count, BOOL latestVersion, char* co
 ```
 
 
-## Parameters
+## 參數
 * **data**: 
 * **count**: 
 * **latestVersion**: 
 * **contentTypeName**: 
 
-## Return value
+## 返回值

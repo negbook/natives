@@ -10,7 +10,7 @@ void _SET_BOAT_FROZEN_WHEN_ANCHORED(Vehicle vehicle, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

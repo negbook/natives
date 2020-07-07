@@ -14,6 +14,6 @@ If toggle is true, the map is shown in full screen
 If toggle is false, the map is shown in normal mode  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

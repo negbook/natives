@@ -13,7 +13,7 @@ int GET_SHOP_PED_APPAREL_FORCED_COMPONENT_COUNT(Hash componentHash);
 Returns number of possible values of the componentId argument of GET_FORCED_COMPONENT.
 ```
 
-## Parameters
+## 參數
 * **componentHash**: 
 
-## Return value
+## 返回值

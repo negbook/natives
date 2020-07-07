@@ -12,7 +12,7 @@ void _DRAW_SPOT_LIGHT_WITH_SHADOW(float posX, float posY, float posZ, float dirX
 shadowId: each call to this native in the same tick should have a different value passed to this parameter, if two or more calls have the same values, only the first one will render its shadow properly  
 ```
 
-## Parameters
+## 參數
 * **posX**: 
 * **posY**: 
 * **posZ**: 

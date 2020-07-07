@@ -9,8 +9,8 @@ BOOL GET_WEAPON_COMPONENT_HUD_STATS(Hash componentHash, int* outData);
 ```
 
 
-## Parameters
+## 參數
 * **componentHash**: 
 * **outData**: 
 
-## Return value
+## 返回值

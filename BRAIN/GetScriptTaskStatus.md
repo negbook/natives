@@ -14,8 +14,8 @@ Statuses are specific to tasks, in addition '7' means the specified task is not 
 A few hashes found in the executable (although not a complete list) can be found at pastebin.com/R9iK6M9W as it was too long for this wiki.  
 ```
 
-## Parameters
+## 參數
 * **targetPed**: 
 * **taskHash**: 
 
-## Return value
+## 返回值

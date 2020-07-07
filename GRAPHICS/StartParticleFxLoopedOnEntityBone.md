@@ -8,7 +8,7 @@ ns: GRAPHICS
 int START_PARTICLE_FX_LOOPED_ON_ENTITY_BONE(char* effectName, Entity entity, float xOffset, float yOffset, float zOffset, float xRot, float yRot, float zRot, int boneIndex, float scale, BOOL xAxis, BOOL yAxis, BOOL zAxis);
 ```
 
-## Parameters
+## 參數
 * **effectName**: 
 * **entity**: 
 * **xOffset**: 
@@ -23,4 +23,4 @@ int START_PARTICLE_FX_LOOPED_ON_ENTITY_BONE(char* effectName, Entity entity, flo
 * **yAxis**: 
 * **zAxis**: 
 
-## Return value
+## 返回值

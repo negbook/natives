@@ -9,6 +9,6 @@ void SET_RANDOM_TRAINS(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

@@ -10,7 +10,7 @@ BOOL IS_SCRIPTED_HUD_COMPONENT_HIDDEN_THIS_FRAME(int id);
 ```
 
 
-## Parameters
+## 參數
 * **id**: 
 
-## Return value
+## 返回值

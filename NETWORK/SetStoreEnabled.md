@@ -12,6 +12,6 @@ void SET_STORE_ENABLED(BOOL toggle);
 Access to the store for shark cards etc...  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

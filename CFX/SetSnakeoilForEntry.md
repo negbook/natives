@@ -9,7 +9,7 @@ void SET_SNAKEOIL_FOR_ENTRY(char* name, char* path, char* data);
 ```
 
 
-## Parameters
+## 參數
 * **name**: 
 * **path**: 
 * **data**: 

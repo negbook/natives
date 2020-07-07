@@ -13,6 +13,6 @@ void NETWORK_OVERRIDE_RECEIVE_RESTRICTIONS_ALL(BOOL toggle);
 p0 is always false in scripts.
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

@@ -12,7 +12,7 @@ void SET_PED_CURRENT_WEAPON_VISIBLE(Ped ped, BOOL visible, BOOL deselectWeapon, 
 Has 5 parameters since latest patches.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **visible**: 
 * **deselectWeapon**: 

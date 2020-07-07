@@ -9,7 +9,7 @@ void SET_PED_DRIVE_BY_CLIPSET_OVERRIDE(Ped ped, char* clipset);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **clipset**: 
 

@@ -17,6 +17,6 @@ if (!sub_87a46("SET_CAR_HIGH_SPEED_BUMP_SEVERITY_MULTIPLIER")) {
 }  
 ```
 
-## Parameters
+## 參數
 * **multiplier**: 
 

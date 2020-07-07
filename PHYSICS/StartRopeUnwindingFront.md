@@ -9,6 +9,6 @@ void START_ROPE_UNWINDING_FRONT(int ropeId);
 ```
 
 
-## Parameters
+## 參數
 * **ropeId**: 
 

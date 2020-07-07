@@ -12,7 +12,7 @@ BOOL HAS_BULLET_IMPACTED_IN_AREA(float x, float y, float z, float p3, BOOL p4, B
 p3 - possibly radius?  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -20,4 +20,4 @@ p3 - possibly radius?
 * **p4**: 
 * **p5**: 
 
-## Return value
+## 返回值

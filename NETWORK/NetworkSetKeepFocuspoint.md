@@ -9,7 +9,7 @@ void NETWORK_SET_KEEP_FOCUSPOINT(BOOL p0, Any p1);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

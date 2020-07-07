@@ -12,7 +12,7 @@ int REQUEST_SCALEFORM_MOVIE_INSTANCE(char* scaleformName);
 Also used by 0x67D02A194A2FC2BD  
 ```
 
-## Parameters
+## 參數
 * **scaleformName**: 
 
-## Return value
+## 返回值

@@ -9,4 +9,4 @@ BOOL IS_WAYPOINT_ACTIVE();
 ```
 
 
-## Return value
+## 返回值

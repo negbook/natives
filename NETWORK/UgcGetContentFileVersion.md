@@ -9,8 +9,8 @@ aliases: ["0x37025B27D9B658B1","_GET_CONTENT_FILE_VERSION"]
 Any UGC_GET_CONTENT_FILE_VERSION(Any p0, Any p1);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

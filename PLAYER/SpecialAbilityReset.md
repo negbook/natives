@@ -9,6 +9,6 @@ void SPECIAL_ABILITY_RESET(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 

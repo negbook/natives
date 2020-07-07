@@ -9,7 +9,7 @@ BOOL HAS_PED_HEAD_BLEND_FINISHED(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

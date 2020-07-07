@@ -14,7 +14,7 @@ p1 was always -1.
 used for phone applications; scaleform  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

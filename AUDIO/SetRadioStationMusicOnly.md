@@ -16,7 +16,7 @@ AUDIO::_774BD811F656A122(AUDIO::GET_RADIO_STATION_NAME(10), 0);
 AUDIO::_774BD811F656A122(AUDIO::GET_RADIO_STATION_NAME(10), 1);  
 ```
 
-## Parameters
+## 參數
 * **radioStation**: 
 * **toggle**: 
 

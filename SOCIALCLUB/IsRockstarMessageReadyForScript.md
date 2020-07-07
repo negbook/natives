@@ -10,4 +10,4 @@ BOOL _IS_ROCKSTAR_MESSAGE_READY_FOR_SCRIPT();
 ```
 
 
-## Return value
+## 返回值

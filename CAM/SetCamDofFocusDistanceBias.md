@@ -13,7 +13,7 @@ void _SET_CAM_DOF_FOCUS_DISTANCE_BIAS(Cam camera, float p1);
 This native has a name defined inside its code  
 ```
 
-## Parameters
+## 參數
 * **camera**: 
 * **p1**: 
 

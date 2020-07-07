@@ -10,7 +10,7 @@ void PLAYSTATS_ODDJOB_DONE(Any p0, Any p1, Any p2);
 
 **This native does absolutely nothing, just a nullsub**
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

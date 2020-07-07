@@ -16,10 +16,10 @@ CAM::PLAY_SYNCHRONIZED_CAM_ANIM(l_F0D[7/*1*/], l_F4D[15/*1*/], "ah3b_attackheli_
 
 [Animations list](https://alexguirre.github.io/animations-list/)
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **animName**: 
 * **animDictionary**: 
 
-## Return value
+## 返回值

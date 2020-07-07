@@ -9,7 +9,7 @@ float GET_TOTAL_DURATION_OF_VEHICLE_RECORDING_ID(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

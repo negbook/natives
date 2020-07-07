@@ -31,7 +31,7 @@ void __fastcall OBJECT___0x77F33F2CCF64B3AA_START(scrNativeCallContext *args)
 ```  
 ```
 
-## Parameters
+## 參數
 * **object**: 
 * **p1**: 
 

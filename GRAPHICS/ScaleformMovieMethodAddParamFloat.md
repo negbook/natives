@@ -13,6 +13,6 @@ void SCALEFORM_MOVIE_METHOD_ADD_PARAM_FLOAT(float value);
 Pushes a float for the Scaleform function onto the stack.  
 ```
 
-## Parameters
+## 參數
 * **value**: 
 

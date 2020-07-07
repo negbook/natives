@@ -9,9 +9,9 @@ BOOL SC_INBOX_MESSAGE_GET_DATA_INT(int p0, char* context, int* out);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **context**: 
 * **out**: 
 
-## Return value
+## 返回值

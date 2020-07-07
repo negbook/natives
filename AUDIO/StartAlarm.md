@@ -33,7 +33,7 @@ It DOES make a difference but it has to do with the duration or something I dunn
  AUDIO::START_ALARM("PROLOGUE_VAULT_ALARMS", 0);  
 ```
 
-## Parameters
+## 參數
 * **alarmName**: 
 * **p2**: 
 

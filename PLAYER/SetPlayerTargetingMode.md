@@ -16,6 +16,6 @@ Sets your targeting mode.
 Even tho gtaforums nor Alexander B supports this, if you're online in freemode already it's nice to have this since retail or otherwise you have to go to SP to change it.  
 ```
 
-## Parameters
+## 參數
 * **targetMode**: 
 

@@ -13,7 +13,7 @@ void SET_VEHICLE_USE_ALTERNATE_HANDLING(Vehicle vehicle, BOOL p1);
 Related to Hao races.
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

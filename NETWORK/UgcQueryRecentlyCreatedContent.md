@@ -10,10 +10,10 @@ BOOL _UGC_QUERY_RECENTLY_CREATED_CONTENT(int offset, int count, char* contentTyp
 ```
 
 
-## Parameters
+## 參數
 * **offset**: 
 * **count**: 
 * **contentTypeName**: 
 * **p3**: 
 
-## Return value
+## 返回值

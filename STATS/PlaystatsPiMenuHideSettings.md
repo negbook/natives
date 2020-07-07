@@ -10,6 +10,6 @@ void _PLAYSTATS_PI_MENU_HIDE_SETTINGS(Any* data);
 ```
 
 
-## Parameters
+## 參數
 * **data**: 
 

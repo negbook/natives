@@ -9,8 +9,8 @@ BOOL FIND_NEXT_PED(int findHandle, Entity* outEntity);
 ```
 
 
-## Parameters
+## 參數
 * **findHandle**: 
 * **outEntity**: 
 
-## Return value
+## 返回值

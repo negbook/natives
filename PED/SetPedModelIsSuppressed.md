@@ -9,7 +9,7 @@ void SET_PED_MODEL_IS_SUPPRESSED(Ped ped, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

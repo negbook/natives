@@ -12,7 +12,7 @@ void _SET_TASK_MOVE_NETWORK_SIGNAL_FLOAT_2(Ped ped, char* signalName, float valu
 NativeDB Introduced: v1493
 ```
 
-## Parameters
+## 參數
 * **ped**:
 * **signalName**:
 * **value**:

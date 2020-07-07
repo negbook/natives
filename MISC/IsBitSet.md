@@ -17,8 +17,8 @@ GAMEPLAY::SET_BIT(&bitAddress, 1);   // enable
 GAMEPLAY::CLEAR_BIT(&bitAddress, 1); // disable  
 ```
 
-## Parameters
+## 參數
 * **address**: 
 * **offset**: 
 
-## Return value
+## 返回值

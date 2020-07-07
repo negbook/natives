@@ -18,7 +18,7 @@ native is missing third argument, also boolean, setting to 1 made vehicle fade i
 NativeDB Added Parameter 3: BOOL slow
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **state**: 
 

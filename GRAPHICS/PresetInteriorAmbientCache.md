@@ -14,6 +14,6 @@ Only one match in the scripts:
 GRAPHICS::PRESET_INTERIOR_AMBIENT_CACHE("int_carrier_hanger");
 ```
 
-## Parameters
+## 參數
 * **timecycleModifierName**: 
 

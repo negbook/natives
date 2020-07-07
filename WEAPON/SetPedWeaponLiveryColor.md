@@ -14,7 +14,7 @@ NativeDB Parameter 1: Hash weaponHash
 NativeDB Parameter 2: Hash camoComponentHash
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 * **camoComponentHash**: 

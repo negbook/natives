@@ -20,7 +20,7 @@ but at night it's lowbeam,lowbeam,highbeam
 note2: when using =0 it's affected by day or night for highbeams don't exist in daytime.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **state**: 
 

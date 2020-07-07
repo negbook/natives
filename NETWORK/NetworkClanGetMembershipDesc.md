@@ -17,8 +17,8 @@ for (int i = 0; i < maxMemship; i++)
 }  
 ```
 
-## Parameters
+## 參數
 * **memberDesc**: 
 * **p1**: 
 
-## Return value
+## 返回值

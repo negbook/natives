@@ -12,7 +12,7 @@ char* STAT_GET_USER_ID(Any p0);
 Needs more research. Seems to return "STAT_UNKNOWN" if no such user id exists.  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

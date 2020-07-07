@@ -9,4 +9,4 @@ aliases: ["0x74698374C45701D2"]
 Any NETWORK_IS_OFFLINE_INVITE_PENDING();
 ```
 
-## Return value
+## 返回值

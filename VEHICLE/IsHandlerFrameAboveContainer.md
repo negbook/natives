@@ -9,8 +9,8 @@ aliases: ["0x89D630CF5EA96D23"]
 BOOL _IS_HANDLER_FRAME_ABOVE_CONTAINER(Vehicle handler, Entity container);
 ```
 
-## Parameters
+## 參數
 * **handler**: 
 * **container**: 
 
-## Return value
+## 返回值

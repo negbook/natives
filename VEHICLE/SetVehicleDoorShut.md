@@ -19,7 +19,7 @@ doorIndex:
 6 = Trunk2  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **doorIndex**: 
 * **closeInstantly**: 

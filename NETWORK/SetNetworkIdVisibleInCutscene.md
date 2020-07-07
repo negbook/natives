@@ -9,7 +9,7 @@ void SET_NETWORK_ID_VISIBLE_IN_CUTSCENE(int netId, BOOL p1, BOOL p2);
 ```
 
 
-## Parameters
+## 參數
 * **netId**: 
 * **p1**: 
 * **p2**: 

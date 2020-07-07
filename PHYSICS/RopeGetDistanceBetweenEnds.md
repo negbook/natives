@@ -13,7 +13,7 @@ float ROPE_GET_DISTANCE_BETWEEN_ENDS(int ropeId);
 Get a rope's length.  Can be modified with ROPE_FORCE_LENGTH  
 ```
 
-## Parameters
+## 參數
 * **ropeId**: 
 
-## Return value
+## 返回值

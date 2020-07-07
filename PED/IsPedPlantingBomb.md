@@ -9,7 +9,7 @@ BOOL IS_PED_PLANTING_BOMB(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

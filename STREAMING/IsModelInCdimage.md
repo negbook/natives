@@ -12,7 +12,7 @@ BOOL IS_MODEL_IN_CDIMAGE(Hash model);
 Check if model is in cdimage(rpf)  
 ```
 
-## Parameters
+## 參數
 * **model**: 
 
-## Return value
+## 返回值

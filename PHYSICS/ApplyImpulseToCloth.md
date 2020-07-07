@@ -9,7 +9,7 @@ void APPLY_IMPULSE_TO_CLOTH(float posX, float posY, float posZ, float vecX, floa
 ```
 
 
-## Parameters
+## 參數
 * **posX**: 
 * **posY**: 
 * **posZ**: 

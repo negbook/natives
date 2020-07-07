@@ -12,8 +12,8 @@ BOOL DOES_EXTRA_EXIST(Vehicle vehicle, int extraId);
 Checks via CVehicleModelInfo  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **extraId**: 
 
-## Return value
+## 返回值

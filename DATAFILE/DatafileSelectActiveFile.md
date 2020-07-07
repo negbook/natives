@@ -9,7 +9,7 @@ aliases: ["0x22DA66936E0FFF37"]
 BOOL DATAFILE_SELECT_ACTIVE_FILE(Any p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

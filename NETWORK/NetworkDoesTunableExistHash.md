@@ -10,8 +10,8 @@ BOOL NETWORK_DOES_TUNABLE_EXIST_HASH(Hash tunableContext, Hash tunableName);
 ```
 
 
-## Parameters
+## 參數
 * **tunableContext**: 
 * **tunableName**: 
 
-## Return value
+## 返回值

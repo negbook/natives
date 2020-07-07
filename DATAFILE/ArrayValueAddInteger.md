@@ -9,7 +9,7 @@ void _ARRAY_VALUE_ADD_INTEGER(Any* arrayData, int value);
 ```
 
 
-## Parameters
+## 參數
 * **arrayData**: 
 * **value**: 
 

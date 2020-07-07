@@ -13,11 +13,11 @@ Returns the index of the newly created hospital spawn point.
 p3 might be radius?  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 * **p3**: 
 * **p4**: 
 
-## Return value
+## 返回值

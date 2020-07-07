@@ -9,7 +9,7 @@ void SET_TEXT_COLOUR(int red, int green, int blue, int alpha);
 ```
 
 
-## Parameters
+## 參數
 * **red**: 
 * **green**: 
 * **blue**: 

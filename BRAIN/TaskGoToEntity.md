@@ -15,7 +15,7 @@ Example: AI::TASK_GO_TO_ENTITY(pedHandle, vehicleHandle, 5000, 4.0, 100, 1073741
 Ped will run towards the vehicle for 5 seconds and stop when time is over or when he gets 4 meters(?) around the vehicle (with duration = -1, the task duration will be ignored).  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **target**: 
 * **duration**: 

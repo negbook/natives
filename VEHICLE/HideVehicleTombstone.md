@@ -12,6 +12,6 @@ void _HIDE_VEHICLE_TOMBSTONE(Vehicle vehicle, BOOL toggle);
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **vehicle**:
 * **toggle**:

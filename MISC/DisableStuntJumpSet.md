@@ -9,6 +9,6 @@ void DISABLE_STUNT_JUMP_SET(int p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

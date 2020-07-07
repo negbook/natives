@@ -10,7 +10,7 @@ BOOL _GET_ENTITY_CAN_BE_DAMAGED(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

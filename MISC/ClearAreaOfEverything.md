@@ -13,7 +13,7 @@ void _CLEAR_AREA_OF_EVERYTHING(float x, float y, float z, float radius, BOOL p4,
 GAMEPLAY::_0x957838AAF91BD12D(x, y, z, radius, false, false, false, false); seem to make all objects go away, peds, vehicles etc. All booleans set to true doesn't seem to change anything.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

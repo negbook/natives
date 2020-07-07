@@ -10,4 +10,4 @@ Any NETWORK_ACTION_FOLLOW_INVITE();
 ```
 
 
-## Return value
+## 返回值

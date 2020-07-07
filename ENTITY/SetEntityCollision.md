@@ -9,7 +9,7 @@ void SET_ENTITY_COLLISION(Entity entity, BOOL toggle, BOOL keepPhysics);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **toggle**: 
 * **keepPhysics**: 

@@ -17,11 +17,11 @@ NativeDB Parameter 2: BOOL isNetwork
 NativeDB Parameter 3: BOOL thisScriptCheck
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **heading**: 
 * **isNetwork**: 
 * **thisScriptCheck**: 
 * **p4**: 
 
-## Return value
+## 返回值

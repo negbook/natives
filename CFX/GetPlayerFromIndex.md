@@ -9,7 +9,7 @@ char* GET_PLAYER_FROM_INDEX(int index);
 ```
 
 
-## Parameters
+## 參數
 * **index**: 
 
-## Return value
+## 返回值

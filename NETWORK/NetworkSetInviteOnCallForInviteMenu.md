@@ -10,6 +10,6 @@ void _NETWORK_SET_INVITE_ON_CALL_FOR_INVITE_MENU(Any* p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

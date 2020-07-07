@@ -14,7 +14,7 @@ Example:
 AI::_2D537BA194896636(PLAYER::PLAYER_PED_ID(), "arm_wrestling_sweep_paired_a_rev3", 0.0, 1, "mini@arm_wrestling", 0);  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **task**: 
 * **multiplier**: 

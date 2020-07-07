@@ -14,6 +14,6 @@ GRAPHICS::_0xB7ED70C49521A61D(9123);
 GRAPHICS::SET_STREAMED_TEXTURE_DICT_AS_NO_LONGER_NEEDED("MPMissMarkers256");  
 ```
 
-## Parameters
+## 參數
 * **decalType**: 
 

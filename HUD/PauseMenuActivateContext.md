@@ -45,6 +45,6 @@ See the old description below for more info.
 > Scripts do not make this native's purpose clear. However, this native most likely has something to do with decals since in nearly every instance, "OBJECT_DECAL_TOGGLE" is called prior.
 
 
-## Parameters
+## 參數
 * **hash**: Context name hash.
 

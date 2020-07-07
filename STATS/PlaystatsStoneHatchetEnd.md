@@ -12,5 +12,5 @@ void _PLAYSTATS_STONE_HATCHET_END(Any* data);
 NativeDB Introduced: v1493
 ```
 
-## Parameters
+## 參數
 * **data**:

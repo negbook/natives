@@ -9,6 +9,6 @@ void SETTIMERB(int value);
 ```
 
 
-## Parameters
+## 參數
 * **value**: 
 

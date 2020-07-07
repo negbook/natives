@@ -10,9 +10,9 @@ BOOL DOES_PLAYER_OWN_SKU(char* playerSrc, int skuId);
 
 Requests whether or not the player owns the specified SKU.
 
-## Parameters
+## 參數
 * **playerSrc**: The player handle
 * **skuId**: The ID of the SKU.
 
-## Return value
+## 返回值
 A boolean.

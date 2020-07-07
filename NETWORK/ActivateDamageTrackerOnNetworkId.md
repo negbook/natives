@@ -9,7 +9,7 @@ void ACTIVATE_DAMAGE_TRACKER_ON_NETWORK_ID(int netID, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **netID**: 
 * **toggle**: 
 

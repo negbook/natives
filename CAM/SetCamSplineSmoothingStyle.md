@@ -10,7 +10,7 @@ void SET_CAM_SPLINE_SMOOTHING_STYLE(Cam cam, int smoothingStyle);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **smoothingStyle**: 
 

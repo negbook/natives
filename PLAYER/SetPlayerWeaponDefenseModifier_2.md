@@ -10,7 +10,7 @@ void _SET_PLAYER_WEAPON_DEFENSE_MODIFIER_2(Player player, float modifier);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **modifier**: 
 

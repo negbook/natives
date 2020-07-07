@@ -19,7 +19,7 @@ STREAMING::_8A7A40100EDFEC58(l_13BC, "v_fib01_jan_elev");
 STREAMING::_8A7A40100EDFEC58(l_13BC, "limbo");  
 ```
 
-## Parameters
+## 參數
 * **interiorID**: 
 * **roomName**: 
 

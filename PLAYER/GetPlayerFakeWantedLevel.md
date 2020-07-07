@@ -14,7 +14,7 @@ Seems to do something with network (?)
 PLAYER::_56105E599CAB0EFA(NETWORK::NETWORK_GET_PLAYER_INDEX_FROM_PED(ped))  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

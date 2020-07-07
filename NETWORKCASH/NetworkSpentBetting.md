@@ -12,7 +12,7 @@ void NETWORK_SPENT_BETTING(int amount, int p1, Any* matchId, BOOL p3, BOOL p4);
 NativeDB Parameter 2: char* matchId
 ```
 
-## Parameters
+## 參數
 * **amount**: 
 * **p1**: 
 * **matchId**: 

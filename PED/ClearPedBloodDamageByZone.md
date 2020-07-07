@@ -13,7 +13,7 @@ void CLEAR_PED_BLOOD_DAMAGE_BY_ZONE(Ped ped, int p1);
 Somehow related to changing ped's clothes.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 

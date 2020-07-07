@@ -16,7 +16,7 @@ For the most part R* uses 1 or 2 as the order.
 p5 is usually set as true  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **pitch**: 
 * **roll**: 

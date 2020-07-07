@@ -15,7 +15,7 @@ This native makes the vehicle stop immediately, as happens when we enter a MP ga
 . If killEngine is set to 1, you cannot resume driving the vehicle once it stops. This looks like is a bitmapped integer.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **distance**: 
 * **duration**: 

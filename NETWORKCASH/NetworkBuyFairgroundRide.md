@@ -16,7 +16,7 @@ The last 3 parameters are,
 1,0,1 in the am_rollercoaster.c  
 ```
 
-## Parameters
+## 參數
 * **amountSpent**: 
 * **p1**: 
 * **p2**: 

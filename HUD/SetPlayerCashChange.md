@@ -13,7 +13,7 @@ void _SET_PLAYER_CASH_CHANGE(int cash, int bank);
 Displays cash change notifications on HUD.  
 ```
 
-## Parameters
+## 參數
 * **cash**: 
 * **bank**: 
 

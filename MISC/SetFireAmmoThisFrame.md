@@ -12,7 +12,7 @@ Any SET_FIRE_AMMO_THIS_FRAME(Player player);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

@@ -18,7 +18,7 @@ Note:
 setting r,g,b to 0 will give the car independance day tyre smoke  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **r**: 
 * **g**: 

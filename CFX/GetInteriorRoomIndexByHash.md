@@ -21,9 +21,9 @@ if roomId ~= -1 then
 end
 ```
 
-## Parameters
+## 參數
 * **interiorId**: The target interior.
 * **roomHash**: Interior room hash.
 
-## Return value
+## 返回值
 Room index, -1 if failed.

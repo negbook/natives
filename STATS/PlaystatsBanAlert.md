@@ -10,6 +10,6 @@ void _PLAYSTATS_BAN_ALERT(int p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

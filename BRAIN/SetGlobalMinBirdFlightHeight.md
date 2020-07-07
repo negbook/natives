@@ -12,6 +12,6 @@ void SET_GLOBAL_MIN_BIRD_FLIGHT_HEIGHT(float height);
 Birds will try to reach the given height.  
 ```
 
-## Parameters
+## 參數
 * **height**: 
 

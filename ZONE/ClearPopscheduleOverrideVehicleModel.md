@@ -18,6 +18,6 @@ STREAMING::SET_MODEL_AS_NO_LONGER_NEEDED(vehicleHash);
 ZONE::CLEAR_POPSCHEDULE_OVERRIDE_VEHICLE_MODEL(popSchedules[index]);  
 ```
 
-## Parameters
+## 參數
 * **scheduleId**: 
 

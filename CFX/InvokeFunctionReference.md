@@ -9,10 +9,10 @@ char* INVOKE_FUNCTION_REFERENCE(char* referenceIdentity, char* argsSerialized, i
 ```
 
 
-## Parameters
+## 參數
 * **referenceIdentity**: 
 * **argsSerialized**: 
 * **argsLength**: 
 * **retvalLength**: 
 
-## Return value
+## 返回值

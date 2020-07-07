@@ -10,6 +10,6 @@ void NETWORK_SET_IN_FREE_CAM_MODE(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

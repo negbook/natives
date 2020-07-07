@@ -13,7 +13,7 @@ I named the beginning from Any to BOOL as this native is used in an if statement
 Big surprise it returns an int.  
 ```
 
-## Parameters
+## 參數
 * **cam**: 
 
-## Return value
+## 返回值

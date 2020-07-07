@@ -9,7 +9,7 @@ void _0xB2AFF10216DEFA2F(float x, float y, float z, float p3, float p4, float p5
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

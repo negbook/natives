@@ -14,8 +14,8 @@ If worldSpace is false, the returned offset is relative to the ped. That is, if 
 If worldSpace is true, the returned offset is relative to the world. That is, if the ped has moved 1 meter on the X axis and 5 meters on the Y axis, it'll return 1,5,0.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **worldSpace**: 
 
-## Return value
+## 返回值

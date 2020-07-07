@@ -12,4 +12,4 @@ int APP_DATA_VALID();
 NativeDB Return Type: BOOL
 ```
 
-## Return value
+## 返回值

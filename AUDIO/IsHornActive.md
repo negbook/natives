@@ -12,7 +12,7 @@ BOOL IS_HORN_ACTIVE(Vehicle vehicle);
 Checks whether the horn of a vehicle is currently played.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

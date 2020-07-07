@@ -18,9 +18,9 @@ Example:
 
 [Animations list](https://alexguirre.github.io/animations-list/)
 
-## Parameters
+## 參數
 * **entity**: 
 * **animDict**: 
 * **animName**: 
 
-## Return value
+## 返回值

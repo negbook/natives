@@ -18,7 +18,7 @@ ZONE::OVERRIDE_POPSCHEDULE_VEHICLE_MODEL(popSchedules[index], vehicleHash);
 STREAMING::REQUEST_MODEL(vehicleHash);  
 ```
 
-## Parameters
+## 參數
 * **scheduleId**: 
 * **vehicleHash**: 
 

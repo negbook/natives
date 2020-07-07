@@ -9,7 +9,7 @@ aliases: ["0x993CBE59D350D225"]
 BOOL UGC_GET_CONTENT_HAS_PLAYER_BOOKMARKED(Any p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

@@ -13,7 +13,7 @@ void SET_SCRIPT_UPDATE_DOOR_AUDIO(Any doorHash, BOOL toggle);
 NativeDB Parameter 0: Hash doorHash
 ```
 
-## Parameters
+## 參數
 * **doorHash**: 
 * **toggle**: 
 

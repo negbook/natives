@@ -14,7 +14,7 @@ For instance, GTA:O opening cutscene.
 https://pastebin.com/2EeKVeLA : a list of SRL found in srllist.meta
 https://pastebin.com/zd9XYUWY : here is the content of a SRL file opened with codewalker.
 
-## Parameters
+## 參數
 * **srl**: A SRL name.
 
 ## Examples

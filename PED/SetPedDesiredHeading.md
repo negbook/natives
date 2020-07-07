@@ -9,7 +9,7 @@ void SET_PED_DESIRED_HEADING(Ped ped, float heading);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **heading**: 
 

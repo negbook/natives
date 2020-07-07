@@ -13,7 +13,7 @@ Used to prepare a scene where the surrounding sound is muted or a bit changed. T
 List of all usable scene names found in b617d. Sorted alphabetically and identical names removed: pastebin.com/MtM9N9CC  
 ```
 
-## Parameters
+## 參數
 * **scene**: 
 
-## Return value
+## 返回值

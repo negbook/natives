@@ -9,7 +9,7 @@ void ADD_DOOR_TO_SYSTEM(Hash doorHash, Hash modelHash, float x, float y, float z
 ```
 
 
-## Parameters
+## 參數
 * **doorHash**: 
 * **modelHash**: 
 * **x**: 

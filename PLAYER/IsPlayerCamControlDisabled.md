@@ -14,4 +14,4 @@ Returns true when the player is not able to control the cam i.e. when running a 
 Note: I am not 100% sure if the native actually checks if the cam control is disabled but it seems promising.  
 ```
 
-## Return value
+## 返回值

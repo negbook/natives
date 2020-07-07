@@ -13,7 +13,7 @@ Gets a value indicating whether this ped's health is below its injured threshold
 The default threshold is 100.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

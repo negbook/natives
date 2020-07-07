@@ -13,7 +13,7 @@ void DRAW_SCALEFORM_MOVIE_3D_SOLID(int scaleform, float posX, float posY, float 
 what the heck does this one do differently from the one above?  
 ```
 
-## Parameters
+## 參數
 * **scaleform**: 
 * **posX**: 
 * **posY**: 

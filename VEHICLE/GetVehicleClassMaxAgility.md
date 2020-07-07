@@ -9,7 +9,7 @@ float GET_VEHICLE_CLASS_MAX_AGILITY(int vehicleClass);
 ```
 
 
-## Parameters
+## 參數
 * **vehicleClass**: 
 
-## Return value
+## 返回值

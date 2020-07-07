@@ -23,4 +23,4 @@ seg001:00000000003EFF5C                 blr
 seg001:00000000003EFF5C # End of function uunk_0x29532731  
 ```
 
-## Return value
+## 返回值

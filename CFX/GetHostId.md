@@ -9,4 +9,4 @@ char* GET_HOST_ID();
 ```
 
 
-## Return value
+## 返回值

@@ -9,8 +9,8 @@ float GET_RANDOM_FLOAT_IN_RANGE(float startRange, float endRange);
 ```
 
 
-## Parameters
+## 參數
 * **startRange**: 
 * **endRange**: 
 
-## Return value
+## 返回值

@@ -13,4 +13,4 @@ Dr. Underscore (1/6/18):
 Seems to return a value 0-2.  
 ```
 
-## Return value
+## 返回值

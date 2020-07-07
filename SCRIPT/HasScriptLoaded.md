@@ -13,7 +13,7 @@ Returns if a script has been loaded into the game. Used to see if a script was l
 For a full list, see here: pastebin.com/yLNWicUi  
 ```
 
-## Parameters
+## 參數
 * **scriptName**: 
 
-## Return value
+## 返回值

@@ -9,8 +9,8 @@ BOOL CAN_PED_IN_COMBAT_SEE_TARGET(Ped ped, Ped target);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **target**: 
 
-## Return value
+## 返回值

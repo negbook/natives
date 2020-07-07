@@ -10,6 +10,6 @@ void SCALEFORM_MOVIE_METHOD_ADD_PARAM_TEXTURE_NAME_STRING(char* string);
 ```
 
 
-## Parameters
+## 參數
 * **string**: 
 

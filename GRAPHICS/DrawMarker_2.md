@@ -13,7 +13,7 @@ void _DRAW_MARKER_2(int type, float posX, float posY, float posZ, float dirX, fl
 NativeDB Added Parameter 26: BOOL p25
 ```
 
-## Parameters
+## 參數
 * **type**: 
 * **posX**: 
 * **posY**: 

@@ -9,7 +9,7 @@ aliases: ["0x12B6281B6C6706C0"]
 int GET_NUM_CREATED_MISSION_OBJECTS(BOOL p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

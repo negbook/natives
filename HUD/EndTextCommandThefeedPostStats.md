@@ -18,7 +18,7 @@ Example result:
 ![](https://i.imgur.com/SdEZ22m.png)
 
 
-## Parameters
+## 參數
 * **statTitle**: 
 * **iconEnum**: 
 * **stepVal**: 
@@ -27,7 +27,7 @@ Example result:
 * **picTxd**: 
 * **picTxn**: 
 
-## Return value
+## 返回值
 
 The notification handle.
 

@@ -13,7 +13,7 @@ This functions converts the hash of a street name into a readable string.
 For how to get the hashes, see PATHFIND::GET_STREET_NAME_AT_COORD.  
 ```
 
-## Parameters
+## 參數
 * **hash**: 
 
-## Return value
+## 返回值

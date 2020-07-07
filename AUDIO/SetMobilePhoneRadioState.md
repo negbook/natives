@@ -9,6 +9,6 @@ void SET_MOBILE_PHONE_RADIO_STATE(BOOL state);
 ```
 
 
-## Parameters
+## 參數
 * **state**: 
 

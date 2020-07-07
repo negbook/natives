@@ -10,4 +10,4 @@ float _REPLAY_FREE_CAM_GET_MAX_RANGE();
 ```
 
 
-## Return value
+## 返回值

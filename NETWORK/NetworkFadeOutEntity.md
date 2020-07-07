@@ -13,7 +13,7 @@ normal - transition like when your coming out of LSC
 slow - transition like when you walk into a mission  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **normal**: 
 * **slow**: 

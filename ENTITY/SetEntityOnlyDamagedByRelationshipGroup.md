@@ -9,7 +9,7 @@ void SET_ENTITY_ONLY_DAMAGED_BY_RELATIONSHIP_GROUP(Entity entity, BOOL p1, Hash 
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **p1**: 
 * **relationshipHash**: 

@@ -24,4 +24,4 @@ if (CONTROLS::_GET_LAST_INPUT_METHOD(2)) {
 }  
 ```
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ float GET_VEHICLE_BODY_HEALTH(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

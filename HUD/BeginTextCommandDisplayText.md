@@ -17,6 +17,6 @@ ESMINDOLLA - cash (negative)
 Used to be known as _SET_TEXT_ENTRY  
 ```
 
-## Parameters
+## 參數
 * **text**: 
 

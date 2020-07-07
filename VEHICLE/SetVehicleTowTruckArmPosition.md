@@ -13,7 +13,7 @@ void SET_VEHICLE_TOW_TRUCK_ARM_POSITION(Vehicle vehicle, float position);
 Sets how much the crane on the tow truck is raised, where 0.0 is fully lowered and 1.0 is fully raised.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **position**: 
 

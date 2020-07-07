@@ -15,9 +15,9 @@ the answer is: because p0 an int64_t* / int64_t[35].  and FYI p2 is an int64_t[1
 pastebin.com/cSZniHak  
 ```
 
-## Parameters
+## 參數
 * **clanDesc**: 
 * **bufferSize**: 
 * **networkHandle**: 
 
-## Return value
+## 返回值

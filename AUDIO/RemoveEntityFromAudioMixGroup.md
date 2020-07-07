@@ -9,7 +9,7 @@ aliases: ["0x18EB48CFC41F2EA0"]
 void REMOVE_ENTITY_FROM_AUDIO_MIX_GROUP(Entity entity, float p1);
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **p1**: 
 

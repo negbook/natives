@@ -15,7 +15,7 @@ Using the following code to reset back to normal
 PED::RESET_PED_MOVEMENT_CLIPSET(PLAYER::PLAYER_PED_ID(), 0.0);  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 

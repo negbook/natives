@@ -13,8 +13,8 @@ BOOL NETWORK_APPLY_CACHED_PLAYER_HEAD_BLEND_DATA(Ped ped, Player player);
 Sadly I thought this copied their tattoos, but it just seems to copy their 'blend data'. E.G. skin tone/color, fat/skinny face, etc.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **player**: 
 
-## Return value
+## 返回值

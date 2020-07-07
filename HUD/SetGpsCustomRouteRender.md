@@ -10,7 +10,7 @@ void SET_GPS_CUSTOM_ROUTE_RENDER(BOOL toggle, int radarThickness, int mapThickne
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 * **radarThickness**: The width of the GPS route on the radar
 * **mapThickness**: The width of the GPS route on the map

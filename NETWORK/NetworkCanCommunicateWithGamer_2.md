@@ -15,7 +15,7 @@ Same as NETWORK_CAN_COMMUNICATE_WITH_GAMER
 NETWORK_CAN_*
 ```
 
-## Parameters
+## 參數
 * **networkHandle**: 
 
-## Return value
+## 返回值

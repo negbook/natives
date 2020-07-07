@@ -9,7 +9,7 @@ void DISABLE_PED_PAIN_AUDIO(Ped ped, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

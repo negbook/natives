@@ -14,7 +14,7 @@ If false, moves the object towards the specified X, Y and Z coordinates with the
 See also: gtag.gtagaming.com/opcode-database/opcode/034E/  
 ```
 
-## Parameters
+## 參數
 * **object**: 
 * **toX**: 
 * **toY**: 
@@ -24,4 +24,4 @@ See also: gtag.gtagaming.com/opcode-database/opcode/034E/
 * **speedZ**: 
 * **collision**: 
 
-## Return value
+## 返回值

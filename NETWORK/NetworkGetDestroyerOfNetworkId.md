@@ -9,8 +9,8 @@ int NETWORK_GET_DESTROYER_OF_NETWORK_ID(int netId, Hash* weaponHash);
 ```
 
 
-## Parameters
+## 參數
 * **netId**: 
 * **weaponHash**: 
 
-## Return value
+## 返回值

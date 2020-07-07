@@ -101,7 +101,7 @@ ZP_ORT = Port of South Los Santos
 ZQ_UAR = Davis Quartz  
 ```
 
-## Parameters
+## 參數
 * **zoneName**: 
 
-## Return value
+## 返回值

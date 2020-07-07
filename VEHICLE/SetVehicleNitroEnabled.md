@@ -12,6 +12,6 @@ void _SET_VEHICLE_NITRO_ENABLED(Vehicle vehicle, BOOL toggle);
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **vehicle**:
 * **toggle**:

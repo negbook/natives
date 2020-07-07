@@ -12,7 +12,7 @@ void REGISTER_ARCHETYPES(func factory);
 
 Registers a set of archetypes with the game engine. These should match `CBaseArchetypeDef` class information from the game.
 
-## Parameters
+## 參數
 * **factory**: A function returning a list of archetypes.
 
 ## Examples

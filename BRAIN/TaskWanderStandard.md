@@ -13,7 +13,7 @@ Makes ped walk around the area.
 set p1 to 10.0f and p2 to 10 if you want the ped to walk anywhere without a duration.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 * **p2**: 

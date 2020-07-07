@@ -14,8 +14,8 @@ The coord will be put into the Vector3.
 The return will determine whether there was a coord found or not.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **coords**: 
 
-## Return value
+## 返回值

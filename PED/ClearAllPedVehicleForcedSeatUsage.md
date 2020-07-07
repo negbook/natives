@@ -10,6 +10,6 @@ void CLEAR_ALL_PED_VEHICLE_FORCED_SEAT_USAGE(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 

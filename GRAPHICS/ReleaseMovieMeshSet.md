@@ -9,6 +9,6 @@ void RELEASE_MOVIE_MESH_SET(int movieMeshSet);
 ```
 
 
-## Parameters
+## 參數
 * **movieMeshSet**: 
 

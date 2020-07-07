@@ -9,7 +9,7 @@ void GET_ENTITY_MATRIX(Entity entity, Vector3* rightVector, Vector3* forwardVect
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **rightVector**: 
 * **forwardVector**: 

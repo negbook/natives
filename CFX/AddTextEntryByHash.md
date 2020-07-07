@@ -9,7 +9,7 @@ void ADD_TEXT_ENTRY_BY_HASH(Hash entryKey, char* entryText);
 ```
 使Hash `entryKey`轉化為對應的字符`entryText`
 
-## Parameters
+## 參數
 * **entryKey**: 
 * **entryText**: 
 

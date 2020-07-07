@@ -12,7 +12,7 @@ Vehicle GET_VEHICLE_ATTACHED_TO_CARGOBOB(Vehicle cargobob);
 Returns attached vehicle (Vehicle in parameter must be cargobob)  
 ```
 
-## Parameters
+## 參數
 * **cargobob**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ BOOL _IS_THIS_MODEL_AN_AMPHIBIOUS_CAR(Hash model);
 ```
 
 
-## Parameters
+## 參數
 * **model**: 
 
-## Return value
+## 返回值

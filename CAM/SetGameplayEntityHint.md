@@ -12,7 +12,7 @@ void SET_GAMEPLAY_ENTITY_HINT(Entity entity, float xOffset, float yOffset, float
 p6 & p7 - possibly length or time  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **xOffset**: 
 * **yOffset**: 

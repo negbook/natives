@@ -12,7 +12,7 @@ void _0xC50CE861B55EAB8B(Vehicle vehicle, BOOL p1);
 SET_VEHICLE_LI*
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

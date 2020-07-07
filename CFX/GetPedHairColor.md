@@ -19,8 +19,8 @@ if primaryColour == 18 then
 end
 ```
 
-## Parameters
+## 參數
 * **ped**: The target ped
 
-## Return value
+## 返回值
 Returns ped's primary hair colour.

@@ -16,4 +16,4 @@ NativeDB Added Parameter 3: int amount
 NativeDB Added Parameter 4: int* p3
 ```
 
-## Return value
+## 返回值

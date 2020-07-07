@@ -26,6 +26,6 @@ From the b678d decompiled scripts:
  STREAMING::REQUEST_NAMED_PTFX_ASSET("scr_prison_break_heist_station");  
 ```
 
-## Parameters
+## 參數
 * **assetName**: 
 

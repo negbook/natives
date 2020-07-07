@@ -13,7 +13,7 @@ void SET_MP_GAMER_TAG_BIG_TEXT(int gamerTagId, char* string);
 Set's the string displayed when flag 3 (AudioSpeaker) active.  
 ```
 
-## Parameters
+## 參數
 * **gamerTagId**: 
 * **string**: 
 

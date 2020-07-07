@@ -13,7 +13,7 @@ NativeDB Added Parameter 3: Any p2
 NativeDB Added Parameter 4: Any p3
 ```
 
-## Parameters
+## 參數
 * **netId**: 
 * **time**: 
 

@@ -9,7 +9,7 @@ void SHOW_NUMBER_ON_BLIP(Blip blip, int number);
 ```
 
 
-## Parameters
+## 參數
 * **blip**: 
 * **number**: 
 

@@ -9,4 +9,4 @@ BOOL NETWORK_IS_LOCAL_PLAYER_INVINCIBLE();
 ```
 
 
-## Return value
+## 返回值

@@ -13,8 +13,8 @@ NativeDB Parameter 0: int* playerAccountId
 NativeDB Parameter 1: int* posixTime
 ```
 
-## Parameters
+## 參數
 * **playerAccountId**: 
 * **posixTime**: 
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ void SET_EXPLOSIVE_AMMO_THIS_FRAME(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 

@@ -9,7 +9,7 @@ BOOL NETWORK_HAS_CONTROL_OF_PICKUP(Pickup pickup);
 ```
 
 
-## Parameters
+## 參數
 * **pickup**: 
 
-## Return value
+## 返回值

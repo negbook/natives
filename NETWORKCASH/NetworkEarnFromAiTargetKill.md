@@ -13,7 +13,7 @@ void NETWORK_EARN_FROM_AI_TARGET_KILL(Any p0, Any p1);
 DSPORT  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

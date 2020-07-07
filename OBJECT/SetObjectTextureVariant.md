@@ -31,7 +31,7 @@ enum ObjectPaintVariants
 };  
 ```
 
-## Parameters
+## 參數
 * **object**: 
 * **textureVariation**: 
 

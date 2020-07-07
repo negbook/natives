@@ -9,8 +9,8 @@ BOOL IS_PED_RESPONDING_TO_EVENT(Ped ped, Any event);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **event**: 
 
-## Return value
+## 返回值

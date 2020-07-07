@@ -10,7 +10,7 @@ void ENABLE_VEHICLE_EXHAUST_POPS(Vehicle vehicle, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

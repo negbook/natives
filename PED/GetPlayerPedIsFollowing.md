@@ -9,7 +9,7 @@ Player GET_PLAYER_PED_IS_FOLLOWING(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

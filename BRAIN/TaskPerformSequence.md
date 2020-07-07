@@ -12,8 +12,8 @@ Any TASK_PERFORM_SEQUENCE(Ped ped, int taskSequenceId);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **taskSequenceId**: 
 
-## Return value
+## 返回值

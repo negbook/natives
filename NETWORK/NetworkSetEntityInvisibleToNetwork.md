@@ -18,7 +18,7 @@ pc or last gen?
 ^^ last-gen  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **toggle**: 
 

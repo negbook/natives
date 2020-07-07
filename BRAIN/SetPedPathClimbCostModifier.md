@@ -9,7 +9,7 @@ aliases: ["0x88E32DB8C1A4AA4B"]
 void SET_PED_PATH_CLIMB_COST_MODIFIER(Ped ped, float p1);
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 

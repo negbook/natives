@@ -12,7 +12,7 @@ void SET_PLAYER_WEAPON_DEFENSE_MODIFIER(Player player, ScrHandle modifier);
 NativeDB Parameter 1: float modifier
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **modifier**: 
 

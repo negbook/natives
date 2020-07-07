@@ -9,8 +9,8 @@ Cam CREATE_CAMERA(Hash camHash, BOOL p1);
 ```
 
 
-## Parameters
+## 參數
 * **camHash**: 
 * **p1**: 
 
-## Return value
+## 返回值

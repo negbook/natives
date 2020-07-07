@@ -17,7 +17,7 @@ bufferSize is 35 in the scripts.
 NativeDB Parameter 2: char* formattedTag
 ```
 
-## Parameters
+## 參數
 * **clanDesc**: 
 * **bufferSize**: 
 * **formattedTag**: 

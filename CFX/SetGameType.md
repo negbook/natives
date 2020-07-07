@@ -9,6 +9,6 @@ void SET_GAME_TYPE(char* gametypeName);
 ```
 
 
-## Parameters
+## 參數
 * **gametypeName**: 
 

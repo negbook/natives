@@ -9,7 +9,7 @@ void SET_ANIM_RATE(Any p0, float p1, Any p2, BOOL p3);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

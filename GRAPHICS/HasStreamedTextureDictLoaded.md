@@ -9,7 +9,7 @@ BOOL HAS_STREAMED_TEXTURE_DICT_LOADED(char* textureDict);
 ```
 
 
-## Parameters
+## 參數
 * **textureDict**: 
 
-## Return value
+## 返回值

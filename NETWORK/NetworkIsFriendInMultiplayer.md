@@ -9,7 +9,7 @@ BOOL NETWORK_IS_FRIEND_IN_MULTIPLAYER(char* friendName);
 ```
 
 
-## Parameters
+## 參數
 * **friendName**: 
 
-## Return value
+## 返回值

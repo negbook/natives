@@ -18,7 +18,7 @@ modelHash: The vehicle model to limit the selection to. Pass 0 for any model.
 flags: The bitwise flags that modifies the behaviour of this function.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -26,4 +26,4 @@ flags: The bitwise flags that modifies the behaviour of this function.
 * **modelHash**: 
 * **flags**: 
 
-## Return value
+## 返回值

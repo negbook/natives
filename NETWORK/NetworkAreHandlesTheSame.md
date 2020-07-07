@@ -9,8 +9,8 @@ BOOL NETWORK_ARE_HANDLES_THE_SAME(int* netHandle1, int* netHandle2);
 ```
 
 
-## Parameters
+## 參數
 * **netHandle1**: 
 * **netHandle2**: 
 
-## Return value
+## 返回值

@@ -13,7 +13,7 @@ void _SET_BOAT_ANCHOR_BUOYANCY_COEFFICIENT(Vehicle vehicle, float value);
 Vehicle must be a boat.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **value**: 
 

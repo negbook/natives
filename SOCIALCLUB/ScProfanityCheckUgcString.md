@@ -10,8 +10,8 @@ BOOL _SC_PROFANITY_CHECK_UGC_STRING(char* string, int* token);
 ```
 
 
-## Parameters
+## 參數
 * **string**: 
 * **token**: 
 
-## Return value
+## 返回值

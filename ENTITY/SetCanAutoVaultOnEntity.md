@@ -9,7 +9,7 @@ aliases: ["0xE12ABE5E3A389A6C"]
 void SET_CAN_AUTO_VAULT_ON_ENTITY(Entity entity, BOOL p1);
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **p1**: 
 

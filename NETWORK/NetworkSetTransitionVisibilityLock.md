@@ -13,7 +13,7 @@ void NETWORK_SET_TRANSITION_VISIBILITY_LOCK(BOOL p0, BOOL p1);
 x360 Hash: 0x4AF0ADF5  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

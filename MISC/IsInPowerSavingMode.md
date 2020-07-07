@@ -18,4 +18,4 @@ if (GAMEPLAY::_684A41975F077262()) {
    }  
 ```
 
-## Return value
+## 返回值

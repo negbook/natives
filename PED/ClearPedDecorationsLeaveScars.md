@@ -10,6 +10,6 @@ void CLEAR_PED_DECORATIONS_LEAVE_SCARS(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 

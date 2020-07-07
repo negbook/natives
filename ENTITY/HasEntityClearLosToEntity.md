@@ -16,9 +16,9 @@ There is other codes used for traceType:
 256 & 287 - in fm_mission_controller  
 ```
 
-## Parameters
+## 參數
 * **entity1**: 
 * **entity2**: 
 * **traceType**: 
 
-## Return value
+## 返回值

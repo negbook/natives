@@ -9,7 +9,7 @@ void GIVE_PLAYER_RAGDOLL_CONTROL(Player player, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 

@@ -10,7 +10,7 @@ void SET_RADIUS_BLIP_EDGE(Any p0, BOOL p1);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

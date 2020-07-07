@@ -10,7 +10,7 @@ void SET_FORCE_STEP_TYPE(Ped ped, BOOL p1, int type, int p3);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 * **type**: 

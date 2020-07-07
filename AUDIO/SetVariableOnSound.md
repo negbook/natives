@@ -9,7 +9,7 @@ void SET_VARIABLE_ON_SOUND(int soundId, char* variableName, float value);
 ```
 
 
-## Parameters
+## 參數
 * **soundId**: 
 * **variableName**: 
 * **value**: 

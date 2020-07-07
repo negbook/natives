@@ -9,7 +9,7 @@ void SET_PLAYBACK_SPEED(Vehicle vehicle, float speed);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **speed**: 
 

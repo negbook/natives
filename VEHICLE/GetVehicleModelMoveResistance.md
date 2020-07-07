@@ -15,7 +15,7 @@ called if the vehicle is a boat -- returns vecMoveResistanceX?
 For a full list, see here: pastebin.com/Pyb2RhZ9  
 ```
 
-## Parameters
+## 參數
 * **modelHash**: 
 
-## Return value
+## 返回值

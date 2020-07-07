@@ -12,7 +12,7 @@ void FORCE_CLEANUP_FOR_ALL_THREADS_WITH_THIS_NAME(char* name, int cleanupFlags);
 PLAYER::FORCE_CLEANUP_FOR_ALL_THREADS_WITH_THIS_NAME("pb_prostitute", 1); // Found in decompilation  
 ```
 
-## Parameters
+## 參數
 * **name**: 
 * **cleanupFlags**: 
 

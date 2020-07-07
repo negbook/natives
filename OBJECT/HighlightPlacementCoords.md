@@ -20,7 +20,7 @@ draws circular marker at pos
 5 = green small  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

@@ -9,4 +9,4 @@ aliases: ["0x162F9D995753DC19","_GET_GAMEPLAY_CAM_FAR_CLIP_2"]
 float GET_FINAL_RENDERED_CAM_MOTION_BLUR_STRENGTH();
 ```
 
-## Return value
+## 返回值

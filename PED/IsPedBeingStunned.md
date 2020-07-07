@@ -12,8 +12,8 @@ BOOL IS_PED_BEING_STUNNED(Ped ped, int p1);
 p1 is always 0  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 
-## Return value
+## 返回值

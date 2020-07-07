@@ -10,9 +10,9 @@ BOOL UGC_SET_BOOKMARKED(char* contentId, BOOL bookmarked, char* contentTypeName)
 ```
 
 
-## Parameters
+## 參數
 * **contentId**: 
 * **bookmarked**: 
 * **contentTypeName**: 
 
-## Return value
+## 返回值

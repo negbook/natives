@@ -9,6 +9,6 @@ void DISABLE_SCRIPT_BRAIN_SET(int brainSet);
 ```
 
 
-## Parameters
+## 參數
 * **brainSet**: 
 

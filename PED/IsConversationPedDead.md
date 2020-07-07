@@ -9,7 +9,7 @@ BOOL IS_CONVERSATION_PED_DEAD(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

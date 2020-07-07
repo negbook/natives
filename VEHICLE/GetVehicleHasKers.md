@@ -10,8 +10,8 @@ BOOL GET_VEHICLE_HAS_KERS(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: The vehicle handle.
 
-## Return value
+## 返回值
 Returns true if the vehicle has a kers boost (for instance the lectro or the vindicator)

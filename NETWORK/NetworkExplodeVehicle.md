@@ -28,10 +28,10 @@ Seems it's like ADD_EXPLOSION, etc. the first 2 params. The 3rd atm no need to w
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **isAudible**: 
 * **isInvisible**: 
 * **p3**: 
 
-## Return value
+## 返回值

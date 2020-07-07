@@ -9,4 +9,4 @@ aliases: ["_GET_GAMEPLAY_CAM_COORDS"]
 Vector3 GET_FINAL_RENDERED_CAM_COORD();
 ```
 
-## Return value
+## 返回值

@@ -14,7 +14,7 @@ if "flag" is true, the AI blip will always be displayed for the specified ped, i
 If "flag" is false, the AI blip will only be displayed when the player is in combat with the specified ped, if it has an AI blip  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

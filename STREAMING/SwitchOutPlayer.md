@@ -26,7 +26,7 @@ switchType: 0 - 3
 3: 1 step towards ped
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **flags**: 
 * **switchType**: 

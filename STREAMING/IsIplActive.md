@@ -12,7 +12,7 @@ BOOL IS_IPL_ACTIVE(char* iplName);
 List of all IPLs: pastebin.com/iNGLY32D  
 ```
 
-## Parameters
+## 參數
 * **iplName**: 
 
-## Return value
+## 返回值

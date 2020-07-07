@@ -10,7 +10,7 @@ char* GET_COMMERCE_ITEM_NAME(int index);
 ```
 
 
-## Parameters
+## 參數
 * **index**: 
 
-## Return value
+## 返回值

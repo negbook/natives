@@ -13,7 +13,7 @@ void SET_AUTO_GIVE_SCUBA_GEAR_WHEN_EXIT_VEHICLE(Player player, BOOL toggle);
 1.0.335.2, 1.0.350.1/2, 1.0.372.2, 1.0.393.2, 1.0.393.4, 1.0.463.1;  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 

@@ -9,7 +9,7 @@ void USE_SIREN_AS_HORN(Vehicle vehicle, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

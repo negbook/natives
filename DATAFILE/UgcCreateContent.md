@@ -13,7 +13,7 @@ BOOL UGC_CREATE_CONTENT(char* data, BOOL dataCount, char* contentName, char* des
 NativeDB Parameter 1: int dataCount
 ```
 
-## Parameters
+## 參數
 * **data**: 
 * **dataCount**: 
 * **contentName**: 
@@ -22,4 +22,4 @@ NativeDB Parameter 1: int dataCount
 * **contentTypeName**: 
 * **publish**: 
 
-## Return value
+## 返回值

@@ -10,7 +10,7 @@ void TRIGGER_LATENT_CLIENT_EVENT_INTERNAL(char* eventName, char* eventTarget, ch
 
 The backing function for TriggerLatentClientEvent.
 
-## Parameters
+## 參數
 * **eventName**: 
 * **eventTarget**: 
 * **eventPayload**: 

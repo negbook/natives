@@ -10,6 +10,6 @@ void _SEETHROUGH_SET_NOISE_AMOUNT_MIN(float amount);
 ```
 
 
-## Parameters
+## 參數
 * **amount**: 
 

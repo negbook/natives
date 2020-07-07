@@ -19,7 +19,7 @@ NativeDB Added Parameter 5: Any p4
 NativeDB Added Parameter 6: Any p5
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **target**: 
 * **time**: 

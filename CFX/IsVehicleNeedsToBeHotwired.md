@@ -9,7 +9,7 @@ BOOL IS_VEHICLE_NEEDS_TO_BE_HOTWIRED(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

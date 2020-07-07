@@ -9,7 +9,7 @@ BOOL IS_THREAD_ACTIVE(int threadId);
 ```
 
 
-## Parameters
+## 參數
 * **threadId**: 
 
-## Return value
+## 返回值

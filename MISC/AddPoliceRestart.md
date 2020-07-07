@@ -9,11 +9,11 @@ Any ADD_POLICE_RESTART(float p0, float p1, float p2, float p3, Any p4);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
 * **p3**: 
 * **p4**: 
 
-## Return value
+## 返回值

@@ -10,6 +10,6 @@ void RELEASE_PEDHEADSHOT_IMG_UPLOAD(int id);
 ```
 
 
-## Parameters
+## 參數
 * **id**: 
 

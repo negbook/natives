@@ -12,7 +12,7 @@ void CLEAR_FLOATING_HELP(Any p0, BOOL p1);
 p0 looks like int in script  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

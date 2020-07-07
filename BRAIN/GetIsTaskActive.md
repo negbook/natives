@@ -14,8 +14,8 @@ AI::GET_IS_TASK_ACTIVE(PLAYER::PLAYER_PED_ID(), 2))
 Known Tasks: pastebin.com/2gFqJ3Px  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **taskIndex**: 
 
-## Return value
+## 返回值

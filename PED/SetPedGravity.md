@@ -15,7 +15,7 @@ PED::SET_PED_GRAVITY(PLAYER::PLAYER_PED_ID(), 0x00000001);
 PED::SET_PED_GRAVITY(Local_289[iVar0 /*20*/], 0x00000001);  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

@@ -9,7 +9,7 @@ BOOL NETWORK_AM_I_BLOCKED_BY_GAMER(Any* networkHandle);
 ```
 
 
-## Parameters
+## 參數
 * **networkHandle**: 
 
-## Return value
+## 返回值

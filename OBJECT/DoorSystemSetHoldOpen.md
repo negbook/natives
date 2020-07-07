@@ -9,7 +9,7 @@ aliases: ["0xD9B71952F78A2640"]
 void DOOR_SYSTEM_SET_HOLD_OPEN(Hash doorHash, BOOL p1);
 ```
 
-## Parameters
+## 參數
 * **doorHash**: 
 * **p1**: 
 

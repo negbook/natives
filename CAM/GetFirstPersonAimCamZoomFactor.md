@@ -9,4 +9,4 @@ aliases: ["_GET_GAMEPLAY_CAM_ZOOM"]
 float GET_FIRST_PERSON_AIM_CAM_ZOOM_FACTOR();
 ```
 
-## Return value
+## 返回值

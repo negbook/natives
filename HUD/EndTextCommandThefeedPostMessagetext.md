@@ -36,7 +36,7 @@ iconTypes:
 "subject" is the header under the sender.  
 ```
 
-## Parameters
+## 參數
 * **textureDict**: The texture dictionary for the icon.
 * **textureName**: The texture name for the icon.
 * **flash**: Flash, doesn't seem to work no matter what.
@@ -44,7 +44,7 @@ iconTypes:
 * **sender**: The notification title.
 * **subject**: The notification subtitle.
 
-## Return value
+## 返回值
 The notification handle.
 
 ## Examples

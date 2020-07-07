@@ -9,6 +9,6 @@ void STOP_CAM_POINTING(Cam cam);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 

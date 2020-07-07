@@ -9,7 +9,7 @@ void SET_ALL_VEHICLE_GENERATORS_ACTIVE_IN_AREA(float x1, float y1, float z1, flo
 ```
 
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 

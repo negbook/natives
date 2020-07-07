@@ -9,7 +9,7 @@ BOOL DOES_BLIP_EXIST(Blip blip);
 ```
 
 
-## Parameters
+## 參數
 * **blip**: 
 
-## Return value
+## 返回值

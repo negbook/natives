@@ -12,6 +12,6 @@ void NETWORK_SET_PROPERTY_ID(int id);
 value must be < 255
 ```
 
-## Parameters
+## 參數
 * **id**: 
 

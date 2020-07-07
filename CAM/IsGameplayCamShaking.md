@@ -9,4 +9,4 @@ BOOL IS_GAMEPLAY_CAM_SHAKING();
 ```
 
 
-## Return value
+## 返回值

@@ -13,6 +13,6 @@ Unloads the specified animation set. An animation set provides movement animatio
 Animation set and clip set are synonymous.  
 ```
 
-## Parameters
+## 參數
 * **animSet**: 
 

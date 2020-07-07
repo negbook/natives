@@ -9,4 +9,4 @@ aliases: ["0x9049FE339D5F6F6F"]
 BOOL _IS_MINIMAP_IN_INTERIOR();
 ```
 
-## Return value
+## 返回值

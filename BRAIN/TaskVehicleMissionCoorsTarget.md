@@ -13,7 +13,7 @@ Example from fm_mission_controller.c4:
 AI::TASK_VEHICLE_MISSION_COORS_TARGET(l_65E1, l_65E2, 324.84588623046875, 325.09619140625, 104.3525, 4, 15.0, 802987, 5.0, 5.0, 0);  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **vehicle**: 
 * **x**: 

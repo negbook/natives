@@ -9,7 +9,7 @@ void SET_PED_PATH_CAN_DROP_FROM_HEIGHT(Ped ped, BOOL Toggle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **Toggle**: 
 

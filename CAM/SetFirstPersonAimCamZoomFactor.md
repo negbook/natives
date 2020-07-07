@@ -9,6 +9,6 @@ aliases: ["0x70894BD0915C5BCA"]
 void SET_FIRST_PERSON_AIM_CAM_ZOOM_FACTOR(float p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

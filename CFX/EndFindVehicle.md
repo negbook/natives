@@ -9,6 +9,6 @@ void END_FIND_VEHICLE(int findHandle);
 ```
 
 
-## Parameters
+## 參數
 * **findHandle**: 
 

@@ -12,4 +12,4 @@ float TIMESTEP();
 Gets the current frame time.  
 ```
 
-## Return value
+## 返回值

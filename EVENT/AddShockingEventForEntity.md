@@ -13,9 +13,9 @@ duration is float here
 Event types - camx.me/gtav/tasks/shockingevents.txt  
 ```
 
-## Parameters
+## 參數
 * **type**: 
 * **entity**: 
 * **duration**: 
 
-## Return value
+## 返回值

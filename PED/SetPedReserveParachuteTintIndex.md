@@ -9,7 +9,7 @@ void SET_PED_RESERVE_PARACHUTE_TINT_INDEX(Ped ped, Any p1);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 

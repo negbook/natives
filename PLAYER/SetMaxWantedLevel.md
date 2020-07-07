@@ -9,6 +9,6 @@ void SET_MAX_WANTED_LEVEL(int maxWantedLevel);
 ```
 
 
-## Parameters
+## 參數
 * **maxWantedLevel**: 
 

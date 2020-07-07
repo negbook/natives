@@ -9,7 +9,7 @@ BOOL SET_TEXT_CHAT_ENABLED(BOOL enabled);
 ```
 
 
-## Parameters
+## 參數
 * **enabled**: 
 
-## Return value
+## 返回值

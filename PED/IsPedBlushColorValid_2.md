@@ -13,7 +13,7 @@ BOOL _IS_PED_BLUSH_COLOR_VALID_2(int colorID);
 Used in hairdo_shop*.ysc and maintransition.ysc
 ```
 
-## Parameters
+## 參數
 * **colorID**: 
 
-## Return value
+## 返回值

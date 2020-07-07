@@ -13,6 +13,6 @@ void SET_DISABLE_RANDOM_TRAINS_THIS_FRAME(BOOL toggle);
 SET_*_MULTIPLIER_THIS_FRAME  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

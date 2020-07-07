@@ -81,7 +81,7 @@ NativeDB Parameter 5: char* background
 NativeDB Parameter 6: char* p6
 ```
 
-## Parameters
+## 參數
 * **entryLine1**: The text label to display as the first line of the warning message.
 * **instructionalKey**: This is an enum, check the description for a list.
 * **entryLine2**: The text label to display as the second line of the warning message.

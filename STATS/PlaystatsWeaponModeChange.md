@@ -15,7 +15,7 @@ NativeDB Parameter 1: Hash componentHashTo
 NativeDB Parameter 2: Hash componentHashFrom
 ```
 
-## Parameters
+## 參數
 * **weaponHash**: 
 * **componentHashTo**: 
 * **componentHashFrom**: 

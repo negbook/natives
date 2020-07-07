@@ -9,7 +9,7 @@ void CLEAR_DECISION_MAKER_EVENT_RESPONSE(Hash name, int type);
 ```
 
 
-## Parameters
+## 參數
 * **name**: 
 * **type**: 
 

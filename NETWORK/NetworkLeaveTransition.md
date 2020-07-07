@@ -12,4 +12,4 @@ Any NETWORK_LEAVE_TRANSITION();
 NativeDB Return Type: BOOL
 ```
 
-## Return value
+## 返回值

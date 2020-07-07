@@ -26,7 +26,7 @@ ai::task_stealth_kill(iParam1, Local_252, gameplay::get_hash_key("AR_stealth_kil
 Also it may be important to note, that each time this task is called, it's followed by AI::CLEAR_PED_TASKS on the target  
 ```
 
-## Parameters
+## 參數
 * **killer**: 
 * **target**: 
 * **actionType**: 

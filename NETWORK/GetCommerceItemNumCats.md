@@ -10,7 +10,7 @@ int GET_COMMERCE_ITEM_NUM_CATS(int index);
 ```
 
 
-## Parameters
+## 參數
 * **index**: 
 
-## Return value
+## 返回值

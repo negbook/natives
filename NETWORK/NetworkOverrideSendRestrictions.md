@@ -15,7 +15,7 @@ This is used alongside the native,
 'NETWORK_OVERRIDE_RECEIVE_RESTRICTIONS'. Read it's description for more info.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 

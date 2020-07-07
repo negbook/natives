@@ -19,7 +19,7 @@ Returns a value based on what the blip is attached to
 7  
 ```
 
-## Parameters
+## 參數
 * **blip**: 
 
-## Return value
+## 返回值

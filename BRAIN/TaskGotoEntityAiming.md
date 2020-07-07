@@ -17,7 +17,7 @@ AI::TASK_GOTO_ENTITY_AIMING(v_2, PLAYER::PLAYER_PED_ID(), 5.0, 25.0);
 		StartAimingDist = distance where the ped should start to aim.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **target**: 
 * **distanceToStopAt**: 

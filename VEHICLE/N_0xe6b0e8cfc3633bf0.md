@@ -12,7 +12,7 @@ int _0xE6B0E8CFC3633BF0(Vehicle vehicle);
 GET_VEHICLE_*  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

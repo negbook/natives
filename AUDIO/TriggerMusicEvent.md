@@ -13,7 +13,7 @@ List of all usable event names found in b617d used with this native. Sorted alph
 All music event names found in the b617d scripts: pastebin.com/GnYt0R3P  
 ```
 
-## Parameters
+## 參數
 * **eventName**: 
 
-## Return value
+## 返回值

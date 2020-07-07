@@ -36,7 +36,7 @@ MAX_HUD_WEAPONS = 22;
 MAX_SCRIPTED_HUD_COMPONENTS = 141;  
 ```
 
-## Parameters
+## 參數
 * **id**: 
 
-## Return value
+## 返回值

@@ -10,7 +10,7 @@ void PLAYSTATS_QUICKFIX_TOOL(int element, char* item);
 ```
 
 
-## Parameters
+## 參數
 * **element**: 
 * **item**: 
 

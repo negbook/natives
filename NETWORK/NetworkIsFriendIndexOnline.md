@@ -10,7 +10,7 @@ BOOL NETWORK_IS_FRIEND_INDEX_ONLINE(int friendIndex);
 ```
 
 
-## Parameters
+## 參數
 * **friendIndex**: 
 
-## Return value
+## 返回值

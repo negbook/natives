@@ -13,7 +13,7 @@ x1, y1, z1 -- Coords of your ped model
 x2, y2, z2 -- Coords of the ped you want to switch to  
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 
@@ -21,4 +21,4 @@ x2, y2, z2 -- Coords of the ped you want to switch to
 * **y2**: 
 * **z2**: 
 
-## Return value
+## 返回值

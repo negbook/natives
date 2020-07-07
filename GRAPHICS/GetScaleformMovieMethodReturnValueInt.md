@@ -30,8 +30,8 @@ if (GRAPHICS::IS_SCALEFORM_MOVIE_METHOD_RETURN_VALUE_READY(l_45)) {
 }  
 ```
 
-## Parameters
+## 參數
 * **method_return**: The return value of this native: `EndScaleformMovieMethodReturn`
 
-## Return value
+## 返回值
 Returns an int in the same way `GET_SCALEFORM_MOVIE_METHOD_RETURN_VALUE_STRING` returns a string.

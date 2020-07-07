@@ -9,7 +9,7 @@ void REMOVE_MODEL_SWAP(float x, float y, float z, float radius, Hash originalMod
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

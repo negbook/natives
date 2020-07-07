@@ -9,4 +9,4 @@ BOOL IS_LOOK_INVERTED();
 ```
 
 
-## Return value
+## 返回值

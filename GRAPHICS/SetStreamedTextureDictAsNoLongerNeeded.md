@@ -9,6 +9,6 @@ void SET_STREAMED_TEXTURE_DICT_AS_NO_LONGER_NEEDED(char* textureDict);
 ```
 
 
-## Parameters
+## 參數
 * **textureDict**: 
 

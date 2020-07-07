@@ -16,7 +16,7 @@ thisScriptCheck - can be destroyed if it belongs to the calling script.
 NativeDB Added Parameter 8: BOOL p7
 ```
 
-## Parameters
+## 參數
 * **modelHash**: 
 * **x**: 
 * **y**: 
@@ -25,4 +25,4 @@ NativeDB Added Parameter 8: BOOL p7
 * **isNetwork**: 
 * **thisScriptCheck**: 
 
-## Return value
+## 返回值

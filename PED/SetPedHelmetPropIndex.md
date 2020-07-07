@@ -17,7 +17,7 @@ gtaxscripting.blogspot.com/2016/04/gta-v-peds-component-and-props.html
 NativeDB Added Parameter 3: BOOL p2
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **propIndex**: 
 

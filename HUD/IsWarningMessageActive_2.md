@@ -13,4 +13,4 @@ BOOL _IS_WARNING_MESSAGE_ACTIVE_2();
 IS_WARNING_MESSAGE_*
 ```
 
-## Return value
+## 返回值

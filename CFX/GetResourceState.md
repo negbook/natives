@@ -10,8 +10,8 @@ char* GET_RESOURCE_STATE(char* resourceName);
 
 Returns the current state of the specified resource.
 
-## Parameters
+## 參數
 * **resourceName**: The name of the resource.
 
-## Return value
+## 返回值
 The resource state. One of `"missing", "started", "starting", "stopped", "stopping", "uninitialized" or "unknown"`.

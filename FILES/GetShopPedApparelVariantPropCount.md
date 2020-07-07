@@ -9,10 +9,10 @@ aliases: ["0xD40AAC51E8E4C663"]
 int _GET_SHOP_PED_APPAREL_VARIANT_PROP_COUNT(Hash propHash);
 ```
 
-## Parameters
+## 參數
 * **propHash**: Ped helmet prop hash
 
-## Return value
+## 返回值
 This native returns 1 when the player helmet has a visor (there is another prop index for the same helmet with closed/opened visor variant) that can be toggled. 0 if there's no alternative version with a visor for this helmet prop.
 
 

@@ -12,7 +12,7 @@ BOOL IS_PED_HURT(Ped ped);
 Returns whether the specified ped is hurt.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

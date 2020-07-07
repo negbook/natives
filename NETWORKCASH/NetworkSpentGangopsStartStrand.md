@@ -12,7 +12,7 @@ void _NETWORK_SPENT_GANGOPS_START_STRAND(int type, int amount, BOOL p2, BOOL p3)
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **type**:
 * **amount**:
 * **p2**:

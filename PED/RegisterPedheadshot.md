@@ -12,7 +12,7 @@ int REGISTER_PEDHEADSHOT(Ped ped);
 gtaforums.com/topic/885580-ped-headshotmugshot-txd/  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

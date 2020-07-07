@@ -9,6 +9,6 @@ aliases: ["0x17F7471EACA78290"]
 void _SPECIAL_ABILITY_DEPLETE(Any p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

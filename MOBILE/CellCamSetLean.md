@@ -14,6 +14,6 @@ if the bool "Toggle" is "true" so the phone is lean.
 if the bool "Toggle" is "false" so the phone is not lean.  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

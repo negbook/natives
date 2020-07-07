@@ -9,7 +9,7 @@ void SET_BLIP_SCALE(Blip blip, float scale);
 ```
 
 
-## Parameters
+## 參數
 * **blip**: 
 * **scale**: 
 

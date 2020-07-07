@@ -10,7 +10,7 @@ void _FIRE_AIR_DEFENSE_WEAPON(int zoneId, float x, float y, float z);
 ```
 
 
-## Parameters
+## 參數
 * **zoneId**: 
 * **x**: 
 * **y**: 

@@ -9,4 +9,4 @@ BOOL HAS_PTFX_ASSET_LOADED();
 ```
 
 
-## Return value
+## 返回值

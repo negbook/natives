@@ -12,6 +12,6 @@ void SET_MODEL_AS_NO_LONGER_NEEDED(Hash model);
 Unloads model from memory  
 ```
 
-## Parameters
+## 參數
 * **model**: 
 

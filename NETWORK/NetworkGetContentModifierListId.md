@@ -16,7 +16,7 @@ The mission id can be found on the Social club, for example, 'socialclub.rocksta
 'A8M6Bz8MLEC5xngvDCzGwA' is the mission id, so the game hash this and use it as the parameter for this native.  
 ```
 
-## Parameters
+## 參數
 * **contentHash**: 
 
-## Return value
+## 返回值

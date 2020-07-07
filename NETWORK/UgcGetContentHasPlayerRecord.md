@@ -9,7 +9,7 @@ aliases: ["0x70EA8DA57840F9BE"]
 BOOL UGC_GET_CONTENT_HAS_PLAYER_RECORD(Any p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

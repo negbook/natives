@@ -13,7 +13,7 @@ BOOL START_NETWORKED_PARTICLE_FX_NON_LOOPED_ON_ENTITY(char* effectName, Entity e
 network fx  
 ```
 
-## Parameters
+## 參數
 * **effectName**: 
 * **entity**: 
 * **offsetX**: 
@@ -27,4 +27,4 @@ network fx
 * **axisY**: 
 * **axisZ**: 
 
-## Return value
+## 返回值

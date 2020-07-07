@@ -24,7 +24,7 @@ alpha - opacity level
 NativeDB Added Parameter 12: BOOL p11
 ```
 
-## Parameters
+## 參數
 * **textureDict**: 
 * **textureName**: 
 * **screenX**: 

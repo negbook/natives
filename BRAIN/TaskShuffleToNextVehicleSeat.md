@@ -17,7 +17,7 @@ The ped MUST be in a vehicle and the vehicle parameter MUST be the ped's current
 NativeDB Added Parameter 3: Any p2
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **vehicle**: 
 

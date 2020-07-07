@@ -13,8 +13,8 @@ Has the entity1 got a clear line of sight to the other entity2 from the directio
 This is one of the most CPU demanding BOOL natives in the game; avoid calling this in things like nested for-loops  
 ```
 
-## Parameters
+## 參數
 * **entity1**: 
 * **entity2**: 
 
-## Return value
+## 返回值

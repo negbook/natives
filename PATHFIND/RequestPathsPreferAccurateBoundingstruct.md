@@ -13,10 +13,10 @@ BOOL _REQUEST_PATHS_PREFER_ACCURATE_BOUNDINGSTRUCT(float x1, float y1, float x2,
 Used internally for long range tasks
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **x2**: 
 * **y2**: 
 
-## Return value
+## 返回值

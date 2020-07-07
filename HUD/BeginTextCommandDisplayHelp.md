@@ -13,6 +13,6 @@ void BEGIN_TEXT_COMMAND_DISPLAY_HELP(char* inputType);
 Used to be known as _SET_TEXT_COMPONENT_FORMAT  
 ```
 
-## Parameters
+## 參數
 * **inputType**: 
 

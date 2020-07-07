@@ -36,8 +36,8 @@ Here's the right way to do it (console and pc):
 pastebin.com/SsFej963  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **sizeAndVehs**: 
 
-## Return value
+## 返回值

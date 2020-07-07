@@ -9,7 +9,7 @@ void ATTACH_CAM_TO_PED_BONE(Cam cam, Ped ped, int boneIndex, float x, float y, f
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **ped**: 
 * **boneIndex**: 

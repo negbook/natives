@@ -17,6 +17,6 @@ Does nothing if the mission flag is set.
 NativeDB Parameter 0: BOOL toggle
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

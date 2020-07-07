@@ -13,11 +13,11 @@ p2 is true 3/4 of the occurrences I found.
 'players' is the number of players for a session. On PS3/360 it's always 18. On PC it's 32.  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
 * **players**: 
 * **p4**: 
 
-## Return value
+## 返回值

@@ -13,4 +13,4 @@ int GET_MAXIMUM_NUMBER_OF_CLOUD_PHOTOS();
 This is the "actual" GET_MAXIMUM_NUMBER_OF_PHOTOS native. Always returns 96.  
 ```
 
-## Return value
+## 返回值

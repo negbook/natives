@@ -16,6 +16,6 @@ Seems to return the handle of the entity's portable pickup.
 NativeDB Introduced: v1180
 ```
 
-## Parameters
+## 參數
 * **entity**:
 * **modelHash**:

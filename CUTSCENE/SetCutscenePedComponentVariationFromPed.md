@@ -10,7 +10,7 @@ void SET_CUTSCENE_PED_COMPONENT_VARIATION_FROM_PED(char* cutsceneEntName, Ped pe
 ```
 
 
-## Parameters
+## 參數
 * **cutsceneEntName**: 
 * **ped**: 
 * **modelHash**: 

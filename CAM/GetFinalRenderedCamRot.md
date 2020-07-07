@@ -9,7 +9,7 @@ aliases: ["_GET_GAMEPLAY_CAM_ROT_2"]
 Vector3 GET_FINAL_RENDERED_CAM_ROT(int rotationOrder);
 ```
 
-## Parameters
+## 參數
 * **rotationOrder**: 
 
-## Return value
+## 返回值

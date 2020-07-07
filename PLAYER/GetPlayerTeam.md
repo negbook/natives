@@ -13,7 +13,7 @@ Gets the player's team.
 Does nothing in singleplayer.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

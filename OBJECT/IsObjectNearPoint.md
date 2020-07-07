@@ -9,11 +9,11 @@ BOOL IS_OBJECT_NEAR_POINT(Hash objectHash, float x, float y, float z, float rang
 ```
 
 
-## Parameters
+## 參數
 * **objectHash**: 
 * **x**: 
 * **y**: 
 * **z**: 
 * **range**: 
 
-## Return value
+## 返回值

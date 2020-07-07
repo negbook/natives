@@ -13,6 +13,6 @@ void _THEFEED_SET_FLUSH_ANIMPOSTFX(BOOL toggle);
 If true, remove all feed components instantly. Otherwise tween/animate close each component
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

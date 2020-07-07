@@ -13,6 +13,6 @@ void REMOVE_SCALEFORM_SCRIPT_HUD_MOVIE(int hudComponent);
 Another function related to "HUD scaleforms"  
 ```
 
-## Parameters
+## 參數
 * **hudComponent**: 
 

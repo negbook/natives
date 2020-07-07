@@ -12,4 +12,4 @@ int GET_NUMBER_OF_VEHICLE_NUMBER_PLATES();
 Returns the number of *types* of licence plates, enumerated below in SET_VEHICLE_NUMBER_PLATE_TEXT_INDEX.  
 ```
 
-## Return value
+## 返回值

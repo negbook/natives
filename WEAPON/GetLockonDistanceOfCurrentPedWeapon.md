@@ -10,7 +10,7 @@ float GET_LOCKON_DISTANCE_OF_CURRENT_PED_WEAPON(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

@@ -12,4 +12,4 @@ int GET_CLOCK_MINUTES();
 Gets the current ingame clock minute.  
 ```
 
-## Return value
+## 返回值

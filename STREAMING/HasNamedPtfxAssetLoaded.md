@@ -12,7 +12,7 @@ BOOL HAS_NAMED_PTFX_ASSET_LOADED(char* assetName);
 assetName = For example "core"  
 ```
 
-## Parameters
+## 參數
 * **assetName**: 
 
-## Return value
+## 返回值

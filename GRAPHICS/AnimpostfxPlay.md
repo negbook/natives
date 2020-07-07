@@ -15,7 +15,7 @@ if loop is true, the effect wont stop until you call _STOP_SCREEN_EFFECT on it. 
 Example and list of screen FX: www.pastebin.com/dafBAjs0  
 ```
 
-## Parameters
+## 參數
 * **effectName**: 
 * **duration**: 
 * **looped**: 

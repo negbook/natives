@@ -9,6 +9,6 @@ void SET_GPS_ACTIVE(BOOL active);
 ```
 
 
-## Parameters
+## 參數
 * **active**: 
 

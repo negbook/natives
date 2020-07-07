@@ -9,7 +9,7 @@ aliases: ["0x25367DE49D64CF16"]
 void SET_DISABLE_PRETEND_OCCUPANTS(Vehicle vehicle, BOOL p1);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

@@ -13,4 +13,4 @@ BOOL _FACEBOOK_SET_CREATE_CHARACTER_COMPLETE();
 GTA Online character creation  
 ```
 
-## Return value
+## 返回值

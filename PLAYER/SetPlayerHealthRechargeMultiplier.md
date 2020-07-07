@@ -17,6 +17,6 @@ SetPlayerHealthRechargeMultiplier(PlayerId(), 0.0)
 SetPlayerHealthRechargeMultiplier(PlayerId(), 1.0)
 ```
 
-## Parameters
+## 參數
 * **player**: The local player ID.
 * **regenRate**: The recharge multiplier, a value between 0.0 and 1.0.

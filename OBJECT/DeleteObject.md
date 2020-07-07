@@ -13,6 +13,6 @@ Deletes the specified object, then sets the handle pointed to by the pointer to 
 meme.  
 ```
 
-## Parameters
+## 參數
 * **object**: 
 

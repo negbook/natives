@@ -14,5 +14,5 @@ Returns last vehicle that was rammed by the given vehicle using the shunt boost.
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **vehicle**:

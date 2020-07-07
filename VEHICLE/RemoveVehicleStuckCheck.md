@@ -9,6 +9,6 @@ void REMOVE_VEHICLE_STUCK_CHECK(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 

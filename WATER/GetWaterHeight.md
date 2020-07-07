@@ -14,10 +14,10 @@ This function works with sea and lake. However it does not work with shallow riv
 note: seems to return true when you are in water  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 * **height**: 
 
-## Return value
+## 返回值

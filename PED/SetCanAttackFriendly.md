@@ -15,7 +15,7 @@ p1 = false & p2 = false for unable to aim at.
 p1 = true & p2 = false for able to aim at.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 * **p2**: 

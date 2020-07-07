@@ -12,6 +12,6 @@ Any _0x534E36D4DB9ECC5D(Any p0, Any p1);
 NativeDB Introduced: v1493
 ```
 
-## Parameters
+## 參數
 * **p0**:
 * **p1**:

@@ -10,7 +10,7 @@ void _LEADERBOARDS_DEATHS(Hash statName, float value);
 ```
 
 
-## Parameters
+## 參數
 * **statName**: 
 * **value**: 
 

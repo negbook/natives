@@ -13,7 +13,7 @@ void SET_CARGOBOB_PICKUP_ROPE_DAMPING_MULTIPLIER(Vehicle cargobob, Player p1);
 NativeDB Parameter 1: float p1
 ```
 
-## Parameters
+## 參數
 * **cargobob**: 
 * **p1**: 
 

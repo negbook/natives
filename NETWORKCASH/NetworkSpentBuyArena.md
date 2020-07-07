@@ -12,7 +12,7 @@ void _NETWORK_SPENT_BUY_ARENA(int amount, BOOL p1, BOOL p2, char* p3);
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **amount**:
 * **p1**:
 * **p2**:

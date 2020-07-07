@@ -13,6 +13,6 @@ void THEFEED_ONLY_SHOW_TOOLTIPS(BOOL toggle);
 If true, disables the creation of all GAME_STREAM_ENUMS besides TOOLTIPS
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

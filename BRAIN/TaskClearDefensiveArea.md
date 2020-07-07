@@ -9,6 +9,6 @@ void TASK_CLEAR_DEFENSIVE_AREA(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

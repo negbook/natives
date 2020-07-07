@@ -10,7 +10,7 @@ void _0x4DCDF92BF64236CD(char* p0, char* p1);
 
 **This native does absolutely nothing, just a nullsub**
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

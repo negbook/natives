@@ -12,7 +12,7 @@ void CLEAR_ANGLED_AREA_OF_VEHICLES(float p0, float p1, float p2, float p3, float
 NativeDB Added Parameter 13: Any p12
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

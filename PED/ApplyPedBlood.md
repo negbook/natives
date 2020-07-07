@@ -13,7 +13,7 @@ Found one occurence in re_crashrescue.c4
 PED::APPLY_PED_BLOOD(l_4B, 3, 0.0, 0.0, 0.0, "wound_sheet");  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **boneIndex**: 
 * **xRot**: 

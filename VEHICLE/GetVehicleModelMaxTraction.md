@@ -13,7 +13,7 @@ Returns max traction of the specified vehicle model.
 For a full list, see here: pastebin.com/ERnntVjK  
 ```
 
-## Parameters
+## 參數
 * **modelHash**: 
 
-## Return value
+## 返回值

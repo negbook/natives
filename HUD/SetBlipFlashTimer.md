@@ -12,7 +12,7 @@ void SET_BLIP_FLASH_TIMER(Blip blip, int duration);
 Adds up after viewing multiple R* scripts. I believe that the duration is in miliseconds.  
 ```
 
-## Parameters
+## 參數
 * **blip**: 
 * **duration**: 
 

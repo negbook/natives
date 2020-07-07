@@ -9,9 +9,9 @@ BOOL GET_VEHICLE_LIGHTS_STATE(Vehicle vehicle, BOOL* lightsOn, BOOL* highbeamsOn
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **lightsOn**:
 * **highbeamsOn**:
 
-## Return value
+## 返回值

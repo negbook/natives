@@ -19,7 +19,7 @@ NativeDB Added Parameter 19: Any p18
 NativeDB Added Parameter 20: Any p19
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 

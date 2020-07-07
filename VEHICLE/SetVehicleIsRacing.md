@@ -13,7 +13,7 @@ void SET_VEHICLE_IS_RACING(Vehicle vehicle, BOOL toggle);
 p1 (toggle) was always 1 (true) except in one case in the b678 scripts.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

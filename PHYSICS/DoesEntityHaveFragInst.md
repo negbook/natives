@@ -13,7 +13,7 @@ BOOL _DOES_ENTITY_HAVE_FRAG_INST(Object object);
 GET_*
 ```
 
-## Parameters
+## 參數
 * **object**: 
 
-## Return value
+## 返回值

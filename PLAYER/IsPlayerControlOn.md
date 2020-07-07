@@ -14,7 +14,7 @@ Can the player control himself, used to disable controls for player for things l
 You can't disable controls with this, use SET_PLAYER_CONTROL(...) for this.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

@@ -19,8 +19,8 @@ Types:
 7 = Array  
 ```
 
-## Parameters
+## 參數
 * **objectData**: 
 * **key**: 
 
-## Return value
+## 返回值

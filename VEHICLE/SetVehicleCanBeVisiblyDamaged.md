@@ -9,7 +9,7 @@ void SET_VEHICLE_CAN_BE_VISIBLY_DAMAGED(Vehicle vehicle, BOOL state);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **state**: 
 

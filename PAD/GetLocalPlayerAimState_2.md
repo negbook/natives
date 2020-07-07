@@ -13,4 +13,4 @@ int _GET_LOCAL_PLAYER_AIM_STATE_2();
 Same behavior as GET_LOCAL_PLAYER_AIM_STATE but only used on the PC version.  
 ```
 
-## Return value
+## 返回值

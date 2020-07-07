@@ -9,7 +9,7 @@ void SET_CAM_DOF_STRENGTH(Cam cam, float dofStrength);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **dofStrength**: 
 

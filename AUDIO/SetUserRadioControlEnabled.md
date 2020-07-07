@@ -9,6 +9,6 @@ void SET_USER_RADIO_CONTROL_ENABLED(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

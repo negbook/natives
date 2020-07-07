@@ -9,7 +9,7 @@ aliases: ["0x65499865FCA6E5EC"]
 float DOOR_SYSTEM_GET_OPEN_RATIO(Hash doorHash);
 ```
 
-## Parameters
+## 參數
 * **doorHash**: 
 
-## Return value
+## 返回值

@@ -14,5 +14,5 @@ CLEAR_*
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **vehicle**:

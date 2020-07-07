@@ -13,6 +13,6 @@ void SET_MINIMAP_HIDE_FOW(BOOL toggle);
 If true, the entire map will be revealed.
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

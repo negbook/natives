@@ -10,10 +10,10 @@ Hash GET_PACKED_BOOL_STAT_KEY(int index, BOOL spStat, BOOL charStat, int charact
 ```
 
 
-## Parameters
+## 參數
 * **index**: 
 * **spStat**: 
 * **charStat**: 
 * **character**: 
 
-## Return value
+## 返回值

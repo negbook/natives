@@ -9,7 +9,7 @@ Hash GET_WEAPONTYPE_SLOT(Hash weaponHash);
 ```
 
 
-## Parameters
+## 參數
 * **weaponHash**: 
 
-## Return value
+## 返回值

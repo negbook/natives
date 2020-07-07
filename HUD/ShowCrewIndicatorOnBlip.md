@@ -16,7 +16,7 @@ To toggle the right side of the circle use: [`SHOW_FRIEND_INDICATOR_ON_BLIP`](#_
 Example code result:
 ![](https://i.imgur.com/iZ9tNWl.png)
 
-## Parameters
+## 參數
 * **blip**: The blip to toggle the half blue circle around the blip on.
 * **toggle**: Enables or disables the half blue circle around the blip (on the left side).
 

@@ -10,7 +10,7 @@ BOOL _NET_GAMESERVER_SESSION_APPLY_RECEIVED_DATA(int charSlot);
 ```
 
 
-## Parameters
+## 參數
 * **charSlot**: 
 
-## Return value
+## 返回值

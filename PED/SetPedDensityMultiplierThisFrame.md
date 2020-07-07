@@ -16,6 +16,6 @@ void SET_PED_DENSITY_MULTIPLIER_THIS_FRAME(float multiplier);
 → 1.0 = normal peds on streets  
 ```
 
-## Parameters
+## 參數
 * **multiplier**: 
 

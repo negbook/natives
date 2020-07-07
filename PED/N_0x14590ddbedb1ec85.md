@@ -12,7 +12,7 @@ BOOL _0x14590DDBEDB1EC85(Ped ped);
 IS_PED_*
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

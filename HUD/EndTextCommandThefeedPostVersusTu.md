@@ -14,7 +14,7 @@ NativeDB Added Parameter 7: int hudColorIndex1
 NativeDB Added Parameter 8: int hudColorIndex2
 ```
 
-## Parameters
+## 參數
 * **ch1TXD**: 
 * **ch1TXN**: 
 * **val1**: 
@@ -22,4 +22,4 @@ NativeDB Added Parameter 8: int hudColorIndex2
 * **ch2TXN**: 
 * **val2**: 
 
-## Return value
+## 返回值

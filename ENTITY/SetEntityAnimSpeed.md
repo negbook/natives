@@ -10,7 +10,7 @@ void SET_ENTITY_ANIM_SPEED(Entity entity, char* animDictionary, char* animName, 
 
 [Animations list](https://alexguirre.github.io/animations-list/)
 
-## Parameters
+## 參數
 * **entity**: 
 * **animDictionary**: 
 * **animName**: 

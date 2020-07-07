@@ -38,9 +38,9 @@ and some of the tunable names used in the PC scripts:
 - "TOGGLE_CREATORS_OFF"  
 ```
 
-## Parameters
+## 參數
 * **tunableContext**: 
 * **tunableName**: 
 * **value**: 
 
-## Return value
+## 返回值

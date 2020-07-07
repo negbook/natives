@@ -9,7 +9,7 @@ void NETWORK_ADD_PED_TO_SYNCHRONISED_SCENE(Ped ped, int netScene, char* animDict
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **netScene**: 
 * **animDict**: 

@@ -9,7 +9,7 @@ BOOL DOES_VEHICLE_EXIST_WITH_DECORATOR(char* decorator);
 ```
 
 
-## Parameters
+## 參數
 * **decorator**: 
 
-## Return value
+## 返回值

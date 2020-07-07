@@ -9,8 +9,8 @@ Any _0xA01BC64DD4BFBBAC(Vehicle vehicle, int p1);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 
-## Return value
+## 返回值

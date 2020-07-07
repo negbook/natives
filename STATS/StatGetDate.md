@@ -9,10 +9,10 @@ BOOL STAT_GET_DATE(Hash statHash, Any* p1, Any p2, Any p3);
 ```
 
 
-## Parameters
+## 參數
 * **statHash**: 
 * **p1**: 
 * **p2**: 
 * **p3**: 
 
-## Return value
+## 返回值

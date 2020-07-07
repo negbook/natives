@@ -13,9 +13,9 @@ BOOL NETWORK_TRY_ACCESS_TUNABLE_BOOL_HASH(Hash tunableContext, Hash tunableName,
 Returns a default value if the tunable don't exist.  
 ```
 
-## Parameters
+## 參數
 * **tunableContext**: 
 * **tunableName**: 
 * **defaultValue**: 
 
-## Return value
+## 返回值

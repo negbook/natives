@@ -13,11 +13,11 @@ BOOL DOES_PICKUP_OF_TYPE_EXIST_IN_AREA(Hash pickupHash, float x, float y, float 
 Pickup hashes: pastebin.com/8EuSv2r1  
 ```
 
-## Parameters
+## 參數
 * **pickupHash**: 
 * **x**: 
 * **y**: 
 * **z**: 
 * **radius**: 
 
-## Return value
+## 返回值

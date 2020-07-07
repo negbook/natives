@@ -10,7 +10,7 @@ void _NETWORK_FORCE_LOCAL_USE_OF_SYNCED_SCENE_CAMERA(int netScene, char* animDic
 ```
 
 
-## Parameters
+## 參數
 * **netScene**: 
 * **animDict**: 
 * **animName**: 

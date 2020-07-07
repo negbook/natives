@@ -13,7 +13,7 @@ void SET_VEHICLE_PETROL_TANK_HEALTH(Vehicle vehicle, float health);
 Begins leaking gas at around 650 health  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **health**: 
 

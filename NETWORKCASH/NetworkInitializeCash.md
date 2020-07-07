@@ -10,7 +10,7 @@ void NETWORK_INITIALIZE_CASH(int wallet, int bank);
 ```
 
 
-## Parameters
+## 參數
 * **wallet**: 
 * **bank**: 
 

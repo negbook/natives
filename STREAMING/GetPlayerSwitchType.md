@@ -9,4 +9,4 @@ int GET_PLAYER_SWITCH_TYPE();
 ```
 
 
-## Return value
+## 返回值

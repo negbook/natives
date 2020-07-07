@@ -9,7 +9,7 @@ void SET_PED_WEAPON_MOVEMENT_CLIPSET(Ped ped, char* clipSet);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **clipSet**: 
 

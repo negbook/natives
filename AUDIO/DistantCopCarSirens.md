@@ -13,6 +13,6 @@ void DISTANT_COP_CAR_SIRENS(BOOL value);
 if value is set to true, and ambient siren sound will be played.
 ```
 
-## Parameters
+## 參數
 * **value**: 
 

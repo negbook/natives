@@ -10,6 +10,6 @@ void SET_GPS_MULTI_ROUTE_RENDER(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

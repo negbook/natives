@@ -9,7 +9,7 @@ void CLEAR_PED_ALTERNATE_MOVEMENT_ANIM(Ped ped, int stance, float p2);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **stance**: 
 * **p2**: 

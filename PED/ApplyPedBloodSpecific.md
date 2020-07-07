@@ -10,7 +10,7 @@ void APPLY_PED_BLOOD_SPECIFIC(Ped ped, Any p1, float p2, float p3, float p4, flo
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 * **p2**: 

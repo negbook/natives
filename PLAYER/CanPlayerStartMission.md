@@ -9,7 +9,7 @@ BOOL CAN_PLAYER_START_MISSION(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

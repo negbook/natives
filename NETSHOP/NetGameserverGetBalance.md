@@ -13,8 +13,8 @@ BOOL _NET_GAMESERVER_GET_BALANCE(BOOL inventory, BOOL playerbalance);
 Note: only one of the arguments can be set to true at a time
 ```
 
-## Parameters
+## 參數
 * **inventory**: 
 * **playerbalance**: 
 
-## Return value
+## 返回值

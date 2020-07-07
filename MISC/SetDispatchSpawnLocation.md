@@ -10,7 +10,7 @@ void SET_DISPATCH_SPAWN_LOCATION(float x, float y, float z);
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

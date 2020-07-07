@@ -22,6 +22,6 @@ AddTextComponentSubstringPlayerName("Hello " .. GetPlayerName(PlayerId()) .. "."
 EndTextCommandThefeedPostTicker(true, true)
 ```
 
-## Parameters
+## 參數
 * **text**: The text label to use.
 

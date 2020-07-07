@@ -13,7 +13,7 @@ p1: usually 8
 Cutscene list: pastebin.com/Bbj7ANpQ  
 ```
 
-## Parameters
+## 參數
 * **cutsceneName**: 
 * **flags**: 
 

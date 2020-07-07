@@ -12,7 +12,7 @@ void _SET_WARNING_MESSAGE_WITH_HEADER_UNK(char* entryHeader, char* entryLine1, i
 NativeDB Introduced: v1493
 ```
 
-## Parameters
+## 參數
 * **entryHeader**:
 * **entryLine1**:
 * **flags**:

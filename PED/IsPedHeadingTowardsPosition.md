@@ -10,11 +10,11 @@ BOOL IS_PED_HEADING_TOWARDS_POSITION(Ped ped, float x, float y, float z, float p
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **x**: 
 * **y**: 
 * **z**: 
 * **p4**: 
 
-## Return value
+## 返回值

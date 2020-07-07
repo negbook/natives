@@ -10,7 +10,7 @@ BOOL _NETWORK_HAS_VIEW_GAMER_USER_CONTENT_RESULT(Any* networkHandle);
 ```
 
 
-## Parameters
+## 參數
 * **networkHandle**: 
 
-## Return value
+## 返回值

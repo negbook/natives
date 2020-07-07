@@ -10,4 +10,4 @@ BOOL NETWORK_IS_TRANSITION_CLOSED_FRIENDS();
 ```
 
 
-## Return value
+## 返回值

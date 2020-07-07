@@ -9,11 +9,11 @@ BOOL STAT_SET_POS(Hash statName, float x, float y, float z, BOOL save);
 ```
 
 
-## Parameters
+## 參數
 * **statName**: 
 * **x**: 
 * **y**: 
 * **z**: 
 * **save**: 
 
-## Return value
+## 返回值

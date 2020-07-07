@@ -10,7 +10,7 @@ void _0xDE45D1A1EF45EE61(Player player, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 

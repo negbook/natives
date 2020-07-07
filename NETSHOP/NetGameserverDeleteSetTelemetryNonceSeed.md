@@ -13,4 +13,4 @@ Any _NET_GAMESERVER_DELETE_SET_TELEMETRY_NONCE_SEED();
 NativeDB Return Type: BOOL
 ```
 
-## Return value
+## 返回值

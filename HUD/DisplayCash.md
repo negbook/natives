@@ -13,6 +13,6 @@ void DISPLAY_CASH(BOOL toggle);
 "DISPLAY_CASH(true);" disables cash amount rendering  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

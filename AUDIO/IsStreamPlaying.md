@@ -9,4 +9,4 @@ BOOL IS_STREAM_PLAYING();
 ```
 
 
-## Return value
+## 返回值

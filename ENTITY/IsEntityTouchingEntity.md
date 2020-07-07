@@ -9,8 +9,8 @@ BOOL IS_ENTITY_TOUCHING_ENTITY(Entity entity, Entity targetEntity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **targetEntity**: 
 
-## Return value
+## 返回值

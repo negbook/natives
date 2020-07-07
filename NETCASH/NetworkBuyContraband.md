@@ -13,7 +13,7 @@ void _NETWORK_BUY_CONTRABAND(int p0, int p1, Any p2, BOOL p3, BOOL p4);
 NativeDB Parameter 2: Hash p2
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

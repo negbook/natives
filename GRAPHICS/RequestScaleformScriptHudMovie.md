@@ -13,6 +13,6 @@ void REQUEST_SCALEFORM_SCRIPT_HUD_MOVIE(int hudComponent);
 http://gtaforums.com/topic/717612-v-scriptnative-documentation-and-research/?p=1068285912  
 ```
 
-## Parameters
+## 參數
 * **hudComponent**: 
 

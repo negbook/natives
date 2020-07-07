@@ -9,7 +9,7 @@ void TASK_VEHICLE_DRIVE_TO_COORD_LONGRANGE(Ped ped, Vehicle vehicle, float x, fl
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **vehicle**: 
 * **x**: 

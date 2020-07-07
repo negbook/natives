@@ -9,4 +9,4 @@ aliases: ["0x78C0D93253149435"]
 int GET_PLAYER_SWITCH_JUMP_CUT_INDEX();
 ```
 
-## Return value
+## 返回值

@@ -12,7 +12,7 @@ Pickup CREATE_PORTABLE_PICKUP(Hash pickupHash, float x, float y, float z, BOOL p
 Pickup hashes: pastebin.com/8EuSv2r1  
 ```
 
-## Parameters
+## 參數
 * **pickupHash**: 
 * **x**: 
 * **y**: 
@@ -20,4 +20,4 @@ Pickup hashes: pastebin.com/8EuSv2r1
 * **placeOnGround**: 
 * **modelHash**: 
 
-## Return value
+## 返回值

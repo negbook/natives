@@ -12,4 +12,4 @@ BOOL IS_GAME_IN_CONTROL_OF_MUSIC();
 Hardcoded to return 1  
 ```
 
-## Return value
+## 返回值

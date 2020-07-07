@@ -10,7 +10,7 @@ void SET_DUI_URL(long duiObject, char* url);
 
 Navigates the specified DUI browser to a different URL.
 
-## Parameters
+## 參數
 * **duiObject**: The DUI browser handle.
 * **url**: The new URL.
 

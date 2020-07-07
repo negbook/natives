@@ -9,7 +9,7 @@ void SET_EMITTER_RADIO_STATION(char* emitterName, char* radioStation);
 ```
 
 
-## Parameters
+## 參數
 * **emitterName**: 
 * **radioStation**: 
 

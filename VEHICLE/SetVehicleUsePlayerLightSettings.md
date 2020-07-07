@@ -9,7 +9,7 @@ aliases: ["0xC45C27EF50F36ADC"]
 void _SET_VEHICLE_USE_PLAYER_LIGHT_SETTINGS(Vehicle vehicle, BOOL p1);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

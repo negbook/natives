@@ -9,7 +9,7 @@ BOOL GET_IS_VEHICLE_ENGINE_RUNNING(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

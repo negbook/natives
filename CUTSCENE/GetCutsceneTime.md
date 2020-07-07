@@ -9,4 +9,4 @@ int GET_CUTSCENE_TIME();
 ```
 
 
-## Return value
+## 返回值

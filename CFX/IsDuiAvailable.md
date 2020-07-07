@@ -10,8 +10,8 @@ BOOL IS_DUI_AVAILABLE(long duiObject);
 
 Returns whether or not a browser is created for a specified DUI browser object.
 
-## Parameters
+## 參數
 * **duiObject**: The DUI browser handle.
 
-## Return value
+## 返回值
 A boolean indicating TRUE if the browser is created.

@@ -12,6 +12,6 @@ void SET_MOBILE_RADIO_ENABLED_DURING_GAMEPLAY(BOOL toggle);
 Enables Radio on phone.  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

@@ -13,11 +13,11 @@ BOOL IS_ANY_ENTITY_ENTIRELY_INSIDE_GARAGE(Any garageHash, BOOL p1, BOOL p2, BOOL
 NativeDB Parameter 0: Hash garageHash
 ```
 
-## Parameters
+## 參數
 * **garageHash**: 
 * **p1**: 
 * **p2**: 
 * **p3**: 
 * **p4**: 
 
-## Return value
+## 返回值

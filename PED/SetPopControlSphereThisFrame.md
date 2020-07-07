@@ -9,7 +9,7 @@ aliases: ["0xD8C3BE3EE94CAF2D"]
 void SET_POP_CONTROL_SPHERE_THIS_FRAME(float x, float y, float z, float p3, float p4);
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

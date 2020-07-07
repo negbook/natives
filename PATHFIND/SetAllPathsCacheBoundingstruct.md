@@ -13,6 +13,6 @@ void _SET_ALL_PATHS_CACHE_BOUNDINGSTRUCT(BOOL toggle);
 Toggles a global boolean, name is probably a hash collision but describes its functionality.
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

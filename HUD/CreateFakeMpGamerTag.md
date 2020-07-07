@@ -15,7 +15,7 @@ p4 was always "".
 returns headDisplayId  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **username**: 
 * **pointedClanTag**: 
@@ -23,4 +23,4 @@ returns headDisplayId
 * **clanTag**: 
 * **clanFlag**: takes a number 0-5
 
-## Return value
+## 返回值

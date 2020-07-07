@@ -13,8 +13,8 @@ p1 is always 0 in the scripts.
 p1 = check if vehicle is on fire  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **isOnFireCheck**: 
 
-## Return value
+## 返回值

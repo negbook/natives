@@ -9,6 +9,6 @@ void PLAYSTATS_CHEAT_APPLIED(char* cheat);
 ```
 
 
-## Parameters
+## 參數
 * **cheat**: 
 

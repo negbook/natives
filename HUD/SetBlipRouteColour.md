@@ -9,7 +9,7 @@ void SET_BLIP_ROUTE_COLOUR(Blip blip, int colour);
 ```
 
 
-## Parameters
+## 參數
 * **blip**: 
 * **colour**: 
 

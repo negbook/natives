@@ -12,7 +12,7 @@ BOOL IS_PED_RAGDOLL(Ped ped);
 If the ped handle passed through the parenthesis is in a ragdoll state this will return true.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

@@ -12,7 +12,7 @@ void SET_VEHICLE_IS_WANTED(Vehicle vehicle, BOOL state);
 Sets the wanted state of this vehicle.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **state**: 
 

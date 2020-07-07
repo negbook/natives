@@ -9,7 +9,7 @@ void SET_PLAYER_NOISE_MULTIPLIER(Player player, float multiplier);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **multiplier**: 
 

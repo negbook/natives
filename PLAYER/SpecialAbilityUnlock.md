@@ -9,6 +9,6 @@ void SPECIAL_ABILITY_UNLOCK(Hash playerModel);
 ```
 
 
-## Parameters
+## 參數
 * **playerModel**: 
 

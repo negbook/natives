@@ -10,6 +10,6 @@ void _DISABLE_INPUT_GROUP(int inputGroup);
 ```
 
 
-## Parameters
+## 參數
 * **inputGroup**: 
 

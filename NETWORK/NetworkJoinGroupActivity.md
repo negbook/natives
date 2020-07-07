@@ -10,4 +10,4 @@ Any NETWORK_JOIN_GROUP_ACTIVITY();
 ```
 
 
-## Return value
+## 返回值

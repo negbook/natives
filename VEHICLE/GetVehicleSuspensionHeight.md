@@ -15,7 +15,7 @@ The higher the value the lower the suspension. Each 0.002 corresponds with one m
 0.008 is Ultra Suspension.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

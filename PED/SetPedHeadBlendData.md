@@ -21,7 +21,7 @@ For more info please refer to this topic.
 gtaforums.com/topic/858970-all-gtao-face-ids-pedset-ped-head-blend-data-explained  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **shapeFirstID**: 
 * **shapeSecondID**: 

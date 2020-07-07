@@ -14,6 +14,6 @@ If toggle is true, hides special ability bar / character name in the pause menu
 If toggle is false, shows special ability bar / character name in the pause menu  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

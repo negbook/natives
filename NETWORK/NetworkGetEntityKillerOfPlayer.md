@@ -9,8 +9,8 @@ Entity NETWORK_GET_ENTITY_KILLER_OF_PLAYER(Player player, Hash* weaponHash);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **weaponHash**: 
 
-## Return value
+## 返回值

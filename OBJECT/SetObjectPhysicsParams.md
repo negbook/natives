@@ -17,7 +17,7 @@ p4: makes obj fall slower the higher the value
 p5: similar to p4  
 ```
 
-## Parameters
+## 參數
 * **object**: 
 * **weight**: 
 * **p2**: 

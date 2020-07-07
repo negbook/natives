@@ -9,7 +9,7 @@ void GET_VEHICLE_TYRE_SMOKE_COLOR(Vehicle vehicle, int* r, int* g, int* b);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **r**: 
 * **g**: 

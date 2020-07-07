@@ -9,7 +9,7 @@ aliases: ["0x634148744F385576"]
 BOOL IS_HELI_LANDING_AREA_BLOCKED(Vehicle vehicle);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

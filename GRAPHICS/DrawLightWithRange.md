@@ -9,7 +9,7 @@ void DRAW_LIGHT_WITH_RANGE(float posX, float posY, float posZ, int colorR, int c
 ```
 
 
-## Parameters
+## 參數
 * **posX**: 
 * **posY**: 
 * **posZ**: 

@@ -14,7 +14,7 @@ roll and pitch 0
 yaw to Ped.rotation  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -23,4 +23,4 @@ yaw to Ped.rotation
 * **yaw**: 
 * **p6**: 
 
-## Return value
+## 返回值

@@ -10,4 +10,4 @@ BOOL _NETWORK_IS_PSN_AVAILABLE();
 ```
 
 
-## Return value
+## 返回值

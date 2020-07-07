@@ -12,5 +12,5 @@ void _NETWORK_EARN_FROM_ASSASSINATE_TARGET_KILLED_2(int amount);
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **amount**:

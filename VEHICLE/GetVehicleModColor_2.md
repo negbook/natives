@@ -9,7 +9,7 @@ void GET_VEHICLE_MOD_COLOR_2(Vehicle vehicle, int* paintType, int* color);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **paintType**: 
 * **color**: 

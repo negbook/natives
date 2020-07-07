@@ -12,5 +12,5 @@ Any _0x2FCB133CA50A49EB(Any p0);
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **p0**:

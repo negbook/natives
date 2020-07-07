@@ -13,7 +13,7 @@ BOOL _IS_THIS_MODEL_AN_AMPHIBIOUS_QUADBIKE(Any model);
 NativeDB Parameter 0: Hash model
 ```
 
-## Parameters
+## 參數
 * **model**: 
 
-## Return value
+## 返回值

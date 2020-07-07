@@ -14,6 +14,6 @@ it does not grant cash to the player (on PC).
 Max value for amount is 9999999.  
 ```
 
-## Parameters
+## 參數
 * **amount**: 
 

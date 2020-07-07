@@ -12,7 +12,7 @@ Any GET_ROPE_LAST_VERTEX_COORD(int ropeId);
 NativeDB Return Type: Vector3
 ```
 
-## Parameters
+## 參數
 * **ropeId**: 
 
-## Return value
+## 返回值

@@ -16,7 +16,7 @@ However changed to 'object' as the instances where this is called in scripts bot
 Got my hopes up whoever put this as vehicle. I was hoping it was what R* used in non-contact races.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

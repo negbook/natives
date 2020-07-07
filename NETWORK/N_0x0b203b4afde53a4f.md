@@ -9,9 +9,9 @@ Any _0x0B203B4AFDE53A4F(Any* p0, Any* p1, BOOL p2);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
 
-## Return value
+## 返回值

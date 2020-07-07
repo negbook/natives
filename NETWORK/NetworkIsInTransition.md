@@ -9,4 +9,4 @@ BOOL NETWORK_IS_IN_TRANSITION();
 ```
 
 
-## Return value
+## 返回值

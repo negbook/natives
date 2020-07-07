@@ -9,7 +9,7 @@ Hash GET_LAST_MATERIAL_HIT_BY_ENTITY(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

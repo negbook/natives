@@ -9,7 +9,7 @@ void NETWORK_SPENT_TAXI(int amount, BOOL p1, BOOL p2);
 ```
 
 
-## Parameters
+## 參數
 * **amount**: 
 * **p1**: 
 * **p2**: 

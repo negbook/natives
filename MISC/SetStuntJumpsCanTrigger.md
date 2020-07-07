@@ -10,6 +10,6 @@ void SET_STUNT_JUMPS_CAN_TRIGGER(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

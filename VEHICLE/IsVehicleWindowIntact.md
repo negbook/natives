@@ -9,8 +9,8 @@ BOOL IS_VEHICLE_WINDOW_INTACT(Vehicle vehicle, int windowIndex);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **windowIndex**: 
 
-## Return value
+## 返回值

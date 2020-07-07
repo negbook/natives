@@ -14,6 +14,6 @@ Upon setting and converting the health int, found, if health falls below 5, the 
 This function is well suited there.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 

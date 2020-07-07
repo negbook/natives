@@ -21,9 +21,9 @@ completely - is to check if tire completely gone from rim.
 '47 = 6 wheels trailer mid wheel right  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **wheelID**: 
 * **completely**: 
 
-## Return value
+## 返回值

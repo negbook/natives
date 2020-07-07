@@ -14,7 +14,7 @@ param4: using 2048 is fine
 param5: using 3 is fine  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **lookAt**: 
 * **duration**: 

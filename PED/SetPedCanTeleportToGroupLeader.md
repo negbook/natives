@@ -13,7 +13,7 @@ This only will teleport the ped to the group leader if the group leader teleport
 Only works in singleplayer  
 ```
 
-## Parameters
+## 參數
 * **pedHandle**: 
 * **groupHandle**: 
 * **toggle**: 

@@ -9,7 +9,7 @@ void SET_SYNCHRONIZED_SCENE_PHASE(int sceneID, float phase);
 ```
 
 
-## Parameters
+## 參數
 * **sceneID**: 
 * **phase**: 
 

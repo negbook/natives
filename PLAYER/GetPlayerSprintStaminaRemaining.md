@@ -9,7 +9,7 @@ float GET_PLAYER_SPRINT_STAMINA_REMAINING(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

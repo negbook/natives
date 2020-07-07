@@ -10,7 +10,7 @@ void SET_PLAYER_SWITCH_OUTRO(float p0, float p1, float p2, float p3, float p4, f
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

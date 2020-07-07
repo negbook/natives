@@ -13,7 +13,7 @@ BOOL IS_PLAYER_BATTLE_AWARE(Player player);
 Returns true if an unk value is greater than 0.0f  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

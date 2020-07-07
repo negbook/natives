@@ -10,7 +10,7 @@ BOOL TEXTURE_DOWNLOAD_HAS_FAILED(int p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

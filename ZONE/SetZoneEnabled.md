@@ -9,7 +9,7 @@ void SET_ZONE_ENABLED(int zoneId, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **zoneId**: 
 * **toggle**: 
 

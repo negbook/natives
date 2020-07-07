@@ -12,7 +12,7 @@ BOOL IS_PED_BEING_ARRESTED(Ped ped);
 This function is hard-coded to always return 0.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

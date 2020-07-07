@@ -26,7 +26,7 @@ overlayID       Part                  Index, to disable
 12              Add Body Blemishes    0 - 1, 255  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **overlayID**: 
 * **index**: 

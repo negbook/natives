@@ -10,7 +10,7 @@ BOOL IS_PED_PERFORMING_MELEE_ACTION(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

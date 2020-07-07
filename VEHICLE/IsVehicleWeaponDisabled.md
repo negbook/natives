@@ -13,9 +13,9 @@ Any _IS_VEHICLE_WEAPON_DISABLED(Any weaponHash, Vehicle vehicle, Ped owner);
 NativeDB Parameter 0: Hash weaponHash
 ```
 
-## Parameters
+## 參數
 * **weaponHash**: 
 * **vehicle**: 
 * **owner**: 
 
-## Return value
+## 返回值

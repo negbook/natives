@@ -17,11 +17,11 @@ offsetY: The Y-component of the offset to add to the position relative to the bo
 offsetZ: The Z-component of the offset to add to the position relative to the bone's rotation.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **boneId**: 
 * **offsetX**: 
 * **offsetY**: 
 * **offsetZ**: 
 
-## Return value
+## 返回值

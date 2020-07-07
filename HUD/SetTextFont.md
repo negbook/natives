@@ -12,6 +12,6 @@ void SET_TEXT_FONT(int fontType);
 fonts that mess up your text where made for number values/misc stuff  
 ```
 
-## Parameters
+## 參數
 * **fontType**: 
 

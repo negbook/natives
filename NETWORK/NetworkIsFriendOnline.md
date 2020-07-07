@@ -9,7 +9,7 @@ BOOL NETWORK_IS_FRIEND_ONLINE(char* name);
 ```
 
 
-## Parameters
+## 參數
 * **name**: 
 
-## Return value
+## 返回值

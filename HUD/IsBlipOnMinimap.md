@@ -9,7 +9,7 @@ BOOL IS_BLIP_ON_MINIMAP(Blip blip);
 ```
 
 
-## Parameters
+## 參數
 * **blip**: 
 
-## Return value
+## 返回值

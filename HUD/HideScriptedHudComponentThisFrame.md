@@ -9,6 +9,6 @@ void HIDE_SCRIPTED_HUD_COMPONENT_THIS_FRAME(int id);
 ```
 
 
-## Parameters
+## 參數
 * **id**: 
 

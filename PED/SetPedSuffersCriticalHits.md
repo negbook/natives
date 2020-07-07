@@ -12,7 +12,7 @@ void SET_PED_SUFFERS_CRITICAL_HITS(Ped ped, BOOL toggle);
 ped cannot be headshot if this is set to false  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

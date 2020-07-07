@@ -12,8 +12,8 @@ int _GET_PED_HEAD_OVERLAY_VALUE(Ped ped, int overlayID);
 Likely a char, if that overlay is not set, e.i. "None" option, returns 255;  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **overlayID**: 
 
-## Return value
+## 返回值

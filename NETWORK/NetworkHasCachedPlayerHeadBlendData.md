@@ -10,7 +10,7 @@ BOOL NETWORK_HAS_CACHED_PLAYER_HEAD_BLEND_DATA(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

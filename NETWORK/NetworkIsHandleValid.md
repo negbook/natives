@@ -9,8 +9,8 @@ BOOL NETWORK_IS_HANDLE_VALID(int* networkHandle, int bufferSize);
 ```
 
 
-## Parameters
+## 參數
 * **networkHandle**: 
 * **bufferSize**: 
 
-## Return value
+## 返回值

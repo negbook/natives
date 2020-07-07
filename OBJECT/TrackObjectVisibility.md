@@ -9,6 +9,6 @@ void TRACK_OBJECT_VISIBILITY(Object object);
 ```
 
 
-## Parameters
+## 參數
 * **object**: 
 

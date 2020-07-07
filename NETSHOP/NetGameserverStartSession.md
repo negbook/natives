@@ -10,7 +10,7 @@ BOOL _NET_GAMESERVER_START_SESSION(int charSlot);
 ```
 
 
-## Parameters
+## 參數
 * **charSlot**: 
 
-## Return value
+## 返回值

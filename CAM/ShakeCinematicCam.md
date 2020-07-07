@@ -12,7 +12,7 @@ void SHAKE_CINEMATIC_CAM(char* p0, float p1);
 p0 argument found in the b617d scripts: "DRUNK_SHAKE"  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

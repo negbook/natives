@@ -19,7 +19,7 @@ Only called in golf and golf_mp
 parameters used are   
 GRAPHICS::_0x5CE62918F8D703C7(255, 0, 0, 64, 255, 255, 255, 5, 255, 255, 0, 64);  
 
-## Parameters
+## 參數
 * **lowR**: red value for the lower level
 * **lowG**: green value for the lower level
 * **lowB**: blue value for the lower level

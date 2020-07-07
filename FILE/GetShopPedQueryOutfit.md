@@ -17,7 +17,7 @@ struct Outfit_s
 };  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **outfit**: 
 

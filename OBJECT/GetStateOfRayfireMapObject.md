@@ -16,7 +16,7 @@ See SET_STATE_OF_RAYFIRE_MAP_OBJECT to see the different states
 For example, if the object just spawned (state 2), the native will return 3.  
 ```
 
-## Parameters
+## 參數
 * **object**: 
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ aliases: ["0x7C0043FDFF6436BC"]
 void DETACH_CONTAINER_FROM_HANDLER_FRAME(Vehicle vehicle);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 

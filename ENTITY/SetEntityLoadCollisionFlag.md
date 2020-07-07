@@ -16,7 +16,7 @@ Certainly not the main usage of this native but when set to true for a Vehicle, 
 NativeDB Added Parameter 3: Any p2
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **toggle**: 
 

@@ -12,7 +12,7 @@ BOOL HAS_CLIP_SET_LOADED(char* clipSet);
 Alias for HAS_ANIM_SET_LOADED.  
 ```
 
-## Parameters
+## 參數
 * **clipSet**: 
 
-## Return value
+## 返回值

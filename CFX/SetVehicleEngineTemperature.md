@@ -9,7 +9,7 @@ void SET_VEHICLE_ENGINE_TEMPERATURE(Vehicle vehicle, float temperature);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **temperature**: 
 

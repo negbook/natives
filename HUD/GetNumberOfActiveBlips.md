@@ -9,4 +9,4 @@ int GET_NUMBER_OF_ACTIVE_BLIPS();
 ```
 
 
-## Return value
+## 返回值

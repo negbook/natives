@@ -13,8 +13,8 @@ BOOL NETWORK_CLAN_GET_EMBLEM_TXD_NAME(Player* netHandle, Any* txdName);
 NativeDB Parameter 1: char* txdName
 ```
 
-## Parameters
+## 參數
 * **netHandle**: 
 * **txdName**: 
 
-## Return value
+## 返回值

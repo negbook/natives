@@ -12,7 +12,7 @@ void SET_DRIVER_AGGRESSIVENESS(Ped driver, float aggressiveness);
 range 0.0f - 1.0f  
 ```
 
-## Parameters
+## 參數
 * **driver**: 
 * **aggressiveness**: 
 

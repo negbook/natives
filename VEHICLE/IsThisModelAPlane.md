@@ -9,7 +9,7 @@ BOOL IS_THIS_MODEL_A_PLANE(Hash model);
 ```
 
 
-## Parameters
+## 參數
 * **model**: 
 
-## Return value
+## 返回值

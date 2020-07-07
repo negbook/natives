@@ -13,7 +13,7 @@ void _PLAYSTATS_HEIST_SAVE_CHEAT(Any hash, int p1);
 NativeDB Parameter 0: Hash hash
 ```
 
-## Parameters
+## 參數
 * **hash**: 
 * **p1**: 
 

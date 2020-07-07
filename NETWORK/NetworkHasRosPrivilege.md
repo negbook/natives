@@ -13,7 +13,7 @@ BOOL NETWORK_HAS_ROS_PRIVILEGE(int index);
 index is always 18 in scripts
 ```
 
-## Parameters
+## 參數
 * **index**: 
 
-## Return value
+## 返回值

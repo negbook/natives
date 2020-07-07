@@ -9,7 +9,7 @@ void SET_HORN_ENABLED(Vehicle vehicle, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

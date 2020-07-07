@@ -15,7 +15,7 @@ Rotation information : rotX and rotY don't seem to have any effect, only rotZ wo
 
 [Animations list](https://alexguirre.github.io/animations-list/)
 
-## Parameters
+## 參數
 * **ped**: 
 * **animDict**: 
 * **animName**: 

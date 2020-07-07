@@ -14,5 +14,5 @@ Inserts the given context into the background scripts context map.
 NativeDB Introduced: v323
 ```
 
-## Parameters
+## 參數
 * **contextName**:

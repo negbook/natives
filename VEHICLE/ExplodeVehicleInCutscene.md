@@ -9,7 +9,7 @@ void EXPLODE_VEHICLE_IN_CUTSCENE(Vehicle vehicle, BOOL p1);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

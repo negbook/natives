@@ -9,7 +9,7 @@ void CLEAR_PED_ALTERNATE_WALK_ANIM(Ped ped, float p1);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 

@@ -15,7 +15,7 @@ void SET_GROUP_FORMATION(int groupId, int formationType);
 3: Line, with Leader at center  
 ```
 
-## Parameters
+## 參數
 * **groupId**: 
 * **formationType**: 
 

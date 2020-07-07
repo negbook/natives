@@ -10,10 +10,10 @@ Hash _GET_PACKED_TITLE_UPDATE_INT_STAT_KEY(int index, BOOL spStat, BOOL charStat
 ```
 
 
-## Parameters
+## 參數
 * **index**: 
 * **spStat**: 
 * **charStat**: 
 * **character**: 
 
-## Return value
+## 返回值

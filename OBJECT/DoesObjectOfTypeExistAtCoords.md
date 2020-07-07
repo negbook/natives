@@ -12,7 +12,7 @@ BOOL DOES_OBJECT_OF_TYPE_EXIST_AT_COORDS(float x, float y, float z, float radius
 p5 is usually 0.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -20,4 +20,4 @@ p5 is usually 0.
 * **hash**: 
 * **p5**: 
 
-## Return value
+## 返回值

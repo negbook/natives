@@ -10,6 +10,6 @@ void _SEETHROUGH_SET_FADE_START_DISTANCE(float distance);
 ```
 
 
-## Parameters
+## 參數
 * **distance**: 
 

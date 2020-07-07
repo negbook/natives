@@ -9,7 +9,7 @@ void TASK_AIM_GUN_SCRIPTED(Ped ped, Hash scriptTask, BOOL p2, BOOL p3);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **scriptTask**: 
 * **p2**: 

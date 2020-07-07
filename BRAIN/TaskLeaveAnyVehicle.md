@@ -9,7 +9,7 @@ void TASK_LEAVE_ANY_VEHICLE(Ped ped, int p1, int p2);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 * **p2**: 

@@ -13,7 +13,7 @@ void _NETWORK_RESPAWN_COORDS(Player player, float x, float y, float z, BOOL p4, 
 p4 and p5 are always 0 in scripts  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **x**: 
 * **y**: 

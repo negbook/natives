@@ -34,7 +34,7 @@ curious if this is what they used when you toggled on and off cops in a GTA IV f
 Also on x360 seems with or without neverWanted on, setting these to all false in SP of course doesn't seem to work. I would understand getting stars, but cops are still dispatched and combat you.  
 ```
 
-## Parameters
+## 參數
 * **dispatchService**: 
 * **toggle**: 
 

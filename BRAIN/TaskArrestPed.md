@@ -19,7 +19,7 @@ I would love to have time to experiment to see if a player Ped can arrest anothe
 Looks like only the player can be arrested this way. Peds react and try to arrest you if you task them, but the player charater doesn't do anything if tasked to arrest another ped.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **target**: 
 

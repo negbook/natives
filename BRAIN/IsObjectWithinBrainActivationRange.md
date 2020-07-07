@@ -9,7 +9,7 @@ BOOL IS_OBJECT_WITHIN_BRAIN_ACTIVATION_RANGE(Object object);
 ```
 
 
-## Parameters
+## 參數
 * **object**: 
 
-## Return value
+## 返回值

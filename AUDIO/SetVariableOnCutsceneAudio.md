@@ -15,7 +15,7 @@ AUDIO::GET_PLAYER_HEADSET_SOUND_ALTERNATE("INOUT", 0.0);
 AUDIO::GET_PLAYER_HEADSET_SOUND_ALTERNATE("INOUT", 1.0);  
 ```
 
-## Parameters
+## 參數
 * **variableName**: 
 * **value**: 
 

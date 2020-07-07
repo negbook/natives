@@ -13,7 +13,7 @@ only works on some fx's
 p4 = 0  
 ```
 
-## Parameters
+## 參數
 * **ptfxHandle**: 
 * **r**: 
 * **g**: 

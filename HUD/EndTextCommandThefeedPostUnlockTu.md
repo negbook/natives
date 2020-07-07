@@ -10,10 +10,10 @@ Any END_TEXT_COMMAND_THEFEED_POST_UNLOCK_TU(char* chTitle, int iconType, char* c
 ```
 
 
-## Parameters
+## 參數
 * **chTitle**: 
 * **iconType**: 
 * **chSubtitle**: 
 * **isImportant**: 
 
-## Return value
+## 返回值

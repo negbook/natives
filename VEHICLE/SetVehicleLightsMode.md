@@ -17,7 +17,7 @@ Determines how vehicle lights behave when toggled.
 2 = Always On (Lights can be toggled between normal and high beams)  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

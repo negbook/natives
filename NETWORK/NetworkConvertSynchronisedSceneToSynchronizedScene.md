@@ -13,7 +13,7 @@ int _NETWORK_CONVERT_SYNCHRONISED_SCENE_TO_SYNCHRONIZED_SCENE(int netScene);
 netScene to scene  
 ```
 
-## Parameters
+## 參數
 * **netScene**: 
 
-## Return value
+## 返回值

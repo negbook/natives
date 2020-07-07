@@ -10,7 +10,7 @@ void SET_RADAR_ZOOM_TO_BLIP(Blip blip, float zoom);
 ```
 
 
-## Parameters
+## 參數
 * **blip**: 
 * **zoom**: 
 

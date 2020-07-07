@@ -9,6 +9,6 @@ void STOP_GAMEPLAY_HINT(BOOL p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

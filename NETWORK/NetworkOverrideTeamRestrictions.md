@@ -10,7 +10,7 @@ void NETWORK_OVERRIDE_TEAM_RESTRICTIONS(int team, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **team**: 
 * **toggle**: 
 

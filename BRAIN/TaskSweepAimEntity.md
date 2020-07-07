@@ -15,7 +15,7 @@ p2, p3, p4: "sweep_low", "sweep_med" or "sweep_high"
 p5: no idea what it does but is usually -1  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **anim**: 
 * **p2**: 

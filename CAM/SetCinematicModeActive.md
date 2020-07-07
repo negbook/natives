@@ -13,6 +13,6 @@ p0 = 0/1 or true/false
 It doesn't seems to work  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

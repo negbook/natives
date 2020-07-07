@@ -11,7 +11,7 @@ void _SET_CAN_PED_SELECT_WEAPON(Ped ped, Hash weaponHash, BOOL toggle);
 
 For the player ped this will also gray out the weapon in the weapon wheel.
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 * **toggle**: 

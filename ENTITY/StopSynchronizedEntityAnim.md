@@ -12,9 +12,9 @@ BOOL STOP_SYNCHRONIZED_ENTITY_ANIM(Entity entity, float p1, BOOL p2);
 p1 sync task id?  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **p1**: 
 * **p2**: 
 
-## Return value
+## 返回值

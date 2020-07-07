@@ -9,9 +9,9 @@ int GET_BITS_IN_RANGE(int var, int rangeStart, int rangeEnd);
 ```
 
 
-## Parameters
+## 參數
 * **var**: 
 * **rangeStart**: 
 * **rangeEnd**: 
 
-## Return value
+## 返回值

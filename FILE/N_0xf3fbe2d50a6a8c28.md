@@ -17,8 +17,8 @@ characters
 4: MPFemale  
 ```
 
-## Parameters
+## 參數
 * **character**: 
 * **p1**: 
 
-## Return value
+## 返回值

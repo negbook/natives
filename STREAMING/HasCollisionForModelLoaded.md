@@ -9,7 +9,7 @@ BOOL HAS_COLLISION_FOR_MODEL_LOADED(Hash model);
 ```
 
 
-## Parameters
+## 參數
 * **model**: 
 
-## Return value
+## 返回值

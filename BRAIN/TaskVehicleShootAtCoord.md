@@ -9,7 +9,7 @@ void TASK_VEHICLE_SHOOT_AT_COORD(Ped ped, float x, float y, float z, float p4);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **x**: 
 * **y**: 

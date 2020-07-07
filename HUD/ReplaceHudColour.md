@@ -15,7 +15,7 @@ HUD colors and their values: pastebin.com/d9aHPbXN
 makes hudColorIndex2 color into hudColorIndex color  
 ```
 
-## Parameters
+## 參數
 * **hudColorIndex**: 
 * **hudColorIndex2**: 
 

@@ -14,6 +14,6 @@ Registers a file from an URL as a streaming asset in the GTA streaming subsystem
 
 Use `IS_STREAMING_FILE_READY` to check if the asset has been registered successfully.
 
-## Parameters
+## 參數
 * **registerAs**: The file name to register as, for example `asset.ydr`.
 * **url**: The URL to fetch the asset from.

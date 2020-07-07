@@ -9,6 +9,6 @@ aliases: ["0x570389D1C3DE3C6B"]
 void SET_PED_INCREASED_AVOIDANCE_RADIUS(Ped ped);
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 

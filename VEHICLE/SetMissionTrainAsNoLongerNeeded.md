@@ -12,7 +12,7 @@ void SET_MISSION_TRAIN_AS_NO_LONGER_NEEDED(Vehicle* train, BOOL p1);
 p1 is always 0  
 ```
 
-## Parameters
+## 參數
 * **train**: 
 * **p1**: 
 

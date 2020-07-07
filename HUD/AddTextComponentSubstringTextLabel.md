@@ -10,6 +10,6 @@ void ADD_TEXT_COMPONENT_SUBSTRING_TEXT_LABEL(char* labelName);
 ```
 
 
-## Parameters
+## 參數
 * **labelName**: 
 

@@ -15,7 +15,7 @@ All other decompiled scripts using this seem to be using the player id as the fi
 No need to confirm it says PLAYER_ID() so it uses PLAYER_ID() lol.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 

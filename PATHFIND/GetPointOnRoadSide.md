@@ -9,11 +9,11 @@ aliases: ["0x16F46FB18C8009E4"]
 BOOL _GET_POINT_ON_ROAD_SIDE(float x, float y, float z, int p3, Vector3* outPosition);
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 * **p3**: 
 * **outPosition**: 
 
-## Return value
+## 返回值

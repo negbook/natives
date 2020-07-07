@@ -19,7 +19,7 @@ gtaxscripting.blogspot.com/2016/04/gta-v-peds-component-and-props.html
 NativeDB Parameter 1: int p1
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 

@@ -9,6 +9,6 @@ aliases: ["0x6D6AF961B72728AE"]
 void CLEAR_VEHICLE_ROUTE_HISTORY(Vehicle vehicle);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 

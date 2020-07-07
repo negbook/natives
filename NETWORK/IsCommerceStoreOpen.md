@@ -10,4 +10,4 @@ BOOL IS_COMMERCE_STORE_OPEN();
 ```
 
 
-## Return value
+## 返回值

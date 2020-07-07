@@ -14,6 +14,6 @@ Found in the scripts:
 GAMEPLAY::_11B56FBBF7224868("CONTRAILS");  
 ```
 
-## Parameters
+## 參數
 * **name**: 
 

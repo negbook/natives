@@ -12,7 +12,7 @@ float GET_VEHICLE_DIRT_LEVEL(Vehicle vehicle);
 Dirt level 0..15  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

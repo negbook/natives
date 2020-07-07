@@ -9,8 +9,8 @@ BOOL DOES_ENTITY_BELONG_TO_THIS_SCRIPT(Entity entity, BOOL p2);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **p2**: 
 
-## Return value
+## 返回值

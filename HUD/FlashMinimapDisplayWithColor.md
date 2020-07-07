@@ -9,6 +9,6 @@ aliases: ["0x6B1DE27EE78E6A19"]
 void FLASH_MINIMAP_DISPLAY_WITH_COLOR(int hudColorIndex);
 ```
 
-## Parameters
+## 參數
 * **hudColorIndex**: 
 

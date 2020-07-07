@@ -9,7 +9,7 @@ void TASK_GOTO_ENTITY_OFFSET_XY(Ped ped, Entity entity, int duration, float xOff
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **entity**: 
 * **duration**: 

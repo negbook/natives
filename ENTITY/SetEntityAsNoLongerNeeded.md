@@ -13,6 +13,6 @@ Marks the specified entity (ped, vehicle or object) as no longer needed.
 Entities marked as no longer needed, will be deleted as the engine sees fit.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 

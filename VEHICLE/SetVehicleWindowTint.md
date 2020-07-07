@@ -21,7 +21,7 @@ enum WindowTints
 };  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **tint**: 
 

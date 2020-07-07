@@ -14,6 +14,6 @@ For example, if you set the range to 0.1, the ambient cars will spawn close to y
 
 This native needs to be called every frame.
 
-## Parameters
+## 參數
 * **range**: Most likely a value between 0.0 and 1.0.
 

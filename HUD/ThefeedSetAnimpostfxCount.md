@@ -26,6 +26,6 @@ Related to notification color flashing, setting p0 to 0 invalidates a `_SET_NOTI
     UI::_DRAW_NOTIFICATION_2(1, 1);
 ```
 
-## Parameters
+## 參數
 * **flashCount**: 
 

@@ -12,7 +12,7 @@ void DISABLE_PLANE_AILERON(Vehicle vehicle, BOOL p1, BOOL p2);
 Ailerons are responsible for the rolling motion of a plane.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 * **p2**: 

@@ -10,4 +10,4 @@ BOOL ARE_PROFILE_SETTINGS_VALID();
 ```
 
 
-## Return value
+## 返回值

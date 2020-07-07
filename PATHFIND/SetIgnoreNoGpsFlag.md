@@ -9,6 +9,6 @@ void SET_IGNORE_NO_GPS_FLAG(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

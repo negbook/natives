@@ -15,7 +15,7 @@ p1 a random vehicle hash loaded in memory
 p2 0 if success, -1 if failed  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **modelHash**: 
 * **p2**: 

@@ -14,7 +14,7 @@ Max 1000, min 0.
 Vehicle does not necessarily explode or become undrivable at 0.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

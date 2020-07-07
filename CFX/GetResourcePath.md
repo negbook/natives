@@ -10,8 +10,8 @@ char* GET_RESOURCE_PATH(char* resourceName);
 
 Returns the physical on-disk path of the specified resource.
 
-## Parameters
+## 參數
 * **resourceName**: The name of the resource.
 
-## Return value
+## 返回值
 The resource directory name, possibly without trailing slash.

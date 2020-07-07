@@ -10,4 +10,4 @@ BOOL NETWORK_HAS_FOLLOW_INVITE();
 ```
 
 
-## Return value
+## 返回值

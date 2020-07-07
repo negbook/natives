@@ -45,7 +45,7 @@ If using type 42-44, reserved sets number / number and shape to display
 180-189----------------Sphere (0-9)  
 ```
 
-## Parameters
+## 參數
 * **type**: 
 * **posX1**: 
 * **posY1**: 
@@ -60,4 +60,4 @@ If using type 42-44, reserved sets number / number and shape to display
 * **alpha**: 
 * **reserved**: 
 
-## Return value
+## 返回值

@@ -41,7 +41,7 @@ Seems to be this:
 Works on NPCs, but overrides their current task. If inside a task sequence (and not being the last task), "time" will work, otherwise the task will be performed forever until tasked with something else  
 ```
 
-## Parameters
+## 參數
 * **driver**: 
 * **vehicle**: 
 * **action**: 

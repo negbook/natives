@@ -13,7 +13,7 @@ Gets the color of the neon lights of the specified vehicle.
 See _SET_VEHICLE_NEON_LIGHTS_COLOUR (0x8E0A582209A62695) for more information  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **r**: 
 * **g**: 

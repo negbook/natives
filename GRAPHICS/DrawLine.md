@@ -26,7 +26,7 @@ public void DrawLine(Vector3 from, Vector3 to, Color col)
 }  
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 

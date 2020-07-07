@@ -9,7 +9,7 @@ BOOL HAS_BULLET_IMPACTED_IN_BOX(float p0, float p1, float p2, float p3, float p4
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
@@ -19,4 +19,4 @@ BOOL HAS_BULLET_IMPACTED_IN_BOX(float p0, float p1, float p2, float p3, float p4
 * **p6**: 
 * **p7**: 
 
-## Return value
+## 返回值

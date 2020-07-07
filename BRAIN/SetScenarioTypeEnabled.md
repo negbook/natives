@@ -43,7 +43,7 @@ Here are some scenario types from the scripts:
 scenarioType could be the same as scenarioName, used in for example AI::TASK_START_SCENARIO_AT_POSITION.  
 ```
 
-## Parameters
+## 參數
 * **scenarioType**: 
 * **toggle**: 
 

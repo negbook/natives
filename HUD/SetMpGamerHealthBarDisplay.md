@@ -13,6 +13,6 @@ void _SET_MP_GAMER_HEALTH_BAR_DISPLAY(int gamerTagId, BOOL p1);
 NativeDB Introduced: v1365
 ```
 
-## Parameters
+## 參數
 * **gamerTagId**:
 * **p1**:

@@ -9,7 +9,7 @@ int GET_TIME_SINCE_PLAYER_DROVE_AGAINST_TRAFFIC(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

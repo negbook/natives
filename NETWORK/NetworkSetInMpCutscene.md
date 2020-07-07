@@ -9,7 +9,7 @@ void NETWORK_SET_IN_MP_CUTSCENE(BOOL p0, BOOL p1);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

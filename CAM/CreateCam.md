@@ -16,8 +16,8 @@ Cam CREATE_CAM(char* camName, BOOL p1);
 "TIMED_SPLINE_CAMERA"  
 ```
 
-## Parameters
+## 參數
 * **camName**: 
 * **p1**: 
 
-## Return value
+## 返回值

@@ -10,7 +10,7 @@ BOOL IS_PED_IN_HIGH_COVER(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

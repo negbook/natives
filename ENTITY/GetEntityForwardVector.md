@@ -12,7 +12,7 @@ Vector3 GET_ENTITY_FORWARD_VECTOR(Entity entity);
 Gets the entity's forward vector.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ void SET_PED_DEFENSIVE_AREA_ATTACHED_TO_PED(Ped ped, Ped attachPed, float p2, fl
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **attachPed**: 
 * **p2**: 

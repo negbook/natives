@@ -13,5 +13,5 @@ Any _GET_VEHICLE_HAS_LANDING_GEAR(Vehicle vehicle);
 NativeDB Introduced: v1180
 ```
 
-## Parameters
+## 參數
 * **vehicle**:

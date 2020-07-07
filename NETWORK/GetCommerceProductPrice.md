@@ -9,7 +9,7 @@ aliases: ["0xCA94551B50B4932C"]
 Any GET_COMMERCE_PRODUCT_PRICE(int index);
 ```
 
-## Parameters
+## 參數
 * **index**: 
 
-## Return value
+## 返回值

@@ -17,7 +17,7 @@ if (OBJECT::_DOES_DOOR_EXIST(doorHash))
 }  
 ```
 
-## Parameters
+## 參數
 * **doorHash**: 
 
-## Return value
+## 返回值

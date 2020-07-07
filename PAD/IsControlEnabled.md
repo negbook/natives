@@ -50,8 +50,8 @@ enum InputGroups
 0, 1 and 2 used in the scripts.  
 ```
 
-## Parameters
+## 參數
 * **inputGroup**: 
 * **control**: 
 
-## Return value
+## 返回值

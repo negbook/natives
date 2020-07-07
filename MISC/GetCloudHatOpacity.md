@@ -10,4 +10,4 @@ float _GET_CLOUD_HAT_OPACITY();
 ```
 
 
-## Return value
+## 返回值

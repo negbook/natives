@@ -9,7 +9,7 @@ aliases: ["0x784BA7E0ECEB4178"]
 void SET_FLOATING_HELP_TEXT_WORLD_POSITION(int hudIndex, float x, float y, float z);
 ```
 
-## Parameters
+## 參數
 * **hudIndex**: 
 * **x**: 
 * **y**: 

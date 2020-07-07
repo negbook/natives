@@ -9,8 +9,8 @@ BOOL IS_PED_USING_SCENARIO(Ped ped, char* scenario);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **scenario**: 
 
-## Return value
+## 返回值

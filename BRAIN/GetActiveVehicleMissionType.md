@@ -9,7 +9,7 @@ int GET_ACTIVE_VEHICLE_MISSION_TYPE(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

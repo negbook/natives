@@ -9,7 +9,7 @@ void NETWORK_HANDLE_FROM_FRIEND(int friendIndex, int* networkHandle, int bufferS
 ```
 
 
-## Parameters
+## 參數
 * **friendIndex**: 
 * **networkHandle**: 
 * **bufferSize**: 

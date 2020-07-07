@@ -10,10 +10,10 @@ BOOL NETWORK_SESSION_FRIEND_MATCHMAKING(int p0, int p1, int maxPlayers, BOOL p3)
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **maxPlayers**: 
 * **p3**: 
 
-## Return value
+## 返回值

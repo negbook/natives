@@ -9,11 +9,11 @@ BOOL IS_EXPLOSION_IN_SPHERE(int explosionType, float x, float y, float z, float 
 ```
 
 
-## Parameters
+## 參數
 * **explosionType**: 
 * **x**: 
 * **y**: 
 * **z**: 
 * **radius**: 
 
-## Return value
+## 返回值

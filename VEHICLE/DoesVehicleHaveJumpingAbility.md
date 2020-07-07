@@ -13,7 +13,7 @@ BOOL _DOES_VEHICLE_HAVE_JUMPING_ABILITY(Vehicle vehicle);
 Returns true if the vehicle has the FLAG_JUMPING_CAR flag set.
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

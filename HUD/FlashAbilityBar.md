@@ -16,6 +16,6 @@ If set to true ability bar will flash
 NativeDB Parameter 0: int millisecondsToFlash
 ```
 
-## Parameters
+## 參數
 * **millisecondsToFlash**: 
 

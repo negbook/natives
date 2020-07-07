@@ -26,7 +26,7 @@ p11 is either 0 or 1 (The func to determine this is bool)
 p12 is unknown as in TU27 X360 scripts it only goes to p11.  
 ```
 
-## Parameters
+## 參數
 * **index**: 
 * **p1**: 
 * **p2**: 

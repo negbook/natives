@@ -10,6 +10,6 @@ void _PLAYSTATS_SPENT_PI_CUSTOM_LOADOUT(int amount);
 ```
 
 
-## Parameters
+## 參數
 * **amount**: 
 

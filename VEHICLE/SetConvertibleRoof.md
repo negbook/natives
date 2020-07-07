@@ -9,7 +9,7 @@ void SET_CONVERTIBLE_ROOF(Vehicle vehicle, BOOL p1);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

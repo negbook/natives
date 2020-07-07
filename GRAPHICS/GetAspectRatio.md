@@ -10,7 +10,7 @@ float _GET_ASPECT_RATIO(BOOL b);
 ```
 
 
-## Parameters
+## 參數
 * **b**: 
 
-## Return value
+## 返回值

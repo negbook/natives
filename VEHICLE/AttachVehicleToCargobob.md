@@ -9,7 +9,7 @@ void ATTACH_VEHICLE_TO_CARGOBOB(Vehicle vehicle, Vehicle cargobob, int p2, float
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **cargobob**: 
 * **p2**: 

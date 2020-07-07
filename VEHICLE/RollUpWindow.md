@@ -19,8 +19,8 @@ Any ROLL_UP_WINDOW(Vehicle vehicle, int windowIndex);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **windowIndex**: 
 
-## Return value
+## 返回值

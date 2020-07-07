@@ -9,7 +9,7 @@ void REMOVE_PED_HELMET(Ped ped, BOOL instantly);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **instantly**: 
 

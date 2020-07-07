@@ -10,7 +10,7 @@ void _SET_VEHICLE_UNK_DAMAGE_MULTIPLIER(Vehicle vehicle, float multiplier);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **multiplier**: 
 

@@ -9,7 +9,7 @@ BOOL NETWORK_DO_TRANSITION_TO_NEW_FREEMODE(Any* p0, Any* p1, int players, BOOL p
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **players**: 
@@ -17,4 +17,4 @@ BOOL NETWORK_DO_TRANSITION_TO_NEW_FREEMODE(Any* p0, Any* p1, int players, BOOL p
 * **p4**: 
 * **p5**: 
 
-## Return value
+## 返回值

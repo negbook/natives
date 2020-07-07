@@ -17,7 +17,7 @@ This is used with the hair color swatches scaleform.
 Use [`_0x013E5CFC38CD5387`](#_0x013E5CFC38CD5387) to get the makeup colors.
 
 
-## Parameters
+## 參數
 * **hairColorIndex**: The hair color index. Value between 0-63 (inclusive).
 * **outR**: Output red value.
 * **outG**: Output green value.

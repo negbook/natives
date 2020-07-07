@@ -9,8 +9,8 @@ aliases: ["0x9CB0BFA7A9342C3D"]
 BOOL DATAFILE_SELECT_UGC_STATS(int p0, BOOL p1);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

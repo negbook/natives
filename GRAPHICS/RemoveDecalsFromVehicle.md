@@ -9,6 +9,6 @@ void REMOVE_DECALS_FROM_VEHICLE(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 

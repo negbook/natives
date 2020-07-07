@@ -43,7 +43,7 @@ if (AI::DOES_SCENARIO_GROUP_EXIST("Observatory_Bikers") && (!AI::IS_SCENARIO_GRO
 else if (AI::IS_SCENARIO_GROUP_ENABLED("BLIMP")) {  
 ```
 
-## Parameters
+## 參數
 * **scenarioGroup**: 
 
-## Return value
+## 返回值

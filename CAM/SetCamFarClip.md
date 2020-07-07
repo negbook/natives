@@ -9,7 +9,7 @@ void SET_CAM_FAR_CLIP(Cam cam, float farClip);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **farClip**: 
 

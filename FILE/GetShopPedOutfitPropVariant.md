@@ -10,9 +10,9 @@ BOOL GET_SHOP_PED_OUTFIT_PROP_VARIANT(Any outfit, int slot, Any* item);
 ```
 
 
-## Parameters
+## 參數
 * **outfit**: 
 * **slot**: 
 * **item**: 
 
-## Return value
+## 返回值

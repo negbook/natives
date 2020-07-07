@@ -13,6 +13,6 @@ void _SOUND_VEHICLE_HORN_THIS_FRAME(Vehicle vehicle);
 SET_*
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 

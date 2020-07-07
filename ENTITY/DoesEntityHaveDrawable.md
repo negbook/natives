@@ -9,7 +9,7 @@ BOOL DOES_ENTITY_HAVE_DRAWABLE(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

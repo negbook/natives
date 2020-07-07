@@ -13,7 +13,7 @@ Gets the player's info and calls a function that checks the player's ped positio
 Here's the decompiled function that checks the position: pastebin.com/ZdHG2E7n  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

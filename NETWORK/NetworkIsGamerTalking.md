@@ -9,7 +9,7 @@ BOOL NETWORK_IS_GAMER_TALKING(int* networkHandle);
 ```
 
 
-## Parameters
+## 參數
 * **networkHandle**: 
 
-## Return value
+## 返回值

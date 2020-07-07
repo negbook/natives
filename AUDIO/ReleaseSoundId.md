@@ -9,6 +9,6 @@ void RELEASE_SOUND_ID(int soundId);
 ```
 
 
-## Parameters
+## 參數
 * **soundId**: 
 

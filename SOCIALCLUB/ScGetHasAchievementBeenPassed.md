@@ -13,7 +13,7 @@ BOOL _SC_GET_HAS_ACHIEVEMENT_BEEN_PASSED(int achievement);
 Same as HAS_ACHIEVEMENT_BEEN_PASSED
 ```
 
-## Parameters
+## 參數
 * **achievement**: 
 
-## Return value
+## 返回值

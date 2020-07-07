@@ -9,7 +9,7 @@ aliases: ["0x46494A2475701343"]
 BOOL HAS_CLOSEST_OBJECT_OF_TYPE_BEEN_COMPLETELY_DESTROYED(float x, float y, float z, float radius, Hash modelHash, BOOL p5);
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -17,4 +17,4 @@ BOOL HAS_CLOSEST_OBJECT_OF_TYPE_BEEN_COMPLETELY_DESTROYED(float x, float y, floa
 * **modelHash**: 
 * **p5**: 
 
-## Return value
+## 返回值

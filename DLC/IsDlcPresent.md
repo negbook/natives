@@ -17,7 +17,7 @@ bruteforce these:
 0x96F02EE6  
 ```
 
-## Parameters
+## 參數
 * **dlcHash**: 
 
-## Return value
+## 返回值

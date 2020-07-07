@@ -12,7 +12,7 @@ Any FLASH_WANTED_DISPLAY(BOOL p0);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

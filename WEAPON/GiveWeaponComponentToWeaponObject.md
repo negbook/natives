@@ -16,7 +16,7 @@ AddonHash is NOT a model hash, it's the weapon component hash.
 ${component_at_ar_flsh}, ${component_at_ar_supp}, ${component_at_pi_flsh}, ${component_at_scope_large}, ${component_at_ar_supp_02}  
 ```
 
-## Parameters
+## 參數
 * **weaponObject**: 
 * **addonHash**: 
 

@@ -12,6 +12,6 @@ void _NETWORK_EARN_FROM_TARGET_REFUND(int amount, int p1);
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **amount**:
 * **p1**:

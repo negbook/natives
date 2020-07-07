@@ -14,7 +14,7 @@ expects the width/height to be configured using this native in order to get a pr
 command.
 
 
-## Parameters
+## 參數
 * **x**: The X offset for the item to be drawn.
 * **y**: The Y offset for the item to be drawn.
 * **w**: The width of the item to be drawn.

@@ -9,7 +9,7 @@ BOOL HAS_VEHICLE_ASSET_LOADED(int vehicleAsset);
 ```
 
 
-## Parameters
+## 參數
 * **vehicleAsset**: 
 
-## Return value
+## 返回值

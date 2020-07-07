@@ -19,6 +19,6 @@ void _ANIMPOSTFX_STOP_AND_DO_UNK(char* effectName);
 "SwitchOpenNeutral"  
 ```
 
-## Parameters
+## 參數
 * **effectName**: 
 

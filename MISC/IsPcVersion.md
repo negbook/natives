@@ -12,4 +12,4 @@ BOOL IS_PC_VERSION();
 MulleDK19: This function is hard-coded to always return 1.  
 ```
 
-## Return value
+## 返回值

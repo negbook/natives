@@ -9,6 +9,6 @@ void SET_MAP_NAME(char* mapName);
 ```
 
 
-## Parameters
+## 參數
 * **mapName**: 
 

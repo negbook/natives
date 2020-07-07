@@ -9,6 +9,6 @@ void SET_GPS_FLASHES(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

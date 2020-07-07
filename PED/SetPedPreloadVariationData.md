@@ -15,10 +15,10 @@ PED::_39D55A620FCB6A3A(PLAYER::PLAYER_PED_ID(), 8, PED::GET_PED_DRAWABLE_VARIATI
 p1 is probably componentId
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **slot**: 
 * **drawableId**: 
 * **textureId**: 
 
-## Return value
+## 返回值

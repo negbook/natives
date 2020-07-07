@@ -14,8 +14,8 @@ Starts a task to check an entered string for profanity on the ROS/Social Club se
 See also: 1753344C770358AE, 82E4A58BABC15AE7.  
 ```
 
-## Parameters
+## 參數
 * **string**: 
 * **token**: 
 
-## Return value
+## 返回值

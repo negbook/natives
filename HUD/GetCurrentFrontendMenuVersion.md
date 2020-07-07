@@ -14,4 +14,4 @@ if (UI::_2309595AD6145265() == ${fe_menu_version_empty_no_background})
 Seems to get the current frontend menu  
 ```
 
-## Return value
+## 返回值

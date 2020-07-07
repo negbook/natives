@@ -22,7 +22,7 @@ enum RoofState
 };  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

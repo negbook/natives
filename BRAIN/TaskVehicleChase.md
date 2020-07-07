@@ -14,7 +14,7 @@ chases targetEnt fast and aggressively
 Makes ped (needs to be in vehicle) chase targetEnt.  
 ```
 
-## Parameters
+## 參數
 * **driver**: 
 * **targetEnt**: 
 

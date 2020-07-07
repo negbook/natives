@@ -9,7 +9,7 @@ void TASK_OPEN_VEHICLE_DOOR(Ped ped, Vehicle vehicle, int timeOut, int doorIndex
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **vehicle**: 
 * **timeOut**: 

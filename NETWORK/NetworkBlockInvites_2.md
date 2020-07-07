@@ -9,6 +9,6 @@ aliases: ["0xCFEB8AF24FC1D0BB"]
 void _NETWORK_BLOCK_INVITES_2(BOOL toggle);
 ```
 
-## Parameters
+## 參數
 * **toggle**:
 

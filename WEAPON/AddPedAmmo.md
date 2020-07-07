@@ -13,7 +13,7 @@ void _ADD_PED_AMMO(Ped ped, Any weaponHash, int ammo);
 NativeDB Parameter 1: Hash weaponHash
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 * **ammo**: 

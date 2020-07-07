@@ -9,7 +9,7 @@ void SET_BLIP_FLASH_INTERVAL(Blip blip, Any p1);
 ```
 
 
-## Parameters
+## 參數
 * **blip**: 
 * **p1**: 
 

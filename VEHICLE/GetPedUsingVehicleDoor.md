@@ -13,8 +13,8 @@ Ped GET_PED_USING_VEHICLE_DOOR(Vehicle vehicle, int doorIndex);
 Quick disassembly and test seems to indicate that this native gets the Ped currently using the specified door.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **doorIndex**: 
 
-## Return value
+## 返回值

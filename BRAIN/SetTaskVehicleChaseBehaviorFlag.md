@@ -9,7 +9,7 @@ void SET_TASK_VEHICLE_CHASE_BEHAVIOR_FLAG(Ped ped, int flag, BOOL set);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **flag**: 
 * **set**: 

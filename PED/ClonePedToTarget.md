@@ -16,7 +16,7 @@ What exactly is the difference? What does this exactly do by chance?
 | Internally has a 3rd param (bool) which is set to true by default |  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **targetPed**: 
 

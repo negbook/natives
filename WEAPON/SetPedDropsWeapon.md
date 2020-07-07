@@ -9,6 +9,6 @@ void SET_PED_DROPS_WEAPON(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 

@@ -9,6 +9,6 @@ void NETWORK_SET_TEAM_ONLY_CHAT(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

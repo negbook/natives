@@ -13,6 +13,6 @@ void _SET_FIRST_PERSON_CAM_NEAR_CLIP(float distance);
 Sets the near clipping plane of the first person camera.  
 ```
 
-## Parameters
+## 參數
 * **distance**: 
 

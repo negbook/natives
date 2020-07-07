@@ -9,7 +9,7 @@ BOOL WAS_PED_KILLED_BY_TAKEDOWN(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

@@ -10,7 +10,7 @@ BOOL IS_PICKUP_WEAPON_OBJECT_VALID(Object object);
 ```
 
 
-## Parameters
+## 參數
 * **object**: 
 
-## Return value
+## 返回值

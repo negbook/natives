@@ -9,9 +9,9 @@ BOOL IS_VEHICLE_TYRE_BURST(Vehicle vehicle, int wheelID, BOOL completely);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **wheelID**: 
 * **completely**: 
 
-## Return value
+## 返回值

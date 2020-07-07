@@ -9,7 +9,7 @@ aliases: ["0xC1F6EBF9A3D55538"]
 void SET_PED_HEATSCALE_OVERRIDE(Any p0, Any p1);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

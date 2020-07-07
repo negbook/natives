@@ -12,7 +12,7 @@ void _NETWORK_SPENT_PURCHASE_HANGAR(Any p0, Any p1, Any p2, Any p3);
 NativeDB Introduced: v1180
 ```
 
-## Parameters
+## 參數
 * **p0**:
 * **p1**:
 * **p2**:

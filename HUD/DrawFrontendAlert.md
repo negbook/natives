@@ -62,7 +62,7 @@ NativeDB Parameter 5: BOOL p5
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **labelTitle**: Label of the alert's title. 
 * **labelMsg**: Label of the alert's message.
 * **p2**: This is an enum, check the description for a list.

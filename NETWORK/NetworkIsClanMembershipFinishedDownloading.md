@@ -10,4 +10,4 @@ BOOL _NETWORK_IS_CLAN_MEMBERSHIP_FINISHED_DOWNLOADING();
 ```
 
 
-## Return value
+## 返回值

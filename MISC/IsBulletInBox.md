@@ -9,7 +9,7 @@ BOOL IS_BULLET_IN_BOX(float p0, float p1, float p2, float p3, float p4, float p5
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
@@ -18,4 +18,4 @@ BOOL IS_BULLET_IN_BOX(float p0, float p1, float p2, float p3, float p4, float p5
 * **p5**: 
 * **p6**: 
 
-## Return value
+## 返回值

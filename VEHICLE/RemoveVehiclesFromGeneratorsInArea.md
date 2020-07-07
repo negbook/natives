@@ -9,7 +9,7 @@ void REMOVE_VEHICLES_FROM_GENERATORS_IN_AREA(float x1, float y1, float z1, float
 ```
 
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 

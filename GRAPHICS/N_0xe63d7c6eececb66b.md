@@ -12,6 +12,6 @@ void _0xE63D7C6EECECB66B(BOOL toggle);
 TOGGLE_*
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

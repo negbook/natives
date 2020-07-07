@@ -21,7 +21,7 @@ Possible return values:
 NativeDB Return Type: BOOL
 ```
 
-## Parameters
+## 參數
 * **token**: 
 
-## Return value
+## 返回值

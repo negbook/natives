@@ -12,7 +12,7 @@ BOOL IS_COP_PED_IN_AREA_3D(float x1, float y1, float z1, float x2, float y2, flo
 xyz - relative to the world origin.  
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 
@@ -20,4 +20,4 @@ xyz - relative to the world origin.
 * **y2**: 
 * **z2**: 
 
-## Return value
+## 返回值

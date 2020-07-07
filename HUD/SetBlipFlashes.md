@@ -9,7 +9,7 @@ void SET_BLIP_FLASHES(Blip blip, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **blip**: 
 * **toggle**: 
 

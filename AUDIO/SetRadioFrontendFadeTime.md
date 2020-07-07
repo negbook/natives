@@ -9,6 +9,6 @@ aliases: ["0x2C96CDB04FCA358E"]
 void SET_RADIO_FRONTEND_FADE_TIME(float p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

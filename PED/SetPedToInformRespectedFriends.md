@@ -9,7 +9,7 @@ void SET_PED_TO_INFORM_RESPECTED_FRIENDS(Ped ped, float radius, int maxFriends);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **radius**: 
 * **maxFriends**: 

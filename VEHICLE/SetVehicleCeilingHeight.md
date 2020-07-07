@@ -14,7 +14,7 @@ from Decrypted Scripts I found
 VEHICLE::SET_VEHICLE_CEILING_HEIGHT(l_BD9[2/*2*/], 420.0);  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **height**: 
 

@@ -9,9 +9,9 @@ float GET_VEHICLE_MOD_MODIFIER_VALUE(Vehicle vehicle, int modType, int modIndex)
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **modType**: 
 * **modIndex**: 
 
-## Return value
+## 返回值

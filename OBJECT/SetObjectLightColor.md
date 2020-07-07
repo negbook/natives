@@ -12,7 +12,7 @@ Any _SET_OBJECT_LIGHT_COLOR(Object object, BOOL p1, int r, int g, int b);
 NativeDB Introduced: v1493
 ```
 
-## Parameters
+## 參數
 * **object**:
 * **p1**:
 * **r**:

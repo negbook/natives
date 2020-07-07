@@ -9,7 +9,7 @@ void CREATE_CINEMATIC_SHOT(Any p0, int p1, Any p2, Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

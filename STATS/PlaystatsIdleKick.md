@@ -13,6 +13,6 @@ void PLAYSTATS_IDLE_KICK(int time);
 longest time being ilde?  
 ```
 
-## Parameters
+## 參數
 * **time**: 
 

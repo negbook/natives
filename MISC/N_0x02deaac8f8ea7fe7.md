@@ -13,6 +13,6 @@ Found in the scripts:
 GAMEPLAY::_02DEAAC8F8EA7FE7("");  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

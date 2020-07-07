@@ -13,7 +13,7 @@ void NETWORK_OVERRIDE_CHAT_RESTRICTIONS(Player player, BOOL toggle);
 Could possibly bypass being muted or automatically muted  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 

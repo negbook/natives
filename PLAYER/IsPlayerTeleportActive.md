@@ -9,4 +9,4 @@ BOOL IS_PLAYER_TELEPORT_ACTIVE();
 ```
 
 
-## Return value
+## 返回值

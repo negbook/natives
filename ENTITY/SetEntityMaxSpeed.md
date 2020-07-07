@@ -9,7 +9,7 @@ void SET_ENTITY_MAX_SPEED(Entity entity, float speed);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **speed**: 
 

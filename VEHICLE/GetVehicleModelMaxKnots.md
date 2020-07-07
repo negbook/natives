@@ -15,7 +15,7 @@ Function pertains only to aviation vehicles.
 For a full list, see here: pastebin.com/JwuGNp2K  
 ```
 
-## Parameters
+## 參數
 * **modelHash**: 
 
-## Return value
+## 返回值

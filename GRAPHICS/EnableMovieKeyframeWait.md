@@ -10,6 +10,6 @@ void ENABLE_MOVIE_KEYFRAME_WAIT(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

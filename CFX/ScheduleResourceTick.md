@@ -10,5 +10,5 @@ void SCHEDULE_RESOURCE_TICK(char* resourceName);
 
 Schedules the specified resource to run a tick as soon as possible, bypassing the server's fixed tick rate.
 
-## Parameters
+## 參數
 * **resourceName**: The resource to tick.

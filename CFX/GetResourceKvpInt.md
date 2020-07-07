@@ -9,7 +9,7 @@ int GET_RESOURCE_KVP_INT(char* key);
 ```
 
 
-## Parameters
+## 參數
 * **key**: 
 
-## Return value
+## 返回值

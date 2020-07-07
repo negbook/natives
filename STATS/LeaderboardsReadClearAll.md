@@ -9,4 +9,4 @@ Any LEADERBOARDS_READ_CLEAR_ALL();
 ```
 
 
-## Return value
+## 返回值

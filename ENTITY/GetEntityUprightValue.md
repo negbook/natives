@@ -9,7 +9,7 @@ float GET_ENTITY_UPRIGHT_VALUE(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

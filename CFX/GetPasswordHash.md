@@ -9,7 +9,7 @@ char* GET_PASSWORD_HASH(char* password);
 ```
 
 
-## Parameters
+## 參數
 * **password**: 
 
-## Return value
+## 返回值

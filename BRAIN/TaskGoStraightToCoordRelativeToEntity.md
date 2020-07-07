@@ -9,7 +9,7 @@ void TASK_GO_STRAIGHT_TO_COORD_RELATIVE_TO_ENTITY(Entity entity1, Entity entity2
 ```
 
 
-## Parameters
+## 參數
 * **entity1**: 
 * **entity2**: 
 * **p2**: 

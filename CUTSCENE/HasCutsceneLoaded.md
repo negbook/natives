@@ -9,4 +9,4 @@ BOOL HAS_CUTSCENE_LOADED();
 ```
 
 
-## Return value
+## 返回值

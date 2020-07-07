@@ -12,6 +12,6 @@ void _NETWORK_EARN_FROM_ARENA_CAREER_PROGRESSION(int amount, Any p1);
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **amount**:
 * **p1**:

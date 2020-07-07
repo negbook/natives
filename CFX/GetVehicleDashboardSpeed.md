@@ -9,7 +9,7 @@ float GET_VEHICLE_DASHBOARD_SPEED(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ void SET_PED_INFINITE_AMMO(Ped ped, BOOL toggle, Hash weaponHash);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 * **weaponHash**: 

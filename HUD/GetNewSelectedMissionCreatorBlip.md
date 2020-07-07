@@ -9,4 +9,4 @@ aliases: ["DISABLE_BLIP_NAME_FOR_VAR","0x5C90988E7C8E1AF4"]
 Blip GET_NEW_SELECTED_MISSION_CREATOR_BLIP();
 ```
 
-## Return value
+## 返回值

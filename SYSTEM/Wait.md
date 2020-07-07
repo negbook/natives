@@ -17,6 +17,6 @@ static void WAIT(DWORD time);
 		System native hashes do not change on gameupdate  
 ```
 
-## Parameters
+## 參數
 * **ms**: 
 

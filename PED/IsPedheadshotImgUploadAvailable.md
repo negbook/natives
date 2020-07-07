@@ -9,4 +9,4 @@ aliases: ["0xEBB376779A760AA8"]
 Any IS_PEDHEADSHOT_IMG_UPLOAD_AVAILABLE();
 ```
 
-## Return value
+## 返回值

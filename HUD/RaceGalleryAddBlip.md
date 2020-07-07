@@ -14,9 +14,9 @@ Add a BLIP_GALLERY at the specific coordinate.
 Used in fm_maintain_transition_players to display race track points.
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 
-## Return value
+## 返回值

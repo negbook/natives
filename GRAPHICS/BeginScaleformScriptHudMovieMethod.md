@@ -17,8 +17,8 @@ Known components:
 This native requires more research - all information can be found inside of 'hud.gfx'. Using a decompiler, the different components are located under "scripts\__Packages\com\rockstargames\gtav\hud\hudComponents" and "scripts\__Packages\com\rockstargames\gtav\Multiplayer".  
 ```
 
-## Parameters
+## 參數
 * **hudComponent**: 
 * **methodName**: 
 
-## Return value
+## 返回值

@@ -12,7 +12,7 @@ char* GET_RADIO_STATION_NAME(int radioStation);
 Returns String with radio station name.  
 ```
 
-## Parameters
+## 參數
 * **radioStation**: 
 
-## Return value
+## 返回值

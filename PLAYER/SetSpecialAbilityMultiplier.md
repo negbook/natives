@@ -9,6 +9,6 @@ void SET_SPECIAL_ABILITY_MULTIPLIER(float multiplier);
 ```
 
 
-## Parameters
+## 參數
 * **multiplier**: 
 

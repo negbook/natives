@@ -12,7 +12,7 @@ BOOL PREPARE_MUSIC_EVENT(char* eventName);
 All music event names found in the b617d scripts: pastebin.com/GnYt0R3P  
 ```
 
-## Parameters
+## 參數
 * **eventName**: 
 
-## Return value
+## 返回值

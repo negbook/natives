@@ -17,5 +17,5 @@ Internal logging string: SCRIPT_RESERVING_LOCAL_PEDS
 NativeDB Introduced: v1493
 ```
 
-## Parameters
+## 參數
 * **amount**:

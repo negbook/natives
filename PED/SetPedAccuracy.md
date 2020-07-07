@@ -16,8 +16,8 @@ accuracy = 0-100, 100 being perfectly accurate
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **accuracy**: 
 
-## Return value
+## 返回值

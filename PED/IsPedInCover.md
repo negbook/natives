@@ -12,8 +12,8 @@ BOOL IS_PED_IN_COVER(Ped ped, BOOL exceptUseWeapon);
 p1 is nearly always 0 in the scripts.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **exceptUseWeapon**: 
 
-## Return value
+## 返回值

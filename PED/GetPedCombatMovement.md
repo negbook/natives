@@ -9,7 +9,7 @@ int GET_PED_COMBAT_MOVEMENT(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

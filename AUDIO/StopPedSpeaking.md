@@ -9,7 +9,7 @@ void STOP_PED_SPEAKING(Ped ped, BOOL shaking);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **shaking**: 
 

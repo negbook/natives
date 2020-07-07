@@ -9,6 +9,6 @@ void _0xBB90E12CAC1DAB25(float p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

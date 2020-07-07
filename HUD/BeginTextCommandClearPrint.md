@@ -13,6 +13,6 @@ void BEGIN_TEXT_COMMAND_CLEAR_PRINT(char* text);
 clears a print text command with this text  
 ```
 
-## Parameters
+## 參數
 * **text**: 
 

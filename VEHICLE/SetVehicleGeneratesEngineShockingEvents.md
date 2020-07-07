@@ -13,7 +13,7 @@ void SET_VEHICLE_GENERATES_ENGINE_SHOCKING_EVENTS(Vehicle vehicle, BOOL toggle);
 Allows creation of CEventShockingPlaneFlyby, CEventShockingHelicopterOverhead, and other(?) Shocking events
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

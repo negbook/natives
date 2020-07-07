@@ -13,7 +13,7 @@ BOOL START_NETWORKED_PARTICLE_FX_NON_LOOPED_ON_PED_BONE(char* effectName, Ped pe
 network fx  
 ```
 
-## Parameters
+## 參數
 * **effectName**: 
 * **ped**: 
 * **offsetX**: 
@@ -28,4 +28,4 @@ network fx
 * **axisY**: 
 * **axisZ**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ Any ADD_PETROL_DECAL(float x, float y, float z, float groundLvl, float width, fl
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -17,4 +17,4 @@ Any ADD_PETROL_DECAL(float x, float y, float z, float groundLvl, float width, fl
 * **width**: 
 * **transparency**: 
 
-## Return value
+## 返回值

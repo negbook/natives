@@ -9,4 +9,4 @@ aliases: ["0x7B226C785A52A0A9"]
 BOOL IS_SCREENBLUR_FADE_RUNNING();
 ```
 
-## Return value
+## 返回值

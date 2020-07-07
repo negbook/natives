@@ -16,6 +16,6 @@ UI::0x7AD67C95("General");
 UI::0x7AD67C95("Playlists");  
 ```
 
-## Parameters
+## 參數
 * **name**: 
 

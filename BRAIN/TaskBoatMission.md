@@ -17,7 +17,7 @@ PED::SET_BLOCKING_OF_NON_TEMPORARY_EVENTS(pedDriver, 1);
 P8 appears to be driving style flag - see gtaforums.com/topic/822314-guide-driving-styles/ for documentation  
 ```
 
-## Parameters
+## 參數
 * **pedDriver**: 
 * **boat**: 
 * **p2**: 

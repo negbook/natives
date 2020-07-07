@@ -12,7 +12,7 @@ BOOL _GET_ENTITY_PROOFS(Entity entity, BOOL* bulletProof, BOOL* fireProof, BOOL*
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **entity**:
 * **bulletProof**:
 * **fireProof**:

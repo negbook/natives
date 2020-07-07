@@ -16,7 +16,7 @@ From the scripts, p0:
 "ZoomLevel"  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

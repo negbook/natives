@@ -9,7 +9,7 @@ int NETWORK_GET_PARTICIPANT_INDEX(int index);
 ```
 
 
-## Parameters
+## 參數
 * **index**: 
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ void NETWORK_SET_LOCAL_PLAYER_INVINCIBLE_TIME(int time);
 ```
 
 
-## Parameters
+## 參數
 * **time**: 
 

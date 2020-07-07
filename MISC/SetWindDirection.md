@@ -15,6 +15,6 @@ i.imgur.com/FwVpGS6.png
 This appears to be a heading, in radians (0-2*pi) -PNWParksFan  
 ```
 
-## Parameters
+## 參數
 * **direction**: 
 

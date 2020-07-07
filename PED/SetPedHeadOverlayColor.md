@@ -14,7 +14,7 @@ ColorType is 1 for eyebrows, beards, and chest hair; 2 for blush and lipstick; a
 Called after SET_PED_HEAD_OVERLAY().  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **overlayID**: 
 * **colorType**: 

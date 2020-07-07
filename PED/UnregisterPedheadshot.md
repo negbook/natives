@@ -12,6 +12,6 @@ void UNREGISTER_PEDHEADSHOT(int id);
 gtaforums.com/topic/885580-ped-headshotmugshot-txd/  
 ```
 
-## Parameters
+## 參數
 * **id**: 
 

@@ -10,4 +10,4 @@ int _NET_GAMESERVER_DELETE_CHARACTER_SLOT_GET_STATUS();
 ```
 
 
-## Return value
+## 返回值

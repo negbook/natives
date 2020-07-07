@@ -9,4 +9,4 @@ aliases: ["0x10BD227A753B0D84","_NETWORK_GET_TUNABLES_VERSION"]
 int NETWORK_GET_TUNABLE_CLOUD_CRC();
 ```
 
-## Return value
+## 返回值

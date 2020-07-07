@@ -14,7 +14,7 @@ Often ends with 1, 0, 0, 1); in the scripts. It works.
 Axis - Invert Axis Flags  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **xPos**: 
 * **yPos**: 

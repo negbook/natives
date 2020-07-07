@@ -12,7 +12,7 @@ void SET_PARTICLE_FX_NON_LOOPED_COLOUR(float r, float g, float b);
 only works on some fx's  
 ```
 
-## Parameters
+## 參數
 * **r**: 
 * **g**: 
 * **b**: 

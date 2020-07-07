@@ -10,7 +10,7 @@ void SET_PARTICLE_FX_LOOPED_FAR_CLIP_DIST(int ptfxHandle, float range);
 ```
 
 
-## Parameters
+## 參數
 * **ptfxHandle**: 
 * **range**: 
 

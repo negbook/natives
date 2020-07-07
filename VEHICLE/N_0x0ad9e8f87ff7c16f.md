@@ -9,7 +9,7 @@ void _0x0AD9E8F87FF7C16F(Any p0, BOOL p1);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

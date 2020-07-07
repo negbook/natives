@@ -16,7 +16,7 @@ missing a last parameter int p6
 NativeDB Added Parameter 7: Any p6
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

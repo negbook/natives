@@ -9,4 +9,4 @@ aliases: ["0x855BC38818F6F684"]
 BOOL NETWORK_SESSION_IS_IN_VOICE_SESSION();
 ```
 
-## Return value
+## 返回值

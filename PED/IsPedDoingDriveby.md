@@ -9,7 +9,7 @@ BOOL IS_PED_DOING_DRIVEBY(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

@@ -13,4 +13,4 @@ BOOL _HAS_RESUMED_FROM_SUSPEND();
 Hardcoded to return false.
 ```
 
-## Return value
+## 返回值

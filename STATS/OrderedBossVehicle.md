@@ -13,7 +13,7 @@ void _ORDERED_BOSS_VEHICLE(Any p0, Any p1, Any vehicleHash);
 NativeDB Parameter 2: Hash vehicleHash
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **vehicleHash**: 

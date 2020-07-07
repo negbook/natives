@@ -9,7 +9,7 @@ aliases: ["0x4C61B39930D045DA"]
 BOOL CLOUD_HAS_REQUEST_COMPLETED(int handle);
 ```
 
-## Parameters
+## 參數
 * **handle**: 
 
-## Return value
+## 返回值

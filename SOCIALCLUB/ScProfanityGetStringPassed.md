@@ -10,7 +10,7 @@ BOOL SC_PROFANITY_GET_STRING_PASSED(int token);
 ```
 
 
-## Parameters
+## 參數
 * **token**: 
 
-## Return value
+## 返回值

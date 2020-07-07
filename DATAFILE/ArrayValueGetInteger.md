@@ -9,8 +9,8 @@ int _ARRAY_VALUE_GET_INTEGER(Any* arrayData, int arrayIndex);
 ```
 
 
-## Parameters
+## 參數
 * **arrayData**: 
 * **arrayIndex**: 
 
-## Return value
+## 返回值

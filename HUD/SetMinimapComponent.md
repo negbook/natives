@@ -25,9 +25,9 @@ An incomplete list of components ID:
 15: Army base.
 ```
 
-## Parameters
+## 參數
 * **componentID**: 
 * **toggle**: 
 * **p2**: 
 
-## Return value
+## 返回值

@@ -10,7 +10,7 @@ Hash NETWORK_HASH_FROM_GAMER_HANDLE(int* networkHandle);
 ```
 
 
-## Parameters
+## 參數
 * **networkHandle**: 
 
-## Return value
+## 返回值

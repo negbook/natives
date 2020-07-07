@@ -12,7 +12,7 @@ int GET_NAVMESH_ROUTE_RESULT(Ped ped);
 See GET_NAVMESH_ROUTE_DISTANCE_REMAINING for more details.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

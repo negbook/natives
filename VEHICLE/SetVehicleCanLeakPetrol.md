@@ -9,7 +9,7 @@ aliases: ["0x192547247864DFDD"]
 void SET_VEHICLE_CAN_LEAK_PETROL(Vehicle vehicle, BOOL p1);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

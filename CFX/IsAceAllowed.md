@@ -9,7 +9,7 @@ BOOL IS_ACE_ALLOWED(char* object);
 ```
 
 
-## Parameters
+## 參數
 * **object**: 
 
-## Return value
+## 返回值

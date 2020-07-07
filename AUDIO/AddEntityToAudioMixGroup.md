@@ -16,7 +16,7 @@ pastebin.com/ceu67jz8
 Still not sure on the functionality of this native but it has something to do with dynamic mixer groups defined in dynamix.dat15  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **groupName**: 
 * **p2**: 

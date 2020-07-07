@@ -20,6 +20,6 @@ GRAPHICS::SET_SCRIPT_GFX_DRAW_ORDER(1);
 GRAPHICS::DRAW_RECT(0.5, 0.5, 1.5, 1.5, 0, 0, 0, 255, 0);  
 ```
 
-## Parameters
+## 參數
 * **order**: The intended draw order/layer.
 

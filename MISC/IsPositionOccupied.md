@@ -10,7 +10,7 @@ BOOL IS_POSITION_OCCUPIED(float x, float y, float z, float range, BOOL p4, BOOL 
 
 The BOOL parameters that are documented have not been confirmed. They are just documented from what I've found during testing. They may not work as expected in all cases.
 
-## Parameters
+## 參數
 * **x**: X coordinate of the position to check.
 * **y**: Y coordinate of the position to check.
 * **z**: Z coordinate of the position to check.
@@ -23,5 +23,5 @@ The BOOL parameters that are documented have not been confirmed. They are just d
 * **ignoreEntity**: This entity will be ignored if it's in the area. Set to 0 if you don't want to exclude any entities.
 * **p10**: Unknown.
 
-## Return value
+## 返回值
 Returns true if there is anything in that location matching the provided parameters.

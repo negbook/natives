@@ -13,8 +13,8 @@ BOOL CAN_PED_SEE_HATED_PED(Ped ped1, Ped ped2);
 Returns true if ped1 can see ped2 in their line of vision  
 ```
 
-## Parameters
+## 參數
 * **ped1**: 
 * **ped2**: 
 
-## Return value
+## 返回值

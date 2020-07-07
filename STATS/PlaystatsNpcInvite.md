@@ -9,6 +9,6 @@ void PLAYSTATS_NPC_INVITE(Any* p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

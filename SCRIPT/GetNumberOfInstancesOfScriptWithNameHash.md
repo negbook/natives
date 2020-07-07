@@ -17,7 +17,7 @@ if (scriptPtr)
 return v3;  
 ```
 
-## Parameters
+## 參數
 * **scriptHash**: 
 
-## Return value
+## 返回值

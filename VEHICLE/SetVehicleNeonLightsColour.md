@@ -28,7 +28,7 @@ RGB values and colour names taken from the decompiled scripts:
 | Purple        | 35  | 1   | 255 |
 | Blacklight    | 15  | 3   | 255 |
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **r**: 
 * **g**: 

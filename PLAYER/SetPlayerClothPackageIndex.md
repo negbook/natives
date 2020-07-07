@@ -12,6 +12,6 @@ void SET_PLAYER_CLOTH_PACKAGE_INDEX(int index);
 Every occurrence was either 0 or 2.  
 ```
 
-## Parameters
+## 參數
 * **index**: 
 

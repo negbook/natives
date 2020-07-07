@@ -10,7 +10,7 @@ void SET_MP_GAMER_TAG_NAME(int gamerTagId, char* string);
 ```
 
 
-## Parameters
+## 參數
 * **gamerTagId**: 
 * **string**: 
 

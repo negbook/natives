@@ -13,7 +13,7 @@ BOOL _NET_GAMESERVER_GET_CATALOG_STATE(Any* state);
 NativeDB Parameter 0: int* state
 ```
 
-## Parameters
+## 參數
 * **state**: 
 
-## Return value
+## 返回值

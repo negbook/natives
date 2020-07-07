@@ -9,6 +9,6 @@ void REQUEST_COLLISION_FOR_MODEL(Hash model);
 ```
 
 
-## Parameters
+## 參數
 * **model**: 
 

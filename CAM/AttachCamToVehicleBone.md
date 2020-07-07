@@ -12,7 +12,7 @@ void _ATTACH_CAM_TO_VEHICLE_BONE(Cam cam, Vehicle vehicle, int boneIndex, BOOL r
 This native works with vehicles only.
 Bone indexes are usually given by this native [GET_ENTITY_BONE_INDEX_BY_NAME](#_0xFB71170B7E76ACBA).
 
-## Parameters
+## 參數
 * **cam**: The camera handle.
 * **vehicle**: The vehicle handle.
 * **boneIndex**: 

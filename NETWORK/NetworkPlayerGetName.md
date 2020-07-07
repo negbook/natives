@@ -13,7 +13,7 @@ Returns the name of a given player. Returns "**Invalid**" if CPlayerInfo of the 
 Does exactly the same as GET_PLAYER_NAME.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

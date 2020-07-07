@@ -16,10 +16,10 @@ Interior types include: "V_Michael", "V_Franklins", "V_Franklinshouse", etc.. yo
 Not a very useful native as you could just use GET_INTERIOR_AT_COORDS instead and get the same result, without even having to specify the interior type.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 * **interiorType**: 
 
-## Return value
+## 返回值

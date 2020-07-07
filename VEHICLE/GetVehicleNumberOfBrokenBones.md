@@ -13,7 +13,7 @@ int _GET_VEHICLE_NUMBER_OF_BROKEN_BONES(Vehicle vehicle);
 GET_VEHICLE_NUMBER_*
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

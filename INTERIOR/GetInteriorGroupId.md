@@ -12,7 +12,7 @@ int GET_INTERIOR_GROUP_ID(int interior);
 Returns the group ID of the specified interior. For example, regular interiors have group 0, subway interiors have group 1. There are a few other groups too.  
 ```
 
-## Parameters
+## 參數
 * **interior**: 
 
-## Return value
+## 返回值

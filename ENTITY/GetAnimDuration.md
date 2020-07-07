@@ -11,8 +11,8 @@ float GET_ANIM_DURATION(char* animDict, char* animName);
 
 [Animations list](https://alexguirre.github.io/animations-list/)
 
-## Parameters
+## 參數
 * **animDict**: 
 * **animName**: 
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ aliases: ["0x5D7B620DAE436138"]
 void _SET_GAMEPLAY_HINT_ANIM_OFFSETX(float xoffset);
 ```
 
-## Parameters
+## 參數
 * **xoffset**: 
 

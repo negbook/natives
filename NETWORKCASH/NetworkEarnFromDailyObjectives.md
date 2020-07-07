@@ -10,7 +10,7 @@ void NETWORK_EARN_FROM_DAILY_OBJECTIVES(int p0, char* p1, int p2);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

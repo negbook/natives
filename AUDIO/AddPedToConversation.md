@@ -16,7 +16,7 @@ One of the 2 calls in dialogue_handler.c p0 is in a while-loop, and so is determ
 Based on it asking if does_entity_exist for the global I have determined that p1 is, in fact, the ped, but could be wrong.  
 ```
 
-## Parameters
+## 參數
 * **index**: 
 * **ped**: 
 * **p2**: 

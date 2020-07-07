@@ -9,4 +9,4 @@ BOOL NETWORK_CAN_BAIL();
 ```
 
 
-## Return value
+## 返回值

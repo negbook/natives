@@ -13,7 +13,7 @@ void _NETWORK_TRANSITION_TRACK(Any hash, int p1, int p2, int state, int p4);
 NativeDB Parameter 0: Hash hash
 ```
 
-## Parameters
+## 參數
 * **hash**: 
 * **p1**: 
 * **p2**: 

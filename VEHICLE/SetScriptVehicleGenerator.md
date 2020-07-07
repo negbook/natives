@@ -12,7 +12,7 @@ void SET_SCRIPT_VEHICLE_GENERATOR(int vehicleGenerator, BOOL enabled);
 Only called once in the decompiled scripts. Presumably activates the specified generator.  
 ```
 
-## Parameters
+## 參數
 * **vehicleGenerator**: 
 * **enabled**: 
 

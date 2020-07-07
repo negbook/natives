@@ -41,7 +41,7 @@ FMMC_KEY_TIP9N	=	"Outfit Name"
 PM_NAME_CHALL	=	"Enter Challenge Name"  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **windowTitle**: 
 * **p2**: 

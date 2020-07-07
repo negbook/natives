@@ -9,7 +9,7 @@ void SET_PED_COORDS_NO_GANG(Ped ped, float posX, float posY, float posZ);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **posX**: 
 * **posY**: 

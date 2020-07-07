@@ -13,7 +13,7 @@ Used for doing money drop
 Pickup hashes: pastebin.com/8EuSv2r1  
 ```
 
-## Parameters
+## 參數
 * **pickupHash**: 
 * **posX**: 
 * **posY**: 
@@ -24,4 +24,4 @@ Pickup hashes: pastebin.com/8EuSv2r1
 * **returnHandle**: 
 * **p8**: 
 
-## Return value
+## 返回值

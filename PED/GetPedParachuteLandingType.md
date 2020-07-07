@@ -16,7 +16,7 @@ int GET_PED_PARACHUTE_LANDING_TYPE(Ped ped);
 3: ragdoll  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

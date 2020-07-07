@@ -13,6 +13,6 @@ Sets a visually fake wanted level on the user interface. Used by Rockstar's scri
 Max is 6. Also the mini-map gets the red & blue flashing effect.  
 ```
 
-## Parameters
+## 參數
 * **fakeWantedLevel**: 
 

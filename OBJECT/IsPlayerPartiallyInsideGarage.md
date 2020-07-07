@@ -13,9 +13,9 @@ BOOL IS_PLAYER_PARTIALLY_INSIDE_GARAGE(Any garageHash, Player player, int p2);
 NativeDB Parameter 0: Hash garageHash
 ```
 
-## Parameters
+## 參數
 * **garageHash**: 
 * **player**: 
 * **p2**: 
 
-## Return value
+## 返回值

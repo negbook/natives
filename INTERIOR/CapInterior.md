@@ -12,7 +12,7 @@ void CAP_INTERIOR(int interiorID, BOOL toggle);
 Does something similar to INTERIOR::DISABLE_INTERIOR  
 ```
 
-## Parameters
+## 參數
 * **interiorID**: 
 * **toggle**: 
 

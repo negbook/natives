@@ -13,7 +13,7 @@ void SET_MP_GAMER_TAG_ALPHA(int gamerTagId, int component, int alpha);
 Sets flag's sprite transparency. 0-255.  
 ```
 
-## Parameters
+## 參數
 * **gamerTagId**: 
 * **component**: 
 * **alpha**: 

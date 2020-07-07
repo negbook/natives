@@ -9,6 +9,6 @@ void ASSISTED_MOVEMENT_OVERRIDE_LOAD_DISTANCE_THIS_FRAME(float dist);
 ```
 
 
-## Parameters
+## 參數
 * **dist**: 
 

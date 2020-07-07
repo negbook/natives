@@ -32,7 +32,7 @@ AUDIO::_950A154B8DAB6185("MNT_DNC", l_5F);
 AUDIO::_950A154B8DAB6185("PAP2_IG1_POPPYSEX", l_A00);  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

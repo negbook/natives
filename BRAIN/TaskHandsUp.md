@@ -14,7 +14,7 @@ p3 seems to be duration or timeout of turn animation.
 Also facingPed can be 0 or -1 so ped will just raise hands up.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **duration**: 
 * **facingPed**: 

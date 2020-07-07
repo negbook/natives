@@ -37,7 +37,7 @@ seg001:000000000158C36C                 b         loc_18037D8
 sorta makes sense though since the one above this native and GET_PAUSED_MAP_STREAMING_REQUEST are used together often in scripts  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **p1**: 
 * **p2**: 
@@ -51,4 +51,4 @@ sorta makes sense though since the one above this native and GET_PAUSED_MAP_STRE
 * **p10**: 
 * **flags**: 
 
-## Return value
+## 返回值

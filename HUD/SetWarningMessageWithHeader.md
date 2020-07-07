@@ -22,7 +22,7 @@ Fixed native name, from before nativedb restoration.
 NativeDB Added Parameter 10: Any p9
 ```
 
-## Parameters
+## 參數
 * **titleMsg**: 
 * **entryLine1**: 
 * **flags**: 

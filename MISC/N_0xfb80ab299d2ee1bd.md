@@ -12,6 +12,6 @@ void _0xFB80AB299D2EE1BD(BOOL toggle);
 Toggles some stunt jump stuff.
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

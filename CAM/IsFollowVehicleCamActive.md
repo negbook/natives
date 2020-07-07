@@ -9,4 +9,4 @@ BOOL IS_FOLLOW_VEHICLE_CAM_ACTIVE();
 ```
 
 
-## Return value
+## 返回值

@@ -9,10 +9,10 @@ BOOL IS_SPHERE_VISIBLE(float x, float y, float z, float radius);
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 * **radius**: 
 
-## Return value
+## 返回值

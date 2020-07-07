@@ -9,7 +9,7 @@ aliases: ["DISABLE_VEHICLE_IMPACT_EXPLOSION_ACTIVATION","_SET_DISABLE_VEHICLE_SI
 void SET_VEHICLE_HAS_MUTED_SIRENS(Vehicle vehicle, BOOL toggle);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

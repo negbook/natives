@@ -9,8 +9,8 @@ int PERFORM_HTTP_REQUEST_INTERNAL(char* requestData, int requestDataLength);
 ```
 
 
-## Parameters
+## 參數
 * **requestData**: 
 * **requestDataLength**: 
 
-## Return value
+## 返回值

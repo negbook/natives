@@ -14,7 +14,7 @@ p2 always false
 See dev-c.com/nativedb/func/info/f28965d04f570dca  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **state**: 
 * **p2**: 

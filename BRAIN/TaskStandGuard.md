@@ -12,7 +12,7 @@ void TASK_STAND_GUARD(Ped ped, float x, float y, float z, float heading, char* s
 scenarioName example: "WORLD_HUMAN_GUARD_STAND"  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **x**: 
 * **y**: 

@@ -12,4 +12,4 @@ BOOL NETWORK_IS_SIGNED_IN();
 Returns whether the player is signed into Social Club.  
 ```
 
-## Return value
+## 返回值

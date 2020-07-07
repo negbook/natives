@@ -14,7 +14,7 @@ NativeDB Added Parameter 7: Any p6
 NativeDB Added Parameter 8: Any p7
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

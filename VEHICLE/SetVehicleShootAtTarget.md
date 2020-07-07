@@ -13,7 +13,7 @@ Commands the driver of an armed vehicle (p0) to shoot its weapon at a target (p1
 WEAPON::SET_CURRENT_PED_VEHICLE_WEAPON(pilot,GAMEPLAY::GET_HASH_KEY("VEHICLE_WEAPON_PLANE_ROCKET"));VEHICLE::SET_VEHICLE_SHOOT_AT_TARGET(pilot, target, targPos.x, targPos.y, targPos.z);  
 ```
 
-## Parameters
+## 參數
 * **driver**: 
 * **entity**: 
 * **xTarget**: 

@@ -13,6 +13,6 @@ void ADD_TEXT_COMPONENT_SUBSTRING_TEXT_LABEL_HASH_KEY(Hash gxtEntryHash);
 It adds the localized text of the specified GXT entry name. Eg. if the argument is GET_HASH_KEY("ES_HELP"), adds "Continue". Just uses a text labels hash key  
 ```
 
-## Parameters
+## 參數
 * **gxtEntryHash**: 
 

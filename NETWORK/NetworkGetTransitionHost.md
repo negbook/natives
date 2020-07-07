@@ -9,7 +9,7 @@ BOOL NETWORK_GET_TRANSITION_HOST(int* networkHandle);
 ```
 
 
-## Parameters
+## 參數
 * **networkHandle**: 
 
-## Return value
+## 返回值

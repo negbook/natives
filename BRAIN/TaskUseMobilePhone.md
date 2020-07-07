@@ -19,7 +19,7 @@ p2: int
 NativeDB Added Parameter 3: Any p2
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 

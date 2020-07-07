@@ -34,7 +34,7 @@ Code:
 PED::_0x5F5D1665E352A839(PLAYER::PLAYER_PED_ID(), GAMEPLAY::GET_HASH_KEY("mpbeach_overlays"), GAMEPLAY::GET_HASH_KEY("fm_hair_fuzz"))  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **collection**: 
 * **overlay**: 

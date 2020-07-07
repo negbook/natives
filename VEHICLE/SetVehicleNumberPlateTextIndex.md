@@ -18,7 +18,7 @@ Blue/White3
 Yankton  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **plateIndex**: 
 

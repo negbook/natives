@@ -13,7 +13,7 @@ void SET_MP_GAMER_TAG_COLOUR(int gamerTagId, int flag, int color);
 Ranges from 0 to 255. 0 is grey health bar, ~50 yellow, 200 purple.  
 ```
 
-## Parameters
+## 參數
 * **gamerTagId**: 
 * **flag**: 
 * **color**: 

@@ -11,6 +11,6 @@ void REQUEST_PLAYER_COMMERCE_SESSION(char* playerSrc, int skuId);
 Requests the specified player to buy the passed SKU. This'll pop up a prompt on the client, which upon acceptance
 will open the browser prompting further purchase details.
 
-## Parameters
+## 參數
 * **playerSrc**: The player handle
 * **skuId**: The ID of the SKU.

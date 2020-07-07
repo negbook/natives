@@ -9,7 +9,7 @@ aliases: ["0xF53E48461B71EECB"]
 BOOL UGC_IS_LANGUAGE_SUPPORTED(Any p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

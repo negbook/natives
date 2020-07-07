@@ -9,7 +9,7 @@ int GET_ENTITY_POPULATION_TYPE(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

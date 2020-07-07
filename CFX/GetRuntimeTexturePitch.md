@@ -10,8 +10,8 @@ int GET_RUNTIME_TEXTURE_PITCH(long tex);
 
 Gets the row pitch of the specified runtime texture, for use when creating data for `SET_RUNTIME_TEXTURE_ARGB_DATA`.
 
-## Parameters
+## 參數
 * **tex**: A handle to the runtime texture.
 
-## Return value
+## 返回值
 The row pitch in bytes.

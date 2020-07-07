@@ -12,7 +12,7 @@ int GET_ENTITY_LOD_DIST(Entity entity);
 Returns the LOD distance of an entity.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

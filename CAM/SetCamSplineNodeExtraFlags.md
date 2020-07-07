@@ -10,7 +10,7 @@ void SET_CAM_SPLINE_NODE_EXTRA_FLAGS(Cam cam, int p1, int flags);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **p1**: 
 * **flags**: 

@@ -13,9 +13,9 @@ BOOL _ARE_COORDS_COLLIDING_WITH_EXTERIOR(float x, float y, float z);
 Returns true if the coords are colliding with the outdoors, and false if they collide with an interior.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 
-## Return value
+## 返回值

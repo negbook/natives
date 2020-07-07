@@ -9,6 +9,6 @@ void CLEAR_HELP(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

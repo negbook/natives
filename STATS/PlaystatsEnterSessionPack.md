@@ -12,5 +12,5 @@ void _PLAYSTATS_ENTER_SESSION_PACK(Any* data);
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **data**:

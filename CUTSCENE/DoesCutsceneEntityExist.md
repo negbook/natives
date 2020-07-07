@@ -9,8 +9,8 @@ BOOL DOES_CUTSCENE_ENTITY_EXIST(char* cutsceneEntName, Hash modelHash);
 ```
 
 
-## Parameters
+## 參數
 * **cutsceneEntName**: 
 * **modelHash**: 
 
-## Return value
+## 返回值

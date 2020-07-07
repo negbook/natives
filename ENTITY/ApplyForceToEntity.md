@@ -27,7 +27,7 @@ public enum ForceType
 Research/documentation on the gtaforums can be found [here](https://gtaforums.com/topic/885669-precisely-define-object-physics/) and [here](https://gtaforums.com/topic/887362-apply-forces-and-momentums-to-entityobject/).
 
 
-## Parameters
+## 參數
 * **entity**: The entity you want to apply a force on
 * **forceType**: See native description above for a list of commonly used values
 * **x**: Force amount (X)

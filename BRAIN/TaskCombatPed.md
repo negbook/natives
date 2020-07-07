@@ -14,7 +14,7 @@ p2 should be 0
 p3 should be 16  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **targetPed**: 
 * **p2**: 

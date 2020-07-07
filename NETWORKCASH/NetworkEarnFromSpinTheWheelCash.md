@@ -12,5 +12,5 @@ void _NETWORK_EARN_FROM_SPIN_THE_WHEEL_CASH(int amount);
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **amount**:

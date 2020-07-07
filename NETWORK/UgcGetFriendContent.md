@@ -9,10 +9,10 @@ aliases: ["0xF9E1CCAE8BA4C281"]
 BOOL UGC_GET_FRIEND_CONTENT(Any p0, Any p1, Any* p2, Any* p3);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
 * **p3**: 
 
-## Return value
+## 返回值

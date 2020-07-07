@@ -9,7 +9,7 @@ BOOL IS_PROJECTILE_TYPE_IN_ANGLED_AREA(float p0, float p1, float p2, float p3, f
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
@@ -20,4 +20,4 @@ BOOL IS_PROJECTILE_TYPE_IN_ANGLED_AREA(float p0, float p1, float p2, float p3, f
 * **p7**: 
 * **p8**: 
 
-## Return value
+## 返回值

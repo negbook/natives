@@ -13,6 +13,6 @@ void _THEFEED_SET_ANIMPOSTFX_SOUND(BOOL toggle);
 Requires GAME_STREAM_ENUMS.MSGTEXT. Default sounds: "DPAD_WEAPON_SCROLL" and "HUD_FRONTEND_DEFAULT_SOUNDSET"
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

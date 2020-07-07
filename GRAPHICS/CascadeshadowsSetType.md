@@ -15,6 +15,6 @@ Only possible values:
 - "CSM_ST_BOX3x3"  
 ```
 
-## Parameters
+## 參數
 * **type**: 
 

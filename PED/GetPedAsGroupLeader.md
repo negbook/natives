@@ -10,7 +10,7 @@ Ped GET_PED_AS_GROUP_LEADER(int groupID);
 ```
 
 
-## Parameters
+## 參數
 * **groupID**: 
 
-## Return value
+## 返回值

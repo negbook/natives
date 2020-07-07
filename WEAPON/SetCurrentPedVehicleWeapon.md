@@ -9,8 +9,8 @@ BOOL SET_CURRENT_PED_VEHICLE_WEAPON(Ped ped, Hash weaponHash);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 
-## Return value
+## 返回值

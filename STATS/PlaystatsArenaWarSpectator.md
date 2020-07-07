@@ -12,7 +12,7 @@ void _PLAYSTATS_ARENA_WAR_SPECTATOR(int p0, int p1, int p2, int p3, int p4);
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **p0**:
 * **p1**:
 * **p2**:

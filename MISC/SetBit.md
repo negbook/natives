@@ -18,7 +18,7 @@ GAMEPLAY::IS_BIT_SET(bitAddress, 1); // will return 1 afterwards
 Please note, this method may assign a value to [address] when used.  
 ```
 
-## Parameters
+## 參數
 * **address**: 
 * **offset**: 
 

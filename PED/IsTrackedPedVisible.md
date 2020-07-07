@@ -13,7 +13,7 @@ returns whether or not a ped is visible within your FOV, not this check auto's t
 Target needs to be tracked.. won't work otherwise.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

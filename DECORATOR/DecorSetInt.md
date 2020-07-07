@@ -12,9 +12,9 @@ BOOL DECOR_SET_INT(Entity entity, char* propertyName, int value);
 Sets property to int.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **propertyName**: 
 * **value**: 
 
-## Return value
+## 返回值

@@ -35,11 +35,11 @@ if (((ENTITY::DOES_ENTITY_EXIST(Global_1281959) && !ENTITY::IS_ENTITY_DEAD(Globa
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: The vehicle to check.
 
 
-## Return value
+## 返回值
 Returns true when the engine of your vehicle is on fire. Returns false if it's not on fire.
 
 

@@ -28,10 +28,10 @@ BOOL sub_8e5aa(char *text, int length) {
 }  
 ```
 
-## Parameters
+## 參數
 * **text**: 
 * **position**: 
 * **length**: 
 * **maxLength**: 
 
-## Return value
+## 返回值

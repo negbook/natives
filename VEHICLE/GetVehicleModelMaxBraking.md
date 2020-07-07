@@ -13,7 +13,7 @@ Returns max braking of the specified vehicle model.
 For a full list, see here: pastebin.com/3N8DVbpG  
 ```
 
-## Parameters
+## 參數
 * **modelHash**: 
 
-## Return value
+## 返回值

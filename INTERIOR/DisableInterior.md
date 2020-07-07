@@ -14,7 +14,7 @@ This removes the interior from the strip club and when trying to walk inside the
 INTERIOR::DISABLE_INTERIOR(118018, true);  
 ```
 
-## Parameters
+## 參數
 * **interiorID**: 
 * **toggle**: 
 

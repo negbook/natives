@@ -14,5 +14,5 @@ GRAPHICS::_0x77FE3402004CD1B0(PLAYER::GET_PLAYER_NAME(PLAYER::PLAYER_ID()));
 
 Both _0xBA7148484BD90365 / _0x77FE3402004CD1B0 works, but _0x77FE3402004CD1B0 is usually used for "name" (organisation, players..).
 
-## Parameters
+## 參數
 * **string**: 

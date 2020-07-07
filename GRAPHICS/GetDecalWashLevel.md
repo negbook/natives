@@ -9,7 +9,7 @@ float GET_DECAL_WASH_LEVEL(int decal);
 ```
 
 
-## Parameters
+## 參數
 * **decal**: 
 
-## Return value
+## 返回值

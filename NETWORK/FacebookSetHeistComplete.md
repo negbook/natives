@@ -10,9 +10,9 @@ BOOL _FACEBOOK_SET_HEIST_COMPLETE(char* heistName, int cashEarned, int xpEarned)
 ```
 
 
-## Parameters
+## 參數
 * **heistName**: 
 * **cashEarned**: 
 * **xpEarned**: 
 
-## Return value
+## 返回值

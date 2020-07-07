@@ -22,7 +22,7 @@ if the target is closer than noRoadsDistance, the driver will ignore pathing/roa
 Driving Styles guide: gtaforums.com/topic/822314-guide-driving-styles/  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **vehicle**: 
 * **targetVehicle**: 

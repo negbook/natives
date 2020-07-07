@@ -9,7 +9,7 @@ BOOL IS_INTERIOR_READY(int interiorID);
 ```
 
 
-## Parameters
+## 參數
 * **interiorID**: 
 
-## Return value
+## 返回值

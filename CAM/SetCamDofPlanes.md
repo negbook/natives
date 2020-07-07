@@ -9,7 +9,7 @@ void SET_CAM_DOF_PLANES(Cam cam, float p1, float p2, float p3, float p4);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **p1**: 
 * **p2**: 

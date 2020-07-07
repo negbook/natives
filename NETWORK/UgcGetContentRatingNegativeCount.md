@@ -9,8 +9,8 @@ aliases: ["0x4E548C0D7AE39FF9"]
 Any UGC_GET_CONTENT_RATING_NEGATIVE_COUNT(Any p0, Any p1);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

@@ -13,6 +13,6 @@ Plays the siren sound of a vehicle which is otherwise activated when fastly doub
 Only works on vehicles with a police siren.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 

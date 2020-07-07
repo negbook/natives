@@ -9,6 +9,6 @@ void SET_THIS_SCRIPT_CAN_BE_PAUSED(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

@@ -12,7 +12,7 @@ void SET_PED_WETNESS_HEIGHT(Ped ped, float height);
 It adds the wetness level to the player clothing/outfit. As if player just got out from water surface.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **height**: 
 

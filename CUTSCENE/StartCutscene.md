@@ -12,6 +12,6 @@ void START_CUTSCENE(int flags);
 some kind of flag. Usually 0.  
 ```
 
-## Parameters
+## 參數
 * **flags**: 
 

@@ -13,6 +13,6 @@ void REMOVE_MODEL_FROM_CREATOR_BUDGET(Any modelHash);
 NativeDB Parameter 0: Hash modelHash
 ```
 
-## Parameters
+## 參數
 * **modelHash**: 
 

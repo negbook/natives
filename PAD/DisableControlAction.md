@@ -25,7 +25,7 @@ Example: CONTROLS::DISABLE_CONTROL_ACTION(2, 19, true) disables the switching UI
 Control group 1 and 0 gives the same results as 2. Same results for all players.  
 ```
 
-## Parameters
+## 參數
 * **inputGroup**: 
 * **control**: 
 * **disable**: 

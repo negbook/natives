@@ -9,6 +9,6 @@ void GET_MOBILE_PHONE_RENDER_ID(int* renderId);
 ```
 
 
-## Parameters
+## 參數
 * **renderId**: 
 

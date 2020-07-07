@@ -10,7 +10,7 @@ BOOL IS_FLASH_LIGHT_ON(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

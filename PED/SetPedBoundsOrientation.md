@@ -9,7 +9,7 @@ void SET_PED_BOUNDS_ORIENTATION(Ped ped, float p1, float p2, float p3, float p4,
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 * **p2**: 

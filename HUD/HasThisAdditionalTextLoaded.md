@@ -12,8 +12,8 @@ BOOL HAS_THIS_ADDITIONAL_TEXT_LOADED(char* gxt, int slot);
 Checks if the specified gxt has loaded into the passed slot.  
 ```
 
-## Parameters
+## 參數
 * **gxt**: 
 * **slot**: 
 
-## Return value
+## 返回值

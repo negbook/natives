@@ -9,6 +9,6 @@ void CLEAR_PED_DRIVE_BY_CLIPSET_OVERRIDE(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 

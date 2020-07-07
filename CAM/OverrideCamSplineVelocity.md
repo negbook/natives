@@ -9,7 +9,7 @@ void OVERRIDE_CAM_SPLINE_VELOCITY(Cam cam, int p1, float p2, float p3);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **p1**: 
 * **p2**: 

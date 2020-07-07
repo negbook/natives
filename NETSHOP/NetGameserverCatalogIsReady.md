@@ -10,4 +10,4 @@ BOOL _NET_GAMESERVER_CATALOG_IS_READY();
 ```
 
 
-## Return value
+## 返回值

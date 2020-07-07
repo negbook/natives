@@ -10,6 +10,6 @@ void PLAY_STREAM_FROM_PED(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 

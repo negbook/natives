@@ -13,7 +13,7 @@ BOOL _STAT_MIGRATE_SAVE(char* platformName);
 platformName must be one of the following: ps3, xbox360, ps4, xboxone
 ```
 
-## Parameters
+## 參數
 * **platformName**: 
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ void DELETE_FUNCTION_REFERENCE(char* referenceIdentity);
 ```
 
 
-## Parameters
+## 參數
 * **referenceIdentity**: 
 

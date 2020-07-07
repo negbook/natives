@@ -15,7 +15,7 @@ Min: 1.0f
 Max: 130.0f  
 ```
 
-## Parameters
+## 參數
 * **cam**: 
 * **fieldOfView**: 
 

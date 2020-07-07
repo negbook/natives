@@ -9,4 +9,4 @@ aliases: ["0x5A0A3D1A186A5508"]
 Any UGC_GET_MODIFY_RESULT();
 ```
 
-## Return value
+## 返回值

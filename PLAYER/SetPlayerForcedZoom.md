@@ -9,7 +9,7 @@ void SET_PLAYER_FORCED_ZOOM(Player player, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 

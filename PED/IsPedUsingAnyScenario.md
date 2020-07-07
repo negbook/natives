@@ -9,7 +9,7 @@ BOOL IS_PED_USING_ANY_SCENARIO(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

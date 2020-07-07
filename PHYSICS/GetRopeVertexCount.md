@@ -9,7 +9,7 @@ int GET_ROPE_VERTEX_COUNT(int ropeId);
 ```
 
 
-## Parameters
+## 參數
 * **ropeId**: 
 
-## Return value
+## 返回值

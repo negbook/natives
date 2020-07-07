@@ -14,7 +14,7 @@ Max 1000.
 At 0 the tail rotor will stall.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

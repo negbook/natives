@@ -9,7 +9,7 @@ float GET_CAM_FAR_CLIP(Cam cam);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 
-## Return value
+## 返回值

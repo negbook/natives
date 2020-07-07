@@ -17,7 +17,7 @@ NativeDB Added Parameter 9: Any p8
 NativeDB Added Parameter 10: Any p9
 ```
 
-## Parameters
+## 參數
 * **weaponHash**: 
 * **ammoCount**: 
 * **x**: 
@@ -27,4 +27,4 @@ NativeDB Added Parameter 10: Any p9
 * **heading**: 
 * **p7**: 
 
-## Return value
+## 返回值

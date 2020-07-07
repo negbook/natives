@@ -13,4 +13,4 @@ BOOL _HAS_MULTIPLAYER_AUDIO_DATA_UNLOADED();
 HAS_*
 ```
 
-## Return value
+## 返回值

@@ -12,7 +12,7 @@ void _NETWORK_SPENT_MAKE_IT_RAIN(int amount, BOOL p1, BOOL p2);
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **amount**:
 * **p1**:
 * **p2**:

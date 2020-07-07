@@ -16,7 +16,7 @@ Use this to get the number of color indices: pastebin.com/RQEeqTSM
 Note: minimum color index is 0, maximum color index is (numColorIndices - 1)  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **colorPrimary**: 
 * **colorSecondary**: 

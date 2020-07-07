@@ -9,7 +9,7 @@ aliases: ["0x82377B65E943F72D"]
 BOOL NETWORK_GET_PLAYER_OWNS_WAYPOINT(Player player);
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

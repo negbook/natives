@@ -9,7 +9,7 @@ void ATTACH_SYNCHRONIZED_SCENE_TO_ENTITY(int sceneID, Entity entity, int boneInd
 ```
 
 
-## Parameters
+## 參數
 * **sceneID**: 
 * **entity**: 
 * **boneIndex**: 

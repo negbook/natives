@@ -9,6 +9,6 @@ aliases: ["0x600048C60D5C2C51"]
 void DISABLE_PED_HEATSCALE_OVERRIDE(Ped ped);
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 

@@ -12,7 +12,7 @@ void _SET_PED_HAIR_COLOR(Ped ped, int colorID, int highlightColorID);
 Used for freemode (online) characters.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **colorID**: 
 * **highlightColorID**: 

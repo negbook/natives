@@ -16,7 +16,7 @@ and weatherType 2 GAMEPLAY::GET_NEXT_WEATHER_TYPE_HASH_NAME()
 -QuantFC  
 ```
 
-## Parameters
+## 參數
 * **weatherType1**: 
 * **weatherType2**: 
 * **percentWeather2**: 

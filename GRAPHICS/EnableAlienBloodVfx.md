@@ -16,6 +16,6 @@ This native does not seem to work, however by using the [START_SCREEN_EFFECT](ht
 
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

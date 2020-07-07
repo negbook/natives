@@ -10,4 +10,4 @@ BOOL NETWORK_IS_TUNABLE_CLOUD_REQUEST_PENDING();
 ```
 
 
-## Return value
+## 返回值

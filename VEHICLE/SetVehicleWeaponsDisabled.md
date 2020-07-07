@@ -9,7 +9,7 @@ aliases: ["0x86B4B6212CB8B627"]
 void _SET_VEHICLE_WEAPONS_DISABLED(Vehicle vehicle, int weaponSlot);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **weaponSlot**: 
 

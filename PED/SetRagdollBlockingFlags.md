@@ -18,7 +18,7 @@ Works for both player and peds, but some flags don't seem to work for the player
 There seem to be 26 flags  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **flags**: 
 

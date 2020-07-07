@@ -9,6 +9,6 @@ aliases: ["0x1B857666604B1A74"]
 void NETWORK_SET_PLAYER_IS_PASSIVE(BOOL toggle);
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

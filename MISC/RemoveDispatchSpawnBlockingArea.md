@@ -9,6 +9,6 @@ void REMOVE_DISPATCH_SPAWN_BLOCKING_AREA(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

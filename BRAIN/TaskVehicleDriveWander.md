@@ -9,7 +9,7 @@ void TASK_VEHICLE_DRIVE_WANDER(Ped ped, Vehicle vehicle, float speed, int drivin
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **vehicle**: 
 * **speed**: 

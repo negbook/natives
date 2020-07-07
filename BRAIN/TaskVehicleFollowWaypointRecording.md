@@ -20,7 +20,7 @@ p10 = bool (repeat?)
 p11 = 1073741824  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **vehicle**: 
 * **WPRecording**: 

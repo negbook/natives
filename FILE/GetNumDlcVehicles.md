@@ -9,4 +9,4 @@ int GET_NUM_DLC_VEHICLES();
 ```
 
 
-## Return value
+## 返回值

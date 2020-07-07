@@ -14,7 +14,7 @@ Axis - Invert Axis Flags
 list: pastebin.com/N9unUFWY  
 ```
 
-## Parameters
+## 參數
 * **effectName**: 
 * **ped**: 
 * **offsetX**: 
@@ -29,4 +29,4 @@ list: pastebin.com/N9unUFWY
 * **axisY**: 
 * **axisZ**: 
 
-## Return value
+## 返回值

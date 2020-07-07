@@ -13,6 +13,6 @@ void _SET_PED_TALK(Ped ped);
 Speech related.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 

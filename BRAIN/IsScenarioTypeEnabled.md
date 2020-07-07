@@ -20,7 +20,7 @@ Sometimes used together with GAMEPLAY::IS_STRING_NULL_OR_EMPTY in the scripts.
 scenarioType could be the same as scenarioName, used in for example AI::TASK_START_SCENARIO_AT_POSITION.  
 ```
 
-## Parameters
+## 參數
 * **scenarioType**: 
 
-## Return value
+## 返回值

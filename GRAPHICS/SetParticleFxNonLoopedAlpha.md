@@ -14,6 +14,6 @@ Function.Call(Hash.SET_PARTICLE_FX_NON_LOOPED_ALPHA, new InputArgument[] { 0.1f 
 		Note: the argument alpha ranges from 0.0f-1.0f !  
 ```
 
-## Parameters
+## 參數
 * **alpha**: 
 

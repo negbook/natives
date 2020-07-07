@@ -44,7 +44,7 @@ Function.Call(Hash.TASK_HELI_MISSION, driver, heli, 0, 0, position.X, position.Y
 OLD USAGE: pastebin.com/ndkSjaaW  
 ```
 
-## Parameters
+## 參數
 * **pilot**: 
 * **aircraft**: 
 * **targetVehicle**: 

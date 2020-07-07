@@ -9,7 +9,7 @@ aliases: ["0x918C7B2D2FF3928B"]
 Any _ADD_DISPATCH_SPAWN_BLOCKING_ANGLED_AREA(float p0, float p1, float p2, float p3, float p4, float p5, float p6);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
@@ -18,4 +18,4 @@ Any _ADD_DISPATCH_SPAWN_BLOCKING_ANGLED_AREA(float p0, float p1, float p2, float
 * **p5**: 
 * **p6**: 
 
-## Return value
+## 返回值

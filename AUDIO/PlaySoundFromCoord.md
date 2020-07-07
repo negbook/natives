@@ -13,7 +13,7 @@ All found occurrences in b617d, sorted alphabetically and identical lines remove
 gtaforums.com/topic/795622-audio-for-mods  
 ```
 
-## Parameters
+## 參數
 * **soundId**: 
 * **audioName**: 
 * **x**: 

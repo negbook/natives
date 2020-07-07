@@ -12,9 +12,9 @@ BOOL SET_BALANCE_ADD_MACHINES(Any* data, int dataCount, Any* contentTypeName);
 NativeDB Parameter 2: char* contentTypeName
 ```
 
-## Parameters
+## 參數
 * **data**: 
 * **dataCount**: 
 * **contentTypeName**: 
 
-## Return value
+## 返回值

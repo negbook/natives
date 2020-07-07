@@ -9,7 +9,7 @@ int GET_PED_ARMOUR(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

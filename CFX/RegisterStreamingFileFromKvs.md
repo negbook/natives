@@ -12,5 +12,5 @@ void REGISTER_STREAMING_FILE_FROM_KVS(char* kvsKey);
 
 Registers a KVP value as an asset with the GTA streaming module system. This function currently won't work.
 
-## Parameters
+## 參數
 * **kvsKey**: The KVP key in the current resource to register as an asset.

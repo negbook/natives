@@ -10,4 +10,4 @@ int GET_FAKE_WANTED_LEVEL();
 ```
 
 
-## Return value
+## 返回值

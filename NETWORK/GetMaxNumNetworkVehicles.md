@@ -9,4 +9,4 @@ aliases: ["0x0AFCE529F69B21FF"]
 Any GET_MAX_NUM_NETWORK_VEHICLES();
 ```
 
-## Return value
+## 返回值

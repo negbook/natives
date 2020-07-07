@@ -9,7 +9,7 @@ BOOL NETWORK_REQUEST_CONTROL_OF_DOOR(int doorID);
 ```
 
 
-## Parameters
+## 參數
 * **doorID**: 
 
-## Return value
+## 返回值

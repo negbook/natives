@@ -9,7 +9,7 @@ void SET_CAM_NEAR_CLIP(Cam cam, float nearClip);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **nearClip**: 
 

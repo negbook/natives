@@ -12,6 +12,6 @@ void _0x12DED8CA53D47EA5(float p0);
 Hardcoded to only work in multiplayer.  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

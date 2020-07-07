@@ -20,7 +20,7 @@ Camera names found in the b617d scripts:
 Side Note: It seems p8 is basically to represent what would be the bool p1 within CREATE_CAM native. As well as the p9 since it's always 2 in scripts seems to represent what would be the last param within SET_CAM_ROT native which normally would be 2.  
 ```
 
-## Parameters
+## 參數
 * **camName**: 
 * **posX**: 
 * **posY**: 
@@ -32,4 +32,4 @@ Side Note: It seems p8 is basically to represent what would be the bool p1 withi
 * **p8**: 
 * **p9**: 
 
-## Return value
+## 返回值

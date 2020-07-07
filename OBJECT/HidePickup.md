@@ -10,7 +10,7 @@ void _HIDE_PICKUP(Pickup pickup, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **pickup**: 
 * **toggle**: 
 

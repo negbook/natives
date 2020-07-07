@@ -10,7 +10,7 @@ BOOL IS_TASK_MOVE_NETWORK_READY_FOR_TRANSITION(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

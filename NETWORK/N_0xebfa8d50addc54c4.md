@@ -9,7 +9,7 @@ BOOL _0xEBFA8D50ADDC54C4(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

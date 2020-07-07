@@ -12,9 +12,9 @@ BOOL DECOR_SET_BOOL(Entity entity, char* propertyName, BOOL value);
 This function sets metadata of type bool to specified entity.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **propertyName**: 
 * **value**: 
 
-## Return value
+## 返回值

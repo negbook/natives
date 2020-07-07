@@ -9,7 +9,7 @@ void ADD_AMMO_TO_PED(Ped ped, Hash weaponHash, int ammo);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 * **ammo**: 

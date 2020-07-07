@@ -10,4 +10,4 @@ BOOL IS_STORE_AVAILABLE_TO_USER();
 ```
 
 
-## Return value
+## 返回值

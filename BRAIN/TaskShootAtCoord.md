@@ -9,7 +9,7 @@ void TASK_SHOOT_AT_COORD(Ped ped, float x, float y, float z, int duration, Hash 
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **x**: 
 * **y**: 

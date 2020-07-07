@@ -13,7 +13,7 @@ void _SET_CAM_DOF_MAX_NEAR_IN_FOCUS_DISTANCE(Cam camera, float p1);
 This native has a name defined inside its code  
 ```
 
-## Parameters
+## 參數
 * **camera**: 
 * **p1**: 
 

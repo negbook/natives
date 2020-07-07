@@ -9,6 +9,6 @@ aliases: ["0x821FDC827D6F4090"]
 void _SPECIAL_ABILITY_ACTIVATE(Player player);
 ```
 
-## Parameters
+## 參數
 * **player**: 
 

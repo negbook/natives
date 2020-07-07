@@ -9,7 +9,7 @@ void REMOVE_PARTICLE_FX(int ptfxHandle, BOOL p1);
 ```
 
 
-## Parameters
+## 參數
 * **ptfxHandle**: 
 * **p1**: 
 

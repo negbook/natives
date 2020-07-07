@@ -9,7 +9,7 @@ void _0xE9EA16D6E54CDCA4(Vehicle p0, int p1);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

@@ -12,6 +12,6 @@ void SET_SAVE_MENU_ACTIVE(BOOL ignoreVehicle);
 The bool is not a toggle!!!  
 ```
 
-## Parameters
+## 參數
 * **ignoreVehicle**: 
 

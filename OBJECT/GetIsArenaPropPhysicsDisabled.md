@@ -13,6 +13,6 @@ Any _GET_IS_ARENA_PROP_PHYSICS_DISABLED(Entity entity, Any p1);
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **entity**:
 * **p1**:

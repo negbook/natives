@@ -14,7 +14,7 @@ Related to tennis mode.
 GET_TENNIS_*
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

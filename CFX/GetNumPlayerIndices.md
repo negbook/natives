@@ -9,4 +9,4 @@ int GET_NUM_PLAYER_INDICES();
 ```
 
 
-## Return value
+## 返回值

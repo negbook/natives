@@ -13,7 +13,7 @@ void _LINK_STATIC_EMITTER_TO_ENTITY(char* emitterName, Entity entity);
 L* (LINK_*?)
 ```
 
-## Parameters
+## 參數
 * **emitterName**: 
 * **entity**: 
 

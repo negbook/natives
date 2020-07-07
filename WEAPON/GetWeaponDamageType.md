@@ -24,7 +24,7 @@ int GET_WEAPON_DAMAGE_TYPE(Hash weaponHash);
 14=water cannon(WEAPON_HIT_BY_WATER_CANNON)  
 ```
 
-## Parameters
+## 參數
 * **weaponHash**: 
 
-## Return value
+## 返回值

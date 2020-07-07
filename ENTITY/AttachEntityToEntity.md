@@ -18,7 +18,7 @@ vertexIndex - position of vertex
 fixedRot - if false it ignores entity vector  
 ```
 
-## Parameters
+## 參數
 * **entity1**: 
 * **entity2**: 
 * **boneIndex**: 

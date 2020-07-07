@@ -9,6 +9,6 @@ void DETACH_SYNCHRONIZED_SCENE(int sceneID);
 ```
 
 
-## Parameters
+## 參數
 * **sceneID**: 
 

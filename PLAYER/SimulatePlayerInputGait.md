@@ -16,7 +16,7 @@ C# Example :
 Function.Call(Hash.SIMULATE_PLAYER_INPUT_GAIT, Game.Player, 1.0f, 100, 1.0f, 1, 0); //Player will go forward for 100ms  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **amount**: 
 * **gaitType**: 

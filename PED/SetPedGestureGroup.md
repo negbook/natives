@@ -16,7 +16,7 @@ PED::SET_PED_GESTURE_GROUP(PLAYER::PLAYER_PED_ID(),
 "ANIM_GROUP_GESTURE_MISS_DocksSetup1");  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **animGroupGesture**: 
 

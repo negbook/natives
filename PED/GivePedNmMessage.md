@@ -27,6 +27,6 @@ CREATE_NM_MESSAGE(true, 372); // armsWindmill - Swing arms around.
 GIVE_PED_NM_MESSAGE(ped); // Dispatch message to Ped.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 

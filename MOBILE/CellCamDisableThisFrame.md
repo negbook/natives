@@ -17,6 +17,6 @@ This can be used for creating menu's when trying to disable the phone from being
 You do not have to call the function again with false as a parameter, as soon as the function stops being called, the phone will again be usable.  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

@@ -9,7 +9,7 @@ void SET_VEHICLE_CURRENT_RPM(Vehicle vehicle, float rpm);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **rpm**: 
 

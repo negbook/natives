@@ -13,9 +13,9 @@ BOOL DECOR_SET_FLOAT(Entity entity, char* propertyName, float value);
 The native name is correct but the db automatically prefixes "_" to unknown natives when changed.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **propertyName**: 
 * **value**: 
 
-## Return value
+## 返回值

@@ -13,6 +13,6 @@ void _NETWORK_EARN_FROM_GANG_PICKUP(int amount);
 MONEY_EARN_PICKED_UP  
 ```
 
-## Parameters
+## 參數
 * **amount**: 
 

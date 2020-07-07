@@ -35,7 +35,7 @@ Additional damage packs:
 gist.github.com/alexguirre/f3f47f75ddcf617f416f3c8a55ae2227  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **damagePack**: 
 * **damage**: 

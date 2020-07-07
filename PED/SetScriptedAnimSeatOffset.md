@@ -9,7 +9,7 @@ void SET_SCRIPTED_ANIM_SEAT_OFFSET(Ped ped, float p1);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 

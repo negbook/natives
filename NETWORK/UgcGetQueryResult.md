@@ -9,4 +9,4 @@ aliases: ["0xEDF7F927136C224B"]
 Any UGC_GET_QUERY_RESULT();
 ```
 
-## Return value
+## 返回值

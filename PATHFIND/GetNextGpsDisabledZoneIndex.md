@@ -15,5 +15,5 @@ Gets the next zone that has been disabled using SET_GPS_DISABLED_ZONE_AT_INDEX.
 NativeDB Removed Parameter 1: int index
 ```
 
-## Return value
+## 返回值
 The disabled zone index

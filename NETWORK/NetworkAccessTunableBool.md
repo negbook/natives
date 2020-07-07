@@ -21,8 +21,8 @@ and some of the tunable names used in the PC scripts:
 - "MULTIPLAYER_DISABLED"  
 ```
 
-## Parameters
+## 參數
 * **tunableContext**: 
 * **tunableName**: 
 
-## Return value
+## 返回值

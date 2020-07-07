@@ -9,7 +9,7 @@ Vector3 GET_PICKUP_COORDS(Pickup pickup);
 ```
 
 
-## Parameters
+## 參數
 * **pickup**: 
 
-## Return value
+## 返回值

@@ -21,7 +21,7 @@ Modes:
 14=follows, stop when near  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **vehicle**: 
 * **pedTarget**: 

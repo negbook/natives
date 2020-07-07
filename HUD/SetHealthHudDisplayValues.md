@@ -9,7 +9,7 @@ aliases: ["0x3F5CC444DCAAA8F2"]
 void SET_HEALTH_HUD_DISPLAY_VALUES(int health, int capacity, BOOL wasAdded);
 ```
 
-## Parameters
+## 參數
 * **health**: 
 * **capacity**: 
 * **wasAdded**: 

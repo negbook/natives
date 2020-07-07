@@ -14,7 +14,7 @@ p10 always equal 0x40400000
 p11 always equal 0  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -28,4 +28,4 @@ p11 always equal 0
 * **p10**: 
 * **p11**: 
 
-## Return value
+## 返回值

@@ -15,8 +15,8 @@ The resulting entity can be a Vehicle or Ped.
 on a side note watching changes in memory this will only store your ped's entityPoolAddress if it's your personal vehicle. So seems to be related to personal vehicles or atleast a specific decor of it maybe.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **entity**: 
 
-## Return value
+## 返回值

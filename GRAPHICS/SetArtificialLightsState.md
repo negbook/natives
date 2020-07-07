@@ -15,7 +15,7 @@ When set to true, all emissive textures (including ped components that have ligh
 
 Used in Humane Labs Heist for EMP.
 
-## Parameters
+## 參數
 * **state**: True turns off all artificial light sources in the map: buildings, street lights, car lights, etc. False turns them back on.
 
 ## Examples

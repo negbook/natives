@@ -10,6 +10,6 @@ void _NETWORK_BLOCK_KICKED_PLAYERS(BOOL p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

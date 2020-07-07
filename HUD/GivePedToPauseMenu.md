@@ -12,7 +12,7 @@ void GIVE_PED_TO_PAUSE_MENU(Ped ped, int p1);
 p1 is either 1 or 2 in the PC scripts.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 

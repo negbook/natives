@@ -9,7 +9,7 @@ void APP_SET_FLOAT(char* property, float value);
 ```
 
 
-## Parameters
+## 參數
 * **property**: 
 * **value**: 
 

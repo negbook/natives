@@ -9,8 +9,8 @@ BOOL NETWORK_CLAN_GET_MEMBERSHIP_VALID(int* p0, Any p1);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

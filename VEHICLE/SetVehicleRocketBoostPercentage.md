@@ -9,7 +9,7 @@ void _SET_VEHICLE_ROCKET_BOOST_PERCENTAGE(Vehicle vehicle, float percentage);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **percentage**: 
 

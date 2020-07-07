@@ -17,7 +17,7 @@ NativeDB Added Parameter 7: Any p6
 NativeDB Added Parameter 8: Any p7
 ```
 
-## Parameters
+## 參數
 * **shootingPed**: 
 * **targetPed**: 
 * **targetVehicle**: 

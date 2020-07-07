@@ -9,7 +9,7 @@ float NETWORK_GET_PLAYER_LOUDNESS(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

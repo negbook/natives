@@ -13,6 +13,6 @@ void _RACE_GALLERY_NEXT_BLIP_SPRITE(int spriteId);
 Sets the sprite of the next BLIP_GALLERY blip, values used in the native scripts: 143 (ObjectiveBlue), 144 (ObjectiveGreen), 145 (ObjectiveRed), 146 (ObjectiveYellow).
 ```
 
-## Parameters
+## 參數
 * **spriteId**: 
 

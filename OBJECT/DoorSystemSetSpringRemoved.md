@@ -9,7 +9,7 @@ aliases: ["0xC485E07E4F0B7958"]
 void DOOR_SYSTEM_SET_SPRING_REMOVED(Hash doorHash, BOOL p1, BOOL p2, BOOL p3);
 ```
 
-## Parameters
+## 參數
 * **doorHash**: 
 * **p1**: 
 * **p2**: 

@@ -12,5 +12,5 @@ void _SET_ABILITY_BAR_VISIBILITY_IN_MULTIPLAYER(BOOL visible);
 NativeDB Introduced: v1493
 ```
 
-## Parameters
+## 參數
 * **visible**:

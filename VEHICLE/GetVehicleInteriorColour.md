@@ -9,7 +9,7 @@ void _GET_VEHICLE_INTERIOR_COLOUR(Vehicle vehicle, int* color);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **color**: 
 

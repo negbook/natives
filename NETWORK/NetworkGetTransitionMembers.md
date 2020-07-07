@@ -12,8 +12,8 @@ int NETWORK_GET_TRANSITION_MEMBERS(Any* data, int dataCount);
 Returns count.
 ```
 
-## Parameters
+## 參數
 * **data**: 
 * **dataCount**: 
 
-## Return value
+## 返回值

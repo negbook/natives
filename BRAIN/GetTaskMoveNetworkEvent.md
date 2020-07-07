@@ -10,8 +10,8 @@ BOOL GET_TASK_MOVE_NETWORK_EVENT(Ped ped, char* eventName);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **eventName**: 
 
-## Return value
+## 返回值

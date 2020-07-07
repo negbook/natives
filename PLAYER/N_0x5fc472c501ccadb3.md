@@ -12,7 +12,7 @@ BOOL _0x5FC472C501CCADB3(Player player);
 Appears once in "re_dealgonewrong"  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

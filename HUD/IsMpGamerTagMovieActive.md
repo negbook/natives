@@ -10,4 +10,4 @@ BOOL IS_MP_GAMER_TAG_MOVIE_ACTIVE();
 ```
 
 
-## Return value
+## 返回值

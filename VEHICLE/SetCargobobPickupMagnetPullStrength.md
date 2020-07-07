@@ -9,7 +9,7 @@ aliases: ["0xED8286F71A819BAA"]
 void SET_CARGOBOB_PICKUP_MAGNET_PULL_STRENGTH(Vehicle cargobob, float p1);
 ```
 
-## Parameters
+## 參數
 * **cargobob**: 
 * **p1**: 
 

@@ -9,10 +9,10 @@ Blip ADD_BLIP_FOR_RADIUS(float posX, float posY, float posZ, float radius);
 ```
 
 
-## Parameters
+## 參數
 * **posX**: 
 * **posY**: 
 * **posZ**: 
 * **radius**: 
 
-## Return value
+## 返回值

@@ -12,8 +12,8 @@ BOOL STAT_SET_CURRENT_POSIX_TIME(Hash statName, BOOL p1);
 p1 always true.  
 ```
 
-## Parameters
+## 參數
 * **statName**: 
 * **p1**: 
 
-## Return value
+## 返回值

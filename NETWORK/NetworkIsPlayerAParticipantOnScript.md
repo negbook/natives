@@ -9,9 +9,9 @@ aliases: ["0x1AD5B71586B94820"]
 BOOL NETWORK_IS_PLAYER_A_PARTICIPANT_ON_SCRIPT(Player p0, char* script, Player p2);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **script**: 
 * **p2**: 
 
-## Return value
+## 返回值

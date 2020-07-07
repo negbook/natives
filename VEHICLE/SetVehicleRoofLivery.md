@@ -16,7 +16,7 @@ Livery value that works for tornado custom is between 0 and 9 from what i can te
 Might work on other custom vehicles but im not sure what those might be, only confirmed it working with the tornado custom.
 
 
-## Parameters
+## 參數
 * **vehicle**: The vehicle handle.
 * **livery**: Livery index.
 

@@ -16,7 +16,7 @@ I agree with the above statement.
 p1 is unknown, my best guess would be if false it marks the stealth kill for immediate deletion, or if true marks it for deletion later.  
 ```
 
-## Parameters
+## 參數
 * **hash**: 
 * **p1**: 
 

@@ -15,7 +15,7 @@ Checks if the projectile is in the radius around that point.
 p6 is (most likely) ownedByPlayer. (see IS_PROJECTILE_IN_AREA for info)  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -23,4 +23,4 @@ p6 is (most likely) ownedByPlayer. (see IS_PROJECTILE_IN_AREA for info)
 * **radius**: 
 * **ownedByPlayer**: 
 
-## Return value
+## 返回值

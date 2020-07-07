@@ -12,7 +12,7 @@ float GET_ENTITY_FORWARD_X(Entity entity);
 Gets the X-component of the entity's forward vector.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

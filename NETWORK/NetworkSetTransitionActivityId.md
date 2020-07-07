@@ -10,6 +10,6 @@ void NETWORK_SET_TRANSITION_ACTIVITY_ID(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

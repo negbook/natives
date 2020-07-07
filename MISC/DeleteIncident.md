@@ -17,6 +17,6 @@ If you try it you will crash (or) freeze.
 =======================================================  
 ```
 
-## Parameters
+## 參數
 * **incidentId**: 
 

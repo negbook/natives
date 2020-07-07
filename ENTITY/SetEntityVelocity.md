@@ -12,7 +12,7 @@ void SET_ENTITY_VELOCITY(Entity entity, float x, float y, float z);
 Note that the third parameter(denoted as z) is "up and down" with positive ment.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **x**: 
 * **y**: 

@@ -21,7 +21,7 @@ Usage of seat
 4 = outside right  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **vehicle**: 
 * **timeout**: 

@@ -14,7 +14,7 @@ You can change the max in IDA from 15.0. I say 15.0 as the function blrs if what
 On PC the multiplier can be between 0.0f and 50.0f (inclusive).  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **multiplier**: 
 

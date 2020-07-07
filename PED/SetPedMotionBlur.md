@@ -9,7 +9,7 @@ void SET_PED_MOTION_BLUR(Ped ped, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

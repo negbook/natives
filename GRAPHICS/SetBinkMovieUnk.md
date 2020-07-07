@@ -12,6 +12,6 @@ void _SET_BINK_MOVIE_UNK(int binkMovie, float value);
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **binkMovie**:
 * **value**:

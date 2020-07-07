@@ -19,9 +19,9 @@ if noseWidth == 1.0 then
 end
 ```
 
-## Parameters
+## 參數
 * **ped**: The target ped
 * **index**: Face feature index
 
-## Return value
+## 返回值
 Returns ped's face feature value, or 0.0 if fails to get.

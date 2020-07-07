@@ -22,6 +22,6 @@ else
 }  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

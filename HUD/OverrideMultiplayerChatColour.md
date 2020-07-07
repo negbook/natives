@@ -9,7 +9,7 @@ aliases: ["0xF47E567B3630DD12"]
 void _OVERRIDE_MULTIPLAYER_CHAT_COLOUR(int p0, int hudColor);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **hudColor**: 
 

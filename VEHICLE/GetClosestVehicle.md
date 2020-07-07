@@ -27,7 +27,7 @@ It's probably more convenient to use worldGetAllVehicles(int *arr, int arrSize) 
 Conclusion: This native is not worth trying to use. Use something like this instead: pastebin.com/xiFdXa7h  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -35,4 +35,4 @@ Conclusion: This native is not worth trying to use. Use something like this inst
 * **modelHash**: 
 * **flags**: 
 
-## Return value
+## 返回值

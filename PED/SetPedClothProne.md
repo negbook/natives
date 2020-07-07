@@ -10,7 +10,7 @@ void SET_PED_CLOTH_PRONE(Any p0, Any p1);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

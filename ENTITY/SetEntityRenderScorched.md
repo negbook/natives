@@ -9,7 +9,7 @@ void SET_ENTITY_RENDER_SCORCHED(Entity entity, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **toggle**: 
 

@@ -14,6 +14,6 @@ Not present in retail version of the game, actual definiton seems to be
 _LOG_DEBUG_INFO(char* category, char* debugText);  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

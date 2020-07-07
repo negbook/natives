@@ -50,7 +50,7 @@ enum PedTypes
 };  
 ```
 
-## Parameters
+## 參數
 * **pedType**: 
 * **modelHash**: 
 * **x**: 
@@ -60,4 +60,4 @@ enum PedTypes
 * **isNetwork**: 
 * **thisScriptCheck**: 
 
-## Return value
+## 返回值

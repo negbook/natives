@@ -13,7 +13,7 @@ p2 tend to be 16, 17 or 1
 p3 to p7 tend to be 0.0  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **target**: 
 * **p2**: 

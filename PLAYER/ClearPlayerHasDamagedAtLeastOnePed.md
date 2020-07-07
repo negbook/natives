@@ -9,6 +9,6 @@ void CLEAR_PLAYER_HAS_DAMAGED_AT_LEAST_ONE_PED(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 

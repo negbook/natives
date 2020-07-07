@@ -36,7 +36,7 @@ NativeDB Added Parameter 6: Any p5
 NativeDB Added Parameter 7: Any p6
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

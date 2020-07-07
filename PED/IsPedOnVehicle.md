@@ -14,7 +14,7 @@ Return 1 when ped is on vehicle.
 Return 0 when ped is not on a vehicle.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

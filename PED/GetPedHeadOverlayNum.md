@@ -13,7 +13,7 @@ int GET_PED_HEAD_OVERLAY_NUM(int overlayID);
 Used with freemode (online) characters.
 ```
 
-## Parameters
+## 參數
 * **overlayID**: 
 
-## Return value
+## 返回值

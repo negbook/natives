@@ -9,7 +9,7 @@ void SET_BLIP_COORDS(Blip blip, float posX, float posY, float posZ);
 ```
 
 
-## Parameters
+## 參數
 * **blip**: 
 * **posX**: 
 * **posY**: 

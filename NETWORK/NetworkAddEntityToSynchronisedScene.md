@@ -9,7 +9,7 @@ void NETWORK_ADD_ENTITY_TO_SYNCHRONISED_SCENE(Entity entity, int netScene, char*
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **netScene**: 
 * **animDict**: 

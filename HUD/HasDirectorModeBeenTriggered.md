@@ -13,4 +13,4 @@ BOOL _HAS_DIRECTOR_MODE_BEEN_TRIGGERED();
 HAS_*
 ```
 
-## Return value
+## 返回值

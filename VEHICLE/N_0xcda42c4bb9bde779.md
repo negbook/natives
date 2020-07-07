@@ -10,7 +10,7 @@ void _0xCDA42C4BB9BDE779(Vehicle vehicle, BOOL p1);
 
 Probably SET_VEHICLE_SOMETHING
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

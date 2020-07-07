@@ -33,9 +33,9 @@ char descLabel[64];
 NativeDB Parameter 2: int* ComponentDataPtr
 ```
 
-## Parameters
+## 參數
 * **dlcWeaponIndex**: 
 * **dlcWeapCompIndex**: 
 * **ComponentDataPtr**: 
 
-## Return value
+## 返回值

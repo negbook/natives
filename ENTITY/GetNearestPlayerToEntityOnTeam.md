@@ -9,8 +9,8 @@ Player GET_NEAREST_PLAYER_TO_ENTITY_ON_TEAM(Entity entity, int team);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **team**: 
 
-## Return value
+## 返回值

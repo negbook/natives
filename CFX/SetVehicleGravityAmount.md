@@ -9,7 +9,7 @@ void SET_VEHICLE_GRAVITY_AMOUNT(Vehicle vehicle, float gravity);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **gravity**: 
 

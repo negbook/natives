@@ -12,6 +12,6 @@ void SET_SEETHROUGH(BOOL toggle);
 Toggles Heatvision on/off.  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

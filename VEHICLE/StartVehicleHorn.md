@@ -16,7 +16,7 @@ duration: The duration to sound the horn, in milliseconds.
 Note: If a player is in the vehicle, it will only sound briefly.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **duration**: 
 * **mode**: 

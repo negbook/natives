@@ -24,6 +24,6 @@ The following weatherTypes are used in the scripts:
 "BLIZZARD"  
 ```
 
-## Parameters
+## 參數
 * **weatherType**: 
 

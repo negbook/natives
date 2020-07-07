@@ -14,5 +14,5 @@ NETWORK_GET_*
 NativeDB Introduced: v323
 ```
 
-## Parameters
+## 參數
 * **player**:

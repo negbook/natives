@@ -13,8 +13,8 @@ BOOL _SET_CURSOR_LOCATION(float x, float y);
 Renamed to SET_CURSOR_LOCATION (I previously named it _SET_CURSOR_POSTION) which is the correct name as far as I can tell.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 
-## Return value
+## 返回值

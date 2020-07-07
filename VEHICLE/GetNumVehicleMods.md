@@ -12,8 +12,8 @@ int GET_NUM_VEHICLE_MODS(Vehicle vehicle, int modType);
 Returns how many possible mods a vehicle has for a given mod type  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **modType**: 
 
-## Return value
+## 返回值

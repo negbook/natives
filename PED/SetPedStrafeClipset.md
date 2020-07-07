@@ -9,7 +9,7 @@ void SET_PED_STRAFE_CLIPSET(Ped ped, char* clipSet);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **clipSet**: 
 

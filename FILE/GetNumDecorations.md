@@ -13,7 +13,7 @@ int _GET_NUM_DECORATIONS(int character);
 only documented to be continued...  
 ```
 
-## Parameters
+## 參數
 * **character**: 
 
-## Return value
+## 返回值

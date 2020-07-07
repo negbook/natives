@@ -13,4 +13,4 @@ Returns whether the player has been reported too often or not.
 Example : griefing.  
 ```
 
-## Return value
+## 返回值

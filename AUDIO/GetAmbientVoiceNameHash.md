@@ -13,7 +13,7 @@ Any _GET_AMBIENT_VOICE_NAME_HASH(Ped ped);
 NativeDB Return Type: Hash
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

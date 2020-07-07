@@ -9,7 +9,7 @@ BOOL GET_RANDOM_VEHICLE_NODE(float x, float y, float z, float radius, BOOL p4, B
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -20,4 +20,4 @@ BOOL GET_RANDOM_VEHICLE_NODE(float x, float y, float z, float radius, BOOL p4, B
 * **outPosition**: 
 * **nodeId**: 
 
-## Return value
+## 返回值

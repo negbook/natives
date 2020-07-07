@@ -16,7 +16,7 @@ p10 throughout all the X360 Scripts is always 2.
 
 [Animations list](https://alexguirre.github.io/animations-list/)
 
-## Parameters
+## 參數
 * **cam**: 
 * **animName**: 
 * **animDictionary**: 
@@ -29,4 +29,4 @@ p10 throughout all the X360 Scripts is always 2.
 * **p9**: 
 * **p10**: 
 
-## Return value
+## 返回值

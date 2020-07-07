@@ -9,7 +9,7 @@ BOOL IS_ENTITY_A_MISSION_ENTITY(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

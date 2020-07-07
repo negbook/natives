@@ -15,7 +15,7 @@ Ranges from -1.0 to 1.0, and 0.0 is closed / default.
 p2 is always 0, p3 is always 1.
 ```
 
-## Parameters
+## 參數
 * **doorHash**: 
 * **ajar**: 
 * **p2**: 

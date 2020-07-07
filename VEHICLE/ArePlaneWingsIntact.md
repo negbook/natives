@@ -13,7 +13,7 @@ BOOL _ARE_PLANE_WINGS_INTACT(Vehicle plane);
 Can be used for planes only!  
 ```
 
-## Parameters
+## 參數
 * **plane**: 
 
-## Return value
+## 返回值

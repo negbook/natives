@@ -15,7 +15,7 @@ In the scripts these flags are used: 0, 14, 12, 16, 20, 21, 28. 0 is most common
 16 works for me, 0 crashed the script.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -23,4 +23,4 @@ In the scripts these flags are used: 0, 14, 12, 16, 20, 21, 28. 0 is most common
 * **outPosition**: 
 * **flags**: 
 
-## Return value
+## 返回值

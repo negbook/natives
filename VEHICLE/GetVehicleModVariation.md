@@ -12,8 +12,8 @@ BOOL GET_VEHICLE_MOD_VARIATION(Vehicle vehicle, int modType);
 Returns true if the wheels are custom wheels  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **modType**: 
 
-## Return value
+## 返回值

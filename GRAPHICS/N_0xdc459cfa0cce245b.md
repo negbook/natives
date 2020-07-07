@@ -12,6 +12,6 @@ void _0xDC459CFA0CCE245B(BOOL toggle);
 FORCE_*
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

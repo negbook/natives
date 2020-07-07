@@ -9,6 +9,6 @@ void SET_FAR_DRAW_VEHICLES(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

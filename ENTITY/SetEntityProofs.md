@@ -14,7 +14,7 @@ Enable / disable each type of damage.
 p7 is to to '1' in am_mp_property_ext/int: entity::set_entity_proofs(uParam0->f_19, true, true, true, true, true, true, 1, true);  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **bulletProof**: 
 * **fireProof**: 

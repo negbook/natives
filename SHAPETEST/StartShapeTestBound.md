@@ -10,9 +10,9 @@ int START_SHAPE_TEST_BOUND(Entity entity, int flags1, int flags2);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **flags1**: 
 * **flags2**: 
 
-## Return value
+## 返回值

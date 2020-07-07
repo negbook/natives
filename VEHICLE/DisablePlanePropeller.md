@@ -13,7 +13,7 @@ void _DISABLE_PLANE_PROPELLER(Vehicle vehicle, int propeller);
 Disables propeller animation. Used in pilot_school_mp for the Titan's timed engine detonation.
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **propeller**: 
 

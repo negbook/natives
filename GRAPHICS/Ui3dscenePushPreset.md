@@ -13,7 +13,7 @@ BOOL UI3DSCENE_PUSH_PRESET(char* presetName);
 All presets can be found in common\data\ui\uiscenes.meta
 ```
 
-## Parameters
+## 參數
 * **presetName**: 
 
-## Return value
+## 返回值

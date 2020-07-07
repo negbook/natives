@@ -17,7 +17,7 @@ float kmh = (speed * 3.6);
 float mph = (speed * 2.236936);  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

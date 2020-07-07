@@ -9,7 +9,7 @@ aliases: ["0x52818819057F2B40"]
 BOOL DATAFILE_SELECT_UGC_PLAYER_DATA(int p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

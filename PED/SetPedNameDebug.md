@@ -13,7 +13,7 @@ NOTE: Debugging functions are not present in the retail version of the game.
 *untested but char *name could also be a hash for a localized string  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **name**: 
 

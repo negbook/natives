@@ -12,7 +12,7 @@ BOOL IS_VEHICLE_SEARCHLIGHT_ON(Vehicle vehicle);
 Possibly: Returns whether the searchlight (found on police vehicles) is toggled on.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

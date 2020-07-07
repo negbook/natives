@@ -9,8 +9,8 @@ Any _0xF3B0E0AED097A3F5(Any p0, Any p1);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

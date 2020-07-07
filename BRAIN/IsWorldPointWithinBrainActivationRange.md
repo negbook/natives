@@ -12,4 +12,4 @@ BOOL IS_WORLD_POINT_WITHIN_BRAIN_ACTIVATION_RANGE();
 Gets whether the world point the calling script is registered to is within desired range of the player.  
 ```
 
-## Return value
+## 返回值

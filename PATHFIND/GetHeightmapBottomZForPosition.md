@@ -13,8 +13,8 @@ float _GET_HEIGHTMAP_BOTTOM_Z_FOR_POSITION(float x, float y);
 Returns CGameWorldHeightMap's minimum Z value at specified point (grid node).
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 
-## Return value
+## 返回值

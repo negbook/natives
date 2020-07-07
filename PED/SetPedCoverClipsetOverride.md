@@ -14,7 +14,7 @@ Found in the b617d scripts:
 PED::_9DBA107B4937F809(v_7, "trevor_heist_cover_2h");  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 

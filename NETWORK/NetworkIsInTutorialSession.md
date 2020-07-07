@@ -12,4 +12,4 @@ Any NETWORK_IS_IN_TUTORIAL_SESSION();
 NativeDB Return Type: BOOL
 ```
 
-## Return value
+## 返回值

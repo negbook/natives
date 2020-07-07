@@ -14,6 +14,6 @@ void _0xC3376F42B1FACCC6(Player player);
 0xc3376f42b1faccc6, 0xd5d0d2853191399c, // set_areas_generator_orientation  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 

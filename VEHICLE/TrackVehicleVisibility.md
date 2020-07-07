@@ -14,6 +14,6 @@ Vehicle v = ...;
 Function.Call(Hash.TRACK_VEHICLE_VISIBILITY, v.Handle);  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 

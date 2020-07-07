@@ -9,9 +9,9 @@ BOOL IS_PED_WEAPON_COMPONENT_ACTIVE(Ped ped, Hash weaponHash, Hash componentHash
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 * **componentHash**: 
 
-## Return value
+## 返回值

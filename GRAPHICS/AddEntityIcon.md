@@ -14,8 +14,8 @@ GRAPHICS::ADD_ENTITY_ICON(a_0, "MP_Arrow");
 I tried this and nothing happened...  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **icon**: 
 
-## Return value
+## 返回值

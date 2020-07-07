@@ -10,8 +10,8 @@ BOOL SEND_LOADING_SCREEN_MESSAGE(char* jsonString);
 
 Sends a message to the `loadingScreen` NUI frame, which contains the HTML page referenced in `loadscreen` resources.
 
-## Parameters
+## 參數
 * **jsonString**: The JSON-encoded message.
 
-## Return value
+## 返回值
 A success value.

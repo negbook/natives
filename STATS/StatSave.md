@@ -9,9 +9,9 @@ BOOL STAT_SAVE(int p0, BOOL p1, int p2);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
 
-## Return value
+## 返回值

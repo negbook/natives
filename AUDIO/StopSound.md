@@ -9,6 +9,6 @@ void STOP_SOUND(int soundId);
 ```
 
 
-## Parameters
+## 參數
 * **soundId**: 
 

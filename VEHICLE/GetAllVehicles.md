@@ -12,7 +12,7 @@ int _GET_ALL_VEHICLES(Any* vehArray);
 NativeDB Parameter 0: int* vehArray
 ```
 
-## Parameters
+## 參數
 * **vehArray**: 
 
-## Return value
+## 返回值

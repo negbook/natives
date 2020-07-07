@@ -9,7 +9,7 @@ void USE_WAYPOINT_RECORDING_AS_ASSISTED_MOVEMENT_ROUTE(char* name, BOOL p1, floa
 ```
 
 
-## Parameters
+## 參數
 * **name**: Waypoint recording name.
 * **p1**: 
 * **p2**: 

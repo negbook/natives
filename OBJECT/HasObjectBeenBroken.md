@@ -12,7 +12,7 @@ BOOL HAS_OBJECT_BEEN_BROKEN(Object object);
 NativeDB Added Parameter 2: Any p1
 ```
 
-## Parameters
+## 參數
 * **object**: 
 
-## Return value
+## 返回值

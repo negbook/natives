@@ -12,7 +12,7 @@ void UPDATE_PED_HEAD_BLEND_DATA(Ped ped, float shapeMix, float skinMix, float th
 See SET_PED_HEAD_BLEND_DATA().  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **shapeMix**: 
 * **skinMix**: 

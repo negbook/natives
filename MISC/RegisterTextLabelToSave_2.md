@@ -17,7 +17,7 @@ GAMEPLAY::_6F7794F28C6B2535(&a_0._f10B, "tlCarAppPlateText");
 "tl" prefix sounds like "Text Label"  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **name**: 
 

@@ -21,6 +21,6 @@ AI::TASK_SYNCHRONIZED_SCENE(l_4C8[2/*14*/], l_4C8[2/*14*/]._f7, l_30A, "push_out
                     }  
 ```
 
-## Parameters
+## 參數
 * **object**: 
 

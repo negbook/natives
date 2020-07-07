@@ -12,5 +12,5 @@ void SET_CAR_BOOT_OPEN(Vehicle vehicle);
 Opens the trunk of the vehicle. Initially used in Max Payne 3, that's why we know the name.
 
 
-## Parameters
+## 參數
 * **vehicle**: 

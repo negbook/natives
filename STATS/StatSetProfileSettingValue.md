@@ -15,7 +15,7 @@ profileSetting seems to only be 936, 937 and 938 in scripts
 gtaforums.com/topic/799843-stats-profile-settings/  
 ```
 
-## Parameters
+## 參數
 * **profileSetting**: 
 * **value**: 
 

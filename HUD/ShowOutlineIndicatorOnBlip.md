@@ -18,7 +18,7 @@ Color can be changed with `SET_BLIP_SECONDARY_COLOUR`. Enabling this circle will
 Real name is `SHOW_OUTLINE_INDICATOR_ON_BLIP`, discovered by Blattersturm.
 
 
-## Parameters
+## 參數
 * **blip**: The blip to toggle the outline on.
 * **toggle**: Enables or disables the outline.
 

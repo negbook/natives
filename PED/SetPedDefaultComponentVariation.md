@@ -12,6 +12,6 @@ void SET_PED_DEFAULT_COMPONENT_VARIATION(Ped ped);
 Sets Ped Default Clothes  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 

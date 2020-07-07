@@ -9,7 +9,7 @@ void SET_ENTITY_HEADING(Entity entity, float heading);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **heading**: 
 

@@ -24,11 +24,11 @@ Vector3 entitySpotCoords = ENTITY::GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS(entity
 Use ENTITY::GET_ENTITY_TYPE(entityHit) to quickly distinguish what type of entity you hit (ped/vehicle/object - 1/2/3)  
 ```
 
-## Parameters
+## 參數
 * **rayHandle**: 
 * **hit**: 
 * **endCoords**: 
 * **surfaceNormal**: 
 * **entityHit**: 
 
-## Return value
+## 返回值

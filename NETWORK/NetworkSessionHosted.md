@@ -10,6 +10,6 @@ void _NETWORK_SESSION_HOSTED(BOOL p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

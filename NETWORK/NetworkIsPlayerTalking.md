@@ -12,7 +12,7 @@ BOOL NETWORK_IS_PLAYER_TALKING(Player player);
 returns true if someone is screaming or talking in a microphone  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ BOOL HAS_SCALEFORM_MOVIE_LOADED(int scaleformHandle);
 ```
 
 
-## Parameters
+## 參數
 * **scaleformHandle**: 
 
-## Return value
+## 返回值

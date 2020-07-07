@@ -16,7 +16,7 @@ I have two uses in two scripts; and it's called with -1 in maintransition, not c
 Also returns bool.  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

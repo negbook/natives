@@ -16,7 +16,7 @@ drawImmediately = If true, the text will be drawn immediately, if false, the tex
 Used to be known as _DRAW_SUBTITLE_TIMED  
 ```
 
-## Parameters
+## 參數
 * **duration**: 
 * **drawImmediately**: 
 

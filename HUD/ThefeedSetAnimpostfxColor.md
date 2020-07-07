@@ -13,7 +13,7 @@ void _THEFEED_SET_ANIMPOSTFX_COLOR(int red, int green, int blue, int alpha);
 sets color for notification flash  
 ```
 
-## Parameters
+## 參數
 * **red**: 
 * **green**: 
 * **blue**: 

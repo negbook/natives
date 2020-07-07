@@ -9,6 +9,6 @@ void CLEAR_PLAYER_PARACHUTE_VARIATION_OVERRIDE(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 

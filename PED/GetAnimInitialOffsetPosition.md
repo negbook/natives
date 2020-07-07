@@ -10,7 +10,7 @@ Vector3 GET_ANIM_INITIAL_OFFSET_POSITION(char* animDict, char* animName, float x
 
 [Animations list](https://alexguirre.github.io/animations-list/)
 
-## Parameters
+## 參數
 * **animDict**: 
 * **animName**: 
 * **x**: 
@@ -22,4 +22,4 @@ Vector3 GET_ANIM_INITIAL_OFFSET_POSITION(char* animDict, char* animName, float x
 * **p8**: 
 * **p9**: 
 
-## Return value
+## 返回值

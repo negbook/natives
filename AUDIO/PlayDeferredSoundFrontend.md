@@ -14,7 +14,7 @@ Only call found in the b617d scripts:
 AUDIO::_CADA5A0D0702381E("BACK", "HUD_FREEMODE_SOUNDSET");  
 ```
 
-## Parameters
+## 參數
 * **soundName**: 
 * **soundsetName**: 
 

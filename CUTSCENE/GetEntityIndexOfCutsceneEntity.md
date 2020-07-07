@@ -9,8 +9,8 @@ Entity GET_ENTITY_INDEX_OF_CUTSCENE_ENTITY(char* cutsceneEntName, Hash modelHash
 ```
 
 
-## Parameters
+## 參數
 * **cutsceneEntName**: 
 * **modelHash**: 
 
-## Return value
+## 返回值

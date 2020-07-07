@@ -45,7 +45,7 @@ reserve_network_mission_objects(get_num_reserved_mission_objects(0) + 1);
 	remove_anim_dict("anim@heists@biolab@");  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 * **p2**: 

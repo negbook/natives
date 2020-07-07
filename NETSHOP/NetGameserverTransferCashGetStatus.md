@@ -13,4 +13,4 @@ int _NET_GAMESERVER_TRANSFER_CASH_GET_STATUS();
 Same as 0x350AA5EBC03D3BD2
 ```
 
-## Return value
+## 返回值

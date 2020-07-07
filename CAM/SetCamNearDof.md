@@ -9,7 +9,7 @@ void SET_CAM_NEAR_DOF(Cam cam, float nearDOF);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **nearDOF**: 
 

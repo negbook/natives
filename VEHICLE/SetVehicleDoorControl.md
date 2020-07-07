@@ -29,7 +29,7 @@ I'm Not MentaL
 sfink: p2 is speed, 5 is fast, 1 is slow 3 is medium  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **doorIndex**: 
 * **speed**: 

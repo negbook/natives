@@ -10,4 +10,4 @@ BOOL _NETWORK_HAVE_ONLINE_PRIVILEGE_2();
 ```
 
 
-## Return value
+## 返回值

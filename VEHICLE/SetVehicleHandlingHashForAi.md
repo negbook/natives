@@ -13,7 +13,7 @@ void _SET_VEHICLE_HANDLING_HASH_FOR_AI(Vehicle vehicle, Any hash);
 NativeDB Parameter 1: Hash hash
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **hash**: 
 

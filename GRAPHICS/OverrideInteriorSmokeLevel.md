@@ -10,6 +10,6 @@ void OVERRIDE_INTERIOR_SMOKE_LEVEL(float level);
 ```
 
 
-## Parameters
+## 參數
 * **level**: 
 

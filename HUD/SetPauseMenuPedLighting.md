@@ -17,6 +17,6 @@ Example:
 On: ![lights on](https://vespura.com/hi/i/2019-04-01_16-09_540ee_1015.png)
 Off: ![lights off](https://vespura.com/hi/i/2019-04-01_16-10_8b5e7_1016.png)
 
-## Parameters
+## 參數
 * **state**: True enables the light, false disables the light.
 

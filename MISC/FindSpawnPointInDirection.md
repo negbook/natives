@@ -21,7 +21,7 @@ X2, Y2, Z2 is a given position ahead of that position?
 =======================================================  
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 
@@ -31,4 +31,4 @@ X2, Y2, Z2 is a given position ahead of that position?
 * **distance**: 
 * **spawnPoint**: 
 
-## Return value
+## 返回值

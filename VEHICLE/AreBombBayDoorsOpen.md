@@ -11,10 +11,10 @@ BOOL _ARE_BOMB_BAY_DOORS_OPEN(Vehicle aircraft);
 
 Returns true when the bomb bay doors of this plane are open. False if they're closed.
 
-## Parameters
+## 參數
 * **aircraft**: The vehicle to check the bomb bay doors on.
 
-## Return value
+## 返回值
 A bool indicating the state of the doors (true = open, false = closed).
 
 ## Examples

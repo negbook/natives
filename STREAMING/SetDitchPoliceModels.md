@@ -12,6 +12,6 @@ void SET_DITCH_POLICE_MODELS(BOOL toggle);
 This is a NOP function. It does nothing at all.  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

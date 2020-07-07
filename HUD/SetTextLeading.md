@@ -17,6 +17,6 @@ ui::set_text_leading(2);
 NativeDB Parameter 0: int p0
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

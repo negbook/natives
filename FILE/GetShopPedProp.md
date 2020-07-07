@@ -13,7 +13,7 @@ void GET_SHOP_PED_PROP(Any componentHash, Any* outProp);
 NativeDB Parameter 0: Hash componentHash
 ```
 
-## Parameters
+## 參數
 * **componentHash**: 
 * **outProp**: 
 

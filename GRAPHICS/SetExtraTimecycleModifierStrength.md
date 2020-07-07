@@ -10,5 +10,5 @@ void _SET_EXTRA_TIMECYCLE_MODIFIER_STRENGTH(float strength);
 ```
 The same as [`SetTimecycleModifierStrength`](#_0x82E7FFCD5B2326B3) but for the secondary tiemcycle modifier.
 
-## Parameters
+## 參數
 * **strength**:

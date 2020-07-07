@@ -10,7 +10,7 @@ BOOL NETWORK_CAN_BET(int amount);
 ```
 
 
-## Parameters
+## 參數
 * **amount**: 
 
-## Return value
+## 返回值

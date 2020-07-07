@@ -12,6 +12,6 @@ void _NETWORK_EARN_FROM_DOOMSDAY_FINALE_BONUS(int amount, Hash vehicleHash);
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **amount**:
 * **vehicleHash**:

@@ -12,7 +12,7 @@ void SET_PED_COORDS_KEEP_VEHICLE(Ped ped, float posX, float posY, float posZ);
 teleports ped to coords along with the vehicle ped is in  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **posX**: 
 * **posY**: 

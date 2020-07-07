@@ -13,7 +13,7 @@ void CLEAR_RAGDOLL_BLOCKING_FLAGS(Ped ped, int flags);
 There seem to be 26 flags  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **flags**: 
 

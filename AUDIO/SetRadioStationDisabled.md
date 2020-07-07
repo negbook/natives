@@ -63,6 +63,6 @@ DLC_BATTLE_MIX4_CLUB_PRIV
 HIDDEN_RADIO_BIKER_HIP_HOP  
 ```
 
-## Parameters
+## 參數
 * **stationName**: The name of the radio station
 * **Toggle**: Toggle the station on/off

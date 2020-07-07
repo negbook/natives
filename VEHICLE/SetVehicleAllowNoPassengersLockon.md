@@ -12,7 +12,7 @@ void SET_VEHICLE_ALLOW_NO_PASSENGERS_LOCKON(Vehicle veh, BOOL toggle);
 Makes the vehicle accept no passengers.  
 ```
 
-## Parameters
+## 參數
 * **veh**: 
 * **toggle**: 
 

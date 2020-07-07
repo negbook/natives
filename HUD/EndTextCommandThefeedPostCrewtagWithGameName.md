@@ -31,7 +31,7 @@ if (NETWORK_CLAN_PLAYER_IS_ACTIVE(&netHandle.netHandle))
 	}  
 ```
 
-## Parameters
+## 參數
 * **crewTypeIsPrivate**: 
 * **crewTagContainsRockstar**: 
 * **crewTag**: 
@@ -44,4 +44,4 @@ if (NETWORK_CLAN_PLAYER_IS_ACTIVE(&netHandle.netHandle))
 * **g**: 
 * **b**: 
 
-## Return value
+## 返回值

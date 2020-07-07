@@ -9,6 +9,6 @@ void REGISTER_NUI_CALLBACK_TYPE(char* callbackType);
 ```
 
 
-## Parameters
+## 參數
 * **callbackType**: 
 

@@ -9,7 +9,7 @@ void SET_FACIAL_IDLE_ANIM_OVERRIDE(Ped ped, char* animName, char* animDict);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **animName**: 
 * **animDict**: 

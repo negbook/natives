@@ -9,7 +9,7 @@ void GET_SHOP_PED_QUERY_PROP(Any p0, Any* p1);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

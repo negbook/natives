@@ -16,7 +16,7 @@ Example:
 Nodes in Fort Zancudo and LSIA are false  
 ```
 
-## Parameters
+## 參數
 * **nodeID**: 
 
-## Return value
+## 返回值

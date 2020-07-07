@@ -9,7 +9,7 @@ Player NETWORK_GET_PLAYER_FROM_GAMER_HANDLE(int* networkHandle);
 ```
 
 
-## Parameters
+## 參數
 * **networkHandle**: 
 
-## Return value
+## 返回值

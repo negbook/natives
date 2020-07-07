@@ -9,6 +9,6 @@ void NETWORK_SET_TALKER_PROXIMITY(float value);
 ```
 
 
-## Parameters
+## 參數
 * **value**: 
 

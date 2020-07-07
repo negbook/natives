@@ -15,4 +15,4 @@ For a full list, see here: pastebin.com/cnk7FTF2
 can someone update this pastebin???  
 ```
 
-## Return value
+## 返回值

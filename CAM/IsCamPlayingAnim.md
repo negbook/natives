@@ -10,9 +10,9 @@ BOOL IS_CAM_PLAYING_ANIM(Cam cam, char* animName, char* animDictionary);
 
 [Animations list](https://alexguirre.github.io/animations-list/)
 
-## Parameters
+## 參數
 * **cam**: 
 * **animName**: 
 * **animDictionary**: 
 
-## Return value
+## 返回值

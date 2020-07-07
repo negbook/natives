@@ -11,7 +11,7 @@ int _REQUEST_SCALEFORM_MOVIE_2(char* scaleformName);
 
 Another [REQUEST_SCALEFORM_MOVIE](#_0x11FE353CF9733E6F) equivalent.
 
-## Parameters
+## 參數
 * **scaleformName**: 
 
-## Return value
+## 返回值

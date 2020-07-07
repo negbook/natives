@@ -9,7 +9,7 @@ aliases: ["0xE6F13851780394DA"]
 void SET_HELI_TURBULENCE_SCALAR(Vehicle vehicle, float p1);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

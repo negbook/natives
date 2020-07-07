@@ -13,9 +13,9 @@ BOOL NETWORK_APPLY_VOICE_PROXIMITY_OVERRIDE(float x, float y, float z);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 
-## Return value
+## 返回值

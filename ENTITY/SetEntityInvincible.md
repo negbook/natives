@@ -25,7 +25,7 @@ return false;
 	}  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **toggle**: 
 

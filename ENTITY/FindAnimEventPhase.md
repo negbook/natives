@@ -22,11 +22,11 @@ Both v_A and v_B are seemingly used to contain both Vector3's and floats, so I c
 
 [Animations list](https://alexguirre.github.io/animations-list/)
 
-## Parameters
+## 參數
 * **animDictionary**: 
 * **animName**: 
 * **p2**: 
 * **p3**: 
 * **p4**: 
 
-## Return value
+## 返回值

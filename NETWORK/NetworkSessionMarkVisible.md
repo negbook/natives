@@ -10,6 +10,6 @@ void NETWORK_SESSION_MARK_VISIBLE(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

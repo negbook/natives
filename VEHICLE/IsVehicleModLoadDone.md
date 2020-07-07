@@ -14,7 +14,7 @@ Returns whether or not the vehicle has a CVehicleStreamRequestGfx that's trying 
 True if it isn't loading mods, false if it is.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

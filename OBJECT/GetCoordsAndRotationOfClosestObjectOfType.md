@@ -9,7 +9,7 @@ aliases: ["0x163F8B586BC95F2A"]
 Any GET_COORDS_AND_ROTATION_OF_CLOSEST_OBJECT_OF_TYPE(float x, float y, float z, float radius, Hash modelHash, Vector3* outPosition, Vector3* outRotation, int rotationOrder);
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -19,4 +19,4 @@ Any GET_COORDS_AND_ROTATION_OF_CLOSEST_OBJECT_OF_TYPE(float x, float y, float z,
 * **outRotation**: 
 * **rotationOrder**: 
 
-## Return value
+## 返回值

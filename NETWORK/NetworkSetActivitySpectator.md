@@ -9,6 +9,6 @@ void NETWORK_SET_ACTIVITY_SPECTATOR(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

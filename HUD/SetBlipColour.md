@@ -54,7 +54,7 @@ void SET_BLIP_COLOUR(Blip blip, int color);
 Certainly a lot more remaining.  
 ```
 
-## Parameters
+## 參數
 * **blip**: 
 * **color**: 
 

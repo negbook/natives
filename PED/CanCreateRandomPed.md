@@ -9,7 +9,7 @@ BOOL CAN_CREATE_RANDOM_PED(BOOL unk);
 ```
 
 
-## Parameters
+## 參數
 * **unk**: 
 
-## Return value
+## 返回值

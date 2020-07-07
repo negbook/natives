@@ -12,6 +12,6 @@ void ATTACH_TV_AUDIO_TO_ENTITY(Entity entity);
 Might be more appropriate in AUDIO?  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 

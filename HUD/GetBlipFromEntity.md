@@ -12,7 +12,7 @@ Blip GET_BLIP_FROM_ENTITY(Entity entity);
 Returns the Blip handle of given Entity.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

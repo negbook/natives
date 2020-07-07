@@ -9,6 +9,6 @@ void SET_STREAMING(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

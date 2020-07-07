@@ -13,6 +13,6 @@ Equivalent of SET_HELI_BLADES_SPEED(vehicleHandle, 1.0f);
 this native works on planes to?  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 

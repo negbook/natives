@@ -9,7 +9,7 @@ void SET_PED_CAN_BE_TARGETTED_BY_TEAM(Ped ped, int team, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **team**: 
 * **toggle**: 

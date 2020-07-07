@@ -10,8 +10,8 @@ BOOL IS_TURRET_SEAT(Vehicle vehicle, int seatIndex);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **seatIndex**: 
 
-## Return value
+## 返回值

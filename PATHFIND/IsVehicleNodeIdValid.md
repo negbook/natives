@@ -12,7 +12,7 @@ BOOL IS_VEHICLE_NODE_ID_VALID(int vehicleNodeId);
 Returns true if the id is non zero.  
 ```
 
-## Parameters
+## 參數
 * **vehicleNodeId**: 
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ void IGNORE_NEXT_RESTART(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

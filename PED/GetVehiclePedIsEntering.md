@@ -17,7 +17,7 @@ sfink: agreed, 100%
 Proper name is GET_VEHICLE_PED_IS_ENTERING  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

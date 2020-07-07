@@ -10,7 +10,7 @@ void SET_BLIP_HIDDEN_ON_LEGEND(Blip blip, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **blip**: 
 * **toggle**: 
 

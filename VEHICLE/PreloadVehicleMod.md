@@ -9,7 +9,7 @@ void PRELOAD_VEHICLE_MOD(Any p0, int modType, Any p2);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **modType**: 
 * **p2**: 

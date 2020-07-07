@@ -12,8 +12,8 @@ BOOL IS_VEHICLE_ATTACHED_TO_TOW_TRUCK(Vehicle towTruck, Vehicle vehicle);
 Scripts verify that towTruck is the first parameter, not the second.  
 ```
 
-## Parameters
+## 參數
 * **towTruck**: 
 * **vehicle**: 
 
-## Return value
+## 返回值

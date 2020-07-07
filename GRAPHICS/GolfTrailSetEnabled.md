@@ -10,6 +10,6 @@ void GOLF_TRAIL_SET_ENABLED(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

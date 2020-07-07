@@ -9,6 +9,6 @@ void FORCE_PED_TO_OPEN_PARACHUTE(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 

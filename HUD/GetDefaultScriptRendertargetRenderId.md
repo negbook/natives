@@ -12,4 +12,4 @@ int GET_DEFAULT_SCRIPT_RENDERTARGET_RENDER_ID();
 This function is hard-coded to always return 1.  
 ```
 
-## Return value
+## 返回值

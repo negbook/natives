@@ -12,5 +12,5 @@ void _PLAYSTATS_H2_FMPREP_END(Any* data);
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **data**:

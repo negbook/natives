@@ -9,9 +9,9 @@ BOOL STAT_GET_BOOL(Hash statHash, BOOL* outValue, Any p2);
 ```
 
 
-## Parameters
+## 參數
 * **statHash**: 
 * **outValue**: 
 * **p2**: 
 
-## Return value
+## 返回值

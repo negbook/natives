@@ -14,6 +14,6 @@ This method is the equivalent to PUSH_SCALEFORM_MOVIE_FUNCTION_PARAMETER_STRING 
 When switching with a controller, the icons update and become the controller's icons.  
 ```
 
-## Parameters
+## 參數
 * **string**: 
 

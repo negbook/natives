@@ -11,6 +11,6 @@ void _SWITCH_IN_PLAYER(Ped ped);
 
 Use after using _SWITCH_OUT_PLAYER to swoop the camera back down to the player's ped.
 
-## Parameters
+## 參數
 * **ped**: 
 

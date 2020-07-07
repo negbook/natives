@@ -9,7 +9,7 @@ aliases: ["0x5CAE833B0EE0C500"]
 BOOL UGC_POLICIES_MAKE_PRIVATE(Any p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

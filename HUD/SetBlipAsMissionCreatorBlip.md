@@ -9,7 +9,7 @@ void SET_BLIP_AS_MISSION_CREATOR_BLIP(Blip blip, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **blip**: 
 * **toggle**: 
 

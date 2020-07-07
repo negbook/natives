@@ -9,6 +9,6 @@ void PLAYSTATS_RANK_UP(int rank);
 ```
 
 
-## Parameters
+## 參數
 * **rank**: 
 

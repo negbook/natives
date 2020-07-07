@@ -21,5 +21,5 @@ The data returned adheres to the following layout:
 ]
 ```
 
-## Return value
+## 返回值
 An object containing registered commands.

@@ -10,10 +10,10 @@ float GET_RAYFIRE_MAP_OBJECT_ANIM_PHASE(Object object);
 ```
 
 
-## Parameters
+## 參數
 * **object**: The des-object handle to get the animation progress from.
 
-## Return value
+## 返回值
 A float between 0.0 and 1.0, 0.0 is the beginning of the animation, 1.0 is the end. Value resets to 0.0 instantly after reaching 1.0.
 
 ## Examples

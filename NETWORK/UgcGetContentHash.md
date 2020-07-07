@@ -9,4 +9,4 @@ aliases: ["0x3A17A27D75C74887"]
 Any UGC_GET_CONTENT_HASH();
 ```
 
-## Return value
+## 返回值

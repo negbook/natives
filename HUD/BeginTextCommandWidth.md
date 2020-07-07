@@ -16,6 +16,6 @@ ADD_TEXT_COMPONENT_FLOAT(69.420f, 2);
 float width = _END_TEXT_COMMAND_GET_WIDTH(true);  
 ```
 
-## Parameters
+## 參數
 * **text**: 
 

@@ -12,7 +12,7 @@ void DRAW_DEBUG_SPHERE(float x, float y, float z, float radius, int red, int gre
 NOTE: Debugging functions are not present in the retail version of the game.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

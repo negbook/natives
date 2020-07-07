@@ -12,6 +12,6 @@ void REMOVE_ALL_PICKUPS_OF_TYPE(Hash pickupHash);
 Pickup hashes: pastebin.com/8EuSv2r1  
 ```
 
-## Parameters
+## 參數
 * **pickupHash**: 
 

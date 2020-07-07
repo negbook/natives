@@ -9,7 +9,7 @@ void BREAK_ENTITY_GLASS(Entity entity, float p1, float p2, float p3, float p4, f
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **p1**: 
 * **p2**: 

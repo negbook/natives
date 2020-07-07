@@ -9,7 +9,7 @@ aliases: ["0xFE205F38AAA58E5B"]
 void _SET_HELI_TAIL_ROTOR_HEALTH(Vehicle vehicle, float health);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **health**: 
 

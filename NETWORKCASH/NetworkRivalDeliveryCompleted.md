@@ -12,5 +12,5 @@ void _NETWORK_RIVAL_DELIVERY_COMPLETED(int earnedMoney);
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **earnedMoney**:

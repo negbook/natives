@@ -9,7 +9,7 @@ void GET_VEHICLE_CUSTOM_PRIMARY_COLOUR(Vehicle vehicle, int* r, int* g, int* b);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **r**: 
 * **g**: 

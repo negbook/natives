@@ -12,11 +12,11 @@ BOOL WOULD_ENTITY_BE_OCCLUDED(Hash entityModelHash, float x, float y, float z, B
 First parameter was previously an Entity but after further research it is definitely a hash.  
 ```
 
-## Parameters
+## 參數
 * **entityModelHash**: 
 * **x**: 
 * **y**: 
 * **z**: 
 * **p4**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ void SET_RESOURCE_KVP(char* key, char* value);
 ```
 
 
-## Parameters
+## 參數
 * **key**: 
 * **value**: 
 

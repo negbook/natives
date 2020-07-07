@@ -23,7 +23,7 @@ When p15 = true, it seems to force teleport to false.
 It also lets the Rotation params actually work.  
 ```
 
-## Parameters
+## 參數
 * **entity1**: 
 * **entity2**: 
 * **boneIndex1**: 

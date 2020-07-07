@@ -13,7 +13,7 @@ void NETWORK_ADD_FOLLOWERS(int* p0, int p1);
 ..  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

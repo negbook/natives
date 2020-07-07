@@ -9,6 +9,6 @@ void PULSE_BLIP(Blip blip);
 ```
 
 
-## Parameters
+## 參數
 * **blip**: 
 

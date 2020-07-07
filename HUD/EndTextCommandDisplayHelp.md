@@ -30,7 +30,7 @@ more inputs/icons:
 Used to be known as _DISPLAY_HELP_TEXT_FROM_STRING_LABEL  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **loop**: 
 * **beep**: 

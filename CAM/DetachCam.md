@@ -9,6 +9,6 @@ void DETACH_CAM(Cam cam);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 

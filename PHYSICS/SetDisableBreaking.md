@@ -12,8 +12,8 @@ Any SET_DISABLE_BREAKING(Object object, BOOL toggle);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **object**: 
 * **toggle**: 
 
-## Return value
+## 返回值

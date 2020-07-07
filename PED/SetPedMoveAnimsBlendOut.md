@@ -9,6 +9,6 @@ void SET_PED_MOVE_ANIMS_BLEND_OUT(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 

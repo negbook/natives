@@ -10,4 +10,4 @@ BOOL NETWORK_IS_TRANSITION_PRIVATE();
 ```
 
 
-## Return value
+## 返回值

@@ -25,7 +25,7 @@ iVar66 being false so !false so it's true, 0
 Gonna ignore the 'vars' for the create_ped no point in defining them.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **p1**: 
 * **p2**: 

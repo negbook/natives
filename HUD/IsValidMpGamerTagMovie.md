@@ -13,7 +13,7 @@ BOOL _IS_VALID_MP_GAMER_TAG_MOVIE(int gamerTagId);
 IS_*
 ```
 
-## Parameters
+## 參數
 * **gamerTagId**: 
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ void REMOVE_RELATIONSHIP_GROUP(Hash groupHash);
 ```
 
 
-## Parameters
+## 參數
 * **groupHash**: 
 

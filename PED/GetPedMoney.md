@@ -9,7 +9,7 @@ int GET_PED_MONEY(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

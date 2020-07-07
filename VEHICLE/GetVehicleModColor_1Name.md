@@ -14,8 +14,8 @@ returns a string which is the codename of the vehicle's currently selected prima
 p1 is always 0  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 
-## Return value
+## 返回值

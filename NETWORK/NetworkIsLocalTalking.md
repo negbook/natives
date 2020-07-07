@@ -9,4 +9,4 @@ aliases: ["0xC0D2AF00BCC234CA"]
 BOOL NETWORK_IS_LOCAL_TALKING();
 ```
 
-## Return value
+## 返回值

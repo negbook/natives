@@ -14,10 +14,10 @@ RAGEPluginHook list: docs.ragepluginhook.net/html/62951c37-a440-478c-b389-c47123
 
 [Animations list](https://alexguirre.github.io/animations-list/)
 
-## Parameters
+## 參數
 * **entity**: 
 * **animation**: 
 * **animGroup**: 
 * **p3**: 
 
-## Return value
+## 返回值

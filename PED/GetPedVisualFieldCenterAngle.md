@@ -12,5 +12,5 @@ float _GET_PED_VISUAL_FIELD_CENTER_ANGLE(Ped ped);
 NativeDB Introduced: v1493
 ```
 
-## Parameters
+## 參數
 * **ped**:

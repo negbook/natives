@@ -10,6 +10,6 @@ void REMOVE_PED_PREFERRED_COVER_SET(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 

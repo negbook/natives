@@ -10,7 +10,7 @@ Any END_TEXT_COMMAND_THEFEED_POST_UNLOCK_TU_WITH_COLOR(char* chTitle, int iconTy
 ```
 
 
-## Parameters
+## 參數
 * **chTitle**: 
 * **iconType**: 
 * **chSubtitle**: 
@@ -18,4 +18,4 @@ Any END_TEXT_COMMAND_THEFEED_POST_UNLOCK_TU_WITH_COLOR(char* chTitle, int iconTy
 * **titleColor**: 
 * **p5**: 
 
-## Return value
+## 返回值

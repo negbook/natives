@@ -11,6 +11,6 @@ void REGISTER_FONT_FILE(char* fileName);
 Registers a specified .gfx file as GFx font library.
 The .gfx file has to be registered with the streamer already.
 
-## Parameters
+## 參數
 * **fileName**: The name of the .gfx file, without extension.
 

@@ -13,4 +13,4 @@ BOOL _IS_MULTIPLAYER_CHAT_ACTIVE();
 Returns whether or not the text chat (MULTIPLAYER_CHAT Scaleform component) is active.  
 ```
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ Vehicle NET_TO_VEH(int netHandle);
 ```
 
 
-## Parameters
+## 參數
 * **netHandle**: 
 
-## Return value
+## 返回值

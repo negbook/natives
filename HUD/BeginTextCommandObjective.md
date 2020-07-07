@@ -18,6 +18,6 @@ _END_TEXT_COMMAND_OBJECTIVE(0);
 	}  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

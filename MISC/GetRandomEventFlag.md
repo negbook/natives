@@ -12,4 +12,4 @@ Any GET_RANDOM_EVENT_FLAG();
 NativeDB Return Type: BOOL
 ```
 
-## Return value
+## 返回值

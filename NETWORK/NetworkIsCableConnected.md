@@ -10,4 +10,4 @@ BOOL NETWORK_IS_CABLE_CONNECTED();
 ```
 
 
-## Return value
+## 返回值

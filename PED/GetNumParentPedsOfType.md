@@ -12,7 +12,7 @@ int _GET_NUM_PARENT_PEDS_OF_TYPE(int type);
 Type equals 0 for male non-dlc, 1 for female non-dlc, 2 for male dlc, and 3 for female dlc.  
 ```
 
-## Parameters
+## 參數
 * **type**: 
 
-## Return value
+## 返回值

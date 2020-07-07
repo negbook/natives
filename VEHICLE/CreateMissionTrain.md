@@ -19,11 +19,11 @@ freightcont2
 freighttrailer  
 ```
 
-## Parameters
+## 參數
 * **variation**: 
 * **x**: 
 * **y**: 
 * **z**: 
 * **direction**: 
 
-## Return value
+## 返回值

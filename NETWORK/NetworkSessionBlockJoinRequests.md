@@ -10,6 +10,6 @@ void NETWORK_SESSION_BLOCK_JOIN_REQUESTS(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

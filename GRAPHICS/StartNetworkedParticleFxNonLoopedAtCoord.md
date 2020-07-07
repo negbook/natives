@@ -17,7 +17,7 @@ network fx
 NativeDB Added Parameter 12: BOOL p11
 ```
 
-## Parameters
+## 參數
 * **effectName**: 
 * **xPos**: 
 * **yPos**: 
@@ -30,4 +30,4 @@ NativeDB Added Parameter 12: BOOL p11
 * **yAxis**: 
 * **zAxis**: 
 
-## Return value
+## 返回值

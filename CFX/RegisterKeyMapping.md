@@ -12,7 +12,7 @@ Registers a key mapping for the current resource.
 
 See the related [cookbook post](https://cookbook.fivem.net/2020/01/06/using-the-new-console-key-bindings/) for more information.
 
-## Parameters
+## 參數
 * **commandString**: The command to execute, and the identifier of the binding.
 * **description**: A description for in the settings menu.
 * **defaultMapper**: The mapper ID to use for the default binding, e.g. `keyboard`.

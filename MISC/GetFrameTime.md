@@ -9,4 +9,4 @@ float GET_FRAME_TIME();
 ```
 
 
-## Return value
+## 返回值

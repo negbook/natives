@@ -12,7 +12,7 @@ void SET_VEHICLE_CAN_BE_TARGETTED(Vehicle vehicle, BOOL state);
 This has not yet been tested - it's just an assumption of what the types could be.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **state**: 
 

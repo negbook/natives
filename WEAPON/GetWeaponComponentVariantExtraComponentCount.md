@@ -13,7 +13,7 @@ int _GET_WEAPON_COMPONENT_VARIANT_EXTRA_COMPONENT_COUNT(Any componentHash);
 NativeDB Parameter 0: Hash componentHash
 ```
 
-## Parameters
+## 參數
 * **componentHash**: 
 
-## Return value
+## 返回值

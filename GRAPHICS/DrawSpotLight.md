@@ -27,7 +27,7 @@ dirVector.Normalize();
 Function.Call(Hash.DRAW_SPOT_LIGHT, pos.X, pos.Y, pos.Z, dirVector.X, dirVector.Y, dirVector.Z, 255, 255, 255, 100.0f, 1f, 0.0f, 13.0f, 1f);  
 ```
 
-## Parameters
+## 參數
 * **posX**: 
 * **posY**: 
 * **posZ**: 

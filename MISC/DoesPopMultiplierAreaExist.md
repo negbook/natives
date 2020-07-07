@@ -10,7 +10,7 @@ BOOL DOES_POP_MULTIPLIER_AREA_EXIST(int id);
 ```
 
 
-## Parameters
+## 參數
 * **id**: 
 
-## Return value
+## 返回值

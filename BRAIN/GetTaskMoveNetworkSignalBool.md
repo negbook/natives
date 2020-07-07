@@ -15,8 +15,8 @@ if (AI::_A7FFBA498E4AAF67(l_9BC, "Run")) {
 if (AI::_A7FFBA498E4AAF67(l_9BC, "Escape")) {  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **signalName**: 
 
-## Return value
+## 返回值

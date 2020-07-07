@@ -10,6 +10,6 @@ void _SEETHROUGH_SET_HI_LIGHT_NOISE(float noise);
 ```
 
 
-## Parameters
+## 參數
 * **noise**: 
 

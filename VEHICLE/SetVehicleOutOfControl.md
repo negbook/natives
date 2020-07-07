@@ -12,7 +12,7 @@ void SET_VEHICLE_OUT_OF_CONTROL(Vehicle vehicle, BOOL killDriver, BOOL explodeOn
 Tested on the player's current vehicle. Unless you kill the driver, the vehicle doesn't loose control, however, if enabled, explodeOnImpact is still active. The moment you crash, boom.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **killDriver**: 
 * **explodeOnImpact**: 

@@ -13,4 +13,4 @@ BOOL _NETWORK_HAS_PLAYER_BEEN_BANNED();
 if(NETWORK::_IS_ROCKSTAR_BANNED() == 0) means the player is rockstar banned  
 ```
 
-## Return value
+## 返回值

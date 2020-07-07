@@ -9,7 +9,7 @@ int GET_PED_COMBAT_RANGE(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

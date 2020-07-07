@@ -12,6 +12,6 @@ void _0x1CBA05AE7BD7EE05(float p0);
 SET_TRA*
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

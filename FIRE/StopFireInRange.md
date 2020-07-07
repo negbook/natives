@@ -12,7 +12,7 @@ void STOP_FIRE_IN_RANGE(float x, float y, float z, float radius);
 This doesn't stop fire nor the fire propagation in a loop... for some reasons.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

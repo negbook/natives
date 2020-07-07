@@ -15,6 +15,6 @@ AUDIO::SET_CUTSCENE_AUDIO_OVERRIDE("_CUSTOM");
 AUDIO::SET_CUTSCENE_AUDIO_OVERRIDE("_TOOTHLESS");  
 ```
 
-## Parameters
+## 參數
 * **name**: 
 

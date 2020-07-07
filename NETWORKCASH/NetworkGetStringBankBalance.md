@@ -10,4 +10,4 @@ char* NETWORK_GET_STRING_BANK_BALANCE();
 ```
 
 
-## Return value
+## 返回值

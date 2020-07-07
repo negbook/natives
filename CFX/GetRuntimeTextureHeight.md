@@ -10,8 +10,8 @@ int GET_RUNTIME_TEXTURE_HEIGHT(long tex);
 
 Gets the height of the specified runtime texture.
 
-## Parameters
+## 參數
 * **tex**: A handle to the runtime texture.
 
-## Return value
+## 返回值
 The height in pixels.

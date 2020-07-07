@@ -17,6 +17,6 @@ Types -
 Right-Justify requires SET_TEXT_WRAP, otherwise it will draw to the far right of the screen  
 ```
 
-## Parameters
+## 參數
 * **justifyType**: 
 

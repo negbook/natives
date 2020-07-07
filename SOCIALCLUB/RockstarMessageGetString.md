@@ -10,4 +10,4 @@ char* _ROCKSTAR_MESSAGE_GET_STRING();
 ```
 
 
-## Return value
+## 返回值

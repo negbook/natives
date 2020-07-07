@@ -13,7 +13,7 @@ void _SET_BLIP_DISPLAY_INDICATOR_ON_BLIP(Blip blip, BOOL p1);
 Must be toggled before being queued for animation
 ```
 
-## Parameters
+## 參數
 * **blip**: 
 * **p1**: 
 

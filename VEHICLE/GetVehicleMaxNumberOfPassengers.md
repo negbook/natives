@@ -9,7 +9,7 @@ int GET_VEHICLE_MAX_NUMBER_OF_PASSENGERS(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

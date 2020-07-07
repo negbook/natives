@@ -12,6 +12,6 @@ void USE_PLAYER_COLOUR_INSTEAD_OF_TEAM_COLOUR(BOOL toggle);
 NativeDB Added Parameter 2: BOOL p1
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

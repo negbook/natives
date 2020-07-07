@@ -22,7 +22,7 @@ p3 seems to be how much damage it has taken. 0 doesn't deflate them, 1000 comple
 '47 = 6 wheels trailer mid wheel right  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **index**: 
 * **onRim**: 

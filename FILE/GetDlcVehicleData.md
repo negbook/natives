@@ -14,8 +14,8 @@ outData is a struct of 3 8-byte items.
 The Second item in the struct *(Hash *)(outData + 1) is the vehicle hash.  
 ```
 
-## Parameters
+## 參數
 * **dlcVehicleIndex**: 
 * **outData**: 
 
-## Return value
+## 返回值

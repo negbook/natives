@@ -48,7 +48,7 @@ WORLDPROBE::_0xFF6BE494C7987F34
 WORLDPROBE::_GET_RAYCAST_RESULT  
 ```
 
-## Parameters
+## 參數
 * **nodeId**: 
 * **outPosition**: 
 

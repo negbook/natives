@@ -12,4 +12,4 @@ BOOL _IS_INTERIOR_RENDERING_DISABLED();
 Returns a bool if interior rendering is disabled, if yes, all "normal" rendered interiors are invisible  
 ```
 
-## Return value
+## 返回值

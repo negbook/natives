@@ -13,6 +13,6 @@ void SET_COLOUR_OF_NEXT_TEXT_COMPONENT(int hudColorIndex);
 sets font color for the next notification  
 ```
 
-## Parameters
+## 參數
 * **hudColorIndex**: 
 

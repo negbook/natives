@@ -9,7 +9,7 @@ void SET_VEHICLE_GRAVITY(Vehicle vehicle, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

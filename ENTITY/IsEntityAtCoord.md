@@ -13,7 +13,7 @@ Checks if entity is within x/y/zSize distance of x/y/z.
 Last three are unknown ints, almost always p7 = 0, p8 = 1, p9 = 0  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **xPos**: 
 * **yPos**: 
@@ -25,4 +25,4 @@ Last three are unknown ints, almost always p7 = 0, p8 = 1, p9 = 0
 * **p8**: 
 * **p9**: 
 
-## Return value
+## 返回值

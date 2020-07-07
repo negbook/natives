@@ -25,7 +25,7 @@ The total number of rectangles to be drawn in one frame is apparently limited to
 NativeDB Added Parameter 9: BOOL p8
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **width**: 

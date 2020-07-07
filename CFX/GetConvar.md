@@ -9,8 +9,8 @@ char* GET_CONVAR(char* varName, char* default_);
 ```
 
 
-## Parameters
+## 參數
 * **varName**: 
 * **default_**: 
 
-## Return value
+## 返回值

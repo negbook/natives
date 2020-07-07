@@ -18,7 +18,7 @@ The actual value isn't stored as a float but as an unsigned char (BYTE). More in
 Separate Person: I didn't want to be rude and remove it, but whom ever posted that pastebin above please remove it as the paste says it has been removed.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **fade**: 
 

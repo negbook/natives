@@ -17,7 +17,7 @@ more achievements came with update 1.29 (freemode events update), I'd say that t
 NativeDB Return Type: BOOL
 ```
 
-## Parameters
+## 參數
 * **achievement**: 
 
-## Return value
+## 返回值

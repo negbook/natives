@@ -12,7 +12,7 @@ BOOL CAN_USE_WEAPON_ON_PARACHUTE(Hash weaponHash);
 this returns if you can use the weapon while using a parachute  
 ```
 
-## Parameters
+## 參數
 * **weaponHash**: 
 
-## Return value
+## 返回值

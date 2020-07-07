@@ -9,7 +9,7 @@ void SET_PED_VISUAL_FIELD_MIN_ANGLE(Ped ped, float value);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **value**: 
 

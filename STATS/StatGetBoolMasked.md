@@ -12,9 +12,9 @@ BOOL STAT_GET_BOOL_MASKED(Hash statName, int mask, int p2);
 p2 - Default value? Seems to be -1 most of the time.  
 ```
 
-## Parameters
+## 參數
 * **statName**: 
 * **mask**: 
 * **p2**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ Vector3 GET_CAM_COORD(Cam cam);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 
-## Return value
+## 返回值

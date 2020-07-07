@@ -13,7 +13,7 @@ BOOL HAS_CUT_FILE_LOADED(char* cutsceneName);
 Checks if the cutscene has loaded and doesn't check via CutSceneManager as opposed to HAS_[THIS]_CUTSCENE_LOADED.
 ```
 
-## Parameters
+## 參數
 * **cutsceneName**: 
 
-## Return value
+## 返回值

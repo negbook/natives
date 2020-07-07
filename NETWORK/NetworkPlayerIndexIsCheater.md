@@ -9,7 +9,7 @@ aliases: ["0x565E430DB3B05BEC","_NETWORK_PLAYER_SOMETHING"]
 BOOL NETWORK_PLAYER_INDEX_IS_CHEATER(Player player);
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

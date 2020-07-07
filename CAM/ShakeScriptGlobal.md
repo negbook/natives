@@ -14,7 +14,7 @@ Something to do with shake:
 CAM::_F4C8CF9E353AFECA("HAND_SHAKE", 0.2);  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

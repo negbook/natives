@@ -14,7 +14,7 @@ HAS_*
 Functionality also closely related to blending
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

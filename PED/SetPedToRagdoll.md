@@ -21,7 +21,7 @@ EDIT 3/11/16: unclear what 'mircoseconds' mean-- a microsecond is 1000x a ms, so
 Edit Mar 21, 2017: removed part about time2 being the microseconds version of time1. this just isn't correct. time2 is in milliseconds, and time1 and time2 don't seem to be connected in any way.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **time1**: 
 * **time2**: 
@@ -30,4 +30,4 @@ Edit Mar 21, 2017: removed part about time2 being the microseconds version of ti
 * **p5**: 
 * **p6**: 
 
-## Return value
+## 返回值

@@ -15,4 +15,4 @@ Examples when this function will return 0 are:
 - When player is coming out from a police station.  
 ```
 
-## Return value
+## 返回值

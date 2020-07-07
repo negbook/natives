@@ -10,6 +10,6 @@ void SET_RADAR_ZOOM_TO_DISTANCE(float zoom);
 ```
 
 
-## Parameters
+## 參數
 * **zoom**: 
 

@@ -9,6 +9,6 @@ void ROPE_SET_UPDATE_PINVERTS(int ropeId);
 ```
 
 
-## Parameters
+## 參數
 * **ropeId**: 
 

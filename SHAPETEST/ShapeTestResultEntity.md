@@ -10,6 +10,6 @@ void _SHAPE_TEST_RESULT_ENTITY(Entity entityHit);
 ```
 
 
-## Parameters
+## 參數
 * **entityHit**: 
 

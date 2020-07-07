@@ -9,7 +9,7 @@ void SET_PED_HEARING_RANGE(Ped ped, float value);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **value**: 
 

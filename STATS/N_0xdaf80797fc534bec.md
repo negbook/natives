@@ -9,6 +9,6 @@ void _0xDAF80797FC534BEC(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

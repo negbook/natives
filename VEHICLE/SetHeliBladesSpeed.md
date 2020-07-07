@@ -14,7 +14,7 @@ vehicleHandle: The helicopter.
 speed: The speed in percentage, 0.0f being 0% and 1.0f being 100%.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **speed**: 
 

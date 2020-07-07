@@ -9,6 +9,6 @@ aliases: ["0x57B192B4D4AD23D5","_NETWORK_CHAT_MUTE"]
 void NETWORK_OVERRIDE_SEND_RESTRICTIONS_ALL(BOOL toggle);
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

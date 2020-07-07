@@ -10,7 +10,7 @@ void TRIGGER_CLIENT_EVENT_INTERNAL(char* eventName, char* eventTarget, char* eve
 
 The backing function for TriggerClientEvent.
 
-## Parameters
+## 參數
 * **eventName**: 
 * **eventTarget**: 
 * **eventPayload**: 

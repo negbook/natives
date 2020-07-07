@@ -13,10 +13,10 @@ BOOL IS_PLAYER_ENTIRELY_INSIDE_GARAGE(Any garageHash, Player player, float p2, i
 NativeDB Parameter 0: Hash garageHash
 ```
 
-## Parameters
+## 參數
 * **garageHash**: 
 * **player**: 
 * **p2**: 
 * **p3**: 
 
-## Return value
+## 返回值

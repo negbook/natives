@@ -15,6 +15,6 @@ Not used in the scripts.
 Bullshit! It's used in spawn_activities  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

@@ -13,4 +13,4 @@ float GET_DEEP_OCEAN_SCALER();
 Gets the aggressiveness factor of the ocean waves.  
 ```
 
-## Return value
+## 返回值

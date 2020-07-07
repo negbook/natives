@@ -9,8 +9,8 @@ BOOL IS_ENTITY_ATTACHED_TO_ENTITY(Entity from, Entity to);
 ```
 
 
-## Parameters
+## 參數
 * **from**: 
 * **to**: 
 
-## Return value
+## 返回值

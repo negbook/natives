@@ -10,7 +10,7 @@ void PLAY_TENNIS_SWING_ANIM(Ped ped, char* animDict, char* animName, float p3, f
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **animDict**: 
 * **animName**: 

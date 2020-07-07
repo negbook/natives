@@ -12,7 +12,7 @@ Pickup CREATE_PICKUP(Hash pickupHash, float posX, float posY, float posZ, int p4
 Pickup hashes: pastebin.com/8EuSv2r1  
 ```
 
-## Parameters
+## 參數
 * **pickupHash**: 
 * **posX**: 
 * **posY**: 
@@ -22,4 +22,4 @@ Pickup hashes: pastebin.com/8EuSv2r1
 * **p6**: 
 * **modelHash**: 
 
-## Return value
+## 返回值

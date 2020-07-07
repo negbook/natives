@@ -10,9 +10,9 @@ BOOL IS_CONTROL_RELEASED(int inputGroup, int control);
 
 Returns whether a [control](https://docs.fivem.net/game-references/controls/) is currently _not_ pressed.
 
-## Parameters
+## 參數
 * **inputGroup**: The control system instance to use. Usually set to 0.
 * **control**: The control ID to check.
 
-## Return value
+## 返回值
 True if the control is not pressed.

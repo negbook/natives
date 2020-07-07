@@ -9,7 +9,7 @@ void SET_PED_INFINITE_AMMO_CLIP(Ped ped, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

@@ -17,7 +17,7 @@ sfink: This has an additional param(Vehicle vehicle, float p1) which is always s
 NativeDB Added Parameter 2: float p1
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

@@ -12,7 +12,7 @@ BOOL _0x4CEBC1ED31E8925E(char* cutsceneName);
 This function is hard-coded to always return 1.  
 ```
 
-## Parameters
+## 參數
 * **cutsceneName**: 
 
-## Return value
+## 返回值

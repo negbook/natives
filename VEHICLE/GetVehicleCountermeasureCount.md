@@ -13,10 +13,10 @@ Similar to [`_GET_AIRCRAFT_BOMB_COUNT`](#_0xEA12BD130D7569A1), this gets the amo
 
 Use [`_SET_AIRCRAFT_COUNTERMEASURE_COUNT`](#_0x9BDA23BF666F0855) to set the current amount.
 
-## Parameters
+## 參數
 * **aircraft**: The vehicle to get the amount of countermeasures from.
 
-## Return value
+## 返回值
 An int indicating the amount of countermeasures remaining on that plane.
 
 ## Examples

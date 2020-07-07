@@ -9,7 +9,7 @@ BOOL HAS_WEAPON_ASSET_LOADED(Hash weaponHash);
 ```
 
 
-## Parameters
+## 參數
 * **weaponHash**: 
 
-## Return value
+## 返回值

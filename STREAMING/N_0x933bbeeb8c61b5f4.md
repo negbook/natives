@@ -12,4 +12,4 @@ BOOL _0x933BBEEB8C61B5F4();
 Probably IS_SWITCH_*
 ```
 
-## Return value
+## 返回值

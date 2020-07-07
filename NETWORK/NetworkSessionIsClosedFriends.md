@@ -10,4 +10,4 @@ BOOL NETWORK_SESSION_IS_CLOSED_FRIENDS();
 ```
 
 
-## Return value
+## 返回值

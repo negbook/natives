@@ -14,7 +14,7 @@ One of the first things it does is get the players ped.
 Then it calls a function that is used in some tasks and ped based functions.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **p1**: 
 * **p2**: 
@@ -25,4 +25,4 @@ Then it calls a function that is used in some tasks and ped based functions.
 * **p7**: 
 * **flags**: 
 
-## Return value
+## 返回值

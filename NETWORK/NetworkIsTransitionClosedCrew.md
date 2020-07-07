@@ -10,4 +10,4 @@ BOOL NETWORK_IS_TRANSITION_CLOSED_CREW();
 ```
 
 
-## Return value
+## 返回值

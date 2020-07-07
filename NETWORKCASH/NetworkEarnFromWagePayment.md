@@ -12,5 +12,5 @@ void _NETWORK_EARN_FROM_WAGE_PAYMENT(int amount);
 NativeDB Introduced: v1180
 ```
 
-## Parameters
+## 參數
 * **amount**:

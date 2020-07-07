@@ -31,7 +31,7 @@ If an invalid hash is specified for targetWeather, the next weather type will be
 If an invalid hash is specified for both sourceWeather and targetWeather, the function just changes the transition time of the current transition.  
 ```
 
-## Parameters
+## 參數
 * **weatherType1**: 
 * **weatherType2**: 
 * **percentWeather2**: 

@@ -19,7 +19,7 @@ The restricted bool is not used on the client side. Permissions can only be chec
 ![](https://i.imgur.com/TaCnG09.png)
 
 
-## Parameters
+## 參數
 * **commandName**: The command you want to register.
 * **handler**: A handler function that gets called whenever the command is executed.
 * **restricted**: If this is a server command and you set this to true, then players will need the command.yourCommandName ace permission to execute this command.

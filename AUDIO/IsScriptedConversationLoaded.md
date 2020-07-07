@@ -9,4 +9,4 @@ BOOL IS_SCRIPTED_CONVERSATION_LOADED();
 ```
 
 
-## Return value
+## 返回值

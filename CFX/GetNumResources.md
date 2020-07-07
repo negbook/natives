@@ -9,4 +9,4 @@ int GET_NUM_RESOURCES();
 ```
 
 
-## Return value
+## 返回值

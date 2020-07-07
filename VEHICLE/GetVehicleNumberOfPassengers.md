@@ -12,7 +12,7 @@ int GET_VEHICLE_NUMBER_OF_PASSENGERS(Vehicle vehicle);
 Gets the number of passengers, NOT including the driver. Use IS_VEHICLE_SEAT_FREE(Vehicle, -1) to also check for the driver  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

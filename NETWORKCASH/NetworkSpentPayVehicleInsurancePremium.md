@@ -18,7 +18,7 @@ The fifth and last parameter is a bool that returns true/false depending on if y
 bool hasTheMoney = NETWORKCASH::_GET_BANK_BALANCE() < carCost.  
 ```
 
-## Parameters
+## 參數
 * **amount**: 
 * **vehicleModel**: 
 * **networkHandle**: 

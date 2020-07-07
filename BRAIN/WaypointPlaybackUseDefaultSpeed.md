@@ -9,6 +9,6 @@ void WAYPOINT_PLAYBACK_USE_DEFAULT_SPEED(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

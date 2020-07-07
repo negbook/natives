@@ -10,7 +10,7 @@ int GET_SOUND_ID_FROM_NETWORK_ID(int netId);
 ```
 
 
-## Parameters
+## 參數
 * **netId**: 
 
-## Return value
+## 返回值

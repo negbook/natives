@@ -12,7 +12,7 @@ BOOL IS_THIS_MODEL_A_CAR(Hash model);
 To check if the model is an amphibious car, see gtaforums.com/topic/717612-v-scriptnative-documentation-and-research/page-33#entry1069317363 (for build 944 and above only!)  
 ```
 
-## Parameters
+## 參數
 * **model**: 
 
-## Return value
+## 返回值

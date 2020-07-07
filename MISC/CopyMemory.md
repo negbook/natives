@@ -10,7 +10,7 @@ void _COPY_MEMORY(Any* dst, Any src, int size);
 ```
 
 
-## Parameters
+## 參數
 * **dst**: 
 * **src**: 
 * **size**: 

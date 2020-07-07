@@ -13,7 +13,7 @@ void _GIVE_LOADOUT_TO_PED(Ped ped, Any loadoutHash);
 NativeDB Parameter 1: Hash loadoutHash
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **loadoutHash**: 
 

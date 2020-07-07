@@ -9,7 +9,7 @@ aliases: ["0xF2E1A7133DD356A6"]
 void ENABLE_SAVING_IN_GARAGE(Hash garageHash, BOOL toggle);
 ```
 
-## Parameters
+## 參數
 * **garageHash**: 
 * **toggle**: 
 

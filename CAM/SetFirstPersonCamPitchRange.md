@@ -13,7 +13,7 @@ void _SET_FIRST_PERSON_CAM_PITCH_RANGE(float minAngle, float maxAngle);
 Similar to _CLAMP_GAMEPLAY_CAM_PITCH except this is specifically for the FP camera, and it only lets you clamp the pitch within the normal range.  
 ```
 
-## Parameters
+## 參數
 * **minAngle**: 
 * **maxAngle**: 
 

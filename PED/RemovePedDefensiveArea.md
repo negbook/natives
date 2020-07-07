@@ -12,7 +12,7 @@ void REMOVE_PED_DEFENSIVE_AREA(Ped ped, BOOL toggle);
 Ped will no longer get angry when you stay near him.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

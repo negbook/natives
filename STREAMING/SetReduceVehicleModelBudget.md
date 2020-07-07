@@ -9,6 +9,6 @@ void SET_REDUCE_VEHICLE_MODEL_BUDGET(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

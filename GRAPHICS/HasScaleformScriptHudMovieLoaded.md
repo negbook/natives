@@ -13,7 +13,7 @@ BOOL HAS_SCALEFORM_SCRIPT_HUD_MOVIE_LOADED(int hudComponent);
 Check to see if hud component Scaleform has loaded?  
 ```
 
-## Parameters
+## 參數
 * **hudComponent**: 
 
-## Return value
+## 返回值

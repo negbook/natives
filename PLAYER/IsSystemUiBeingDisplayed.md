@@ -9,4 +9,4 @@ BOOL IS_SYSTEM_UI_BEING_DISPLAYED();
 ```
 
 
-## Return value
+## 返回值

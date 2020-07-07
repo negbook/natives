@@ -10,7 +10,7 @@ void SET_MAP_ZOOM_DATA_LEVEL(int index, float zoomScale, float zoomSpeed, float 
 
 Sets values to the zoom level data by index.
 
-## Parameters
+## 參數
 * **index**: Zoom level index.
 * **zoomScale**: fZoomScale value.
 * **zoomSpeed**: fZoomSpeed value.

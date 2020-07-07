@@ -20,6 +20,6 @@ GRAPHICS::_SET_PTFX_ASSET_NEXT_CALL("scr_ornate_heist");
 GRAPHICS::_SET_PTFX_ASSET_NEXT_CALL("scr_prison_break_heist_station");  
 ```
 
-## Parameters
+## 參數
 * **name**: 
 

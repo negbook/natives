@@ -9,7 +9,7 @@ BOOL IS_VEHICLE_HIGH_DETAIL(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

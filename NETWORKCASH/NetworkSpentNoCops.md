@@ -10,7 +10,7 @@ void NETWORK_SPENT_NO_COPS(Any p0, BOOL p1, BOOL p2);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

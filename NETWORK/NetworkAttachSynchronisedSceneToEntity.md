@@ -9,7 +9,7 @@ void NETWORK_ATTACH_SYNCHRONISED_SCENE_TO_ENTITY(int netScene, Entity entity, in
 ```
 
 
-## Parameters
+## 參數
 * **netScene**: 
 * **entity**: 
 * **bone**: 

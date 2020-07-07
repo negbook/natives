@@ -13,11 +13,11 @@ the first arg seems to be the network player handle (&handle) and the second var
 does this send an invite to a player?  
 ```
 
-## Parameters
+## 參數
 * **networkHandle**: 
 * **p1**: 
 * **p2**: 
 * **p3**: 
 * **p4**: 
 
-## Return value
+## 返回值

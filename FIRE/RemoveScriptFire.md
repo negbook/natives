@@ -9,6 +9,6 @@ void REMOVE_SCRIPT_FIRE(FireId fireHandle);
 ```
 
 
-## Parameters
+## 參數
 * **fireHandle**: 
 

@@ -9,7 +9,7 @@ BOOL IS_INTERIOR_CAPPED(int interiorID);
 ```
 
 
-## Parameters
+## 參數
 * **interiorID**: 
 
-## Return value
+## 返回值

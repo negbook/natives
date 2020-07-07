@@ -12,7 +12,7 @@ void _NETWORK_EARN_FROM_GANGOPS_AWARDS(int amount, char* unk, Any p2);
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **amount**:
 * **unk**:
 * **p2**:

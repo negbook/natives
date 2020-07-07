@@ -13,7 +13,7 @@ A static ped will not react to natives like "APPLY_FORCE_TO_ENTITY" or "SET_ENTI
 ^ Attach a phCollider to the ped.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

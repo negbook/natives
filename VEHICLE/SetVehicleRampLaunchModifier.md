@@ -9,7 +9,7 @@ aliases: ["0xEFC13B1CE30D755D"]
 void _SET_VEHICLE_RAMP_LAUNCH_MODIFIER(Vehicle vehicle, float p1);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

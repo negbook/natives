@@ -15,7 +15,7 @@ Only the values 0, 1 and 2 occur in the decompiled scripts. Most likely refers d
 2: CR_Far  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 

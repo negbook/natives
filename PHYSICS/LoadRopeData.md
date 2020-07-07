@@ -16,8 +16,8 @@ Rope presets can be found in the gamefiles. One example is "ropeFamily3", it is 
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **ropeId**: 
 * **rope_preset**: 
 
-## Return value
+## 返回值

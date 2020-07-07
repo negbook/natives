@@ -9,7 +9,7 @@ BOOL _0xAE3FEE8709B39DCB(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

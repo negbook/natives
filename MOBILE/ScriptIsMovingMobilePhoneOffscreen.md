@@ -13,6 +13,6 @@ If bool Toggle = true so the mobile is hide to screen.
 If bool Toggle = false so the mobile is show to screen.  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

@@ -10,6 +10,6 @@ void ADD_TEXT_COMPONENT_SUBSTRING_BLIP_NAME(Blip blip);
 ```
 
 
-## Parameters
+## 參數
 * **blip**: 
 

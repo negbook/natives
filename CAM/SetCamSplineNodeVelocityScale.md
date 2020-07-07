@@ -10,7 +10,7 @@ void SET_CAM_SPLINE_NODE_VELOCITY_SCALE(Cam cam, int p1, float scale);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **p1**: 
 * **scale**: 

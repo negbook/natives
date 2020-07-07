@@ -12,7 +12,7 @@ float GET_VEHICLE_ACCELERATION(Vehicle vehicle);
 static - max acceleration  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

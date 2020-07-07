@@ -12,7 +12,7 @@ void _NETWORK_EARN_FROM_SMUGGLING(int amount, Any p1, Any p2, Any p3);
 NativeDB Introduced: v1180
 ```
 
-## Parameters
+## 參數
 * **amount**:
 * **p1**:
 * **p2**:

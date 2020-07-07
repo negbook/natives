@@ -10,7 +10,7 @@ int START_SHAPE_TEST_BOX(float x, float y, float z, float x1, float y2, float z2
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -25,4 +25,4 @@ int START_SHAPE_TEST_BOX(float x, float y, float z, float x1, float y2, float z2
 * **entity**: 
 * **p12**: 
 
-## Return value
+## 返回值

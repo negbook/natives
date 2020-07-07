@@ -30,8 +30,8 @@ Additional information: `FIX_VEHICLE_WINDOW` (0x140D0BB88) references an array o
 
 Also, this function is coded to not work on vehicles of type: `CBike`, `Bmx`, `CBoat`, `CTrain`, and `CSubmarine`.
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **index**: 
 
-## Return value
+## 返回值

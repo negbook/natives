@@ -12,5 +12,5 @@ void _0x43FA7CBE20DAB219(Any p0);
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **p0**:

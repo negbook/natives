@@ -13,7 +13,7 @@ void SET_SCRIPT_VARIABLE_HUD_COLOUR(int r, int g, int b, int a);
 Sets the color of HUD_COLOUR_SCRIPT_VARIABLE
 ```
 
-## Parameters
+## 參數
 * **r**: 
 * **g**: 
 * **b**: 

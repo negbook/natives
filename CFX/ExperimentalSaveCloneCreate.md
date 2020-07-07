@@ -10,7 +10,7 @@ char* EXPERIMENTAL_SAVE_CLONE_CREATE(Entity entity);
 
 This native is not implemented.
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

@@ -16,7 +16,7 @@ To check if this bit has been enabled:
 GAMEPLAY::IS_BIT_SET(bitAddress, 1); // will return 0 afterwards  
 ```
 
-## Parameters
+## 參數
 * **address**: 
 * **offset**: 
 

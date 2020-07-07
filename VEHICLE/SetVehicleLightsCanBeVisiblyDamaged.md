@@ -13,7 +13,7 @@ void _SET_VEHICLE_LIGHTS_CAN_BE_VISIBLY_DAMAGED(Vehicle vehicle, BOOL p1);
 Must be called each frame
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

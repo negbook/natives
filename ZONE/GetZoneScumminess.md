@@ -12,7 +12,7 @@ int GET_ZONE_SCUMMINESS(int zoneId);
 cellphone range 1- 5 used for signal bar in iFruit phone  
 ```
 
-## Parameters
+## 參數
 * **zoneId**: 
 
-## Return value
+## 返回值

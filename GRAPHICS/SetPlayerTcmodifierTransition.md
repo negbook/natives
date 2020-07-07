@@ -10,6 +10,6 @@ void SET_PLAYER_TCMODIFIER_TRANSITION(float value);
 ```
 
 
-## Parameters
+## 參數
 * **value**: 
 

@@ -10,4 +10,4 @@ BOOL HAVE_CREDITS_REACHED_END();
 ```
 
 
-## Return value
+## 返回值

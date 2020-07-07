@@ -12,6 +12,6 @@ void _SET_VEHICLE_DOORS_LOCKED_FOR_UNK(Vehicle vehicle, BOOL toggle);
 NativeDB Introduced: v1365
 ```
 
-## Parameters
+## 參數
 * **vehicle**:
 * **toggle**:

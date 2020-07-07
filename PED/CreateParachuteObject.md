@@ -10,9 +10,9 @@ Object _CREATE_PARACHUTE_OBJECT(Ped ped, BOOL p1, BOOL p2);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 * **p2**: 
 
-## Return value
+## 返回值

@@ -9,4 +9,4 @@ aliases: ["0xC55A0B40FFB1ED23"]
 Any UGC_GET_CREATE_CONTENT_ID();
 ```
 
-## Return value
+## 返回值

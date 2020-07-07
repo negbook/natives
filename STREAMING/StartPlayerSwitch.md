@@ -29,7 +29,7 @@ Flag 8 w/ SWITCH_TYPE_LONG will zoom out 3 steps, then zoom in 2/3 steps and sto
 Flag 8 w/ SWITCH_TYPE_MEDIUM will zoom out 1 step, and just hang there.  
 ```
 
-## Parameters
+## 參數
 * **from**: 
 * **to**: 
 * **flags**: 

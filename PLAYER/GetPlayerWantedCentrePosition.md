@@ -9,7 +9,7 @@ Vector3 GET_PLAYER_WANTED_CENTRE_POSITION(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

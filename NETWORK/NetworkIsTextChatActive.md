@@ -12,4 +12,4 @@ BOOL _NETWORK_IS_TEXT_CHAT_ACTIVE();
 Same as _IS_TEXT_CHAT_ACTIVE, except it does not check if the text chat HUD component is initialized, and therefore may crash.  
 ```
 
-## Return value
+## 返回值

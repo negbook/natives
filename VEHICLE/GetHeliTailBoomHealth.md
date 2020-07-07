@@ -14,7 +14,7 @@ Max 1000.
 At -100 both helicopter rotors will stall.
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

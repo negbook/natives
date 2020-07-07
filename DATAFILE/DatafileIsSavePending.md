@@ -30,4 +30,4 @@ if (!DATAFILE::_BEDB96A7584AA8CF())
 }  
 ```
 
-## Return value
+## 返回值

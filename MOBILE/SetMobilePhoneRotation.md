@@ -12,7 +12,7 @@ void SET_MOBILE_PHONE_ROTATION(float rotX, float rotY, float rotZ, Any p3);
 Last parameter is unknown and always zero.  
 ```
 
-## Parameters
+## 參數
 * **rotX**: 
 * **rotY**: 
 * **rotZ**: 

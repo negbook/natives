@@ -22,7 +22,7 @@ while (TRUE)
 Calling this will also set the last saved string hash to zero.  
 ```
 
-## Parameters
+## 參數
 * **hash**: 
 
-## Return value
+## 返回值

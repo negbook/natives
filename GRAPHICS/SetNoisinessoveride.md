@@ -9,6 +9,6 @@ void SET_NOISINESSOVERIDE(float value);
 ```
 
 
-## Parameters
+## 參數
 * **value**: 
 

@@ -15,7 +15,7 @@ Unlike most animation natives, the animation comes BEFORE the animation dictiona
 PLAY_FACIAL_ANIM(ped, "dead_1", "facials@gen_male@base")  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **animName**: 
 * **animDict**: 

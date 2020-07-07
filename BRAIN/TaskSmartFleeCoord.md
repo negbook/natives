@@ -12,7 +12,7 @@ void TASK_SMART_FLEE_COORD(Ped ped, float x, float y, float z, float distance, i
 Makes the specified ped flee the specified distance from the specified position.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **x**: 
 * **y**: 

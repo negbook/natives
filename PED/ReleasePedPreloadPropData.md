@@ -9,6 +9,6 @@ aliases: ["0xF79F9DEF0AADE61A"]
 void RELEASE_PED_PRELOAD_PROP_DATA(Ped ped);
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 

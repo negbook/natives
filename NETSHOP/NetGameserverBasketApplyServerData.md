@@ -13,8 +13,8 @@ BOOL _NET_GAMESERVER_BASKET_APPLY_SERVER_DATA(Any p0, Any* p1);
 p0 => unk3::_network_shop_basket_apply_server_data(Global_2590199[iParam0 /*76*/], &uVar6); => script array  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

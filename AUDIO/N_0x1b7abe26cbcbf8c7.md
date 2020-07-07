@@ -9,7 +9,7 @@ void _0x1B7ABE26CBCBF8C7(Ped ped, Any p1, Any p2);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 * **p2**: 

@@ -9,8 +9,8 @@ float GET_WAYPOINT_DISTANCE_ALONG_ROUTE(char* p0, int p1);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

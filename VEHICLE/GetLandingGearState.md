@@ -19,8 +19,8 @@ Landing gear states:
 
 Landing gear state 2 is never used.
 
-## Parameters
+## 參數
 * **vehicle**: The vehicle to check.
 
-## Return value
+## 返回值
 The current state of the vehicles landing gear.

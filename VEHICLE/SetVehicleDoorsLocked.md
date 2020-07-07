@@ -21,7 +21,7 @@ void SET_VEHICLE_DOORS_LOCKED(Vehicle vehicle, int doorLockStatus);
 They use 10 in am_mp_property_int, don't know what it does atm.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **doorLockStatus**: 
 

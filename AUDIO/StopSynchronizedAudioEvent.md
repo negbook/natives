@@ -9,7 +9,7 @@ BOOL STOP_SYNCHRONIZED_AUDIO_EVENT(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

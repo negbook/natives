@@ -9,7 +9,7 @@ BOOL IS_PREV_WEATHER_TYPE(char* weatherType);
 ```
 
 
-## Parameters
+## 參數
 * **weatherType**: 
 
-## Return value
+## 返回值

@@ -9,4 +9,4 @@ BOOL IS_SCREEN_FADED_IN();
 ```
 
 
-## Return value
+## 返回值

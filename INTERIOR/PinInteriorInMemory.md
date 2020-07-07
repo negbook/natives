@@ -13,6 +13,6 @@ void PIN_INTERIOR_IN_MEMORY(int interior);
 Load interior  
 ```
 
-## Parameters
+## 參數
 * **interior**: 
 

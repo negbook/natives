@@ -12,6 +12,6 @@ void _SET_TEXT_CHAT_UNK(BOOL p0);
 Sets an unknown boolean value in the text chat.  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

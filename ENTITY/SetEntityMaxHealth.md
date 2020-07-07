@@ -12,7 +12,7 @@ void SET_ENTITY_MAX_HEALTH(Entity entity, int value);
 For instance: ENTITY::SET_ENTITY_MAX_HEALTH(PLAYER::PLAYER_PED_ID(), 200); // director_mode.c4: 67849  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **value**: 
 

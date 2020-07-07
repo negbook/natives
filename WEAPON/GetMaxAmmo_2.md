@@ -13,9 +13,9 @@ BOOL _GET_MAX_AMMO_2(Ped ped, Any weaponHash, int* ammo);
 NativeDB Parameter 1: Hash weaponHash
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 * **ammo**: 
 
-## Return value
+## 返回值

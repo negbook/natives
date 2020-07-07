@@ -17,8 +17,8 @@ UNK3::_NETWORK_TRANSFER_BANK_TO_WALLET(iVar0, amount);
 used to withdraw money from bank into wallet, shows up in transaction log.  
 ```
 
-## Parameters
+## 參數
 * **charSlot**: 
 * **amount**: 
 
-## Return value
+## 返回值

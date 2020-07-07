@@ -9,7 +9,7 @@ aliases: ["0x13518FF1C6B28938"]
 BOOL NETWORK_CLAN_REQUEST_EMBLEM(Any p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

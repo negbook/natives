@@ -9,4 +9,4 @@ BOOL IS_PAUSE_MENU_ACTIVE();
 ```
 
 
-## Return value
+## 返回值

@@ -13,4 +13,4 @@ Any NETWORK_IS_TRANSITION_MATCHMAKING();
 NativeDB Return Type: BOOL
 ```
 
-## Return value
+## 返回值

@@ -12,7 +12,7 @@ void REQUEST_ADDITIONAL_TEXT(char* gxt, int slot);
 Request a gxt into the passed slot.  
 ```
 
-## Parameters
+## 參數
 * **gxt**: 
 * **slot**: 
 

@@ -12,7 +12,7 @@ Any SET_PLAYERS_LAST_VEHICLE(Vehicle vehicle);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

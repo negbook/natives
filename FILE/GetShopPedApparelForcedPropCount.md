@@ -9,7 +9,7 @@ aliases: ["0x017568A8182D98A6"]
 Any GET_SHOP_PED_APPAREL_FORCED_PROP_COUNT(Any p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

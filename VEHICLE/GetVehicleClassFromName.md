@@ -15,7 +15,7 @@ std::sprintf(buffer, "VEH_CLASS_%i", VEHICLE::GET_VEHICLE_CLASS_FROM_NAME (hash)
 char* className = UI::_GET_LABEL_TEXT(buffer);  
 ```
 
-## Parameters
+## 參數
 * **modelHash**: 
 
-## Return value
+## 返回值

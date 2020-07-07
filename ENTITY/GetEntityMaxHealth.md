@@ -14,7 +14,7 @@ Example:
 - Player = 200  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

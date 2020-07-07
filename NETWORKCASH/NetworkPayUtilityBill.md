@@ -10,7 +10,7 @@ void NETWORK_PAY_UTILITY_BILL(int amount, BOOL p1, BOOL p2);
 ```
 
 
-## Parameters
+## 參數
 * **amount**: 
 * **p1**: 
 * **p2**: 

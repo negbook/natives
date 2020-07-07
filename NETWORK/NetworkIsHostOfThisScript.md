@@ -9,4 +9,4 @@ BOOL NETWORK_IS_HOST_OF_THIS_SCRIPT();
 ```
 
 
-## Return value
+## 返回值

@@ -9,8 +9,8 @@ BOOL IS_PLAYER_ACE_ALLOWED(char* playerSrc, char* object);
 ```
 
 
-## Parameters
+## 參數
 * **playerSrc**: 
 * **object**: 
 
-## Return value
+## 返回值

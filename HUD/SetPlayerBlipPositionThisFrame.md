@@ -13,7 +13,7 @@ Sets the position of the arrow icon representing the player on both the minimap 
 Too bad this wouldn't work over the network (obviously not). Could spoof where we would be.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 

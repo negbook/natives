@@ -18,4 +18,4 @@ for (num3 = 0; num3 < NETWORK::0xCCD8C02D(); num3++)
             var num5 = NETWORK::NETWORK_GET_PLAYER_INDEX(PLAYER::0x98F3B274(num3));
 ```
 
-## Return value
+## 返回值

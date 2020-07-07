@@ -9,7 +9,7 @@ BOOL IS_TRACKED_POINT_VISIBLE(int point);
 ```
 
 
-## Parameters
+## 參數
 * **point**: 
 
-## Return value
+## 返回值

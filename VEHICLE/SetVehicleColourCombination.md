@@ -12,7 +12,7 @@ Sets the selected vehicle's colors to their default value (specific variant spec
 
 Range of possible values for colorCombination is currently unknown, I couldn't find where these values are stored either (Disquse's guess was vehicles.meta but I haven't seen it in there.)
 
-## Parameters
+## 參數
 * **vehicle**: The vehicle to modify.
 * **colorCombination**: One of the default color values of the vehicle.
 

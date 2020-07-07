@@ -18,7 +18,7 @@ Maximum: 1000
 1000: Engine is perfect  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ void SET_TEXT_RENDER_ID(int renderId);
 ```
 
 
-## Parameters
+## 參數
 * **renderId**: 
 

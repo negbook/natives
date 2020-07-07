@@ -32,11 +32,11 @@ Used to be called _WORLD3D_TO_SCREEN2D
 I thought we lost you from the scene forever. It does seem however that calling SET_DRAW_ORIGIN then your natives, then ending it. Seems to work better for certain things such as keeping boxes around people for a predator missile e.g.  
 ```
 
-## Parameters
+## 參數
 * **worldX**: 
 * **worldY**: 
 * **worldZ**: 
 * **screenX**: 
 * **screenY**: 
 
-## Return value
+## 返回值

@@ -26,8 +26,8 @@ int index = 0 to 13
 13 = unsure
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **index**: 
 
-## Return value
+## 返回值

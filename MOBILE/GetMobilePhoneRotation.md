@@ -9,7 +9,7 @@ void GET_MOBILE_PHONE_ROTATION(Vector3* rotation, Vehicle p1);
 ```
 
 
-## Parameters
+## 參數
 * **rotation**: 
 * **p1**: 
 

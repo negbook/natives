@@ -10,7 +10,7 @@ void _NETWORK_SPENT_WAGER(Any p0, Any p1, int amount);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **amount**: 

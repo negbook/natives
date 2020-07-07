@@ -29,7 +29,7 @@ NativeDB Added Parameter 8: Any p7
 NativeDB Added Parameter 9: Any p8
 ```
 
-## Parameters
+## 參數
 * **dispatchService**: 
 * **x**: 
 * **y**: 
@@ -38,4 +38,4 @@ NativeDB Added Parameter 9: Any p8
 * **radius**: 
 * **outIncidentID**: 
 
-## Return value
+## 返回值

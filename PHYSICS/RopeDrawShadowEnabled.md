@@ -9,7 +9,7 @@ void ROPE_DRAW_SHADOW_ENABLED(int* ropeId, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **ropeId**: 
 * **toggle**: 
 

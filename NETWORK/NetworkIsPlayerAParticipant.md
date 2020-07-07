@@ -9,7 +9,7 @@ BOOL NETWORK_IS_PLAYER_A_PARTICIPANT(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

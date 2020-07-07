@@ -9,7 +9,7 @@ int GET_DLC_VEHICLE_FLAGS(int dlcVehicleIndex);
 ```
 
 
-## Parameters
+## 參數
 * **dlcVehicleIndex**: 
 
-## Return value
+## 返回值

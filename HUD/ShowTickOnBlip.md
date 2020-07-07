@@ -13,7 +13,7 @@ void SHOW_TICK_ON_BLIP(Blip blip, BOOL toggle);
 Adds a green checkmark on top of a blip.  
 ```
 
-## Parameters
+## 參數
 * **blip**: 
 * **toggle**: 
 

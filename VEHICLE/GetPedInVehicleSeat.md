@@ -24,8 +24,8 @@ Can use GET_VEHICLE_MAX_NUMBER_OF_PASSENGERS(vehicle) to help get max index
 NativeDB Added Parameter 3: Any p2
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **index**: 
 
-## Return value
+## 返回值

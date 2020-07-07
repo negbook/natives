@@ -9,7 +9,7 @@ void SET_CONVAR_SERVER_INFO(char* varName, char* value);
 ```
 
 
-## Parameters
+## 參數
 * **varName**: 
 * **value**: 
 

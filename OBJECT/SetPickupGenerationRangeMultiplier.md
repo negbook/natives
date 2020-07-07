@@ -10,6 +10,6 @@ void SET_PICKUP_GENERATION_RANGE_MULTIPLIER(float multiplier);
 ```
 
 
-## Parameters
+## 參數
 * **multiplier**: 
 

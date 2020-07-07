@@ -13,4 +13,4 @@ Any IS_SWITCH_SKIPPING_DESCENT();
 NativeDB Return Type: BOOL
 ```
 
-## Return value
+## 返回值

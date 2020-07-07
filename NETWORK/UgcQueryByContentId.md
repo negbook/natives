@@ -10,9 +10,9 @@ BOOL UGC_QUERY_BY_CONTENT_ID(char* contentId, BOOL latestVersion, char* contentT
 ```
 
 
-## Parameters
+## 參數
 * **contentId**: 
 * **latestVersion**: 
 * **contentTypeName**: 
 
-## Return value
+## 返回值

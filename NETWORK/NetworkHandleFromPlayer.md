@@ -24,7 +24,7 @@ std::vector<UINT64> GetPlayerNetworkHandle(Player player) {
 }  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **networkHandle**: 
 * **bufferSize**: 

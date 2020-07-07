@@ -10,7 +10,7 @@ void ADD_POINT_TO_GPS_MULTI_ROUTE(float x, float y, float z);
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

@@ -12,6 +12,6 @@ void SET_RADIO_TO_STATION_NAME(char* stationName);
 For a full list, see here: pastebin.com/Kj9t38KF  
 ```
 
-## Parameters
+## 參數
 * **stationName**: 
 

@@ -9,7 +9,7 @@ int GET_PED_ACCURACY(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

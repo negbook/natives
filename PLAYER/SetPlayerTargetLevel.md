@@ -18,6 +18,6 @@ Only two references anywhere, both in am_pi_menu.
 One uses globals, the other one uses a helper function that is passing in the outValue of "STATS::STAT_GET_INT"; I have no clue what is being passed in for the stat hash.  
 ```
 
-## Parameters
+## 參數
 * **targetLevel**: 
 

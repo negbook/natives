@@ -36,7 +36,7 @@ enum MpGamerTagComponent
 NativeDB Added Parameter 4: Any p3
 ```
 
-## Parameters
+## 參數
 * **gamerTagId**: 
 * **component**: 
 * **toggle**: 

@@ -9,8 +9,8 @@ aliases: ["0x02A8BEC6FD9AF660"]
 BOOL NETWORK_GET_GAMER_STATUS_RESULT(Any* p0, Any p1);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

@@ -9,4 +9,4 @@ aliases: ["0xEF0912DDF7C4CB4B"]
 BOOL NETWORK_SESSION_IS_VOICE_SESSION_BUSY();
 ```
 
-## Return value
+## 返回值

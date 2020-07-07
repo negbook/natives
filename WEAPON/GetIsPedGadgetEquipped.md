@@ -12,8 +12,8 @@ BOOL GET_IS_PED_GADGET_EQUIPPED(Ped ped, Hash gadgetHash);
 gadgetHash - was always 0xFBAB5776 ("GADGET_PARACHUTE").  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **gadgetHash**: 
 
-## Return value
+## 返回值

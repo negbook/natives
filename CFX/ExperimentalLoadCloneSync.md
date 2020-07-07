@@ -10,7 +10,7 @@ void EXPERIMENTAL_LOAD_CLONE_SYNC(Entity entity, char* data);
 
 This native is not implemented.
 
-## Parameters
+## 參數
 * **entity**: 
 * **data**: 
 

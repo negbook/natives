@@ -12,4 +12,4 @@ Any NETWORK_IS_TRANSITION_HOST();
 NativeDB Return Type: BOOL
 ```
 
-## Return value
+## 返回值

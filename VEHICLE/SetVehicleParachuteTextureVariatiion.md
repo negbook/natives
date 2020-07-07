@@ -13,7 +13,7 @@ void _SET_VEHICLE_PARACHUTE_TEXTURE_VARIATIION(Vehicle vehicle, int textureVaria
 colorIndex = 0  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **textureVariation**: 
 

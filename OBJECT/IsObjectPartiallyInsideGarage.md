@@ -13,9 +13,9 @@ BOOL IS_OBJECT_PARTIALLY_INSIDE_GARAGE(Any garageHash, Entity entity, int p2);
 NativeDB Parameter 0: Hash garageHash
 ```
 
-## Parameters
+## 參數
 * **garageHash**: 
 * **entity**: 
 * **p2**: 
 
-## Return value
+## 返回值

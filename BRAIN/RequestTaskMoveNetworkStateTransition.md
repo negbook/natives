@@ -10,8 +10,8 @@ BOOL REQUEST_TASK_MOVE_NETWORK_STATE_TRANSITION(Ped ped, char* name);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **name**: 
 
-## Return value
+## 返回值

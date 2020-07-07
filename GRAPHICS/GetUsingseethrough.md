@@ -13,4 +13,4 @@ BOOL GET_USINGSEETHROUGH();
 Returns whether or not SEETHROUGH is active.  
 ```
 
-## Return value
+## 返回值

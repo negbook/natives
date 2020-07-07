@@ -19,7 +19,7 @@ tintIndex can be the following:
 7  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 * **tintIndex**: 

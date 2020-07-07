@@ -14,7 +14,7 @@ The importance of the order for entity1 and entity2 is unclear.
 The third parameter, `thisFrame`, decides whether the collision is to be disabled until it is turned back on, or if it's just this frame.
 ```
 
-## Parameters
+## 參數
 * **entity1**: 
 * **entity2**: 
 * **thisFrameOnly**: 

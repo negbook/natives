@@ -14,6 +14,6 @@ Retracts the hook on the cargobob.
 Note: after you retract it the natives for dropping the hook no longer work  
 ```
 
-## Parameters
+## 參數
 * **cargobob**: 
 

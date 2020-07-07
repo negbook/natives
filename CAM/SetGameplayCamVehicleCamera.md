@@ -16,6 +16,6 @@ CAM::_21E253A7F8DA5DFB("ISSI2");
 CAM::_21E253A7F8DA5DFB("SPEEDO");
 ```
 
-## Parameters
+## 參數
 * **vehicleName**: 
 

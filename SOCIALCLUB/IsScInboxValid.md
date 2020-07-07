@@ -10,7 +10,7 @@ BOOL _IS_SC_INBOX_VALID(int p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

@@ -12,7 +12,7 @@ void SET_PED_STEALTH_MOVEMENT(Ped ped, BOOL p1, char* action);
 p1 is usually 0 in the scripts. action is either 0 or a pointer to "DEFAULT_ACTION".  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 * **action**: 

@@ -12,8 +12,8 @@ Any SET_PED_DIES_WHEN_INJURED(Ped ped, BOOL toggle);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 
-## Return value
+## 返回值

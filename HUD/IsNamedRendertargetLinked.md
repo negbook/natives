@@ -9,7 +9,7 @@ BOOL IS_NAMED_RENDERTARGET_LINKED(Hash modelHash);
 ```
 
 
-## Parameters
+## 參數
 * **modelHash**: 
 
-## Return value
+## 返回值

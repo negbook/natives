@@ -12,5 +12,5 @@ void _PLAYSTATS_SMUG_MISSION_ENDED(Any* data);
 NativeDB Introduced: v1180
 ```
 
-## Parameters
+## 參數
 * **data**:

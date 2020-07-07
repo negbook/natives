@@ -9,7 +9,7 @@ BOOL IS_EXPLOSION_IN_ANGLED_AREA(int explosionType, float x1, float y1, float z1
 ```
 
 
-## Parameters
+## 參數
 * **explosionType**: 
 * **x1**: 
 * **y1**: 
@@ -19,4 +19,4 @@ BOOL IS_EXPLOSION_IN_ANGLED_AREA(int explosionType, float x1, float y1, float z1
 * **z2**: 
 * **angle**: 
 
-## Return value
+## 返回值

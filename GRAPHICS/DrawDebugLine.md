@@ -12,7 +12,7 @@ void DRAW_DEBUG_LINE(float x1, float y1, float z1, float x2, float y2, float z2,
 NOTE: Debugging functions are not present in the retail version of the game.  
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 

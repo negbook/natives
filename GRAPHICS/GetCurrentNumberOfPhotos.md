@@ -13,4 +13,4 @@ int _GET_CURRENT_NUMBER_OF_PHOTOS();
 GET_CURRENT_*
 ```
 
-## Return value
+## 返回值

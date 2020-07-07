@@ -13,7 +13,7 @@ Vector3 _GET_CARGOBOB_HOOK_POSITION(Vehicle cargobob);
 Gets the position of the cargobob hook, in world coords.  
 ```
 
-## Parameters
+## 參數
 * **cargobob**: 
 
-## Return value
+## 返回值

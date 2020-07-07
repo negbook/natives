@@ -13,4 +13,4 @@ BOOL _NETWORK_HAVE_SOCIAL_CLUB_PRIVILEGE();
 if(_IS_SOCIALCLUB_BANNED() == 0) means the player is social club banned  
 ```
 
-## Return value
+## 返回值

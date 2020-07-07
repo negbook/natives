@@ -9,7 +9,7 @@ BOOL NETWORK_IS_GAMER_MUTED_BY_ME(int* networkHandle);
 ```
 
 
-## Parameters
+## 參數
 * **networkHandle**: 
 
-## Return value
+## 返回值

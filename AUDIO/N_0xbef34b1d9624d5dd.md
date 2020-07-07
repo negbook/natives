@@ -9,6 +9,6 @@ void _0xBEF34B1D9624D5DD(BOOL p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

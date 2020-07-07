@@ -9,6 +9,6 @@ void REMOVE_STEALTH_MODE_ASSET(char* asset);
 ```
 
 
-## Parameters
+## 參數
 * **asset**: 
 

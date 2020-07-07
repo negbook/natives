@@ -10,7 +10,7 @@ void SET_FORCE_HD_VEHICLE(Vehicle vehicle, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

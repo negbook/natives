@@ -15,7 +15,7 @@ AUDIO::_031ACB6ABA18C729("RADIO_16_SILVERLAKE", "MIRRORPARK_LOCKED");
 Note: Another name for RADIO_16_SILVERLAKE is RADIO MIRROR PARK  
 ```
 
-## Parameters
+## 參數
 * **radioStation**: 
 * **trackListName**: 
 

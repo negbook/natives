@@ -9,7 +9,7 @@ void SET_PED_AS_GROUP_MEMBER(Ped ped, int groupId);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **groupId**: 
 

@@ -14,8 +14,8 @@ Example:
 local txd = CreateRuntimeTxd('meow')
 ```
 
-## Parameters
+## 參數
 * **name**: The name for the runtime TXD.
 
-## Return value
+## 返回值
 A handle to the runtime TXD.

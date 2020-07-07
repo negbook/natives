@@ -9,6 +9,6 @@ void GET_MOBILE_PHONE_POSITION(Vector3* position);
 ```
 
 
-## Parameters
+## 參數
 * **position**: 
 

@@ -9,4 +9,4 @@ aliases: ["0x299EF3C576773506"]
 Any UGC_HAS_MODIFY_FINISHED();
 ```
 
-## Return value
+## 返回值

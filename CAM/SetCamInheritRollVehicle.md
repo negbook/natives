@@ -15,7 +15,7 @@ CAM::SET_CAM_INHERIT_ROLL_VEHICLE(l_544, getElem(2, &l_525, 4));
 In the exile1 script.  
 ```
 
-## Parameters
+## 參數
 * **cam**: 
 * **p1**: 
 

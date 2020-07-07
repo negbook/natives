@@ -13,7 +13,7 @@ void CALL_SCALEFORM_MOVIE_METHOD(int scaleform, char* method);
 Calls the Scaleform function.  
 ```
 
-## Parameters
+## 參數
 * **scaleform**: 
 * **method**: 
 

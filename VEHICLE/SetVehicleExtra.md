@@ -20,7 +20,7 @@ not sure if it really should be a BOOL.
 Confirmed p2 does not work as a bool. Changed to int. [0=on, 1=off]  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **extraId**: 
 * **disable**: 

@@ -21,14 +21,14 @@ Example image:
 
 (Native name is _likely_ to actually be ADD_BLIP_FOR_AREA, but due to the usual reasons this can't be confirmed)
 
-## Parameters
+## 參數
 * **x**: The X coordinate of the center of the blip.
 * **y**: The Y coordinate of the center of the blip.
 * **z**: The Z coordinate of the center of the blip.
 * **width**: The width of the blip.
 * **height**: The height of the blip.
 
-## Return value
+## 返回值
 A handle to the blip.
 
 ## Examples

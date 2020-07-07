@@ -12,7 +12,7 @@ void SET_PLAYER_SPRINT(Player player, BOOL toggle);
 77  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 

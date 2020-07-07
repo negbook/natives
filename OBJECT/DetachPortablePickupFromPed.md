@@ -9,6 +9,6 @@ void DETACH_PORTABLE_PICKUP_FROM_PED(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 

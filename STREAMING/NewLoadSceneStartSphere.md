@@ -19,11 +19,11 @@ if (CUTSCENE::GET_CUTSCENE_TIME() > 4178) {
 		(Previously known as STREAMING::_NEW_LOAD_SCENE_START_SAFE)  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 * **radius**: 
 * **p4**: 
 
-## Return value
+## 返回值

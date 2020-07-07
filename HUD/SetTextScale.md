@@ -12,7 +12,7 @@ void SET_TEXT_SCALE(float scale, float size);
 Size range : 0f to 1.0f  
 ```
 
-## Parameters
+## 參數
 * **scale**: 
 * **size**: 
 

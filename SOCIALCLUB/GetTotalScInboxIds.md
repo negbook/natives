@@ -10,4 +10,4 @@ int _GET_TOTAL_SC_INBOX_IDS();
 ```
 
 
-## Return value
+## 返回值

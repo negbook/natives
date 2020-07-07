@@ -10,6 +10,6 @@ void TOGGLE_PAUSED_RENDERPHASES(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

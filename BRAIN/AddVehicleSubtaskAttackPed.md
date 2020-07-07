@@ -9,7 +9,7 @@ void ADD_VEHICLE_SUBTASK_ATTACK_PED(Ped ped, Ped ped2);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **ped2**: 
 

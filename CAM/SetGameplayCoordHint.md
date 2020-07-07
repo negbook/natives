@@ -14,7 +14,7 @@ Function.Call(Hash.SET_GAMEPLAY_COORD_HINT, position.X, position.Y, position.Z, 
 The camera look-at is canceled if the user is already panning the camera around.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

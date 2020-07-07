@@ -10,4 +10,4 @@ BOOL NETWORK_SESSION_IS_PRIVATE();
 ```
 
 
-## Return value
+## 返回值

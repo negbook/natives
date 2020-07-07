@@ -9,7 +9,7 @@ aliases: ["0xCFD115B373C0DF63"]
 void UGC_GET_CONTENT_UPDATED_DATE(Any p0, Any* p1);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 

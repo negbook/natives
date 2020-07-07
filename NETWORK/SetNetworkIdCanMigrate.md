@@ -12,7 +12,7 @@ void SET_NETWORK_ID_CAN_MIGRATE(int netId, BOOL toggle);
 Whether or not another player is allowed to take control of the entity  
 ```
 
-## Parameters
+## 參數
 * **netId**: 
 * **toggle**: 
 

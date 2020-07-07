@@ -12,7 +12,7 @@ BOOL IS_MODEL_A_VEHICLE(Hash model);
 Returns whether the specified model represents a vehicle.  
 ```
 
-## Parameters
+## 參數
 * **model**: 
 
-## Return value
+## 返回值

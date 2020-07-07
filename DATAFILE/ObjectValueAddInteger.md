@@ -9,7 +9,7 @@ void _OBJECT_VALUE_ADD_INTEGER(Any* objectData, char* key, int value);
 ```
 
 
-## Parameters
+## 參數
 * **objectData**: 
 * **key**: 
 * **value**: 

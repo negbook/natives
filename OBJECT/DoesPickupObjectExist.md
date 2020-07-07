@@ -9,7 +9,7 @@ BOOL DOES_PICKUP_OBJECT_EXIST(Object pickupObject);
 ```
 
 
-## Parameters
+## 參數
 * **pickupObject**: 
 
-## Return value
+## 返回值

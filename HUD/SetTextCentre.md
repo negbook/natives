@@ -9,6 +9,6 @@ void SET_TEXT_CENTRE(BOOL align);
 ```
 
 
-## Parameters
+## 參數
 * **align**: 
 

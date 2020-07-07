@@ -9,10 +9,10 @@ BOOL IS_ANY_VEHICLE_NEAR_POINT(float x, float y, float z, float radius);
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 * **radius**: 
 
-## Return value
+## 返回值

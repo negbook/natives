@@ -12,6 +12,6 @@ void DISABLE_ALL_CONTROL_ACTIONS(int inputGroup);
 inputGroup: 0 (PLAYER_CONTROL), 1 (unk) and 2 (unk) used in the scripts.
 ```
 
-## Parameters
+## 參數
 * **inputGroup**: 
 

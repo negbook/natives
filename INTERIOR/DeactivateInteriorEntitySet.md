@@ -10,7 +10,7 @@ void DEACTIVATE_INTERIOR_ENTITY_SET(int interior, char* entitySetName);
 ```
 
 
-## Parameters
+## 參數
 * **interior**: 
 * **entitySetName**: 
 

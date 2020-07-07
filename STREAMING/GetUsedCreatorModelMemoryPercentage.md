@@ -18,4 +18,4 @@ Maximum model memory (as defined in common\data\missioncreatordata.meta) is 100 
 GET_*
 ```
 
-## Return value
+## 返回值

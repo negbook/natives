@@ -19,7 +19,7 @@ In case 5 of a switch case, is the only time it shows Arg2 being PLAYER_PED_ID()
 NativeDB Parameter 1: BOOL toggle
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

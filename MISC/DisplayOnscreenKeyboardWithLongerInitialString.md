@@ -9,7 +9,7 @@ aliases: ["0xCA78CFA0366592FE","_DISPLAY_ONSCREEN_KEYBOARD_2"]
 void DISPLAY_ONSCREEN_KEYBOARD_WITH_LONGER_INITIAL_STRING(int p0, char* windowTitle, Any* p2, char* defaultText, char* defaultConcat1, char* defaultConcat2, char* defaultConcat3, char* defaultConcat4, char* defaultConcat5, char* defaultConcat6, char* defaultConcat7, int maxInputLength);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **windowTitle**: 
 * **p2**: 

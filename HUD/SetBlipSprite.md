@@ -16,7 +16,7 @@ Sets the displayed sprite for a specific blip.
 
 There's a [list of sprites](https://docs.fivem.net/game-references/blips/) on the FiveM documentation site.
 
-## Parameters
+## 參數
 * **blip**: The blip to change.
 * **spriteId**: The sprite ID to set.
 

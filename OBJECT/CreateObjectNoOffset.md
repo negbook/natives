@@ -16,7 +16,7 @@ maybe a quick view in disassembly will tell us what is actually does
 prop_tt_screenstatic (0xE2E039BC) is handled different. Not sure how yet but it I know it is.  
 ```
 
-## Parameters
+## 參數
 * **modelHash**: 
 * **x**: 
 * **y**: 
@@ -25,4 +25,4 @@ prop_tt_screenstatic (0xE2E039BC) is handled different. Not sure how yet but it 
 * **thisScriptCheck**: 
 * **dynamic**: 
 
-## Return value
+## 返回值

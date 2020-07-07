@@ -9,7 +9,7 @@ void SET_PED_VISUAL_FIELD_CENTER_ANGLE(Ped ped, float angle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **angle**: 
 

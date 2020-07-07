@@ -13,4 +13,4 @@ int NETWORK_GET_VC_BANK_BALANCE();
 From what I can see in ida, I believe it retrieves the players online bank balance.  
 ```
 
-## Return value
+## 返回值

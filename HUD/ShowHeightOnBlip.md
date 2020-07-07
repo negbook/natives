@@ -10,7 +10,7 @@ void SHOW_HEIGHT_ON_BLIP(Blip blip, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **blip**: 
 * **toggle**: 
 

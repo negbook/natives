@@ -14,7 +14,7 @@ AUDIO::PLAY_PED_RINGTONE("Remote_Ring", PLAYER::PLAYER_PED_ID(), 1);
 AUDIO::PLAY_PED_RINGTONE("Dial_and_Remote_Ring", PLAYER::PLAYER_PED_ID(), 1);  
 ```
 
-## Parameters
+## 參數
 * **ringtoneName**: 
 * **ped**: 
 * **p2**: 

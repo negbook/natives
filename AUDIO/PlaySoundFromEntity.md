@@ -14,7 +14,7 @@ No changes made in b678d.
 gtaforums.com/topic/795622-audio-for-mods  
 ```
 
-## Parameters
+## 參數
 * **soundId**: 
 * **audioName**: 
 * **entity**: 

@@ -9,6 +9,6 @@ void SET_CINEMATIC_CAM_SHAKE_AMPLITUDE(float p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

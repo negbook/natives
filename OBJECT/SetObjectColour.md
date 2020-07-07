@@ -21,7 +21,7 @@ NativeDB Removed Parameter 4: int G
 NativeDB Removed Parameter 5: int B
 ```
 
-## Parameters
+## 參數
 * **object**: 
 * **toggle**: 
 * **R**:

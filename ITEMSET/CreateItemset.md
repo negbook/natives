@@ -12,7 +12,7 @@ Vehicle CREATE_ITEMSET(Vehicle distri);
 NativeDB Parameter 0: BOOL distri
 ```
 
-## Parameters
+## 參數
 * **distri**: 
 
-## Return value
+## 返回值

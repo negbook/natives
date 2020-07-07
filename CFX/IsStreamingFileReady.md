@@ -12,8 +12,8 @@ BOOL IS_STREAMING_FILE_READY(char* registerAs);
 
 Returns whether an asynchronous streaming file registration completed.
 
-## Parameters
+## 參數
 * **registerAs**: The file name to check, for example `asset.ydr`.
 
-## Return value
+## 返回值
 Whether or not the streaming file has been registered.

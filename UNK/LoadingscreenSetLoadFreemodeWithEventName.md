@@ -13,6 +13,6 @@ void _LOADINGSCREEN_SET_LOAD_FREEMODE_WITH_EVENT_NAME(BOOL toggle);
 Only occurrence was false, in maintransition.  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

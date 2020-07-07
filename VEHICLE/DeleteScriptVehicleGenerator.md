@@ -9,6 +9,6 @@ void DELETE_SCRIPT_VEHICLE_GENERATOR(int vehicleGenerator);
 ```
 
 
-## Parameters
+## 參數
 * **vehicleGenerator**: 
 

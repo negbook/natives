@@ -20,7 +20,7 @@ paintType:
 color: number of the color  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **paintType**: 
 * **color**: 

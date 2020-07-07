@@ -9,6 +9,6 @@ void SET_WIDESCREEN_FORMAT(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

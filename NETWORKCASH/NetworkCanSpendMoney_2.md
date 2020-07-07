@@ -17,7 +17,7 @@ NETWORK_CAN_R??? or NETWORK_CAN_S???
 NativeDB Added Parameter 7: Any p6
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
@@ -25,4 +25,4 @@ NativeDB Added Parameter 7: Any p6
 * **p4**: 
 * **p5**: 
 
-## Return value
+## 返回值

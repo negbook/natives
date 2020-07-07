@@ -9,7 +9,7 @@ void TASK_PLANE_CHASE(Ped pilot, Entity entityToFollow, float x, float y, float 
 ```
 
 
-## Parameters
+## 參數
 * **pilot**: 
 * **entityToFollow**: 
 * **x**: 

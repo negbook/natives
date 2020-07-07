@@ -12,7 +12,7 @@ void SET_SCENARIO_GROUP_ENABLED(char* scenarioGroup, BOOL p1);
 Occurrences in the b617d scripts: pastebin.com/Tvg2PRHU  
 ```
 
-## Parameters
+## 參數
 * **scenarioGroup**: 
 * **p1**: 
 

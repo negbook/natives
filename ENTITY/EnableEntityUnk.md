@@ -13,6 +13,6 @@ void _ENABLE_ENTITY_UNK(Entity entity);
 ENABLE_*
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 

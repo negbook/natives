@@ -12,7 +12,7 @@ Entity _GET_ENTITY_INSIDE_EXPLOSION_SPHERE(int explosionType, float x, float y, 
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **explosionType**:
 * **x**:
 * **y**:

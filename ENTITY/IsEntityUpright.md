@@ -25,8 +25,8 @@ bool isEntityUpright(Entity e, float angle) {
 }  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **angle**: 
 
-## Return value
+## 返回值

@@ -10,7 +10,7 @@ void GET_CAM_MATRIX(Cam camera, Vector3* rightVector, Vector3* forwardVector, Ve
 
 Returns the world matrix of the specified camera. To turn this into a view matrix, calculate the inverse.
 
-## Parameters
+## 參數
 * **camera**: 
 * **rightVector**: 
 * **forwardVector**: 

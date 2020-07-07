@@ -13,7 +13,7 @@ This modifies the damage value of your weapon. Whether it is a multiplier or bas
 Based on tests, it is unlikely to be a multiplier.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **modifier**: 
 

@@ -9,8 +9,8 @@ int GET_PED_AMMO_BY_TYPE(Ped ped, Any ammoType);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **ammoType**: 
 
-## Return value
+## 返回值

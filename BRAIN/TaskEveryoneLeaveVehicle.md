@@ -9,6 +9,6 @@ void TASK_EVERYONE_LEAVE_VEHICLE(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 

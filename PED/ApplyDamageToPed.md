@@ -19,7 +19,7 @@ setting damageAmount to a negative amount will cause the player or the armor (de
 NativeDB Added Parameter 4: Any p3
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **damageAmount**: 
 * **armorFirst**: 

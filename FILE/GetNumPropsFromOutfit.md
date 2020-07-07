@@ -17,7 +17,7 @@ p3 appears to be a boolean flag; unknown function.
 p4 is usually -1; unknown function.  
 ```
 
-## Parameters
+## 參數
 * **character**: 
 * **p1**: 
 * **p2**: 
@@ -25,4 +25,4 @@ p4 is usually -1; unknown function.
 * **p4**: 
 * **componentId**: 
 
-## Return value
+## 返回值

@@ -12,7 +12,7 @@ void _NETWORK_SPENT_NIGHTCLUB_ENTRY_FEE(Player player, int amount, Any p1, BOOL 
 NativeDB Introduced: v1493
 ```
 
-## Parameters
+## 參數
 * **player**:
 * **amount**:
 * **p1**:

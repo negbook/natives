@@ -14,7 +14,7 @@ Call SET_PLAYER_WANTED_LEVEL with the desired wanted level, followed by SET_PLAY
 Second parameter is unknown (always false).  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **p1**: 
 

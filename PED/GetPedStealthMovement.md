@@ -12,7 +12,7 @@ BOOL GET_PED_STEALTH_MOVEMENT(Ped ped);
 Returns whether the entity is in stealth mode  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

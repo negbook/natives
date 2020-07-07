@@ -10,8 +10,8 @@ float GET_VEHICLE_WHEEL_X_OFFSET(Vehicle vehicle, int wheelIndex);
 
 Returns the offset of the specified wheel relative to the wheel's axle center.
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **wheelIndex**: 
 
-## Return value
+## 返回值

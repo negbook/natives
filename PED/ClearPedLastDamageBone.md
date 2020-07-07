@@ -9,6 +9,6 @@ void CLEAR_PED_LAST_DAMAGE_BONE(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 

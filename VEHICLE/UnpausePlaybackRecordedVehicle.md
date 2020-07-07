@@ -9,6 +9,6 @@ void UNPAUSE_PLAYBACK_RECORDED_VEHICLE(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 

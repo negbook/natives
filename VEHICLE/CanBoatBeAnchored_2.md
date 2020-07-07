@@ -14,5 +14,5 @@ Differs from 0x26C10ECBDA5D043B in that 0x140EFCC10 (1604 retail) is called with
 NativeDB Introduced: v678
 ```
 
-## Parameters
+## 參數
 * **vehicle**:

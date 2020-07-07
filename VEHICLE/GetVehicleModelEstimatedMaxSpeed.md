@@ -13,7 +13,7 @@ float GET_VEHICLE_MODEL_ESTIMATED_MAX_SPEED(Hash modelHash);
 Returns max speed (without mods) of the specified vehicle model in m/s.
 ```
 
-## Parameters
+## 參數
 * **modelHash**: 
 
-## Return value
+## 返回值

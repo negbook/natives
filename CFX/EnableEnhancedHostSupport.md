@@ -9,6 +9,6 @@ void ENABLE_ENHANCED_HOST_SUPPORT(BOOL enabled);
 ```
 
 
-## Parameters
+## 參數
 * **enabled**: 
 

@@ -9,7 +9,7 @@ char* GET_VEHICLE_NUMBER_PLATE_TEXT(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

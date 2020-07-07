@@ -13,7 +13,7 @@ BOOL UGC_UPDATE_CONTENT(char* contentId, Any* data, BOOL dataCount, char* conten
 NativeDB Parameter 2: int dataCount
 ```
 
-## Parameters
+## 參數
 * **contentId**: 
 * **data**: 
 * **dataCount**: 
@@ -22,4 +22,4 @@ NativeDB Parameter 2: int dataCount
 * **tagsCsv**: 
 * **contentTypeName**: 
 
-## Return value
+## 返回值

@@ -9,8 +9,8 @@ BOOL IS_VEHICLE_BUMPER_BROKEN_OFF(Vehicle vehicle, BOOL front);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **front**: 
 
-## Return value
+## 返回值

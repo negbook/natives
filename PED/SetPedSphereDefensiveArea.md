@@ -9,7 +9,7 @@ void SET_PED_SPHERE_DEFENSIVE_AREA(Ped ped, float x, float y, float z, float rad
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **x**: 
 * **y**: 

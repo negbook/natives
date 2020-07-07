@@ -10,4 +10,4 @@ BOOL NETWORK_IS_TRANSITION_OPEN_TO_MATCHMAKING();
 ```
 
 
-## Return value
+## 返回值

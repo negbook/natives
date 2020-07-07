@@ -16,8 +16,8 @@ Forces a rope to a certain length.
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **ropeId**: 
 * **length**: 
 
-## Return value
+## 返回值

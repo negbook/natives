@@ -13,7 +13,7 @@ void SHOW_HEADING_INDICATOR_ON_BLIP(Blip blip, BOOL toggle);
 Adds the GTA: Online player heading indicator to a blip.  
 ```
 
-## Parameters
+## 參數
 * **blip**: 
 * **toggle**: 
 

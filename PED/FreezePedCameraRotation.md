@@ -10,6 +10,6 @@ void _FREEZE_PED_CAMERA_ROTATION(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 

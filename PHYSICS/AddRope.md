@@ -30,7 +30,7 @@ Rope does NOT interact with anything you attach it to, in some cases it make int
 Rope will sometimes contract and fall to the ground like you'd expect it to, but since it doesn't interact with the world the effect is just jaring.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -49,4 +49,4 @@ Rope will sometimes contract and fall to the ground like you'd expect it to, but
 * **breakWhenShot**: 
 * **unkPtr**: 
 
-## Return value
+## 返回值

@@ -10,4 +10,4 @@ BOOL IS_MINIMAP_RENDERING();
 ```
 
 
-## Return value
+## 返回值

@@ -12,9 +12,9 @@ float VMAG(float x, float y, float z);
 Calculates the magnitude of a vector.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 
-## Return value
+## 返回值

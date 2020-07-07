@@ -9,6 +9,6 @@ void SET_INITIAL_PLAYER_STATION(char* radioStation);
 ```
 
 
-## Parameters
+## 參數
 * **radioStation**: 
 

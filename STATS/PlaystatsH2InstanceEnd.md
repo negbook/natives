@@ -12,7 +12,7 @@ void _PLAYSTATS_H2_INSTANCE_END(Any* data, Any p1, Any p2, Any p3);
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **data**:
 * **p1**:
 * **p2**:

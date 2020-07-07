@@ -14,7 +14,7 @@ It's called after 0xD3A10FC7FD8D98CD and 0xF1CEA8A4198D8E9A
 p0 was always "CELEBRATION_WINNER"  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **ped**: 
 * **p2**: 
@@ -22,4 +22,4 @@ p0 was always "CELEBRATION_WINNER"
 * **posY**: 
 * **posZ**: 
 
-## Return value
+## 返回值

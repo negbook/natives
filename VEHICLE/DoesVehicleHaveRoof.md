@@ -9,7 +9,7 @@ BOOL DOES_VEHICLE_HAVE_ROOF(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

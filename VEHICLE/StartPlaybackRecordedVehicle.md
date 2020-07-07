@@ -9,7 +9,7 @@ void START_PLAYBACK_RECORDED_VEHICLE(Vehicle vehicle, int p1, char* playback, BO
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 * **playback**: 

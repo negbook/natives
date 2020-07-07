@@ -9,7 +9,7 @@ BOOL NETWORK_CLAN_PLAYER_IS_ACTIVE(int* networkHandle);
 ```
 
 
-## Parameters
+## 參數
 * **networkHandle**: 
 
-## Return value
+## 返回值

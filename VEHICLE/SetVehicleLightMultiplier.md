@@ -15,7 +15,7 @@ multiplier = 0.0 no lights
 multiplier = 1.0 default game value  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **multiplier**: 
 

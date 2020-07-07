@@ -12,7 +12,7 @@ float VDIST(float x1, float y1, float z1, float x2, float y2, float z2);
 Calculates distance between vectors.  
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 
@@ -20,4 +20,4 @@ Calculates distance between vectors.
 * **y2**: 
 * **z2**: 
 
-## Return value
+## 返回值

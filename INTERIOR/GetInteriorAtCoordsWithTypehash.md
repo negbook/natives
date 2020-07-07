@@ -17,10 +17,10 @@ Returns the interior ID at the given coords, but only if the unknown variable is
 NativeDB Parameter 3: Hash typeHash
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 * **typeHash**: 
 
-## Return value
+## 返回值

@@ -15,7 +15,7 @@ CUTSCENE::_0xC23DE0E91C30B58C("JOSH_1_INT_CONCAT", 13, 8);
 Cutscene list: pastebin.com/Bbj7ANpQ  
 ```
 
-## Parameters
+## 參數
 * **cutsceneName**: 
 * **playbackFlags**: 
 * **flags**: 

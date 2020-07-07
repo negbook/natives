@@ -14,4 +14,4 @@ mov al, cs:g_bIsRecordingGameplay // byte_141DD0CD0 in b944
 retn  
 ```
 
-## Return value
+## 返回值

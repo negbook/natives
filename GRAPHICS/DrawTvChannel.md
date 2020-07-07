@@ -38,7 +38,7 @@ if (ENTITY::DOES_ENTITY_EXIST(a_2._f3)) {
 }  
 ```
 
-## Parameters
+## 參數
 * **xPos**: 
 * **yPos**: 
 * **xScale**: 

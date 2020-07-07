@@ -13,6 +13,6 @@ void HUD_FORCE_WEAPON_WHEEL(BOOL show);
 Forces the weapon wheel to appear on screen.  
 ```
 
-## Parameters
+## 參數
 * **show**: 
 

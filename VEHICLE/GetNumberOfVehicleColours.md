@@ -12,7 +12,7 @@ int GET_NUMBER_OF_VEHICLE_COLOURS(Vehicle vehicle);
 Actually number of color combinations  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

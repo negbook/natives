@@ -10,7 +10,7 @@ float _ANIMPOSTFX_GET_UNK(char* effectName);
 ```
 
 
-## Parameters
+## 參數
 * **effectName**: 
 
-## Return value
+## 返回值

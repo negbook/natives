@@ -9,4 +9,4 @@ aliases: ["0xA72835064DD63E4C"]
 Any GET_MAX_NUM_NETWORK_PICKUPS();
 ```
 
-## Return value
+## 返回值

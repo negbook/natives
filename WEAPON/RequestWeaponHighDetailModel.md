@@ -9,6 +9,6 @@ void REQUEST_WEAPON_HIGH_DETAIL_MODEL(Entity weaponObject);
 ```
 
 
-## Parameters
+## 參數
 * **weaponObject**: 
 

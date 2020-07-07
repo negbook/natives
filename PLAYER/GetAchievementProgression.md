@@ -15,7 +15,7 @@ Dr. Underscore (1/6/18):
 This gets the progression of an achievement. Returns 0 if the achievement cannot be progressed.  
 ```
 
-## Parameters
+## 參數
 * **achievement**: 
 
-## Return value
+## 返回值

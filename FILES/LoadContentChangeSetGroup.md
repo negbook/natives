@@ -17,5 +17,5 @@ FILES::_LOAD_CONTENT_CHANGE_SET_GROUP(joaat("GROUP_MAP"));
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **hash**:

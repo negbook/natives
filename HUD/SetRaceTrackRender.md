@@ -10,6 +10,6 @@ void SET_RACE_TRACK_RENDER(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

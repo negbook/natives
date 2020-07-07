@@ -10,4 +10,4 @@ BOOL GET_NO_LOADING_SCREEN();
 ```
 
 
-## Return value
+## 返回值

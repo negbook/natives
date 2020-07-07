@@ -9,7 +9,7 @@ FireId START_ENTITY_FIRE(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

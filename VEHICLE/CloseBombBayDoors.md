@@ -10,6 +10,6 @@ void CLOSE_BOMB_BAY_DOORS(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 

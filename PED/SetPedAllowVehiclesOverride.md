@@ -9,7 +9,7 @@ void SET_PED_ALLOW_VEHICLES_OVERRIDE(Ped ped, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

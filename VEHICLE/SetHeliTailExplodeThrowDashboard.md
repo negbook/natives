@@ -18,8 +18,8 @@ NativeDB Parameter 1: BOOL p1
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 
-## Return value
+## 返回值

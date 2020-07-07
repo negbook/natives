@@ -9,6 +9,6 @@ void RESET_PED_RAGDOLL_TIMER(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 

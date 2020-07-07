@@ -10,7 +10,7 @@ void ADD_PED_DECORATION_FROM_HASHES_IN_CORONA(Ped ped, Hash collection, Hash ove
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **collection**: 
 * **overlay**: 

@@ -15,7 +15,7 @@ god I hate taco vans
 Confirmed to work? Needs to be looped? Can not get it to work.  
 ```
 
-## Parameters
+## 參數
 * **model**: 
 * **suppressed**: 
 

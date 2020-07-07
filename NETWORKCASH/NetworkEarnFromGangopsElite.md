@@ -12,7 +12,7 @@ void _NETWORK_EARN_FROM_GANGOPS_ELITE(int amount, char* unk, int actIndex);
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **amount**:
 * **unk**:
 * **actIndex**:

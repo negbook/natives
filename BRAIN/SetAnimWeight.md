@@ -9,7 +9,7 @@ void SET_ANIM_WEIGHT(Any p0, float p1, Any p2, Any p3, BOOL p4);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

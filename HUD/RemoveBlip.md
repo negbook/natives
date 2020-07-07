@@ -30,6 +30,6 @@ Remove blip will currently crash your game, just artificially remove the blip by
 It crashes my game.  
 ```
 
-## Parameters
+## 參數
 * **blip**: 
 

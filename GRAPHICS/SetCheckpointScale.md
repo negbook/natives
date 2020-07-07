@@ -19,7 +19,7 @@ GRAPHICS::_4B5B4DA5D79F1943(a_3._f7, 0.95);
 GRAPHICS::SET_CHECKPOINT_CYLINDER_HEIGHT(a_3._f7, 4.0, 4.0, 100.0);  
 ```
 
-## Parameters
+## 參數
 * **checkpoint**: 
 * **p0**: 
 

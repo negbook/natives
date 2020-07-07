@@ -12,6 +12,6 @@ void _0x9849DE24FCF23CCC(Any p0, Any p1);
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **p0**:
 * **p1**:

@@ -13,7 +13,7 @@ p1 = 0 (always)
 p2 = 1 (always)  
 ```
 
-## Parameters
+## 參數
 * **cost**: 
 * **p1**: 
 * **p2**: 

@@ -9,7 +9,7 @@ void _SET_VEHICLE_ROCKET_BOOST_REFILL_TIME(Vehicle vehicle, float time);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **time**: 
 

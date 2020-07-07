@@ -9,7 +9,7 @@ void SET_PLAYER_INVISIBLE_LOCALLY(Player player, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 

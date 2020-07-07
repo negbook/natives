@@ -21,11 +21,11 @@ unk: Nearly always 0, very rarely 1 in the scripts.
 NativeDB Added Parameter 6: BOOL p5
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 * **groundZ**: 
 * **unk**: 
 
-## Return value
+## 返回值

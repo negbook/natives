@@ -9,4 +9,4 @@ BOOL NETWORK_IS_ADDING_FRIEND();
 ```
 
 
-## Return value
+## 返回值

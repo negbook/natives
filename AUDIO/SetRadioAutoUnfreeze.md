@@ -9,6 +9,6 @@ void SET_RADIO_AUTO_UNFREEZE(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

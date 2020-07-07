@@ -9,7 +9,7 @@ void SET_VEHICLE_RADIO_LOUD(Vehicle vehicle, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

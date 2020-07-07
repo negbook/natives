@@ -9,4 +9,4 @@ int NETWORK_GET_SCRIPT_STATUS();
 ```
 
 
-## Return value
+## 返回值

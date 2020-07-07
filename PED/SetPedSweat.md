@@ -12,7 +12,7 @@ void SET_PED_SWEAT(Ped ped, float sweat);
 Sweat is set to 100.0 or 0.0 in the decompiled scripts.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **sweat**: 
 

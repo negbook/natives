@@ -17,7 +17,7 @@ entity - entity to ignore
 NativeDB Added Parameter 15: Any p14
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 

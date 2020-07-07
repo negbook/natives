@@ -14,6 +14,6 @@ This requires these two natives to be called as well to configure the grid: [`0x
 
 
 
-## Parameters
+## 參數
 * **toggle**: Enables or disables the golf putting grid display.
 

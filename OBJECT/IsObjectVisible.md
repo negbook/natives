@@ -9,7 +9,7 @@ BOOL IS_OBJECT_VISIBLE(Object object);
 ```
 
 
-## Parameters
+## 參數
 * **object**: 
 
-## Return value
+## 返回值

@@ -18,7 +18,7 @@ value - is between 0.2 and 1.8 in the decompiled scripts.
 This needs to be called every frame to take effect.
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **value**: 
 

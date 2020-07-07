@@ -9,6 +9,6 @@ void INIT_SHOP_PED_PROP(int* outProp);
 ```
 
 
-## Parameters
+## 參數
 * **outProp**: 
 

@@ -13,4 +13,4 @@ BOOL _IS_COMMAND_LINE_BENCHMARK_VALUE_SET();
 Returns true if command line option '-benchmark' is set.
 ```
 
-## Return value
+## 返回值

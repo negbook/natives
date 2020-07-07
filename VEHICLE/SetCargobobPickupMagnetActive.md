@@ -13,7 +13,7 @@ void SET_CARGOBOB_PICKUP_MAGNET_ACTIVE(Vehicle cargobob, BOOL isActive);
 Won't attract or magnetize to any helicopters or planes of course, but that's common sense.  
 ```
 
-## Parameters
+## 參數
 * **cargobob**: 
 * **isActive**: 
 

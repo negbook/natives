@@ -9,7 +9,7 @@ void APP_SET_STRING(char* property, char* value);
 ```
 
 
-## Parameters
+## 參數
 * **property**: 
 * **value**: 
 

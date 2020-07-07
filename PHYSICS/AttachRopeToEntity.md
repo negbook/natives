@@ -12,7 +12,7 @@ void ATTACH_ROPE_TO_ENTITY(int ropeId, Entity entity, float x, float y, float z,
 The position supplied can be anywhere, and the entity should anchor relative to that point from it's origin.  
 ```
 
-## Parameters
+## 參數
 * **ropeId**: 
 * **entity**: 
 * **x**: 

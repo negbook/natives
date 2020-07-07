@@ -17,7 +17,7 @@ NativeDB Parameter 4: float y2
 NativeDB Parameter 5: float z3
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 

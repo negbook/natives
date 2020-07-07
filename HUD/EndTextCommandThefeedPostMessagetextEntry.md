@@ -22,7 +22,7 @@ Example result:
 ![](https://i.imgur.com/UglK7Gq.png)
 
 
-## Parameters
+## 參數
 * **picTxd**: 
 * **picTxn**: 
 * **flash**: 
@@ -30,4 +30,4 @@ Example result:
 * **entryText**: 
 * **text**: 
 
-## Return value
+## 返回值

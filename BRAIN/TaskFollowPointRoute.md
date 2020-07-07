@@ -21,7 +21,7 @@ TASK_EXTEND_ROUTE(10f, 10f, 70f);
 TASK_FOLLOW_POINT_ROUTE(GET_PLAYER_PED(), 1f, 0);  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **speed**: 
 * **unknown**: 

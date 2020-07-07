@@ -9,7 +9,7 @@ void SET_PARTICLE_FX_LOOPED_OFFSETS(int ptfxHandle, float x, float y, float z, f
 ```
 
 
-## Parameters
+## 參數
 * **ptfxHandle**: 
 * **x**: 
 * **y**: 

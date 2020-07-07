@@ -9,6 +9,6 @@ aliases: ["0xD1F8363DFAD03848"]
 void _SET_GAMEPLAY_HINT_ANGLE(float roll);
 ```
 
-## Parameters
+## 參數
 * **roll**: 
 

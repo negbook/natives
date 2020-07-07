@@ -117,7 +117,7 @@ ID: 62 | Hash: 0xE24C3AA6
 ID: 63 | Hash: 0xBFFDD2B7  
 ```
 
-## Parameters
+## 參數
 * **flagName**: 
 * **toggle**: 
 

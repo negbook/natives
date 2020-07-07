@@ -12,7 +12,7 @@ void NETWORK_RESURRECT_LOCAL_PLAYER(float x, float y, float z, float heading, BO
 NativeDB Added Parameter 7: Any p6
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

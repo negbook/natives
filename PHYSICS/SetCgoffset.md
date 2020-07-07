@@ -9,7 +9,7 @@ void SET_CGOFFSET(Entity entity, float x, float y, float z);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **x**: 
 * **y**: 

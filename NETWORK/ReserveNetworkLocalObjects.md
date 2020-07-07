@@ -17,5 +17,5 @@ Internal logging string: SCRIPT_RESERVING_LOCAL_OBJECTS
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **amount**:

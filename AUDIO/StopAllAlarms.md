@@ -9,6 +9,6 @@ void STOP_ALL_ALARMS(BOOL stop);
 ```
 
 
-## Parameters
+## 參數
 * **stop**: 
 

@@ -9,4 +9,4 @@ int NETWORK_GET_NUM_FOUND_GAMERS();
 ```
 
 
-## Return value
+## 返回值

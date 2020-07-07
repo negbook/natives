@@ -27,6 +27,6 @@ looks like it passes a player in the paramater
 Contains string "NETWORK_VOICE_CONNECT_TO_PLAYER" in ida  
 ```
 
-## Parameters
+## 參數
 * **globalPtr**: 
 

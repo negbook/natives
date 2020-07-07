@@ -13,7 +13,7 @@ void _SET_VEHICLE_CAN_BE_LOCKED_ON(Vehicle vehicle, BOOL canBeLockedOn, BOOL unk
 SET_VEHICLE_AL*
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **canBeLockedOn**: 
 * **unk**: 

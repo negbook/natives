@@ -9,7 +9,7 @@ aliases: ["0xA1607996431332DF","_NETWORK_CAN_NETWORK_ID_BE_SEEN"]
 BOOL IS_NETWORK_ID_OWNED_BY_PARTICIPANT(int netId);
 ```
 
-## Parameters
+## 參數
 * **netId**: 
 
-## Return value
+## 返回值

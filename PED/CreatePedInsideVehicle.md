@@ -35,7 +35,7 @@ enum ePedType
 };  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **pedType**: 
 * **modelHash**: 
@@ -43,4 +43,4 @@ enum ePedType
 * **isNetwork**: 
 * **thisScriptCheck**: 
 
-## Return value
+## 返回值

@@ -13,7 +13,7 @@ BOOL GET_IS_VEHICLE_ENGINE_RUNNING(Vehicle vehicle);
 Returns true when in a vehicle, false whilst entering/exiting.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

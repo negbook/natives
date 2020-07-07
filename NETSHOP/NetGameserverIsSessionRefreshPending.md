@@ -10,4 +10,4 @@ BOOL _NET_GAMESERVER_IS_SESSION_REFRESH_PENDING();
 ```
 
 
-## Return value
+## 返回值

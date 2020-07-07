@@ -12,7 +12,7 @@ BOOL IS_PED_WEARING_HELMET(Ped ped);
 Returns true if the ped passed through the parenthesis is wearing a helmet.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

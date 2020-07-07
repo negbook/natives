@@ -12,7 +12,7 @@ void SPECIAL_ABILITY_DEPLETE_METER(Player player, BOOL p1);
 p1 was always true.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **p1**: 
 

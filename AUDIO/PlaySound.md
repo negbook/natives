@@ -12,7 +12,7 @@ void PLAY_SOUND(int soundId, char* audioName, char* audioRef, BOOL p3, Any p4, B
 All found occurrences in b617d, sorted alphabetically and identical lines removed: pastebin.com/A8Ny8AHZ  
 ```
 
-## Parameters
+## 參數
 * **soundId**: 
 * **audioName**: 
 * **audioRef**: 

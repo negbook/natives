@@ -14,10 +14,10 @@ if (CAN_REGISTER_MISSION_ENTITIES(20, 20, 20, 10))
 }  
 ```
 
-## Parameters
+## 參數
 * **ped_amt**: 
 * **vehicle_amt**: 
 * **object_amt**: 
 * **pickup_amt**: 
 
-## Return value
+## 返回值

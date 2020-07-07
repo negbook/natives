@@ -17,7 +17,7 @@ The GPS custom route works like the GPS multi route, except it does not follow r
 
 ![](https://i.imgur.com/BDm5pzt.png)
 
-## Parameters
+## 參數
 * **hudColor**: The HUD color of the GPS path.
 * **displayOnFoot**: Draws the path regardless if the player is in a vehicle or not.
 * **followPlayer**: Draw the path partially between the previous and next point based on the players position between them. When false, the GPS appears to not disappear after the last leg is completed.

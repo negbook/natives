@@ -12,7 +12,7 @@ void SET_PED_SHOOT_RATE(Ped ped, int shootRate);
 shootRate 0-1000  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **shootRate**: 
 

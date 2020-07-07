@@ -19,6 +19,6 @@ void ShowSubtitle(char *text)
 }  
 ```
 
-## Parameters
+## 參數
 * **GxtEntry**: 
 

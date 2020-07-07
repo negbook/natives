@@ -9,6 +9,6 @@ void SET_CREATE_RANDOM_COPS(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

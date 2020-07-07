@@ -12,7 +12,7 @@ void REMOVE_ALL_PROJECTILES_OF_TYPE(Hash weaponHash, BOOL p1);
 p1 seems always to be 0  
 ```
 
-## Parameters
+## 參數
 * **weaponHash**: 
 * **p1**: 
 

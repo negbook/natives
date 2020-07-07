@@ -12,4 +12,4 @@ Vehicle GET_PLAYERS_LAST_VEHICLE();
 Alternative: GET_VEHICLE_PED_IS_IN(PLAYER_PED_ID(), 1);  
 ```
 
-## Return value
+## 返回值

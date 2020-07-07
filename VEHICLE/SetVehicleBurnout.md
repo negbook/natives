@@ -12,7 +12,7 @@ void SET_VEHICLE_BURNOUT(Vehicle vehicle, BOOL toggle);
 On accelerating, spins the driven wheels with the others braked, so you don't go anywhere.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

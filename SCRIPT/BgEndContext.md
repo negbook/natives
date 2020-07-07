@@ -14,5 +14,5 @@ Deletes the given context from the background scripts context map.
 NativeDB Introduced: v323
 ```
 
-## Parameters
+## 參數
 * **contextName**:

@@ -9,9 +9,9 @@ BOOL STAT_SET_STRING(Hash statName, char* value, BOOL save);
 ```
 
 
-## Parameters
+## 參數
 * **statName**: 
 * **value**: 
 * **save**: 
 
-## Return value
+## 返回值

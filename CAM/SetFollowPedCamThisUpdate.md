@@ -19,8 +19,8 @@ CAM::SET_FOLLOW_PED_CAM_CUTSCENE_CHAT("FOLLOW_PED_ATTACHED_TO_ROPE_CAMERA", 0);
 CAM::SET_FOLLOW_PED_CAM_CUTSCENE_CHAT("FOLLOW_PED_SKY_DIVING_CAMERA", 0);  
 ```
 
-## Parameters
+## 參數
 * **camName**: 
 * **p1**: 
 
-## Return value
+## 返回值

@@ -9,6 +9,6 @@ aliases: ["0xEFD97FF47B745B8D"]
 void _DISABLE_SCRIPT_AMBIENT_EFFECTS(Any p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

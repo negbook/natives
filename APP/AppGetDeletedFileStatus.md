@@ -9,4 +9,4 @@ int APP_GET_DELETED_FILE_STATUS();
 ```
 
 
-## Return value
+## 返回值

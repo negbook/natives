@@ -10,6 +10,6 @@ void _LOADINGSCREEN_SET_IS_LOADING_FREEMODE(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

@@ -22,7 +22,7 @@ Wheel Types:
 Tested in Los Santos Customs  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

@@ -12,5 +12,5 @@ void _NETWORK_EARN_FROM_CASHING_OUT(int amount);
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **amount**:

@@ -15,7 +15,7 @@ Here are the names I've found: pastebin.com/AfA0Qjyv
 New Ambient Zone List (Combind with old): pastebin.com/h8BsKgUD -DasChaos  
 ```
 
-## Parameters
+## 參數
 * **zoneName**: 
 * **p1**: 
 

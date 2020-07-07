@@ -10,7 +10,7 @@ void _NETWORK_SPENT_PAY_GOON(int p0, int p1, int amount);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **amount**: 

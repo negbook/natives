@@ -9,7 +9,7 @@ BOOL IS_ENTITY_ATTACHED_TO_ANY_OBJECT(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

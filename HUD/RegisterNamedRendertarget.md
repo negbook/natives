@@ -9,8 +9,8 @@ BOOL REGISTER_NAMED_RENDERTARGET(char* name, BOOL p1);
 ```
 
 
-## Parameters
+## 參數
 * **name**: 
 * **p1**: 
 
-## Return value
+## 返回值

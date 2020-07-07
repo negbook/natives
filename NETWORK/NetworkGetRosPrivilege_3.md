@@ -13,4 +13,4 @@ BOOL _NETWORK_GET_ROS_PRIVILEGE_3();
 if(_CAN_PLAY_ONLINE() == 0) means the player is banned(Social Club or Rockstar)  
 ```
 
-## Return value
+## 返回值

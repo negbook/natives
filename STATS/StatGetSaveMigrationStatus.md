@@ -10,7 +10,7 @@ int STAT_GET_SAVE_MIGRATION_STATUS(Any* data);
 ```
 
 
-## Parameters
+## 參數
 * **data**: 
 
-## Return value
+## 返回值

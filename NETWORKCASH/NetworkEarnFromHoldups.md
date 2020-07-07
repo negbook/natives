@@ -9,6 +9,6 @@ void NETWORK_EARN_FROM_HOLDUPS(int amount);
 ```
 
 
-## Parameters
+## 參數
 * **amount**: 
 

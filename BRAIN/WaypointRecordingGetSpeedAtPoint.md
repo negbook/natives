@@ -9,8 +9,8 @@ float WAYPOINT_RECORDING_GET_SPEED_AT_POINT(char* name, int point);
 ```
 
 
-## Parameters
+## 參數
 * **name**: 
 * **point**: 
 
-## Return value
+## 返回值

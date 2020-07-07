@@ -13,7 +13,7 @@ void SET_TRAIN_TRACK_SPAWN_FREQUENCY(int trackIndex, int frequency);
 Only called once inside main_persitant with the parameters, 0  
 ```
 
-## Parameters
+## 參數
 * **trackIndex**: 
 * **frequency**: 
 

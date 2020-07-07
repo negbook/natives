@@ -16,7 +16,7 @@ Example: 		CLEAR_AREA_OF_VEHICLES(0, 0, 0, 10000, false, false, false, false, fa
 NativeDB Added Parameter 10: BOOL p9
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

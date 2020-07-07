@@ -20,7 +20,7 @@ Setting ease to 1 will smooth the transition.
 NativeDB Added Parameter 6: Any p5
 ```
 
-## Parameters
+## 參數
 * **render**: 
 * **ease**: 
 * **easeTime**: 

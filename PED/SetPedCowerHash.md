@@ -12,7 +12,7 @@ void SET_PED_COWER_HASH(Ped ped, char* p1);
 p1: Only "CODE_HUMAN_STAND_COWER" found in the b617d scripts.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 

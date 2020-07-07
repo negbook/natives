@@ -13,4 +13,4 @@ ScrHandle NETWORK_IS_MULTIPLAYER_DISABLED();
 NativeDB Return Type: BOOL
 ```
 
-## Return value
+## 返回值

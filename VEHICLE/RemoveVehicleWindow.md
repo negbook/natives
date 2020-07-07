@@ -16,7 +16,7 @@ windowIndex:
 3 = Back Left Window  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **windowIndex**: 
 

@@ -12,5 +12,5 @@ void _0x425A920FDB9A0DDA(char* camName);
 NativeDB Introduced: v1180
 ```
 
-## Parameters
+## 參數
 * **camName**:

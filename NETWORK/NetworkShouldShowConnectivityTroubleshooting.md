@@ -13,4 +13,4 @@ BOOL _NETWORK_SHOULD_SHOW_CONNECTIVITY_TROUBLESHOOTING();
 Returns true if the NAT type is Strict (3) and a certain number of connections have failed.
 ```
 
-## Return value
+## 返回值

@@ -24,7 +24,7 @@ Example result:
 ![](https://i.imgur.com/YrN4Bcm.png)
 
 
-## Parameters
+## 參數
 * **picTxd**: 
 * **picTxn**: 
 * **flash**: 
@@ -33,4 +33,4 @@ Example result:
 * **subtitleStr**: 
 * **duration**: 
 
-## Return value
+## 返回值

@@ -16,7 +16,7 @@ Parameters:
 * radius - The radius of the checkpoint.  
 ```
 
-## Parameters
+## 參數
 * **checkpoint**: 
 * **nearHeight**: 
 * **farHeight**: 

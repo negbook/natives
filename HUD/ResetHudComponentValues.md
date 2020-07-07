@@ -9,6 +9,6 @@ void RESET_HUD_COMPONENT_VALUES(int id);
 ```
 
 
-## Parameters
+## 參數
 * **id**: 
 

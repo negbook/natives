@@ -12,7 +12,7 @@ BOOL IS_PED_STRAFING(Ped ped);
 What's strafing?  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

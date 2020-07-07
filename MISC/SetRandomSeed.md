@@ -9,6 +9,6 @@ void SET_RANDOM_SEED(int seed);
 ```
 
 
-## Parameters
+## 參數
 * **seed**: 
 

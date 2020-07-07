@@ -9,7 +9,7 @@ void SET_PED_CAN_PLAY_GESTURE_ANIMS(Ped ped, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

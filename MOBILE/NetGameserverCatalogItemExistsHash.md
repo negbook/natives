@@ -18,7 +18,7 @@ if (!MOBILE::_247F0F73A182EA0B(v_15)) {
 Belongs in UNK3, hashed version of 0xBD4D7EAF8A30F637  
 ```
 
-## Parameters
+## 參數
 * **hash**: 
 
-## Return value
+## 返回值

@@ -20,7 +20,7 @@ Example usage:
 	TIME::GET_POSIX_TIME(&year, &month, &day, &hour, &minute, &second);  
 ```
 
-## Parameters
+## 參數
 * **year**: 
 * **month**: 
 * **day**: 

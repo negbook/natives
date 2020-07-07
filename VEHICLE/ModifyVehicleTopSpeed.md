@@ -21,7 +21,7 @@ VEHICLE::_SET_VEHICLE_ENGINE_POWER_MULTIPLIER(myVehicle, 30.0)
 will have this effect: DriveForce *= 1.3  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **value**: 
 

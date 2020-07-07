@@ -12,7 +12,7 @@ void START_CUTSCENE_AT_COORDS(float x, float y, float z, int flags);
 p3: some kind of flag. Usually 0.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

@@ -12,9 +12,9 @@ BOOL IS_PED_FACING_PED(Ped ped, Ped otherPed, float angle);
 angle is ped's view cone  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **otherPed**: 
 * **angle**: 
 
-## Return value
+## 返回值

@@ -12,9 +12,9 @@ int GET_MAX_AMMO_IN_CLIP(Ped ped, Hash weaponHash, BOOL p2);
 p2 is mostly 1 in the scripts.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 * **p2**: 
 
-## Return value
+## 返回值

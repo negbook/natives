@@ -12,5 +12,5 @@ void _0xCA4CEA6AE0000A7E(Any p0);
 NativeDB Introduced: v1180
 ```
 
-## Parameters
+## 參數
 * **p0**:

@@ -12,6 +12,6 @@ void SET_PLAYER_CLOTH_LOCK_COUNTER(int value);
 6 matches across 4 scripts. 5 occurrences were 240. The other was 255.  
 ```
 
-## Parameters
+## 參數
 * **value**: 
 

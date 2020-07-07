@@ -9,7 +9,7 @@ int FIND_FIRST_VEHICLE(Entity* outEntity);
 ```
 
 
-## Parameters
+## 參數
 * **outEntity**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ void SET_MOBILE_PHONE_POSITION(float posX, float posY, float posZ);
 ```
 
 
-## Parameters
+## 參數
 * **posX**: 
 * **posY**: 
 * **posZ**: 

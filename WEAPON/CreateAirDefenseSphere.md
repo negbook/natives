@@ -17,7 +17,7 @@ Native related to [_0xECDC202B25E5CF48](#_0xECDC202B25E5CF48) p1 value. The only
 NativeDB Parameter 3: float radius
 ```
 
-## Parameters
+## 參數
 * **p0**: X coordinate
 * **p1**: Y coordinate
 * **p2**: Z coordinate
@@ -27,5 +27,5 @@ NativeDB Parameter 3: float radius
 * **p6**: Z coordinate
 * **weaponHash**: weapon_air_defence_gun and 0 are used in the decompiled scripts.
 
-## Return value
+## 返回值
 Seems to be some sort of handle, result is += 1 any time this native is called.

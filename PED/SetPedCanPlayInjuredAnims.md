@@ -10,7 +10,7 @@ void _SET_PED_CAN_PLAY_INJURED_ANIMS(Ped ped, BOOL p1);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 

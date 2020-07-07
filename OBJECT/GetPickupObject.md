@@ -10,7 +10,7 @@ Object GET_PICKUP_OBJECT(Pickup pickup);
 ```
 
 
-## Parameters
+## 參數
 * **pickup**: 
 
-## Return value
+## 返回值

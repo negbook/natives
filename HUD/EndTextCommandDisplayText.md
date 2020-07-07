@@ -18,7 +18,7 @@ Used to be known as _DRAW_TEXT
 NativeDB Added Parameter 3: int p2
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 

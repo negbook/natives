@@ -15,9 +15,9 @@ This native does not return damages of weapons from the melee and explosive grou
 NativeDB Parameter 1: Hash componentHash
 ```
 
-## Parameters
+## 參數
 * **weaponHash**: 
 * **componentHash**: 0 in the decompiled scripts.
 
-## Return value
+## 返回值
 Damages of the weapon.

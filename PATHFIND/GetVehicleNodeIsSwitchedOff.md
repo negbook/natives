@@ -15,7 +15,7 @@ Returns true when the node is Offroad. Alleys, some dirt roads, and carparks ret
 Normal roads where plenty of Peds spawn will return false  
 ```
 
-## Parameters
+## 參數
 * **nodeID**: 
 
-## Return value
+## 返回值

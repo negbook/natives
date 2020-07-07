@@ -9,7 +9,7 @@ BOOL CAN_REGISTER_MISSION_OBJECTS(int amount);
 ```
 
 
-## Parameters
+## 參數
 * **amount**: 
 
-## Return value
+## 返回值

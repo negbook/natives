@@ -12,4 +12,4 @@ BOOL IS_HELP_MESSAGE_ON_SCREEN();
 Doesn't appear to work, use IS_HELP_MESSAGE_BEING_DISPLAYED instead  
 ```
 
-## Return value
+## 返回值

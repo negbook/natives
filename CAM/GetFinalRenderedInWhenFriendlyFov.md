@@ -9,7 +9,7 @@ aliases: ["0x5F35F6732C3FBBA0"]
 float GET_FINAL_RENDERED_IN_WHEN_FRIENDLY_FOV(Player player);
 ```
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

@@ -21,4 +21,4 @@ spanish = 10
 russian = 25  
 ```
 
-## Return value
+## 返回值

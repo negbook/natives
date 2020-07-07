@@ -9,8 +9,8 @@ Any* _ARRAY_VALUE_GET_OBJECT(Any* arrayData, int arrayIndex);
 ```
 
 
-## Parameters
+## 參數
 * **arrayData**: 
 * **arrayIndex**: 
 
-## Return value
+## 返回值

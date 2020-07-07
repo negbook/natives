@@ -12,9 +12,9 @@ char* REGISTER_RESOURCE_ASSET(char* resourceName, char* fileName);
 
 Registers a cached resource asset with the resource system, similar to the automatic scanning of the `stream/` folder.
 
-## Parameters
+## 參數
 * **resourceName**: The resource to add the asset to.
 * **fileName**: A file name in the resource.
 
-## Return value
+## 返回值
 A cache string to pass to `REGISTER_STREAMING_FILE_FROM_CACHE` on the client.

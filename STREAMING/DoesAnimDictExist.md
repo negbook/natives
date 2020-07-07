@@ -9,7 +9,7 @@ BOOL DOES_ANIM_DICT_EXIST(char* animDict);
 ```
 
 
-## Parameters
+## 參數
 * **animDict**: 
 
-## Return value
+## 返回值

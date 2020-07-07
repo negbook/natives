@@ -14,8 +14,8 @@ NativeDB Parameter 0: Hash componentHash
 NativeDB Return Type: Hash
 ```
 
-## Parameters
+## 參數
 * **componentHash**: 
 * **extraComponentIndex**: 
 
-## Return value
+## 返回值

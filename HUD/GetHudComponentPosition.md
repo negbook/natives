@@ -9,7 +9,7 @@ Vector3 GET_HUD_COMPONENT_POSITION(int id);
 ```
 
 
-## Parameters
+## 參數
 * **id**: 
 
-## Return value
+## 返回值

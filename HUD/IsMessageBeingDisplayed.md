@@ -9,4 +9,4 @@ BOOL IS_MESSAGE_BEING_DISPLAYED();
 ```
 
 
-## Return value
+## 返回值

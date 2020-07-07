@@ -9,8 +9,8 @@ int GET_PED_RAGDOLL_BONE_INDEX(Ped ped, int bone);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **bone**: 
 
-## Return value
+## 返回值

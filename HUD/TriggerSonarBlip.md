@@ -9,7 +9,7 @@ aliases: ["0x72DD432F3CDFC0EE"]
 void TRIGGER_SONAR_BLIP(float posX, float posY, float posZ, float radius, int p4);
 ```
 
-## Parameters
+## 參數
 * **posX**: 
 * **posY**: 
 * **posZ**: 

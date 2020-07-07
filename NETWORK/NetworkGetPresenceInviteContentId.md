@@ -9,7 +9,7 @@ aliases: ["0x24409FC4C55CB22D"]
 Any NETWORK_GET_PRESENCE_INVITE_CONTENT_ID(Any p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

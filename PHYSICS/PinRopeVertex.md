@@ -9,7 +9,7 @@ void PIN_ROPE_VERTEX(int ropeId, int vertex, float x, float y, float z);
 ```
 
 
-## Parameters
+## 參數
 * **ropeId**: 
 * **vertex**: 
 * **x**: 

@@ -12,7 +12,7 @@ void _TASK_HELI_ESCORT_HELI(Ped pilot, Vehicle heli1, Vehicle heli2, float p3, f
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **pilot**:
 * **heli1**:
 * **heli2**:

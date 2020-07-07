@@ -13,7 +13,7 @@ All occurrences found in b617d, sorted alphabetically and identical lines remove
 New Ambient Zone List (Combind with old): pastebin.com/h8BsKgUD -DasChaos  
 ```
 
-## Parameters
+## 參數
 * **ambientZone**: 
 * **p1**: 
 * **p2**: 

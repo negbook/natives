@@ -9,7 +9,7 @@ void TEMP_BAN_PLAYER(char* playerSrc, char* reason);
 ```
 
 
-## Parameters
+## 參數
 * **playerSrc**: 
 * **reason**: 
 

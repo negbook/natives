@@ -15,11 +15,11 @@ maxChildren: The max amount of times a fire can spread to other objects. Must be
 isGasFire: Whether or not the fire is powered by gasoline.  
 ```
 
-## Parameters
+## 參數
 * **X**: 
 * **Y**: 
 * **Z**: 
 * **maxChildren**: 
 * **isGasFire**: 
 
-## Return value
+## 返回值

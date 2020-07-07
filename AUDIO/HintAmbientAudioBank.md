@@ -13,8 +13,8 @@ NativeDB Parameter 0: char* p0
 NativeDB Added Parameter 3: int p2
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

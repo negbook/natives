@@ -13,7 +13,7 @@ must be called after TRACK_VEHICLE_VISIBILITY
 it's not instant so probabilly must pass an 'update' to see correct result.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

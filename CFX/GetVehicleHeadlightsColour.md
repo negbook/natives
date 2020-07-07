@@ -9,7 +9,7 @@ int GET_VEHICLE_HEADLIGHTS_COLOUR(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

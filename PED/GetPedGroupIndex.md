@@ -12,7 +12,7 @@ int GET_PED_GROUP_INDEX(Ped ped);
 Returns the group id of which the specified ped is a member of.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

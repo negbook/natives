@@ -9,7 +9,7 @@ int GET_WEAPON_TINT_COUNT(Hash weaponHash);
 ```
 
 
-## Parameters
+## 參數
 * **weaponHash**: 
 
-## Return value
+## 返回值

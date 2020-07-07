@@ -13,7 +13,7 @@ BOOL _NET_GAMESERVER_END_SERVICE(int transactionId);
 Will cancel the transaction  
 ```
 
-## Parameters
+## 參數
 * **transactionId**: 
 
-## Return value
+## 返回值

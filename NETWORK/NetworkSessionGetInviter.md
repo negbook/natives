@@ -9,6 +9,6 @@ void NETWORK_SESSION_GET_INVITER(int* networkHandle);
 ```
 
 
-## Parameters
+## 參數
 * **networkHandle**: 
 

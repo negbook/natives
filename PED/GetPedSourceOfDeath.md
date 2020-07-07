@@ -14,7 +14,7 @@ Returns the Entity (Ped, Vehicle, or ?Object?) that killed the 'ped'
 Is best to check if the Ped is dead before asking for its killer.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

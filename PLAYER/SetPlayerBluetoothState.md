@@ -14,7 +14,7 @@ NativeDB Parameter 0: Player player
 NativeDB Parameter 1: BOOL state
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **state**: 
 

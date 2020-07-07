@@ -9,6 +9,6 @@ void SET_GAMEPLAY_HINT_FOV(float FOV);
 ```
 
 
-## Parameters
+## 參數
 * **FOV**: 
 

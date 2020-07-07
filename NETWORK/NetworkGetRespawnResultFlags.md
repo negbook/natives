@@ -9,7 +9,7 @@ aliases: ["0x6C34F1208B8923FD"]
 Any NETWORK_GET_RESPAWN_RESULT_FLAGS(Any p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

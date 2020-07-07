@@ -12,7 +12,7 @@ BOOL IS_PED_SHOOTING(Ped ped);
 Returns whether the specified ped is shooting.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

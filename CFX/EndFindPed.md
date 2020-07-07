@@ -9,6 +9,6 @@ void END_FIND_PED(int findHandle);
 ```
 
 
-## Parameters
+## 參數
 * **findHandle**: 
 

@@ -9,7 +9,7 @@ BOOL CAN_KNOCK_PED_OFF_VEHICLE(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

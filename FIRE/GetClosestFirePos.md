@@ -12,10 +12,10 @@ BOOL GET_CLOSEST_FIRE_POS(Vector3* outPosition, float x, float y, float z);
 Returns TRUE if it found something. FALSE if not.  
 ```
 
-## Parameters
+## 參數
 * **outPosition**: 
 * **x**: 
 * **y**: 
 * **z**: 
 
-## Return value
+## 返回值

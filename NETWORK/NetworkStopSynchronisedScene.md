@@ -9,6 +9,6 @@ void NETWORK_STOP_SYNCHRONISED_SCENE(int netScene);
 ```
 
 
-## Parameters
+## 參數
 * **netScene**: 
 

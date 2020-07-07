@@ -17,7 +17,7 @@ assuming p5 - p8 is RGBA, the graphic is always yellow (255, 255, 0, 255).
 Tested but noticed nothing.
 ```
 
-## Parameters
+## 參數
 * **type**: 
 * **xPos**: 
 * **yPos**: 

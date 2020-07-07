@@ -9,7 +9,7 @@ void CREATE_FORCED_OBJECT(float x, float y, float z, Any p3, Hash modelHash, BOO
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

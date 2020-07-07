@@ -16,11 +16,11 @@ OBJECT::_B48FCED898292E52(-809.9619750976562, 170.919, 75.7406997680664, 3.0, "d
 All found arguments for p4 starts with "des_" like "DES_FIB_Floor" and "des_shipsink".  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 * **radius**: 
 * **name**: 
 
-## Return value
+## 返回值

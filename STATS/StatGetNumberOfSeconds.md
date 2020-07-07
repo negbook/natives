@@ -10,7 +10,7 @@ int STAT_GET_NUMBER_OF_SECONDS(Hash statName);
 ```
 
 
-## Parameters
+## 參數
 * **statName**: 
 
-## Return value
+## 返回值

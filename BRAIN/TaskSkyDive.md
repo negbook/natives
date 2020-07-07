@@ -12,6 +12,6 @@ void TASK_SKY_DIVE(Ped ped);
 NativeDB Added Parameter 2: BOOL p1
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 

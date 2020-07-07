@@ -12,8 +12,8 @@ Vector3 GET_ENTITY_SPEED_VECTOR(Entity entity, BOOL relative);
 Relative can be used for getting speed relative to the frame of the vehicle, to determine for example, if you are going in reverse (-y speed) or not (+y speed).  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **relative**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ BOOL IS_THIS_MODEL_A_BOAT(Hash model);
 ```
 
 
-## Parameters
+## 參數
 * **model**: 
 
-## Return value
+## 返回值

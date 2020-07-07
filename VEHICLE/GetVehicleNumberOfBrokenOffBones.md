@@ -14,7 +14,7 @@ GET_VEHICLE_NUMBER_*
 Also includes 'turnOffBones' when vehicle mods are installed.
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

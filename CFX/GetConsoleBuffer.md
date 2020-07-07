@@ -10,5 +10,5 @@ char* GET_CONSOLE_BUFFER();
 
 Returns the current console output buffer.
 
-## Return value
+## 返回值
 The most recent game console output, as a string.

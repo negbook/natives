@@ -11,10 +11,10 @@ Hash GET_HASH_KEY(char* string);
 Gets the (case-insensitive, lower-cased) hash value for the passed string. This uses the 'Jenkins one-at-a-time' hashing
 algorithm.
 
-## Parameters
+## 參數
 * **string**: The string to hash.
 
-## Return value
+## 返回值
 The hash of `string`.
 
 ## Examples

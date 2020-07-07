@@ -16,8 +16,8 @@ Sets whether this player can take cover.
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 
-## Return value
+## 返回值

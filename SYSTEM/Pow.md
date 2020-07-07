@@ -9,8 +9,8 @@ float POW(float base, float exponent);
 ```
 
 
-## Parameters
+## 參數
 * **base**: 
 * **exponent**: 
 
-## Return value
+## 返回值

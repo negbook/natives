@@ -13,7 +13,7 @@ Lets objects spawn online simply do it like this:
 int createdObject = OBJ_TO_NET(CREATE_OBJECT_NO_OFFSET(oball, pCoords.x, pCoords.y, pCoords.z, 1, 0, 0));  
 ```
 
-## Parameters
+## 參數
 * **object**: 
 
-## Return value
+## 返回值

@@ -18,4 +18,4 @@ if ((CAM::_EE778F8C7E1142E2(CAM::_19CAFA3C87F7C2FF()) == 4) && (!__463_$28ED3828
 }  
 ```
 
-## Return value
+## 返回值

@@ -10,7 +10,7 @@ void TRIGGER_LATENT_SERVER_EVENT_INTERNAL(char* eventName, char* eventPayload, i
 
 The backing function for TriggerLatentServerEvent.
 
-## Parameters
+## 參數
 * **eventName**: 
 * **eventPayload**: 
 * **payloadLength**: 

@@ -10,4 +10,4 @@ BOOL LEADERBOARDS_READ_ANY_PENDING();
 ```
 
 
-## Return value
+## 返回值

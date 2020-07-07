@@ -13,7 +13,7 @@ void _SET_BLIP_SHRINK(Blip blip, BOOL toggle);
 Makes a blip go small when off the minimap.  
 ```
 
-## Parameters
+## 參數
 * **blip**: 
 * **toggle**: 
 

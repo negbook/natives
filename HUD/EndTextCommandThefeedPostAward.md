@@ -22,14 +22,14 @@ UI::_SET_NOTIFICATION_TEXT_ENTRY("HUNT");
 UI::_0xAA295B6F28BD587D("Hunting", "Hunting_Gold_128", 0, 109, "HUD_MED_UNLKED");  
 ```
 
-## Parameters
+## 參數
 * **textureDict**: The texture dictionary name for the icon on the left.
 * **textureName**: The texture name for the icon on the left.
 * **rpBonus**: The gained "RP" amount that will be displayed on the right side of the notification.
 * **colorOverlay**: Hudcolor overlay that gets applied on top of the notification, fucks up text/image visibility in most cases if set to something other than 0.
 * **titleLabel**: The label that will be displayed at the top of the notification (title).
 
-## Return value
+## 返回值
 The notification handle.
 
 ## Examples

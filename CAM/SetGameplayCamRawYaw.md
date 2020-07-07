@@ -16,6 +16,6 @@ Does nothing
 NativeDB Added Parameter 2: Any p1
 ```
 
-## Parameters
+## 參數
 * **yaw**: 
 

@@ -13,7 +13,7 @@ On PC it's a nullsub which means it does absolutely nothing.
 Now that Discord supports Rich Presence, R* might finally implement this for PC. Or maybe in future games like RDR2, GTA VI...  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

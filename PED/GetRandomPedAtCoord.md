@@ -22,7 +22,7 @@ Animal = 28
 Army = 29  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -31,4 +31,4 @@ Army = 29
 * **zRadius**: 
 * **pedType**: 
 
-## Return value
+## 返回值

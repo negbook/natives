@@ -13,7 +13,7 @@ void _SET_WEAPON_OBJECT_LIVERY_COLOR(Object weaponObject, Any camoComponentHash,
 NativeDB Parameter 1: Hash camoComponentHash
 ```
 
-## Parameters
+## 參數
 * **weaponObject**: 
 * **camoComponentHash**: 
 * **colorIndex**: 

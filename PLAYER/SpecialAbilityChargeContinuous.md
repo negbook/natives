@@ -12,7 +12,7 @@ void SPECIAL_ABILITY_CHARGE_CONTINUOUS(Player player, Ped p2);
 p1 appears to always be 1 (only comes up twice)  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **p2**: 
 

@@ -9,7 +9,7 @@ void TASK_USE_MOBILE_PHONE_TIMED(Ped ped, int duration);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **duration**: 
 

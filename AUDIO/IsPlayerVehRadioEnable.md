@@ -9,4 +9,4 @@ aliases: ["0x5F43D83FD6738741","_IS_PLAYER_VEHICLE_RADIO_ENABLED"]
 BOOL IS_PLAYER_VEH_RADIO_ENABLE();
 ```
 
-## Return value
+## 返回值

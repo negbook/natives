@@ -10,8 +10,8 @@ BOOL NETWORK_SESSION_HOST_CLOSED(int p0, int maxPlayers);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **maxPlayers**: 
 
-## Return value
+## 返回值

@@ -16,7 +16,7 @@ If you try it you will crash (or) freeze.
 =======================================================  
 ```
 
-## Parameters
+## 參數
 * **incidentId**: 
 
-## Return value
+## 返回值

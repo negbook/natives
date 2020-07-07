@@ -12,7 +12,7 @@ Any _0xE791DF1F73ED2C8B(Any p0);
 This function is hard-coded to always return 0.  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

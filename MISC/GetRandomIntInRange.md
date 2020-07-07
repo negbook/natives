@@ -14,8 +14,8 @@ You can use it simply like:
 if (GAMEPLAY::GET_RANDOM_INT_IN_RANGE(0, 2))  
 ```
 
-## Parameters
+## 參數
 * **startRange**: 
 * **endRange**: 
 
-## Return value
+## 返回值

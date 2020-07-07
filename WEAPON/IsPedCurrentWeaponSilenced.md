@@ -13,7 +13,7 @@ This native returns a true or false value.
 Ped ped = The ped whose weapon you want to check.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

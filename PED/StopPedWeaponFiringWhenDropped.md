@@ -9,6 +9,6 @@ void STOP_PED_WEAPON_FIRING_WHEN_DROPPED(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 

@@ -13,8 +13,8 @@ Returns false if it's a null or empty string or if the string is too long. outIn
 If all checks have passed successfully, the return value will be set to whatever strtol(string, 0i64, 10); returns.  
 ```
 
-## Parameters
+## 參數
 * **string**: 
 * **outInteger**: 
 
-## Return value
+## 返回值

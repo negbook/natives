@@ -9,7 +9,7 @@ void SET_PED_PATH_PREFER_TO_AVOID_WATER(Ped ped, BOOL avoidWater);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **avoidWater**: 
 

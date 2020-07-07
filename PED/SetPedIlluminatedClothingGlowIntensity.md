@@ -34,7 +34,7 @@ Intensity: `0.0`:
 (Direct link if embed doesn't work: [here](https://www.vespura.com/hi/i/2018-11-13_17-11_10199_232.gif))
 
 
-## Parameters
+## 參數
 * **ped**: The ped to set the glow intensity on.
 * **intensity**: The glow intensity, value between `0.0` and `1.0`.
 

@@ -9,7 +9,7 @@ void _ARRAY_VALUE_ADD_FLOAT(Any* arrayData, float value);
 ```
 
 
-## Parameters
+## 參數
 * **arrayData**: 
 * **value**: 
 

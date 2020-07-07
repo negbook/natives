@@ -13,7 +13,7 @@ Returns the acceleration of the specified model.
 For a full list, see here: pastebin.com/GaN6vT4R  
 ```
 
-## Parameters
+## 參數
 * **modelHash**: 
 
-## Return value
+## 返回值

@@ -13,8 +13,8 @@ control - c# works with (int)GTA.Control.CursorY / (int)GTA.Control.CursorX and 
 0, 1 and 2 used in the scripts. 0 is by far the most common of them.  
 ```
 
-## Parameters
+## 參數
 * **inputGroup**: 
 * **control**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ void SET_PLAYER_ANGRY(Ped ped, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

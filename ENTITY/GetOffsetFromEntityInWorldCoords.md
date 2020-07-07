@@ -15,10 +15,10 @@ y = forward/backward
 z = up/down  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **offsetX**: 
 * **offsetY**: 
 * **offsetZ**: 
 
-## Return value
+## 返回值

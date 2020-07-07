@@ -12,7 +12,7 @@ BOOL IS_PEDHEADSHOT_READY(int id);
 gtaforums.com/topic/885580-ped-headshotmugshot-txd/  
 ```
 
-## Parameters
+## 參數
 * **id**: 
 
-## Return value
+## 返回值

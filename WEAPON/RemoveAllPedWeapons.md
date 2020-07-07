@@ -12,7 +12,7 @@ void REMOVE_ALL_PED_WEAPONS(Ped ped, BOOL p1);
 setting the last params to false it does that same so I would suggest its not a toggle  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **p1**: 
 

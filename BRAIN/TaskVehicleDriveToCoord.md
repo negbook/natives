@@ -17,7 +17,7 @@ Here the e.g. code I used
 Function.Call(Hash.TASK_VEHICLE_DRIVE_TO_COORD, Ped, Vehicle, Cor X, Cor Y, Cor Z, 30f, 1f, Vehicle.GetHashCode(), 16777216, 1f, true);  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **vehicle**: 
 * **x**: 

@@ -33,7 +33,7 @@ break;
 }  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **nullAttributes**: 
 

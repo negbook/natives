@@ -9,6 +9,6 @@ void EXECUTE_COMMAND(char* commandString);
 ```
 
 
-## Parameters
+## 參數
 * **commandString**: 
 

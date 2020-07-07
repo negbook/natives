@@ -13,7 +13,7 @@ Apply damage to vehicle at a location. Location is relative to vehicle model (no
 Radius of effect damage applied in a sphere at impact location  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **xOffset**: 
 * **yOffset**: 

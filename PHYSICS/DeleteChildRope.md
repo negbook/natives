@@ -12,7 +12,7 @@ Any DELETE_CHILD_ROPE(int ropeId);
 NativeDB Return Type: void
 ```
 
-## Parameters
+## 參數
 * **ropeId**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ void _0x7E17BE53E1AAABAF(int* p0, int* p1, int* p2);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

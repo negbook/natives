@@ -9,7 +9,7 @@ void SET_PED_TO_LOAD_COVER(Ped ped, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

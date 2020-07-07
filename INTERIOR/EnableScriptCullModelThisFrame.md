@@ -13,6 +13,6 @@ void _ENABLE_SCRIPT_CULL_MODEL_THIS_FRAME(Any mapObjectHash);
 NativeDB Parameter 0: Hash mapObjectHash
 ```
 
-## Parameters
+## 參數
 * **mapObjectHash**: 
 

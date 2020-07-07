@@ -9,7 +9,7 @@ void SET_TEAM_PICKUP_OBJECT(Object object, Any p1, BOOL p2);
 ```
 
 
-## Parameters
+## 參數
 * **object**: 
 * **p1**: 
 * **p2**: 

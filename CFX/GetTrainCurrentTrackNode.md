@@ -9,8 +9,8 @@ int GET_TRAIN_CURRENT_TRACK_NODE(Vehicle train);
 ```
 
 
-## Parameters
+## 參數
 * **train**: The target train.
 
-## Return value
+## 返回值
 Train's current track node index.

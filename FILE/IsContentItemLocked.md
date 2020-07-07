@@ -13,7 +13,7 @@ BOOL IS_CONTENT_ITEM_LOCKED(Any* itemHash);
 NativeDB Parameter 0: Hash itemHash
 ```
 
-## Parameters
+## 參數
 * **itemHash**: 
 
-## Return value
+## 返回值

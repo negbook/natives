@@ -10,7 +10,7 @@ Any FORMAT_FOCUS_HEADING(float x, float y, float z, float rad, Any p4, Any p5);
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
@@ -18,4 +18,4 @@ Any FORMAT_FOCUS_HEADING(float x, float y, float z, float rad, Any p4, Any p5);
 * **p4**: 
 * **p5**: 
 
-## Return value
+## 返回值

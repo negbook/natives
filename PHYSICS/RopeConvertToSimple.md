@@ -9,6 +9,6 @@ void ROPE_CONVERT_TO_SIMPLE(int ropeId);
 ```
 
 
-## Parameters
+## 參數
 * **ropeId**: 
 

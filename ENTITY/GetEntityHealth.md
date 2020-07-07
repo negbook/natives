@@ -20,7 +20,7 @@ In order to get the actual value, do:
 float health = *(float *)(entityAddress + 0x280);  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

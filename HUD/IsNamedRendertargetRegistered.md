@@ -9,7 +9,7 @@ BOOL IS_NAMED_RENDERTARGET_REGISTERED(char* name);
 ```
 
 
-## Parameters
+## 參數
 * **name**: 
 
-## Return value
+## 返回值

@@ -17,7 +17,7 @@ int _GET_STATUS_OF_TEXTURE_DOWNLOAD(int p0);
 GET_ST*
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

@@ -13,9 +13,9 @@ BOOL _CAN_PED_SPEAK(Ped ped, char* speechName, BOOL unk);
 Checks if the ped can play the speech or has the speech file, last parameter is usually 0  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **speechName**: 
 * **unk**: 
 
-## Return value
+## 返回值

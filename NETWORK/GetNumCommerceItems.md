@@ -10,4 +10,4 @@ int GET_NUM_COMMERCE_ITEMS();
 ```
 
 
-## Return value
+## 返回值

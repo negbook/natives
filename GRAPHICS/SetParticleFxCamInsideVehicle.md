@@ -9,6 +9,6 @@ void SET_PARTICLE_FX_CAM_INSIDE_VEHICLE(BOOL p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

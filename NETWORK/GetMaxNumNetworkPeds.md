@@ -9,4 +9,4 @@ aliases: ["0x0C1F7D49C39D2289"]
 Any GET_MAX_NUM_NETWORK_PEDS();
 ```
 
-## Return value
+## 返回值

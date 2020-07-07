@@ -13,7 +13,7 @@ int START_SHAPE_TEST_SWEPT_SPHERE(float x1, float y1, float z1, float x2, float 
 Performs the same type of trace as START_SHAPE_TEST_CAPSULE, but with some different hardcoded parameters.  
 ```
 
-## Parameters
+## 參數
 * **x1**: 
 * **y1**: 
 * **z1**: 
@@ -25,4 +25,4 @@ Performs the same type of trace as START_SHAPE_TEST_CAPSULE, but with some diffe
 * **entity**: 
 * **p9**: 
 
-## Return value
+## 返回值

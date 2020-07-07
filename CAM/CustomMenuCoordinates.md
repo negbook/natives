@@ -13,6 +13,6 @@ void CUSTOM_MENU_COORDINATES(float p0);
 some camera effect that is used in the drunk-cheat, and turned off (by setting it to 0.0) along with the shaking effects once the drunk cheat is disabled.  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

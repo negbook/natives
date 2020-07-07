@@ -12,7 +12,7 @@ void SPECIAL_ABILITY_CHARGE_SMALL(Player player, BOOL p1, BOOL p2);
 Every occurrence of p1 & p2 were both true.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **p1**: 
 * **p2**: 

@@ -32,6 +32,6 @@ patrolRoutes found in the b617d scripts:
 "miss_Tower_10"  
 ```
 
-## Parameters
+## 參數
 * **patrolRoute**: 
 

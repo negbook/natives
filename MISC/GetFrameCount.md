@@ -9,4 +9,4 @@ int GET_FRAME_COUNT();
 ```
 
 
-## Return value
+## 返回值

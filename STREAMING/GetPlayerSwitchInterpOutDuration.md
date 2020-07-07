@@ -9,4 +9,4 @@ aliases: ["SET_PLAYER_INVERTED_UP","0x08C2D6C52A3104BB"]
 int GET_PLAYER_SWITCH_INTERP_OUT_DURATION();
 ```
 
-## Return value
+## 返回值

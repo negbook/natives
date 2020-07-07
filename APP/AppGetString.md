@@ -9,7 +9,7 @@ char* APP_GET_STRING(char* property);
 ```
 
 
-## Parameters
+## 參數
 * **property**: 
 
-## Return value
+## 返回值

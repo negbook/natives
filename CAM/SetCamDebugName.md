@@ -12,7 +12,7 @@ void SET_CAM_DEBUG_NAME(Cam camera, char* name);
 NOTE: Debugging functions are not present in the retail version of the game.  
 ```
 
-## Parameters
+## 參數
 * **camera**: 
 * **name**: 
 

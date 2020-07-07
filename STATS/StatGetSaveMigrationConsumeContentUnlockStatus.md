@@ -13,7 +13,7 @@ int _STAT_GET_SAVE_MIGRATION_CONSUME_CONTENT_UNLOCK_STATUS(Any* p0);
 NativeDB Parameter 0: int* p0
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

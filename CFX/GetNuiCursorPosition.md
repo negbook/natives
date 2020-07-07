@@ -9,7 +9,7 @@ void GET_NUI_CURSOR_POSITION(int* x, int* y);
 ```
 
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 

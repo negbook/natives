@@ -23,8 +23,8 @@ PED::GET_RELATIONSHIP_BETWEEN_GROUPS(l_1017, 0xA49E591C);
 PED::GET_RELATIONSHIP_BETWEEN_GROUPS(0xA49E591C, l_1017);  
 ```
 
-## Parameters
+## 參數
 * **group1**: 
 * **group2**: 
 
-## Return value
+## 返回值

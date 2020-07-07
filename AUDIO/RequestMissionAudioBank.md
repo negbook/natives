@@ -16,8 +16,8 @@ All occurrences and usages found in b617d: pastebin.com/NzZZ2Tmm
 NativeDB Added Parameter 3: Any p2
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

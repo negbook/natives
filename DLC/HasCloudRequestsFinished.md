@@ -23,8 +23,8 @@ bool _NULLIFY(void* variable, int unused)
 NativeDB Parameter 0: BOOL* variable
 ```
 
-## Parameters
+## 參數
 * **variable**: 
 * **unused**: 
 
-## Return value
+## 返回值

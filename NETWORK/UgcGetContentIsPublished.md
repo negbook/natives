@@ -9,7 +9,7 @@ aliases: ["0x3054F114121C21EA"]
 BOOL UGC_GET_CONTENT_IS_PUBLISHED(Any p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

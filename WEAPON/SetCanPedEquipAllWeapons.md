@@ -12,7 +12,7 @@ void _SET_CAN_PED_EQUIP_ALL_WEAPONS(Ped ped, BOOL toggle);
 Does the same as [`_SET_CAN_PED_SELECT_WEAPON`](https://runtime.fivem.net/doc/natives/#_0xB4771B9AAF4E68E4) except for all weapons.
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

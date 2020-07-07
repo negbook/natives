@@ -12,6 +12,6 @@ void ROLL_DOWN_WINDOWS(Vehicle vehicle);
 Roll down all the windows of the vehicle passed through the first parameter.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 

@@ -9,6 +9,6 @@ void DELETE_STUNT_JUMP(int p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

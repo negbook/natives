@@ -9,8 +9,8 @@ BOOL STAT_SET_LICENSE_PLATE(Hash statName, char* str);
 ```
 
 
-## Parameters
+## 參數
 * **statName**: 
 * **str**: 
 
-## Return value
+## 返回值

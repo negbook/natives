@@ -14,6 +14,6 @@ Native.Function.Call(Hash.DETACH_VEHICLE_FROM_TRAILER, vh1)
 		    End Sub  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 

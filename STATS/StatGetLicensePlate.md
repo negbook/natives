@@ -9,7 +9,7 @@ char* STAT_GET_LICENSE_PLATE(Hash statName);
 ```
 
 
-## Parameters
+## 參數
 * **statName**: 
 
-## Return value
+## 返回值

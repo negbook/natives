@@ -16,7 +16,7 @@ UI::SET_BLIP_COLOUR(blip , 3);
 UI::SET_BLIP_ALPHA(blip , 64);  
 ```
 
-## Parameters
+## 參數
 * **blip**: 
 * **alpha**: 
 

@@ -12,6 +12,6 @@ void CLEAR_THIS_PRINT(char* p0);
 p0: found arguments in the b617d scripts: pastebin.com/X5akCN7z  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

@@ -13,7 +13,7 @@ Forces the ped to fall back and kills it.
 It doesn't really explode the ped's head but it kills the ped  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **weaponHash**: 
 

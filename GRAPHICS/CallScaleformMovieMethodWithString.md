@@ -14,7 +14,7 @@ Calls the Scaleform function and passes the parameters as strings.
 The number of parameters passed to the function varies, so the end of the parameter list is represented by 0 (NULL).  
 ```
 
-## Parameters
+## 參數
 * **scaleform**: 
 * **methodName**: 
 * **param1**: 

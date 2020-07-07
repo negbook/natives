@@ -13,8 +13,8 @@ BOOL _NETWORK_IS_PLAYER_EQUAL_TO_INDEX(Player player, int index);
 NETWORK_ARE_*  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **index**: 
 
-## Return value
+## 返回值

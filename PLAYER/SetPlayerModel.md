@@ -15,6 +15,6 @@ reference to the old ped should be reset (by using the GetPlayerPed native).
 Make sure to request the model first and wait until it has loaded.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **model**: 

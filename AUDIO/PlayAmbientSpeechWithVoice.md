@@ -16,7 +16,7 @@ The first param is the ped you want to play it on, the second is the speech name
 Full list of speeches and voices names: gist.github.com/alexguirre/0af600eb3d4c91ad4f900120a63b8992  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **speechName**: 
 * **voiceName**: 

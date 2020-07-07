@@ -9,7 +9,7 @@ Entity GET_ENTITY_ATTACHED_TO_TOW_TRUCK(Vehicle towTruck);
 ```
 
 
-## Parameters
+## 參數
 * **towTruck**: 
 
-## Return value
+## 返回值

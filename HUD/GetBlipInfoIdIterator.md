@@ -9,4 +9,4 @@ int _GET_BLIP_INFO_ID_ITERATOR();
 ```
 
 
-## Return value
+## 返回值

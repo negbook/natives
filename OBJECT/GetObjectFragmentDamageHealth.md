@@ -9,8 +9,8 @@ float GET_OBJECT_FRAGMENT_DAMAGE_HEALTH(Any p0, BOOL p1);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

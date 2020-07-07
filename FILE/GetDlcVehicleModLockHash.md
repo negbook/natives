@@ -19,7 +19,7 @@ NativeDB Parameter 0: Hash hash
 NativeDB Return Type: Hash
 ```
 
-## Parameters
+## 參數
 * **hash**: 
 
-## Return value
+## 返回值

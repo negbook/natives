@@ -9,7 +9,7 @@ aliases: ["0xC24075310A8B9CD1"]
 void _SET_HYDRAULIC_WHEEL_STATE_TRANSITION(Vehicle vehicle, int wheelID, Any p2, float p3, float p4);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **wheelID**: 
 * **p2**: 

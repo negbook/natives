@@ -9,7 +9,7 @@ aliases: ["0x72D918C99BCACC54"]
 BOOL NETWORK_HAVE_USER_CONTENT_PRIVILEGES(int p0);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

@@ -12,7 +12,7 @@ void TASK_LOOK_AT_COORD(Entity entity, float x, float y, float z, float duration
 p5 = 0, p6 = 2  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **x**: 
 * **y**: 

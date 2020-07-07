@@ -9,6 +9,6 @@ void _0xCD71A4ECAB22709E(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 

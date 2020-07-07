@@ -9,7 +9,7 @@ void GET_PED_PARACHUTE_TINT_INDEX(Ped ped, int* outTintIndex);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **outTintIndex**: 
 

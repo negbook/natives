@@ -13,9 +13,9 @@ BOOL _IS_MINIMAP_AREA_REVEALED(float x, float y, float radius);
 GET_MI*
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **radius**: 
 
-## Return value
+## 返回值

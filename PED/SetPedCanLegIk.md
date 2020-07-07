@@ -9,7 +9,7 @@ void SET_PED_CAN_LEG_IK(Ped ped, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

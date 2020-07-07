@@ -18,7 +18,7 @@ Yellow_on_Black = 1,
 North_Yankton = 5,  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

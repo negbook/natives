@@ -10,7 +10,7 @@ void SET_CUTSCENE_ENTITY_STREAMING_FLAGS(char* cutsceneEntName, int p1, int p2);
 ```
 
 
-## Parameters
+## 參數
 * **cutsceneEntName**: 
 * **p1**: 
 * **p2**: 

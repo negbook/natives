@@ -13,4 +13,4 @@ BOOL NETWORK_HAVE_JUST_UPLOAD_LATER();
 Returns whether the Rockstar game services are available or not
 ```
 
-## Return value
+## 返回值

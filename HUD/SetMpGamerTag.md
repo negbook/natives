@@ -10,7 +10,7 @@ void _SET_MP_GAMER_TAG(int headDisplayId, BOOL p1);
 ```
 
 
-## Parameters
+## 參數
 * **headDisplayId**: 
 * **p1**: 
 

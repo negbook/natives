@@ -9,7 +9,7 @@ void SET_CAM_USE_SHALLOW_DOF_MODE(Cam cam, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **toggle**: 
 

@@ -10,4 +10,4 @@ int GET_TOTAL_SUCCESSFUL_STUNT_JUMPS();
 ```
 
 
-## Return value
+## 返回值

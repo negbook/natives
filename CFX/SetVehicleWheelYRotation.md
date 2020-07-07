@@ -10,7 +10,7 @@ void SET_VEHICLE_WHEEL_Y_ROTATION(Vehicle vehicle, int wheelIndex, float value);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **wheelIndex**: 
 * **value**: 

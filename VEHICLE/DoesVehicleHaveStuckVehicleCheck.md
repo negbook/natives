@@ -12,7 +12,7 @@ BOOL DOES_VEHICLE_HAVE_STUCK_VEHICLE_CHECK(Vehicle vehicle);
 Maximum amount of vehicles with vehicle stuck check appears to be 16.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

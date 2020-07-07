@@ -9,6 +9,6 @@ void _0xC594B315EDF2D4AF(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 

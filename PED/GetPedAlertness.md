@@ -18,7 +18,7 @@ Values :
 If the Ped does not exist, returns -1.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

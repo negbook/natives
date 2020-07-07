@@ -12,7 +12,7 @@ Hash GET_DLC_VEHICLE_MODEL(int dlcVehicleIndex);
 dlcVehicleIndex is 0 to GET_NUM_DLC_VEHICLS()  
 ```
 
-## Parameters
+## 參數
 * **dlcVehicleIndex**: 
 
-## Return value
+## 返回值

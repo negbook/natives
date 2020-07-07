@@ -9,7 +9,7 @@ void SET_VEHICLE_DOORS_LOCKED_FOR_PLAYER(Vehicle vehicle, Player player, BOOL to
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **player**: 
 * **toggle**: 

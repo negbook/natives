@@ -12,7 +12,7 @@ void SET_ANIMAL_MOOD(Ped animal, int mood);
 mood can be 0 or 1 (it's not a boolean value!). Effects audio of the animal.  
 ```
 
-## Parameters
+## 參數
 * **animal**: 
 * **mood**: 
 

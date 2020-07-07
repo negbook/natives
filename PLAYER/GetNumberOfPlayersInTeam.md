@@ -12,5 +12,5 @@ int _GET_NUMBER_OF_PLAYERS_IN_TEAM(int team);
 NativeDB Introduced: v1180
 ```
 
-## Parameters
+## 參數
 * **team**:

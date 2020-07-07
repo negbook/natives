@@ -12,7 +12,7 @@ int VEH_TO_NET(Vehicle vehicle);
 calls from vehicle to net.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

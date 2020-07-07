@@ -9,7 +9,7 @@ BOOL NETWORK_DOES_NETWORK_ID_EXIST(int netID);
 ```
 
 
-## Parameters
+## 參數
 * **netID**: 
 
-## Return value
+## 返回值

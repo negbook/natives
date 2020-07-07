@@ -13,7 +13,7 @@ BOOL HAS_PED_PRELOAD_VARIATION_DATA_FINISHED(Ped ped);
 Normally returns true. Returns false briefly whilst getting into a plane. This is probably a check to see if the ped model and all its components/drawables are properly loaded yet.
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

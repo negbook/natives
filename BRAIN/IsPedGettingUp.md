@@ -9,7 +9,7 @@ BOOL IS_PED_GETTING_UP(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ int START_PARTICLE_FX_LOOPED_ON_PED_BONE(char* effectName, Ped ped, float xOffse
 ```
 
 
-## Parameters
+## 參數
 * **effectName**: 
 * **ped**: 
 * **xOffset**: 
@@ -24,4 +24,4 @@ int START_PARTICLE_FX_LOOPED_ON_PED_BONE(char* effectName, Ped ped, float xOffse
 * **yAxis**: 
 * **zAxis**: 
 
-## Return value
+## 返回值

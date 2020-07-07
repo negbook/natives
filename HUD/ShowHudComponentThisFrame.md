@@ -37,6 +37,6 @@ Listed below are the integers and the corresponding HUD component.
 
 These integers also work for the [`HIDE_HUD_COMPONENT_THIS_FRAME`](#_0x6806C51AD12B83B8) native, but instead hides the HUD component.
 
-## Parameters
+## 參數
 * **id**: 
 

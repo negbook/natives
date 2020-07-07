@@ -9,6 +9,6 @@ void REMOVE_NAVMESH_BLOCKING_OBJECT(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

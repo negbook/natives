@@ -9,4 +9,4 @@ BOOL NETWORK_CAN_ENTER_MULTIPLAYER();
 ```
 
 
-## Return value
+## 返回值

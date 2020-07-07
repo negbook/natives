@@ -19,9 +19,9 @@ Creates a Ped at the specified location, returns the Ped Handle.
 Ped will not act until SET_PED_AS_NO_LONGER_NEEDED is called.  
 ```
 
-## Parameters
+## 參數
 * **posX**: 
 * **posY**: 
 * **posZ**: 
 
-## Return value
+## 返回值

@@ -13,4 +13,4 @@ Hash _HUD_WEAPON_WHEEL_GET_SELECTED_HASH();
 Returns the weapon hash to the selected/highlighted weapon in the wheel
 ```
 
-## Return value
+## 返回值

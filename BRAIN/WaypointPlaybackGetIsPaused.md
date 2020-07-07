@@ -9,7 +9,7 @@ BOOL WAYPOINT_PLAYBACK_GET_IS_PAUSED(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 
-## Return value
+## 返回值

@@ -12,7 +12,7 @@ Ped NET_TO_PED(int netHandle);
 gets the ped id of a network id  
 ```
 
-## Parameters
+## 參數
 * **netHandle**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ void SET_ENTITY_ICON_VISIBILITY(Entity entity, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **toggle**: 
 

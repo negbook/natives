@@ -9,6 +9,6 @@ void ENABLE_MOVIE_SUBTITLES(BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **toggle**: 
 

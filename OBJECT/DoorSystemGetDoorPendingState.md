@@ -9,7 +9,7 @@ aliases: ["0x4BC2854478F3A749"]
 int DOOR_SYSTEM_GET_DOOR_PENDING_STATE(Hash doorHash);
 ```
 
-## Parameters
+## 參數
 * **doorHash**: 
 
-## Return value
+## 返回值

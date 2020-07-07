@@ -18,7 +18,7 @@ p8 to p13 are always 0f in R*'s scripts.
 ped::set_ped_to_ragdoll_with_fall(ped, 1500, 2000, 1, -entity::get_entity_forward_vector(ped), 1f, 0f, 0f, 0f, 0f, 0f, 0f);  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **time**: 
 * **p2**: 
@@ -34,4 +34,4 @@ ped::set_ped_to_ragdoll_with_fall(ped, 1500, 2000, 1, -entity::get_entity_forwar
 * **p12**: 
 * **p13**: 
 
-## Return value
+## 返回值

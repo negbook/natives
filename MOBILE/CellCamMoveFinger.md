@@ -13,6 +13,6 @@ void _CELL_CAM_MOVE_FINGER(int direction);
 For move the finger of player, the value of int goes 1 at 5.  
 ```
 
-## Parameters
+## 參數
 * **direction**: 
 

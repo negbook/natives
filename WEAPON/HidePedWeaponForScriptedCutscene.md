@@ -12,7 +12,7 @@ void HIDE_PED_WEAPON_FOR_SCRIPTED_CUTSCENE(Ped ped, BOOL toggle);
 Hides the players weapon during a cutscene.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

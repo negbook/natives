@@ -13,7 +13,7 @@ void _SET_AMBIENT_VOICE_NAME_HASH(Ped ped, Any hash);
 NativeDB Parameter 1: Hash hash
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **hash**: 
 

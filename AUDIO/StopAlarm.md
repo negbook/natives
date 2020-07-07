@@ -16,7 +16,7 @@ First parameter (char) is the name of the alarm.
 Second parameter (bool) has to be true (1) to have any effect.  
 ```
 
-## Parameters
+## 參數
 * **alarmName**: 
 * **toggle**: 
 

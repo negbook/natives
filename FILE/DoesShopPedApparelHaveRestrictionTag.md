@@ -9,9 +9,9 @@ aliases: ["0x341DE7ED1D2A1BFD"]
 BOOL DOES_SHOP_PED_APPAREL_HAVE_RESTRICTION_TAG(Hash componentHash, Hash drawableSlotHash, int componentId);
 ```
 
-## Parameters
+## 參數
 * **componentHash**: 
 * **drawableSlotHash**: 
 * **componentId**: 
 
-## Return value
+## 返回值

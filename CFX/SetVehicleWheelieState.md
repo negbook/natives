@@ -41,6 +41,6 @@ Citizen.CreateThread(function()
 end)
 ```
 
-## Parameters
+## 參數
 * **vehicle**: Vehicle
 * **state**: Wheelie state

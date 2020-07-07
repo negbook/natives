@@ -9,7 +9,7 @@ void SET_PLAYER_FORCE_SKIP_AIM_INTRO(Player player, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 

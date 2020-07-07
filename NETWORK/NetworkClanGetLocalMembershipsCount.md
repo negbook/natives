@@ -13,4 +13,4 @@ int NETWORK_CLAN_GET_LOCAL_MEMBERSHIPS_COUNT();
 NETWORK_CLAN_*
 ```
 
-## Return value
+## 返回值

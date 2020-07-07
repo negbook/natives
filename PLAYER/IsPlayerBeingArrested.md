@@ -14,8 +14,8 @@ If atArresting is set to 1, this function will return 1 when player is being arr
 If atArresting is set to 0, this function will return 1 only when the busted screen is shown.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **atArresting**: 
 
-## Return value
+## 返回值

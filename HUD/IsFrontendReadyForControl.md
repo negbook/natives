@@ -10,4 +10,4 @@ BOOL IS_FRONTEND_READY_FOR_CONTROL();
 ```
 
 
-## Return value
+## 返回值

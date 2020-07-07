@@ -12,7 +12,7 @@ char* GET_PEDHEADSHOT_TXD_STRING(int handle);
 gtaforums.com/topic/885580-ped-headshotmugshot-txd/  
 ```
 
-## Parameters
+## 參數
 * **handle**: 
 
-## Return value
+## 返回值

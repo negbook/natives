@@ -21,6 +21,6 @@ While you're going on your rant about other "idiots" can you please supply the n
 NativeDB Parameter 0: int toggle
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

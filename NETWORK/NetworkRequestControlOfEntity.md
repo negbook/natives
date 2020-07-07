@@ -9,7 +9,7 @@ BOOL NETWORK_REQUEST_CONTROL_OF_ENTITY(Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

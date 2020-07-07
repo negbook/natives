@@ -10,4 +10,4 @@ char* DATAFILE_GET_FILE_DICT();
 ```
 
 
-## Return value
+## 返回值

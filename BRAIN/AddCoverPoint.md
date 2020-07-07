@@ -9,7 +9,7 @@ ScrHandle ADD_COVER_POINT(float p0, float p1, float p2, float p3, Any p4, Any p5
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
@@ -19,4 +19,4 @@ ScrHandle ADD_COVER_POINT(float p0, float p1, float p2, float p3, Any p4, Any p5
 * **p6**: 
 * **p7**: 
 
-## Return value
+## 返回值

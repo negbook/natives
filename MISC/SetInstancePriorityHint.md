@@ -14,6 +14,6 @@ Sets an unknown flag used by CScene in determining which entities from CMapData 
 Documented by NTAuthority (http://fivem.net/).  
 ```
 
-## Parameters
+## 參數
 * **flag**: 
 

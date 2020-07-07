@@ -9,9 +9,9 @@ BOOL SET_RUNTIME_TEXTURE_ARGB_DATA(long tex, char* buffer, int length);
 ```
 
 
-## Parameters
+## 參數
 * **tex**: 
 * **buffer**: 
 * **length**: 
 
-## Return value
+## 返回值

@@ -12,7 +12,7 @@ int GET_LENGTH_OF_STRING_WITH_THIS_TEXT_LABEL(char* gxt);
 Returns the string length of the string from the gxt string .  
 ```
 
-## Parameters
+## 參數
 * **gxt**: 
 
-## Return value
+## 返回值

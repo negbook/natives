@@ -16,7 +16,7 @@ l_11A1 = PED::GET_VEHICLE_PED_IS_IN(PLAYER::PLAYER_PED_ID(), 1);
 VEHICLE::SET_VEHICLE_DOORS_LOCKED_FOR_ALL_PLAYERS(l_11A1, 1);  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

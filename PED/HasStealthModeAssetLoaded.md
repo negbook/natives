@@ -9,7 +9,7 @@ BOOL HAS_STEALTH_MODE_ASSET_LOADED(char* asset);
 ```
 
 
-## Parameters
+## 參數
 * **asset**: 
 
-## Return value
+## 返回值

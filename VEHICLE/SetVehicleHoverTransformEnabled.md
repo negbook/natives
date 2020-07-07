@@ -17,6 +17,6 @@ If false, anything related to INPUT_VEH_TRANSFORM are ignored (changing hover st
 NativeDB Introduced: v1290
 ```
 
-## Parameters
+## 參數
 * **vehicle**:
 * **toggle**:

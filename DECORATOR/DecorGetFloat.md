@@ -13,8 +13,8 @@ float DECOR_GET_FLOAT(Entity entity, char* propertyName);
 The native name is correct but the db automatically prefixes "_" to unknown natives when changed.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **propertyName**: 
 
-## Return value
+## 返回值

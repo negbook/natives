@@ -14,7 +14,7 @@ When I called this with what the script was doing, which was -190f for yaw pitch
 This might have something to do with the physbox of the vehicle, but I'm not sure.  
 ```
 
-## Parameters
+## 參數
 * **submarine**: 
 * **toggle**: 
 * **crushWarningDepth1**: 

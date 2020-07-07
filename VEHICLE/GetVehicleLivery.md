@@ -12,7 +12,7 @@ int GET_VEHICLE_LIVERY(Vehicle trailers2);
 -1 = no livery  
 ```
 
-## Parameters
+## 參數
 * **trailers2**: 
 
-## Return value
+## 返回值

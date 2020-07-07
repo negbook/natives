@@ -19,7 +19,7 @@ void SET_VEHICLE_WHEEL_TYPE(Vehicle vehicle, int WheelType);
 7: High End  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **WheelType**: 
 

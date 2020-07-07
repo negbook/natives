@@ -10,7 +10,7 @@ void BLOCK_DISPATCH_SERVICE_RESOURCE_CREATION(int dispatchService, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **dispatchService**: 
 * **toggle**: 
 

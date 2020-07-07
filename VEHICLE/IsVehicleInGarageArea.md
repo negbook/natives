@@ -13,8 +13,8 @@ garageName example "Michael - Beverly Hills"
 For a full list, see here: pastebin.com/73VfwsmS  
 ```
 
-## Parameters
+## 參數
 * **garageName**: 
 * **vehicle**: 
 
-## Return value
+## 返回值

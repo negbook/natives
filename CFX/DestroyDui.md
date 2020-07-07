@@ -10,6 +10,6 @@ void DESTROY_DUI(long duiObject);
 
 Destroys a DUI browser.
 
-## Parameters
+## 參數
 * **duiObject**: The DUI browser handle.
 

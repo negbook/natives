@@ -9,8 +9,8 @@ BOOL IS_TOGGLE_MOD_ON(Vehicle vehicle, int modType);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **modType**: 
 
-## Return value
+## 返回值

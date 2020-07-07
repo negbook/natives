@@ -9,6 +9,6 @@ void REQUEST_ANIM_DICT(char* animDict);
 ```
 
 
-## Parameters
+## 參數
 * **animDict**: 
 

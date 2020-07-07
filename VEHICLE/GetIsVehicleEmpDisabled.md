@@ -14,5 +14,5 @@ Returns whether this vehicle is currently disabled by an EMP mine.
 NativeDB Introduced: v1604
 ```
 
-## Parameters
+## 參數
 * **vehicle**:

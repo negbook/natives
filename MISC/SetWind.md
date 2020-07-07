@@ -12,6 +12,6 @@ void SET_WIND(float speed);
 Sets the the raw wind speed value.  
 ```
 
-## Parameters
+## 參數
 * **speed**: 
 

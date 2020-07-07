@@ -14,7 +14,7 @@ Same as the comment for CREATE_MODEL_SWAP unless for some reason p5 affects it t
 Network players do not see changes done with this.  
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 

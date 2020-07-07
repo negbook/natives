@@ -10,7 +10,7 @@ void ADD_TEXT_COMPONENT_FORMATTED_INTEGER(int value, BOOL commaSeparated);
 ```
 
 
-## Parameters
+## 參數
 * **value**: 
 * **commaSeparated**: 
 

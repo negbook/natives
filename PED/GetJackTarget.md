@@ -9,7 +9,7 @@ Ped GET_JACK_TARGET(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

@@ -9,7 +9,7 @@ aliases: ["0x25B99872D588A101"]
 Any NETWORK_ADD_ENTITY_DISPLAYED_BOUNDARIES(float p0, float p1, float p2, float p3, float p4, float p5);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 
@@ -17,4 +17,4 @@ Any NETWORK_ADD_ENTITY_DISPLAYED_BOUNDARIES(float p0, float p1, float p2, float 
 * **p4**: 
 * **p5**: 
 
-## Return value
+## 返回值

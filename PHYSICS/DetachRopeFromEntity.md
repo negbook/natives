@@ -9,7 +9,7 @@ void DETACH_ROPE_FROM_ENTITY(int ropeId, Entity entity);
 ```
 
 
-## Parameters
+## 參數
 * **ropeId**: 
 * **entity**: 
 

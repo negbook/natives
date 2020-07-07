@@ -15,7 +15,7 @@ p8 big values ~100 will slow down the camera movement before reaching this node
 p9 != 0 seems to override the rotation/pitch (bool?)  
 ```
 
-## Parameters
+## 參數
 * **camera**: 
 * **x**: 
 * **y**: 

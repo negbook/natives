@@ -9,4 +9,4 @@ aliases: ["0xA03502FC581F7D9B","_GET_GAMEPLAY_CAM_NEAR_DOF"]
 float GET_FINAL_RENDERED_CAM_NEAR_DOF();
 ```
 
-## Return value
+## 返回值

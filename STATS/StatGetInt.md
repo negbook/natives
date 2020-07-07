@@ -12,9 +12,9 @@ BOOL STAT_GET_INT(Hash statHash, int* outValue, int p2);
 p2 appears to always be -1  
 ```
 
-## Parameters
+## 參數
 * **statHash**: 
 * **outValue**: 
 * **p2**: 
 
-## Return value
+## 返回值

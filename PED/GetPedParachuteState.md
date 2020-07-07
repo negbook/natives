@@ -18,7 +18,7 @@ Returns:
 Normal means no parachute?  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

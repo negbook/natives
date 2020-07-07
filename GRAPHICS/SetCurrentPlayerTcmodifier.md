@@ -10,6 +10,6 @@ void SET_CURRENT_PLAYER_TCMODIFIER(char* modifierName);
 ```
 
 
-## Parameters
+## 參數
 * **modifierName**: 
 

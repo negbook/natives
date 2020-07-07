@@ -14,7 +14,7 @@ Can also take an ammo hash?
 sub_6663a(&l_115B, WEAPON::GET_WEAPONTYPE_MODEL(${ammo_rpg}));  
 ```
 
-## Parameters
+## 參數
 * **weaponHash**: 
 
-## Return value
+## 返回值

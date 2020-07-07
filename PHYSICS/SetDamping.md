@@ -9,7 +9,7 @@ void SET_DAMPING(Entity entity, int vertex, float value);
 ```
 
 
-## Parameters
+## 參數
 * **entity**: 
 * **vertex**: 
 * **value**: 

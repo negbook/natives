@@ -12,7 +12,7 @@ void SET_CAM_AFFECTS_AIMING(Cam cam, BOOL toggle);
 Allows you to aim and shoot at the direction the camera is facing.  
 ```
 
-## Parameters
+## 參數
 * **cam**: 
 * **toggle**: 
 

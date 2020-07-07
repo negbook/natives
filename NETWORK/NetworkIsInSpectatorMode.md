@@ -9,4 +9,4 @@ BOOL NETWORK_IS_IN_SPECTATOR_MODE();
 ```
 
 
-## Return value
+## 返回值

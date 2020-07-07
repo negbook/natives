@@ -13,11 +13,11 @@ NativeDB Parameter 3: float p3
 NativeDB Parameter 4: float p4
 ```
 
-## Parameters
+## 參數
 * **x**: 
 * **y**: 
 * **z**: 
 * **p3**: 
 * **p4**: 
 
-## Return value
+## 返回值

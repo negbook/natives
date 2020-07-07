@@ -13,7 +13,7 @@ BOOL DOES_RAYFIRE_MAP_OBJECT_EXIST(Object object);
 Returns true if a destructible object with this handle exists, false otherwise.  
 ```
 
-## Parameters
+## 參數
 * **object**: 
 
-## Return value
+## 返回值

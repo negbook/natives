@@ -10,7 +10,7 @@ BOOL IS_PED_RUNNING_MELEE_TASK(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

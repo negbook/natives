@@ -9,7 +9,7 @@ BOOL _CAN_VEHICLE_PARACHUTE_BE_ACTIVATED(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

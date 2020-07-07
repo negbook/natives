@@ -13,6 +13,6 @@ Toggles the pause menu ped sleep state for frontend menus.
 
 [Example GIF](https://vespura.com/hi/i/2019-04-01_15-51_8ed38_1014.gif)
 
-## Parameters
+## 參數
 * **state**: 0 will make the ped slowly fall asleep, 1 will slowly wake the ped up.
 

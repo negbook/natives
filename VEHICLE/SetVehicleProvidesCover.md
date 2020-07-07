@@ -9,7 +9,7 @@ void SET_VEHICLE_PROVIDES_COVER(Vehicle vehicle, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **toggle**: 
 

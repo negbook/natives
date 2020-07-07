@@ -9,6 +9,6 @@ void START_FIRING_AMNESTY(int duration);
 ```
 
 
-## Parameters
+## 參數
 * **duration**: 
 

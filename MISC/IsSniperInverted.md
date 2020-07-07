@@ -12,4 +12,4 @@ BOOL IS_SNIPER_INVERTED();
 This function is hard-coded to always return 0.  
 ```
 
-## Return value
+## 返回值

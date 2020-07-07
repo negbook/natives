@@ -9,7 +9,7 @@ void SET_PED_NEVER_LEAVES_GROUP(Ped ped, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

@@ -9,4 +9,4 @@ BOOL IS_THIS_A_MINIGAME_SCRIPT();
 ```
 
 
-## Return value
+## 返回值

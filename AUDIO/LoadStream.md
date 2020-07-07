@@ -16,8 +16,8 @@ Stream names often ends with "_MASTER", "_SMALL" or "_STREAM". Also "_IN", "_OUT
 soundSet is often set to 0 in the scripts. These are common to end the soundSets: "_SOUNDS", "_SOUNDSET" and numbers.  
 ```
 
-## Parameters
+## 參數
 * **streamName**: 
 * **soundSet**: 
 
-## Return value
+## 返回值

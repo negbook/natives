@@ -14,7 +14,7 @@ If zero, clears the flag that makes the PED check if the door is open prior to i
 SET_VEHICLE_CLOSE_ORDER_IGNORING_POSE?
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

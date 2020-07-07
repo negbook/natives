@@ -13,4 +13,4 @@ BOOL _IS_AIM_CAM_THIRD_PERSON_ACTIVE();
 IS_A*
 ```
 
-## Return value
+## 返回值

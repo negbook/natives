@@ -12,7 +12,7 @@ void SET_VEHICLE_EXTRA_COLOURS(Vehicle vehicle, int pearlescentColor, int wheelC
 They use the same color indexs as SET_VEHICLE_COLOURS.  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **pearlescentColor**: 
 * **wheelColor**: 

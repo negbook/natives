@@ -16,7 +16,7 @@ example:
 SET_PAD_SHAKE(0, 100, 200);  
 ```
 
-## Parameters
+## 參數
 * **inputGroup**: 
 * **duration**: 
 * **frequency**: 

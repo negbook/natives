@@ -13,8 +13,8 @@ Assigns the handle of locked-on melee target to *entity that you pass it.
 Returns false if no entity found.  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **entity**: 
 
-## Return value
+## 返回值

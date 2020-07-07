@@ -13,6 +13,6 @@ void ENABLE_EXTERIOR_CULL_MODEL_THIS_FRAME(Hash mapObjectHash);
 This is the native that is used to hide the exterior of GTA Online apartment buildings when you are inside an apartment.
 ```
 
-## Parameters
+## 參數
 * **mapObjectHash**: 
 

@@ -16,7 +16,7 @@ from michael3:
 AI::TASK_SEEK_COVER_TO_COORDS(ped, -2231.011474609375, 263.6326599121094, 173.60195922851562, -1, 0);  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **x1**: 
 * **y1**: 

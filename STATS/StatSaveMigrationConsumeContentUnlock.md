@@ -13,9 +13,9 @@ BOOL _STAT_SAVE_MIGRATION_CONSUME_CONTENT_UNLOCK(Any contentId, char* srcPlatfor
 NativeDB Parameter 0: Hash contentId
 ```
 
-## Parameters
+## 參數
 * **contentId**: 
 * **srcPlatform**: 
 * **srcGamerHandle**: 
 
-## Return value
+## 返回值

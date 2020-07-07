@@ -13,7 +13,7 @@ Inhibits the player from using any method of combat including melee and firearms
 NOTE: Only disables the firing for one frame  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 

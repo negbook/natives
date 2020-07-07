@@ -9,10 +9,10 @@ BOOL NETWORK_IS_SCRIPT_ACTIVE(char* scriptName, Player player, BOOL p2, Any p3);
 ```
 
 
-## Parameters
+## 參數
 * **scriptName**: 
 * **player**: 
 * **p2**: 
 * **p3**: 
 
-## Return value
+## 返回值

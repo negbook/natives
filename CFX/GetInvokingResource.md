@@ -9,4 +9,4 @@ char* GET_INVOKING_RESOURCE();
 ```
 
 
-## Return value
+## 返回值

@@ -13,7 +13,7 @@ Vehicle _GET_VEHICLE_ATTACHED_TO_ENTITY(Entity entity);
 Get the vehicle attached to the object/entity? May also just convert it to a vehicle, but I'm not sure.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

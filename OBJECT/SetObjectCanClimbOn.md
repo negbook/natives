@@ -13,7 +13,7 @@ void _SET_OBJECT_CAN_CLIMB_ON(Object object, BOOL toggle);
 Overrides the climbing/blocking flags of the object, used in the native scripts mostly for "prop_dock_bouy_*"
 ```
 
-## Parameters
+## 參數
 * **object**: 
 * **toggle**: 
 

@@ -10,7 +10,7 @@ BOOL _NETWORK_IS_FRIEND_HANDLE_ONLINE(int* networkHandle);
 ```
 
 
-## Parameters
+## 參數
 * **networkHandle**: 
 
-## Return value
+## 返回值

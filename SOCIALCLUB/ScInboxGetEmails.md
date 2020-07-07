@@ -10,7 +10,7 @@ void _SC_INBOX_GET_EMAILS(int offset, int limit);
 ```
 
 
-## Parameters
+## 參數
 * **offset**: 
 * **limit**: 
 

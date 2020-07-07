@@ -13,6 +13,6 @@ void _HUD_WEAPON_WHEEL_IGNORE_CONTROL_INPUT(BOOL toggle);
 Sets a global that disables many weapon input tasks (shooting, aiming, etc.). Does not work with vehicle weapons, only used in selector.ysc
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

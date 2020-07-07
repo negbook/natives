@@ -10,7 +10,7 @@ void NETWORK_CONCEAL_PLAYER(Player player, BOOL toggle, BOOL p2);
 
 This is what R* uses to hide players in MP interiors.
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 * **p2**: 

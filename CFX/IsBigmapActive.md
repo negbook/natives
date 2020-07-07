@@ -14,7 +14,7 @@ Returns true if the minimap is currently expanded. False if it's the normal mini
 Use [`IsBigmapFull`](#_0x66EE14B2) to check if the full map is currently revealed on the minimap.
 
 
-## Return value
+## 返回值
 A bool indicating if the minimap is currently expanded or normal state.
 
 ## Examples

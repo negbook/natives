@@ -9,7 +9,7 @@ void SET_AMBIENT_ZONE_LIST_STATE(char* p0, BOOL p1, BOOL p2);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 * **p2**: 

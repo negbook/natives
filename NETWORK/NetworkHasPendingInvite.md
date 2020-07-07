@@ -9,4 +9,4 @@ BOOL NETWORK_HAS_PENDING_INVITE();
 ```
 
 
-## Return value
+## 返回值

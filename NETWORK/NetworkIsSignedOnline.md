@@ -13,4 +13,4 @@ Returns whether the game is not in offline mode.
 seemed not to work for some ppl  
 ```
 
-## Return value
+## 返回值

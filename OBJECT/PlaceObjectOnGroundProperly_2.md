@@ -10,7 +10,7 @@ BOOL _PLACE_OBJECT_ON_GROUND_PROPERLY_2(Object object);
 ```
 
 
-## Parameters
+## 參數
 * **object**: 
 
-## Return value
+## 返回值

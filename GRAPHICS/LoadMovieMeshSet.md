@@ -9,7 +9,7 @@ int LOAD_MOVIE_MESH_SET(char* movieMeshSetName);
 ```
 
 
-## Parameters
+## 參數
 * **movieMeshSetName**: 
 
-## Return value
+## 返回值

@@ -13,6 +13,6 @@ void _REMOVE_CURRENT_RISE(int p0);
 p0 is the handle returned from _0xFDBF4CDBC07E1706  
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 

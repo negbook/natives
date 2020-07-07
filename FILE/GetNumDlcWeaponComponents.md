@@ -12,7 +12,7 @@ int GET_NUM_DLC_WEAPON_COMPONENTS(int dlcWeaponIndex);
 Allowed Values from 0 - DLC1::GET_NUM_DLC_WEAPONS()  
 ```
 
-## Parameters
+## 參數
 * **dlcWeaponIndex**: 
 
-## Return value
+## 返回值

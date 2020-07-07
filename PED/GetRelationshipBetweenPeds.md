@@ -24,8 +24,8 @@ PED::GET_RELATIONSHIP_BETWEEN_PEDS(2, l_1017, 0xA49E591C);
 PED::GET_RELATIONSHIP_BETWEEN_PEDS(2, 0xA49E591C, l_1017);  
 ```
 
-## Parameters
+## 參數
 * **ped1**: 
 * **ped2**: 
 
-## Return value
+## 返回值

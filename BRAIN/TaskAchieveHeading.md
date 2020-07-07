@@ -15,7 +15,7 @@ heading: The desired heading.
 timeout: The time, in milliseconds, to allow the task to complete. If the task times out, it is cancelled, and the ped will stay at the heading it managed to reach in the time.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 * **heading**: 
 * **timeout**: 

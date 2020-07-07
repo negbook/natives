@@ -13,7 +13,7 @@ Nearly every instance of p1 I found was 31. Nearly every instance of p2 I found 
 REQUEST_WEAPON_ASSET(iLocal_1888, 31, 26);  
 ```
 
-## Parameters
+## 參數
 * **weaponHash**: 
 * **p1**: 
 * **p2**: 

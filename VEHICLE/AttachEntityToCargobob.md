@@ -9,7 +9,7 @@ aliases: ["0xA1DD82F3CCF9A01E"]
 void _ATTACH_ENTITY_TO_CARGOBOB(Vehicle vehicle, Entity entity, int p2, float x, float y, float z);
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **entity**: 
 * **p2**: 

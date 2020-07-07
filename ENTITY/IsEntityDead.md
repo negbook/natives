@@ -12,7 +12,7 @@ BOOL IS_ENTITY_DEAD(Entity entity);
 NativeDB Added Parameter 2: BOOL p1
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 
-## Return value
+## 返回值

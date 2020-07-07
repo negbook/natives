@@ -12,7 +12,7 @@ BOOL IS_PED_CUFFED(Ped ped);
 l  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

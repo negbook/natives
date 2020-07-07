@@ -9,7 +9,7 @@ void SET_PED_DIES_IN_VEHICLE(Ped ped, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

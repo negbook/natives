@@ -10,6 +10,6 @@ void _SET_CLOUD_HAT_OPACITY(float opacity);
 ```
 
 
-## Parameters
+## 參數
 * **opacity**: 
 

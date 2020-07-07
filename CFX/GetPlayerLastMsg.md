@@ -9,7 +9,7 @@ int GET_PLAYER_LAST_MSG(char* playerSrc);
 ```
 
 
-## Parameters
+## 參數
 * **playerSrc**: 
 
-## Return value
+## 返回值

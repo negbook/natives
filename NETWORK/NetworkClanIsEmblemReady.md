@@ -9,8 +9,8 @@ aliases: ["0xA134777FF7F33331"]
 BOOL NETWORK_CLAN_IS_EMBLEM_READY(Any p0, Any* p1);
 ```
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

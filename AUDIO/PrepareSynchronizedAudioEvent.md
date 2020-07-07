@@ -9,8 +9,8 @@ Any PREPARE_SYNCHRONIZED_AUDIO_EVENT(char* p0, Any p1);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 * **p1**: 
 
-## Return value
+## 返回值

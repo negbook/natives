@@ -9,6 +9,6 @@ void WAYPOINT_PLAYBACK_STOP_AIMING_OR_SHOOTING(Any p0);
 ```
 
 
-## Parameters
+## 參數
 * **p0**: 
 

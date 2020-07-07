@@ -9,7 +9,7 @@ void SET_AUDIO_VEHICLE_PRIORITY(Vehicle vehicle, Any p1);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **p1**: 
 

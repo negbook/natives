@@ -9,7 +9,7 @@ BOOL HAS_THIS_CUTSCENE_LOADED(char* cutsceneName);
 ```
 
 
-## Parameters
+## 參數
 * **cutsceneName**: 
 
-## Return value
+## 返回值

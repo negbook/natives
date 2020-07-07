@@ -17,6 +17,6 @@ Used in am_mp_property_ext and am_mp_property_int
 NativeDB Added Parameter 2: Ped ped
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 

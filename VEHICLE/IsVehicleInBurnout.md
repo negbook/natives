@@ -16,7 +16,7 @@ Public Function isVehicleInBurnout(vh As Vehicle) As Boolean
     End Function  
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 
-## Return value
+## 返回值

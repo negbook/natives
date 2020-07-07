@@ -12,6 +12,6 @@ void _SET_FORCE_VEHICLE_TRAILS(BOOL toggle);
 Forces vehicle trails on all surfaces.  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

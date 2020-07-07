@@ -9,7 +9,7 @@ BOOL NETWORK_IS_PLAYER_BLOCKED_BY_ME(Player player);
 ```
 
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值

@@ -15,7 +15,7 @@ Scripts check if out2.x - out1.x > someshit.x
 Could be suspension related, as in max suspension height and min suspension height, considering the natives location.
 ```
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **out1**: 
 * **out2**: 

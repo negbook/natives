@@ -9,7 +9,7 @@ void SET_CAM_SHAKE_AMPLITUDE(Cam cam, float amplitude);
 ```
 
 
-## Parameters
+## 參數
 * **cam**: 
 * **amplitude**: 
 

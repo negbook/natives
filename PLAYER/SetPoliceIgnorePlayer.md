@@ -12,7 +12,7 @@ void SET_POLICE_IGNORE_PLAYER(Player player, BOOL toggle);
 The player will be ignored by the police if toggle is set to true  
 ```
 
-## Parameters
+## 參數
 * **player**: 
 * **toggle**: 
 

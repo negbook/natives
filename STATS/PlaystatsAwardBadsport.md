@@ -10,6 +10,6 @@ void _PLAYSTATS_AWARD_BADSPORT(int id);
 ```
 
 
-## Parameters
+## 參數
 * **id**: 
 

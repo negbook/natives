@@ -15,7 +15,7 @@ the statement below seems to be false. when I tried it with 2 vehicles:
 if p2 is set to true, the both entities won't collide with the other until the distance between them is above 4 meters.  
 ```
 
-## Parameters
+## 參數
 * **entity**: 
 * **p1**: 
 * **collision**: 

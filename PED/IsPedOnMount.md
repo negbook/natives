@@ -12,7 +12,7 @@ BOOL IS_PED_ON_MOUNT(Ped ped);
 Same function call as PED::GET_MOUNT, aka just returns 0  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

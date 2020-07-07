@@ -9,6 +9,6 @@ void PLAY_STREAM_FROM_VEHICLE(Vehicle vehicle);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 

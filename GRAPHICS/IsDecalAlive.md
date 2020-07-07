@@ -9,7 +9,7 @@ BOOL IS_DECAL_ALIVE(int decal);
 ```
 
 
-## Parameters
+## 參數
 * **decal**: 
 
-## Return value
+## 返回值

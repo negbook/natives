@@ -13,6 +13,6 @@ When this is set to ON, shadows only draw as you get nearer.
 When OFF, they draw from a further distance. (((BUT))) f*ck up nearer shadows quality.  
 ```
 
-## Parameters
+## 參數
 * **toggle**: 
 

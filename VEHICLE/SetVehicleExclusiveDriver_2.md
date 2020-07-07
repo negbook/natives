@@ -10,7 +10,7 @@ void _SET_VEHICLE_EXCLUSIVE_DRIVER_2(Vehicle vehicle, Ped ped, int index);
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **ped**: 
 * **index**: 

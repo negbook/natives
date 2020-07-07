@@ -10,7 +10,7 @@ int GET_PED_DECORATIONS_STATE(Ped ped);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

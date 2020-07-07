@@ -9,9 +9,9 @@ void GET_VEHICLE_COLOURS(Vehicle vehicle, int* colorPrimary, int* colorSecondary
 ```
 
 
-## Parameters
+## 參數
 * **vehicle**: 
 * **colorPrimary**:
 * **colorSecondary**:
 
-## Return value
+## 返回值

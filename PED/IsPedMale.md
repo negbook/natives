@@ -12,7 +12,7 @@ BOOL IS_PED_MALE(Ped ped);
 Returns true/false if the ped is/isn't male.  
 ```
 
-## Parameters
+## 參數
 * **ped**: 
 
-## Return value
+## 返回值

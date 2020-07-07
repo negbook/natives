@@ -9,7 +9,7 @@ void SET_PED_BLEND_FROM_PARENTS(Ped ped, Ped father, Ped mother, float fathersSi
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **father**: 
 * **mother**: 

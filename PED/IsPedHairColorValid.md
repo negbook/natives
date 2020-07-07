@@ -10,7 +10,7 @@ BOOL _IS_PED_HAIR_COLOR_VALID(int colorID);
 ```
 
 
-## Parameters
+## 參數
 * **colorID**: 
 
-## Return value
+## 返回值

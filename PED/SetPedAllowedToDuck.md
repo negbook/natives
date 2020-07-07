@@ -9,7 +9,7 @@ void SET_PED_ALLOWED_TO_DUCK(Ped ped, BOOL toggle);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **toggle**: 
 

@@ -75,9 +75,9 @@ The following values have been found in the decompiled scripts:
 "RC_TON5"  
 ```
 
-## Parameters
+## 參數
 * **statName**: 
 * **value**: 
 * **save**: 
 
-## Return value
+## 返回值

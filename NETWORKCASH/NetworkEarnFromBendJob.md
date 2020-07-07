@@ -14,7 +14,7 @@ void NETWORK_EARN_FROM_BEND_JOB(int amount, char* heistHash);
 lackos; 2017.03.12  
 ```
 
-## Parameters
+## 參數
 * **amount**: 
 * **heistHash**: 
 

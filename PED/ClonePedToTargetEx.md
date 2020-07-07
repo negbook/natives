@@ -10,7 +10,7 @@ void _CLONE_PED_TO_TARGET_EX(Ped ped, Ped targetPed, Any p2);
 ```
 
 
-## Parameters
+## 參數
 * **ped**: 
 * **targetPed**: 
 * **p2**: 
