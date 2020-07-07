@@ -7,9 +7,9 @@ apiset: server
 ```c
 char* GET_PLAYER_NAME(char* playerSrc);
 ```
+服務器端：獲得玩家名字
 
-
-## Parameters
+## 參數
 * **playerSrc**: 
 
-## Return value
+## 返回值
