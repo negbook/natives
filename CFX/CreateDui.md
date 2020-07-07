@@ -8,12 +8,12 @@ apiset: client
 long CREATE_DUI(char* url, int width, int height);
 ```
 
-Creates a DUI browser. This can be used to draw on a runtime texture using CREATE\_RUNTIME\_TEXTURE\_FROM\_DUI\_HANDLE.
+建立一個DUI瀏覽器。可利用於 CREATE\_RUNTIME\_TEXTURE\_FROM\_DUI\_HANDLE 繪於運行時動態紋理
 
 ## 參數
-* **url**: The initial URL to load in the browser.
-* **width**: The width of the backing surface.
-* **height**: The height of the backing surface.
+* **url**: 瀏覽器之初始網址。
+* **width**: 回傳版面寬度。
+* **height**: 回傳版面高度。
 
 ## 返回值
-A DUI object.
+一個 DUI object.
