@@ -8,8 +8,9 @@ apiset: client
 int GET_PLAYER_SERVER_ID(Player player);
 ```
 
+獲得其玩家的服務器端ID
 
-## Parameters
+## 參數
 * **player**: 
 
-## Return value
+## 返回值
